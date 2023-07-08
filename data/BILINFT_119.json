@@ -1,0 +1,648 @@
+{
+    "basic": {
+        "code": 0,
+        "message": "0",
+        "ttl": 1,
+        "data": {
+            "act_title": "\u5e7b\u661f\u96c6",
+            "cur_time": 1688823848,
+            "start_time": 1686974401,
+            "end_time": 2114406245,
+            "pre_start_time": 1686902400,
+            "pre_end_time": 1686974400,
+            "is_booked": 0,
+            "act_desc": "https://i0.hdslb.com/bfs/garb/8b550671d37b547d4519df15e7c08385434e33c2.png",
+            "lottery_list": [
+                {
+                    "lottery_id": 21,
+                    "lottery_name": "\u81ea\u7136\u7684\u5965\u79d8",
+                    "display_time": 1686902400,
+                    "start_time": 1686974401,
+                    "end_time": 2114406245,
+                    "lottery_image": "http://i0.hdslb.com/bfs/archive/212eccdaee0284ab5923b441576fe96711b898bf.jpg",
+                    "draw_cnt": 0,
+                    "goods_id": 276,
+                    "price": 9900,
+                    "goods_name": "\u81ea\u7136\u7684\u5965\u79d8",
+                    "lottery_desc": "\u3010\u5e7b\u661f\u96c6\u00b7\u81ea\u7136\u7684\u5965\u79d8\u3011\u5171\u5305\u542b24\u5f20\u7cbe\u7f8e\u7acb\u7ed8\uff0c\u5feb\u548c2233\u4e00\u8d77\u63a2\u7d22\u795e\u79d8\u5b87\u5b99\uff01\n* \u666e\u901a\u6b3e\uff1a\u6743\u67561&2\u3001\u6743\u67563&4\u3001\u6743\u67565&6\u3001\u6743\u67567&8\u3001\u6743\u67569&10\u3001\u6743\u6756KING\u3001\u6743\u6756QUEEN\u3001\u6743\u6756KNIGHT\u3001\u6743\u6756PAGE\u3001\u5723\u676f1&2\u3001\u5723\u676f3&4\u3001\u5723\u676f5&6\u3001\u5723\u676f7&8\u3001\u5723\u676f9&10\u3001\u5723\u676fKING\u3001\u5723\u676fQUEEN\u3001\u5723\u676fKNIGHT\u3001\u5723\u676fPAGE\u3001\u5747\u5206\u6982\u738795%\uff1b\n* \u9690\u85cf\u6b3e\uff1a\u4e16\u754c&\u661f\u661f\u3001\u8282\u5236&\u9690\u58eb\u3001\u611a\u8005&\u9b54\u6cd5\u5e08\u5747\u5206\u6982\u73874.5%\uff0c\u5360\u661f\u5e08\u3001\u661f\u7a79\u4e4b\u5883\u3001\u9b54\u9b3c&\u6b7b\u795e\u5747\u5206\u6982\u73870.5%\u3002",
+                    "item_total_cnt": 24,
+                    "item_owned_cnt": 0,
+                    "total_sale_amount": 60547,
+                    "lottery_type": 1,
+                    "effective_forever": 1,
+                    "discount": {
+                        "origin_price": 9900,
+                        "price": 9900
+                    },
+                    "free": 0
+                }
+            ],
+            "share_info": {
+                "main_title": "\u300a\u5e7b\u661f\u96c6\u00b7\u81ea\u7136\u7684\u5965\u79d8\u300b\u5854\u7f57\u6536\u85cf\u96c6\u5f00\u552e\u4e2d",
+                "sub_title": "\u7cbe\u7f8e\u7acb\u7ed8\u3001\u8868\u60c5\u5305\u3001\u5934\u50cf\u6846\u3001\u72ec\u5bb6\u97f3\u58f0\u7b49\u4f60\u62b1\u56de\u5bb6\uff01",
+                "share_content": "\u300a\u5e7b\u661f\u96c6\u00b7\u81ea\u7136\u7684\u5965\u79d8\u300b\u5854\u7f57\u6536\u85cf\u96c6\u5f00\u552e\u4e2d\uff5e\u9080\u4f60\u5171\u540c\u63a2\u7d22\u5b87\u5b99\u6f5c\u85cf\u7684\u79d8\u5bc6\uff01"
+            },
+            "act_y_img": "https://i0.hdslb.com/bfs/garb/433b18847e0d6a776a7432f9c20681e3c291cd32.jpg",
+            "animation_info": {
+                "animation_draw_url": {
+                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+                },
+                "animation_entry_url": {
+                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+                }
+            },
+            "total_book_cnt": 5976,
+            "total_buy_cnt": 60547,
+            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+            "is_pre": 1,
+            "is_pre_risk": 0,
+            "is_collector_rank": 1,
+            "collect_list": [
+                {
+                    "collect_id": 61,
+                    "start_time": 1686902400,
+                    "end_time": 2114406245,
+                    "redeem_text": "\u62bd\u51fa\u4efb\u610f3\u5f20\u4e0d\u540c\u5361\u724c\uff0c\u5373\u53ef\u9886\u53d6\uff0c\u5355UID\u4ec5\u53ef\u9886\u53d6\u4e00\u6b21",
+                    "redeem_item_type": 2,
+                    "redeem_item_id": "54419",
+                    "redeem_item_name": "\u5e7b\u661f\u96c6\u8868\u60c5\u5305",
+                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/3d51f54345e786a34d1d54086b1e85123afac947.png",
+                    "owned_item_amount": 0,
+                    "require_item_amount": 3,
+                    "has_redeemed_cnt": 0,
+                    "effective_forever": 1
+                },
+                {
+                    "collect_id": 62,
+                    "start_time": 1686902400,
+                    "end_time": 2114406245,
+                    "redeem_text": "\u62bd\u51fa\u4efb\u610f1\u5f20\u5e7b\u661f\u96c6\u00b7\u81ea\u7136\u7684\u5965\u79d8\u9690\u85cf\u5361\u724c\uff0c\u5373\u53ef\u9886\u53d6\uff0c\u5355UID\u4ec5\u53ef\u9886\u53d6\u4e00\u6b21",
+                    "redeem_item_type": 3,
+                    "redeem_item_id": "54440",
+                    "redeem_item_name": "\u5e7b\u661f\u96c6\u5934\u50cf\u6846",
+                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/89623c4f001f27872e4e1f33e2562775d0fa1e05.png",
+                    "owned_item_amount": 0,
+                    "require_item_amount": 1,
+                    "has_redeemed_cnt": 0,
+                    "effective_forever": 1
+                }
+            ],
+            "display_title": "",
+            "effective_forever": 1,
+            "guide_info": {
+                "title": "",
+                "guide_content": "",
+                "jump_url": ""
+            },
+            "is_can_donate": 1,
+            "is_up_chain": 1
+        }
+    },
+    "list": {
+        "code": 0,
+        "message": "0",
+        "ttl": 1,
+        "data": {
+            "uname": "",
+            "uface": "",
+            "act_y_img": "https://i0.hdslb.com/bfs/garb/433b18847e0d6a776a7432f9c20681e3c291cd32.jpg",
+            "total_item_cnt": 24,
+            "owned_item_cnt": 0,
+            "item_list": [
+                {
+                    "item_type": 1,
+                    "item_scarcity": 30,
+                    "card_item": {
+                        "card_type_id": 708142,
+                        "card_name": "\u611a\u8005&\u9b54\u6cd5\u5e08",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/46a4ba9064a682212392804341396e041581653e.png",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 900,
+                        "total_cnt_show": "000900",
+                        "holding_rate": 149,
+                        "video_list": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/kb/20/_00000btthjn4av89w2dp7esgzhl20kb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1688831049&gen=playurlv2&os=alibv&oi=0&trid=aafb00c14ed145d5a38d26023542ce30B&mid=0&platform=html5&upsig=e62057b644a33cc25f4c5f110d946ce8&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/kb/20/_00000btthjn4av89w2dp7esgzhl20kb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1688831049&gen=playurlv2&os=alibv&oi=0&trid=aafb00c14ed145d5a38d26023542ce30B&mid=0&platform=html5&upsig=e62057b644a33cc25f4c5f110d946ce8&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/kb/20/_00000btthjn4av89w2dp7esgzhl20kb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1688831049&gen=playurlv2&os=alibbv&oi=0&trid=aafb00c14ed145d5a38d26023542ce30B&mid=0&platform=html5&upsig=d17a8e035aa5ccadc9bc0ba27b0310ff&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 20,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": ""
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 30,
+                    "card_item": {
+                        "card_type_id": 708141,
+                        "card_name": "\u8282\u5236&\u9690\u58eb",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/bca6635bccb45bbf15397bc108ffa6343282b14d.png",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 979,
+                        "total_cnt_show": "000979",
+                        "holding_rate": 162,
+                        "video_list": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/ib/1o/_00003a03pbweltzx72d3p6ydhj81oib-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1688831049&gen=playurlv2&os=alibv&oi=0&trid=c94be7c85d1c460d8d554be36682b831B&mid=0&platform=html5&upsig=d6f8b3fce4bc00b7dd0e9a6a62f77bf2&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/ib/1o/_00003a03pbweltzx72d3p6ydhj81oib-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1688831049&gen=playurlv2&os=alibv&oi=0&trid=c94be7c85d1c460d8d554be36682b831B&mid=0&platform=html5&upsig=d6f8b3fce4bc00b7dd0e9a6a62f77bf2&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/ib/1o/_00003a03pbweltzx72d3p6ydhj81oib-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1688831049&gen=playurlv2&os=alibbv&oi=0&trid=c94be7c85d1c460d8d554be36682b831B&mid=0&platform=html5&upsig=cf82471b337fd36d80460536ee4f5182&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 20,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": ""
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 30,
+                    "card_item": {
+                        "card_type_id": 708140,
+                        "card_name": "\u4e16\u754c&\u661f\u661f",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/e9e95fba64ebb4e14905126b49278ee857c69b5f.png",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 956,
+                        "total_cnt_show": "000956",
+                        "holding_rate": 159,
+                        "video_list": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/xb/jn/_000011l4jg6ijeltl2b2ak1rfnhjnxb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1688831049&gen=playurlv2&os=alibv&oi=0&trid=65cd68a79eb04e98994ab3e9024c13f9B&mid=0&platform=html5&upsig=a133571c9a4bc3f4052a6ce3a205bed7&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/xb/jn/_000011l4jg6ijeltl2b2ak1rfnhjnxb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1688831049&gen=playurlv2&os=alibv&oi=0&trid=65cd68a79eb04e98994ab3e9024c13f9B&mid=0&platform=html5&upsig=a133571c9a4bc3f4052a6ce3a205bed7&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/xb/jn/_000011l4jg6ijeltl2b2ak1rfnhjnxb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1688831049&gen=playurlv2&os=alibbv&oi=0&trid=65cd68a79eb04e98994ab3e9024c13f9B&mid=0&platform=html5&upsig=f66516632960335fd62b39ee9c70420d&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 20,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": ""
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 30,
+                    "card_item": {
+                        "card_type_id": 708139,
+                        "card_name": "\u9b54\u9b3c&\u6b7b\u795e",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/558451ab7f85014970792ee4ba77807cf7e18275.png",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 104,
+                        "total_cnt_show": "000104",
+                        "holding_rate": 18,
+                        "video_list": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/1b/16/_000030r2gapx0xtku2dlaoaxrnf161b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1688831049&gen=playurlv2&os=alibv&oi=0&trid=0861e9ba4047472dac7fb333a0ee9cebB&mid=0&platform=html5&upsig=c10623302721b90caf0e0bad522afd67&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/1b/16/_000030r2gapx0xtku2dlaoaxrnf161b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1688831049&gen=playurlv2&os=alibv&oi=0&trid=0861e9ba4047472dac7fb333a0ee9cebB&mid=0&platform=html5&upsig=c10623302721b90caf0e0bad522afd67&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/1b/16/_000030r2gapx0xtku2dlaoaxrnf161b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1688831049&gen=playurlv2&os=alibbv&oi=0&trid=0861e9ba4047472dac7fb333a0ee9cebB&mid=0&platform=html5&upsig=3aee04fcca9eb8096e820c216f6b42f0&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 30,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": ""
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 30,
+                    "card_item": {
+                        "card_type_id": 708138,
+                        "card_name": "\u661f\u7a79\u4e4b\u5883",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/5fa980be7d719be15b550e79d58322550d815f5b.png",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 81,
+                        "total_cnt_show": "000081",
+                        "holding_rate": 14,
+                        "video_list": [
+                            "https://upos-sz-mirrorcos.bilivideo.com/panguxcodeboss/cb/xg/_00000hqwoxc0rty5h2ablfs5cxzxgcb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1688831049&gen=playurlv2&os=cosbv&oi=0&trid=8f6813d9b81f47788ce2fd86320d018bB&mid=0&platform=html5&upsig=0ee951fea47ae3d2f9e49cd5ecebba68&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000",
+                            "https://upos-sz-mirrorcos.bilivideo.com/panguxcodeboss/cb/xg/_00000hqwoxc0rty5h2ablfs5cxzxgcb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1688831049&gen=playurlv2&os=cosbv&oi=0&trid=8f6813d9b81f47788ce2fd86320d018bB&mid=0&platform=html5&upsig=0ee951fea47ae3d2f9e49cd5ecebba68&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000",
+                            "https://upos-sz-mirrorcosb.bilivideo.com/panguxcodeboss/cb/xg/_00000hqwoxc0rty5h2ablfs5cxzxgcb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1688831049&gen=playurlv2&os=cosbbv&oi=0&trid=8f6813d9b81f47788ce2fd86320d018bB&mid=0&platform=html5&upsig=ffe0c9f4cdec06fdd16e554b34e98461&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 30,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": ""
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 30,
+                    "card_item": {
+                        "card_type_id": 708137,
+                        "card_name": "\u5360\u661f\u5e08",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/fec07e9133b39ed1d98c83805177b9dc73ebd2b8.png",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 105,
+                        "total_cnt_show": "000105",
+                        "holding_rate": 18,
+                        "video_list": [
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/mb/4j/_00003uvltp3o1uojr2r6wqge6in4jmb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1688831049&gen=playurlv2&os=08cbv&oi=0&trid=665c7b763bbf426db1f3215bc1a77a61B&mid=0&platform=html5&upsig=e3cdc3cfd25f1a766dda82d2d3644d52&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000",
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/mb/4j/_00003uvltp3o1uojr2r6wqge6in4jmb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1688831049&gen=playurlv2&os=08cbv&oi=0&trid=665c7b763bbf426db1f3215bc1a77a61B&mid=0&platform=html5&upsig=e3cdc3cfd25f1a766dda82d2d3644d52&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000",
+                            "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/mb/4j/_00003uvltp3o1uojr2r6wqge6in4jmb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1688831049&gen=playurlv2&os=hwbbv&oi=0&trid=665c7b763bbf426db1f3215bc1a77a61B&mid=0&platform=html5&upsig=68ea097ebb7d0a261b560909990563f9&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 30,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": ""
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 708136,
+                        "card_name": "\u5723\u676fQUEEN",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/37ffe2fea0cdbed53338b336a8c09a63ec1d2511.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 3190,
+                        "total_cnt_show": "003190",
+                        "holding_rate": 528,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": ""
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 708135,
+                        "card_name": "\u5723\u676fPAGE",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/33c42585efa446f7ddcd7519fac821663aaf82d5.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 3249,
+                        "total_cnt_show": "003249",
+                        "holding_rate": 538,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": ""
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 708134,
+                        "card_name": "\u5723\u676fKNIGHT",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/22d966cd7256e28677f3daa57ca5f26acffe5974.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 3240,
+                        "total_cnt_show": "003240",
+                        "holding_rate": 536,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": ""
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 708133,
+                        "card_name": "\u5723\u676fKING",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/eee38539aa0873c5cbe91a1386d130fe8ff6c73a.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 3148,
+                        "total_cnt_show": "003148",
+                        "holding_rate": 521,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": ""
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 708132,
+                        "card_name": "\u5723\u676f9&10",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/4317bfbf752fe0631e5c7a04da995d08052abc5a.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 3237,
+                        "total_cnt_show": "003237",
+                        "holding_rate": 536,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": ""
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 708131,
+                        "card_name": "\u5723\u676f7&8",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/0a835b59d312b4c13d725496a92124076f5911b2.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 3210,
+                        "total_cnt_show": "003210",
+                        "holding_rate": 531,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": ""
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 708130,
+                        "card_name": "\u5723\u676f5&6",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/f46b20d67e373c67eb71880738de5d79d0686900.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 3176,
+                        "total_cnt_show": "003176",
+                        "holding_rate": 526,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": ""
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 708129,
+                        "card_name": "\u5723\u676f3&4",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/ea26b1ed8fde62f31eb48107742793438c0f01ec.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 3174,
+                        "total_cnt_show": "003174",
+                        "holding_rate": 525,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": ""
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 708128,
+                        "card_name": "\u5723\u676f1&2",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/b81c05217a6b05098d6a779200bd78c8cffaaf45.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 3249,
+                        "total_cnt_show": "003249",
+                        "holding_rate": 538,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": ""
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 708127,
+                        "card_name": "\u6743\u6756QUEEN",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/d3e06e566f3662d884c2e6b113caec7164c9087c.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 3101,
+                        "total_cnt_show": "003101",
+                        "holding_rate": 513,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": ""
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 708126,
+                        "card_name": "\u6743\u6756PAGE",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/e5402e61ec838e1011aaaf35f1a0f2c61b0f906e.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 3159,
+                        "total_cnt_show": "003159",
+                        "holding_rate": 523,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": ""
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 708125,
+                        "card_name": "\u6743\u6756KNIGHT",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/9627c5b97e7a28d463f42e16a3a16ef1fa42347e.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 3165,
+                        "total_cnt_show": "003165",
+                        "holding_rate": 524,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": ""
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 708124,
+                        "card_name": "\u6743\u6756KING",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/16727be82237440f3fdcace665825126e0cfcb45.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 3212,
+                        "total_cnt_show": "003212",
+                        "holding_rate": 531,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": ""
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 708123,
+                        "card_name": "\u6743\u67569&10",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/b952d8a83e6b998b3dbc6056bdac461f4e954358.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 3160,
+                        "total_cnt_show": "003160",
+                        "holding_rate": 523,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": ""
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 708122,
+                        "card_name": "\u6743\u67567&8",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/bab4e7527313d85c70ad97ddea4ed82f8f7e5849.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 3194,
+                        "total_cnt_show": "003194",
+                        "holding_rate": 529,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": ""
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 708121,
+                        "card_name": "\u6743\u67565&6",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/68bfe37c534fb7a657d3d113b28e1c28736128bd.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 3163,
+                        "total_cnt_show": "003163",
+                        "holding_rate": 524,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": ""
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 708120,
+                        "card_name": "\u6743\u67563&4",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/6d3f4cd4e1b244e95e959781d60c9025401f594e.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 3166,
+                        "total_cnt_show": "003166",
+                        "holding_rate": 524,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": ""
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 708119,
+                        "card_name": "\u6743\u67561&2",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/4bba4ad91dfeebff3cf58722e3942fc6c0b813e9.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 3152,
+                        "total_cnt_show": "003152",
+                        "holding_rate": 522,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": ""
+                    }
+                }
+            ]
+        }
+    }
+}
