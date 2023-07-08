@@ -1,0 +1,27 @@
+name: biliNFT scraper
+on:
+  schedule:
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+jobs:
+  scrapeNFT:
+    runs-on: ubuntu-latest
+    name: Scrape biliNFT
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        
+      - name: python version_bump.py
+        run: |
+          python scraper.py
+      
+      - name: commit
+        run: |
+          git config --global user.email lovegaoshi@gaoshi.com
+          git config --global user.name lovegaoshi
+          git commit -m "chore: weekly scrape" -a
+          
+      - name: Push changes to master
+        uses: ad-m/github-push-action@main
