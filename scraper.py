@@ -13,7 +13,7 @@ BASIC_API = 'https://api.bilibili.com/x/vas/dlc_act/act/basic?act_id={id}'
 LIST_API = 'https://api.bilibili.com/x/vas/dlc_act/act/item/list?act_id={id}'
 
 try:
-    with open('scraped.point') as f:
+    with open('scraped.point', encoding='utf-8') as f:
         last_scraped = json.load(f)
 except Exception as e:
     logging.error(e)
@@ -22,7 +22,7 @@ except Exception as e:
 
 def save_last_scraped(scraped: str):
     logging.debug(f'saving {scraped} to disk.')
-    with open('scraped.point', 'w') as f:
+    with open('scraped.point', 'w', encoding='utf-8') as f:
         json.dump(scraped, f)
     sys.exit(0)
 
@@ -54,7 +54,7 @@ if __name__ == '__main__':
         data['basic'] = jsoned
         time.sleep(1)
         data['list'] = requests.get(LIST_API.format(id=last_scraped)).json()
-        with open(join('data', f'BILINFT_{last_scraped}.json'), 'w') as f:
+        with open(join('data', f'BILINFT_{last_scraped}.json'), 'w', encoding='utf-8', ensure_ascii=False) as f:
             json.dump(data, f, indent=4)
         time.sleep(1)
         last_scraped = str(int(last_scraped) + 1)
