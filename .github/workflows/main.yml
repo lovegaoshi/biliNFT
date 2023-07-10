@@ -24,4 +24,6 @@ jobs:
           git commit -m "chore: weekly scrape" -a
           
       - name: Push changes to master
-        uses: ad-m/github-push-action@main
+        uses: ad-m/github-push-action@master
+        with:
+          branch: ${{ github.head_ref }}
