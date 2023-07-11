@@ -28,12 +28,12 @@ def save_last_scraped(scraped: str):
     sys.exit(0)
 
 def write_list():
-    with open('list.md', 'w', encoding='utf-8', ensure_ascii=False) as f:
-        for data in sorted(glob.glob('data/*.json')):
-            with open('data', encoding='utf-8') as g:
+    with open('list.md', 'w', encoding='utf-8') as f:
+        for jsondata in sorted(glob.glob('data/*.json')):
+            with open(jsondata, encoding='utf-8') as g:
                 loaded_data = json.load(g)
             biliNFT_name = loaded_data["basic"]["data"]["act_title"]
-            biliNFT_img = loaded_data["basic"]["data"]["act_title"]["lottery_list"]["lottery_image"]
+            biliNFT_img = loaded_data["basic"]["data"]["lottery_list"][0]["lottery_image"]
             f.write(f'# {biliNFT_name}\n')
             f.write(f'![{biliNFT_name}]({biliNFT_img})\n')
             f.write('\n')
@@ -66,8 +66,8 @@ if __name__ == '__main__':
         data['basic'] = jsoned
         time.sleep(1)
         data['list'] = requests.get(LIST_API.format(id=last_scraped)).json()
-        with open(join('data', f'BILINFT_{last_scraped}.json'), 'w', encoding='utf-8', ensure_ascii=False) as f:
-            json.dump(data, f, indent=4)
+        with open(join('data', f'BILINFT_{last_scraped}.json'), 'w', encoding='utf-8') as f:
+            json.dump(data, f, indent=4, ensure_ascii=False)
         time.sleep(1)
         last_scraped = str(int(last_scraped) + 1)
         
