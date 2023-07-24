@@ -21,6 +21,7 @@ jobs:
         run: |
           git config --global user.email lovegaoshi@gaoshi.com
           git config --global user.name lovegaoshi
+          git add .
           git commit -m "chore: weekly scrape" -a
           
       - name: Push changes to master
