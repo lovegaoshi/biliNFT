@@ -24,7 +24,7 @@ except Exception as e:
 def save_last_scraped(scraped: str):
     logging.debug(f'saving {scraped} to disk.')
     with open('scraped.point', 'w', encoding='utf-8') as f:
-        json.dump(scraped, f)
+        json.dump(str(int(scraped) - 1), f)
     sys.exit(0)
 
 def write_list():
