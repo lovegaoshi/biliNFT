@@ -1,0 +1,442 @@
+{
+    "basic": {
+        "code": 0,
+        "message": "0",
+        "ttl": 1,
+        "data": {
+            "act_title": "迪士尼公主收藏集",
+            "cur_time": 1694997265,
+            "start_time": 1694858400,
+            "end_time": 2114406245,
+            "pre_start_time": 1694772000,
+            "pre_end_time": 1694858399,
+            "is_booked": 0,
+            "act_desc": "https://i0.hdslb.com/bfs/garb/d35ff50a971ec381aea525afae8e873be7565de8.png",
+            "lottery_list": [
+                {
+                    "lottery_id": 117,
+                    "lottery_name": "迪士尼公主",
+                    "display_time": 1694772000,
+                    "start_time": 1694858400,
+                    "end_time": 2114406245,
+                    "lottery_image": "http://i0.hdslb.com/bfs/archive/9a6dc3ffd92f272b14b11ece07b90e95f883833b.jpg",
+                    "draw_cnt": 0,
+                    "goods_id": 12194351705600,
+                    "price": 9900,
+                    "goods_name": "迪士尼公主",
+                    "lottery_desc": "【迪士尼公主】共包含10张精美海报；\n普通款：梅莉达公主、茉莉公主、乐佩公主、爱丽儿公主、贝儿公主、花木兰、蒂安娜公主均分概率95%\n稀有款：动态海报辛德瑞拉、白雪公主均分概率4.5%、艾莎公主概率0.5%",
+                    "item_total_cnt": 10,
+                    "item_owned_cnt": 0,
+                    "total_sale_amount": 1753,
+                    "lottery_type": 1,
+                    "effective_forever": 1,
+                    "discount": {
+                        "origin_price": 9900,
+                        "price": 4900,
+                        "discount_guidance": {
+                            "guidance_text": "开通大会员首抽",
+                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                        }
+                    },
+                    "free": 0
+                }
+            ],
+            "share_info": {
+                "main_title": "公主邀请您一起点亮世界",
+                "sub_title": "”公主邀请您一起点亮世界“，解锁公主专属勋章！",
+                "share_content": "迪士尼公主收藏集活动火热售卖中，解锁公主动态海报！"
+            },
+            "act_y_img": "https://i0.hdslb.com/bfs/garb/f7a08b05b660b6938648ea12437a05e8d7cc82df.jpg",
+            "animation_info": {
+                "animation_draw_url": {
+                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+                },
+                "animation_entry_url": {
+                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+                }
+            },
+            "total_book_cnt": 311,
+            "total_buy_cnt": 1753,
+            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+            "is_pre": 1,
+            "is_pre_risk": 0,
+            "is_collector_rank": 1,
+            "collect_list": [
+                {
+                    "collect_id": 346,
+                    "start_time": 1694772000,
+                    "end_time": 2114406245,
+                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                    "redeem_item_type": 3,
+                    "redeem_item_id": "59405",
+                    "redeem_item_name": "迪士尼公主头像框",
+                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/ee0acf92b3f7ab08366a05905f8a82fc827a9c9a.png",
+                    "owned_item_amount": 0,
+                    "require_item_amount": 1,
+                    "has_redeemed_cnt": 0,
+                    "effective_forever": 1,
+                    "redeem_item_image_download": "",
+                    "card_item": {
+                        "card_type_info": null,
+                        "play": null,
+                        "tag": null
+                    },
+                    "jump_url": "",
+                    "redeem_cond_type": "scarcity"
+                },
+                {
+                    "collect_id": 347,
+                    "start_time": 1694772000,
+                    "end_time": 2114406245,
+                    "redeem_text": "\t抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
+                    "redeem_item_type": 2,
+                    "redeem_item_id": "59402",
+                    "redeem_item_name": "迪士尼公主表情包",
+                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/edd38d5b96da44a6433c64d7fe85e54994ebe234.png",
+                    "owned_item_amount": 0,
+                    "require_item_amount": 3,
+                    "has_redeemed_cnt": 0,
+                    "effective_forever": 1,
+                    "redeem_item_image_download": "",
+                    "card_item": {
+                        "card_type_info": null,
+                        "play": null,
+                        "tag": null
+                    },
+                    "jump_url": "",
+                    "redeem_cond_type": "scarcity"
+                }
+            ],
+            "display_title": "羁绊之礼",
+            "effective_forever": 1,
+            "guide_info": {
+                "title": "",
+                "guide_content": "",
+                "jump_url": ""
+            },
+            "is_can_donate": 1,
+            "is_up_chain": 0,
+            "related_mids": [
+                ""
+            ],
+            "is_vip": false,
+            "task_list": null,
+            "popup_info": null,
+            "act_desc_light": "",
+            "not_need_realname": 1
+        }
+    },
+    "list": {
+        "code": 0,
+        "message": "0",
+        "ttl": 1,
+        "data": {
+            "uname": "",
+            "uface": "",
+            "act_y_img": "https://i0.hdslb.com/bfs/garb/f7a08b05b660b6938648ea12437a05e8d7cc82df.jpg",
+            "total_item_cnt": 10,
+            "owned_item_cnt": 0,
+            "item_list": [
+                {
+                    "item_type": 1,
+                    "item_scarcity": 30,
+                    "card_item": {
+                        "card_type_id": 1152754,
+                        "card_name": "艾莎公主",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/785b1f388a8eed55404cfee0f7c70ae3ad26f55d.jpg",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 6,
+                        "total_cnt_show": "000006",
+                        "holding_rate": 35,
+                        "video_list": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/vb/f0/_0000010rg2m4g3wj626d8y06qzyf0vb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1695004467&gen=playurlv2&os=alibv&oi=0&trid=9fb75a3a5b414d6494946238c6be6fc0B&mid=0&platform=html5&upsig=bbc3aa13f38bdd93301ad7701c4e5012&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/vb/f0/_0000010rg2m4g3wj626d8y06qzyf0vb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1695004467&gen=playurlv2&os=alibv&oi=0&trid=9fb75a3a5b414d6494946238c6be6fc0B&mid=0&platform=html5&upsig=bbc3aa13f38bdd93301ad7701c4e5012&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/vb/f0/_0000010rg2m4g3wj626d8y06qzyf0vb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1695004467&gen=playurlv2&os=alibbv&oi=0&trid=9fb75a3a5b414d6494946238c6be6fc0B&mid=0&platform=html5&upsig=c2107ea8c18b4404d15d5818f6b0dda4&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 30,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/fb78cbabdb6385ed8b3eb6df855767782a91d471.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark/ib/64/_00001qietlivotelw2peaiv80s464ib-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1695004467&gen=playurlv2&os=alibv&oi=0&trid=b0b6783cc45e4fa3b9bb53fcafc1184cB&mid=0&platform=html5&upsig=51ce7e34f644f142fe3d2fa6138fefdf&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark/ib/64/_00001qietlivotelw2peaiv80s464ib-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1695004467&gen=playurlv2&os=alibv&oi=0&trid=b0b6783cc45e4fa3b9bb53fcafc1184cB&mid=0&platform=html5&upsig=51ce7e34f644f142fe3d2fa6138fefdf&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/digital_watermark/ib/64/_00001qietlivotelw2peaiv80s464ib-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1695004467&gen=playurlv2&os=alibbv&oi=0&trid=b0b6783cc45e4fa3b9bb53fcafc1184cB&mid=0&platform=html5&upsig=00fe2dd8a54267c6673efa5260d45027&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 30,
+                    "card_item": {
+                        "card_type_id": 1152753,
+                        "card_name": "辛德瑞拉",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/3bae422c665a6d8f175adc66d12b0884726da252.jpg",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 36,
+                        "total_cnt_show": "000036",
+                        "holding_rate": 206,
+                        "video_list": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/sb/wo/_0000241mdtyz9jetd2p0l73d87kwosb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1695004467&gen=playurlv2&os=alibv&oi=0&trid=c83e902f55f546d0966dd83b489392b3B&mid=0&platform=html5&upsig=6bb86af9faa427e21f01ac852db901af&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/sb/wo/_0000241mdtyz9jetd2p0l73d87kwosb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1695004467&gen=playurlv2&os=alibv&oi=0&trid=c83e902f55f546d0966dd83b489392b3B&mid=0&platform=html5&upsig=6bb86af9faa427e21f01ac852db901af&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/sb/wo/_0000241mdtyz9jetd2p0l73d87kwosb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1695004467&gen=playurlv2&os=alibbv&oi=0&trid=c83e902f55f546d0966dd83b489392b3B&mid=0&platform=html5&upsig=bda2d550a3fccdd205187a1fd689b0a6&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 20,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/c05d8b443ef5b3191f23fcc4b6cf71a186fa0bc3.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermark/nb/ze/_00003nsdo5upkeudz2gte3284zkzenb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1695004467&gen=playurlv2&os=08cbv&oi=0&trid=36a9992f4f874502b3b660037cb14c06B&mid=0&platform=html5&upsig=94954601af16c0d8e1da0ae6683689d2&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermark/nb/ze/_00003nsdo5upkeudz2gte3284zkzenb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1695004467&gen=playurlv2&os=08cbv&oi=0&trid=36a9992f4f874502b3b660037cb14c06B&mid=0&platform=html5&upsig=94954601af16c0d8e1da0ae6683689d2&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/digital_watermark/nb/ze/_00003nsdo5upkeudz2gte3284zkzenb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1695004467&gen=playurlv2&os=hwbbv&oi=0&trid=36a9992f4f874502b3b660037cb14c06B&mid=0&platform=html5&upsig=923a4caae888ba68bff48443052c86a2&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 30,
+                    "card_item": {
+                        "card_type_id": 1152752,
+                        "card_name": "白雪公主",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/d1ee54d6867546003592df3a17c47e79aff4b71b.jpg",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 38,
+                        "total_cnt_show": "000038",
+                        "holding_rate": 217,
+                        "video_list": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/hb/1h/_00002vxl3cy4og51h2a5zi0groc1hhb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1695004467&gen=playurlv2&os=alibv&oi=0&trid=b5f14983271c4ad68a52e58df21f0f8dB&mid=0&platform=html5&upsig=4e37cb085df256598c14567156ef6070&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/hb/1h/_00002vxl3cy4og51h2a5zi0groc1hhb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1695004467&gen=playurlv2&os=alibv&oi=0&trid=b5f14983271c4ad68a52e58df21f0f8dB&mid=0&platform=html5&upsig=4e37cb085df256598c14567156ef6070&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/hb/1h/_00002vxl3cy4og51h2a5zi0groc1hhb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1695004467&gen=playurlv2&os=alibbv&oi=0&trid=b5f14983271c4ad68a52e58df21f0f8dB&mid=0&platform=html5&upsig=2f8d4bdb782c70a9c06f9a9a163af8f9&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 20,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/43e85f6e12df65f56786dba0e30a71f677342773.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermark/bb/vb/_00001ywxza4qqyh042spyh44o1svbbb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1695004467&gen=playurlv2&os=08cbv&oi=0&trid=2d9d4fa4b590487da8f84db4e4bc9324B&mid=0&platform=html5&upsig=10b5c7c43bcb50be0d3dd454798933e3&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermark/bb/vb/_00001ywxza4qqyh042spyh44o1svbbb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1695004467&gen=playurlv2&os=08cbv&oi=0&trid=2d9d4fa4b590487da8f84db4e4bc9324B&mid=0&platform=html5&upsig=10b5c7c43bcb50be0d3dd454798933e3&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/digital_watermark/bb/vb/_00001ywxza4qqyh042spyh44o1svbbb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1695004467&gen=playurlv2&os=hwbbv&oi=0&trid=2d9d4fa4b590487da8f84db4e4bc9324B&mid=0&platform=html5&upsig=b4909a73aa13c8512be7aedf9469cad9&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1152751,
+                        "card_name": "茉莉公主",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/2b8ee6285e1c7f7c0258aa396eb4f128b7ca23c8.jpg",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 215,
+                        "total_cnt_show": "000215",
+                        "holding_rate": 1228,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/5d8938899209c8e04b402a561b9317fcd19835db.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1152750,
+                        "card_name": "梅莉达公主",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/79aa720bf81f9ed34cbae7e959ed35a936f964e1.jpg",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 256,
+                        "total_cnt_show": "000256",
+                        "holding_rate": 1462,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/cc042056024961c9c9d28297ab6f787ce37de9ca.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1152749,
+                        "card_name": "乐佩公主",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/0bda3428a18f649462b29152627e216812e8690c.jpg",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 266,
+                        "total_cnt_show": "000266",
+                        "holding_rate": 1519,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/93a9be5c3ba620c2957682385ca9cc8b97d5f0d8.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1152748,
+                        "card_name": "花木兰",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/7ebfea0fe436a66eb17be7f652ab2a83d1f8529c.jpg",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 237,
+                        "total_cnt_show": "000237",
+                        "holding_rate": 1353,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/1ae8bf1ac245ff811e70b6f5935439e55eef95aa.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1152747,
+                        "card_name": "蒂安娜公主",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/6868c02d500818898c4f0a321f08bbdf99a47357.jpg",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 220,
+                        "total_cnt_show": "000220",
+                        "holding_rate": 1256,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/ea006a756e171f2d1a5213f435d89c6f6e0e2228.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1152746,
+                        "card_name": "贝儿公主",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/e16d4accdd02a1d718bd79ae79b727be0b07c071.jpg",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 239,
+                        "total_cnt_show": "000239",
+                        "holding_rate": 1365,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/1e971eec008f7fb71e5d5fb33c5fed618fae033c.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1152745,
+                        "card_name": "爱丽儿公主",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/dc922575619e21933d7c02b5b5efa3176b2bc84c.jpg",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 239,
+                        "total_cnt_show": "000239",
+                        "holding_rate": 1365,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/f53140373d16c8bb2b233f8f29e99a1ab6e7d514.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0
+                    }
+                }
+            ]
+        }
+    }
+}
