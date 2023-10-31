@@ -41,6 +41,7 @@ def write_list():
 if __name__ == '__main__':
     logging.basicConfig(level=logging.INFO)
     forcequit = 0
+    saved_last_scraped = last_scraped
     data = {}
     while True:
         if forcequit > 10:
@@ -52,8 +53,9 @@ if __name__ == '__main__':
             logging.warning(
                 f'{last_scraped} errored out: {json.dumps(jsoned)}.')
             if jsoned['message'] == "活动ID不存在":
-                logging.info(f'{last_scraped} DNE. terminating program.')
-                save_last_scraped(last_scraped)
+                logging.info(f'{last_scraped} DNE. terminating program?')
+                # save_last_scraped(last_scraped)
+                continue
             else:
                 forcequit += 1
                 logging.info(
@@ -69,5 +71,4 @@ if __name__ == '__main__':
         with open(join('data', f'BILINFT_{last_scraped}.json'), 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=4, ensure_ascii=False)
         time.sleep(1)
-        last_scraped = str(int(last_scraped) + 1)
-        
+        save_last_scraped = last_scraped = str(int(last_scraped) + 1)        
