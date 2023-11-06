@@ -38,7 +38,8 @@ def write_list():
                 logging.debug("now processing %s", jsondata)
                 biliNFT_name = loaded_data["basic"]["data"]["act_title"]
                 biliNFT_img = loaded_data["basic"]["data"]["lottery_list"][0]["lottery_image"]
-                f.write(f'# ${nft_id}.{biliNFT_name}\n')
+                f.write(
+                    f'[# {nft_id}.{biliNFT_name}](https://github.com/lovegaoshi/biliNFT/blob/main/{jsondata})\n')
                 f.write(f'![{biliNFT_name}]({biliNFT_img})\n')
                 f.write('\n')
             except Exception as ee:
@@ -52,6 +53,8 @@ if __name__ == '__main__':
     forcequit = 0
     saved_last_scraped = last_scraped
     data = {}
+    write_list()
+    sys.exit(0)
     while True:
         if forcequit > 10:
             write_list()
