@@ -343,3 +343,6 @@
 [# 242.美依礼芽收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_242.json)
 ![美依礼芽收藏集](http://i0.hdslb.com/bfs/archive/01a6e73ec9c7c4744e669ab2b172b43b7a7e80b8.jpg)
 
+[# 246.《爱唱歌的大学生》女生季收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_246.json)
+![《爱唱歌的大学生》女生季收藏集](http://i0.hdslb.com/bfs/archive/22d0d198785b7eced93b236436b3f48b9712cc8d.jpg)
+
