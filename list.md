@@ -344,5 +344,17 @@
 ![美依礼芽收藏集](http://i0.hdslb.com/bfs/archive/01a6e73ec9c7c4744e669ab2b172b43b7a7e80b8.jpg)
 
 [# 246.《爱唱歌的大学生》女生季收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_246.json)
-![《爱唱歌的大学生》女生季收藏集](http://i0.hdslb.com/bfs/archive/22d0d198785b7eced93b236436b3f48b9712cc8d.jpg)
+![《爱唱歌的大学生》女生季收藏集](http://i0.hdslb.com/bfs/archive/372747067d3a2f6e59f2375f744e59a8b9625885.jpg)
+
+[# 247.万圣街收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_247.json)
+![万圣街收藏集](http://i0.hdslb.com/bfs/archive/98aaa13139d7f0d18009a88ac15dea6061121288.jpg)
+
+[# 248.Alban Knox收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_248.json)
+![Alban Knox收藏集](http://i0.hdslb.com/bfs/archive/688660d8263f38d3302ba47bd38f6dc39959ad40.jpg)
+
+[# 249.Twinkle.Star收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_249.json)
+![Twinkle.Star收藏集](http://i0.hdslb.com/bfs/archive/2dc05ffcdfa873fe230108a0d8bbc774e6dab593.jpg)
+
+[# 250.收藏集活动限定卡合集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_250.json)
+![收藏集活动限定卡合集](http://i0.hdslb.com/bfs/archive/a92540fdec602567884bd3017cea659e3fb95cdb.jpg)
 
