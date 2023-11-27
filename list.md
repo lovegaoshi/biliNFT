@@ -358,3 +358,12 @@
 [# 250.收藏集活动限定卡合集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_250.json)
 ![收藏集活动限定卡合集](http://i0.hdslb.com/bfs/archive/a92540fdec602567884bd3017cea659e3fb95cdb.jpg)
 
+[# 251.吾皇巴扎黑收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_251.json)
+![吾皇巴扎黑收藏集](http://i0.hdslb.com/bfs/archive/d391da2f213ace857009fcad760966ae0b3950ad.jpg)
+
+[# 255.凡人修仙传动画收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_255.json)
+![凡人修仙传动画收藏集](http://i0.hdslb.com/bfs/archive/6e0026e3d17bf6ec3ff7b07ed890da5b8151fec7.jpg)
+
+[# 258.小野收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_258.json)
+![小野收藏集](http://i0.hdslb.com/bfs/archive/3d07d842eea7f1e627b0704c89e4e96dfdbc3ae1.jpg)
+
