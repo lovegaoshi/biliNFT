@@ -367,3 +367,12 @@
 [# 258.小野收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_258.json)
 ![小野收藏集](http://i0.hdslb.com/bfs/archive/3d07d842eea7f1e627b0704c89e4e96dfdbc3ae1.jpg)
 
+[# 259.2023劫杯收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_259.json)
+![2023劫杯收藏集](http://i0.hdslb.com/bfs/archive/880484fdaf75e484114f28e04451df58dc48a4bd.jpg)
+
+[# 260.《胶囊计划 第二季》数字典藏](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_260.json)
+![《胶囊计划 第二季》数字典藏](http://i0.hdslb.com/bfs/archive/975c877c4154b28343084b49645a7968ab3a8880.jpg)
+
+[# 261.《地下城堡3：魂之诗》收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_261.json)
+![《地下城堡3：魂之诗》收藏集](http://i0.hdslb.com/bfs/archive/ca1397cf21225ec64ca5eff639754068cdbd8daf.png)
+

@@ -1,0 +1,406 @@
+{
+    "basic": {
+        "code": 0,
+        "message": "0",
+        "ttl": 1,
+        "data": {
+            "act_title": "2023劫杯收藏集",
+            "cur_time": 1701650236,
+            "start_time": 1701230400,
+            "end_time": 2114406245,
+            "pre_start_time": 1701144000,
+            "pre_end_time": 1701230399,
+            "is_booked": 0,
+            "act_desc": "",
+            "lottery_list": [
+                {
+                    "lottery_id": 215,
+                    "lottery_name": "武劫雄起",
+                    "display_time": 1701144000,
+                    "start_time": 1701230400,
+                    "end_time": 2114406245,
+                    "lottery_image": "http://i0.hdslb.com/bfs/archive/880484fdaf75e484114f28e04451df58dc48a4bd.jpg",
+                    "draw_cnt": 0,
+                    "goods_id": 25574439413248,
+                    "price": 9900,
+                    "goods_name": "武劫雄起",
+                    "lottery_desc": "【2023劫杯收藏集——武劫雄起】共包含8张精美立绘\n* 隐藏款：妖刀姬-流火映真，均分概率0.5%；劫杯-武劫雄起，均分概率4.5%\n* 普通款：崔三娘-雾海龙王、顾清寒-长公主、胡桃-天才阴阳师、宁红夜-昆仑玄女、无尘-妙法通玄、岳山-武威侯，共6张，均分概率95%",
+                    "item_total_cnt": 8,
+                    "item_owned_cnt": 0,
+                    "total_sale_amount": 5648,
+                    "lottery_type": 1,
+                    "effective_forever": 1,
+                    "discount": {
+                        "origin_price": 9900,
+                        "price": 4900,
+                        "discount_guidance": {
+                            "guidance_text": "开通大会员首抽",
+                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                        }
+                    },
+                    "free": 0,
+                    "sale_mode": 1
+                }
+            ],
+            "share_info": {
+                "main_title": "2023劫杯收藏集",
+                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+                "share_content": "活动火热售卖中，快来开卡吧！"
+            },
+            "act_y_img": "https://i0.hdslb.com/bfs/garb/30b307dc5fddeebbe5906b43d6eee9392cd89553.jpg",
+            "animation_info": {
+                "animation_draw_url": {
+                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+                },
+                "animation_entry_url": {
+                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+                }
+            },
+            "total_book_cnt": 321,
+            "total_buy_cnt": 5648,
+            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+            "is_pre": 1,
+            "is_pre_risk": 0,
+            "is_collector_rank": 1,
+            "collect_list": [
+                {
+                    "collect_id": 606,
+                    "start_time": 1701144000,
+                    "end_time": 2114406245,
+                    "redeem_text": "完成2抽即可领取，单UID仅可领取一次。",
+                    "redeem_item_type": 2,
+                    "redeem_item_id": "64103",
+                    "redeem_item_name": "2023劫杯表情包",
+                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/28536f82829f4c6638615ae6568b5bb53b93dfe2.png",
+                    "owned_item_amount": 0,
+                    "require_item_amount": 2,
+                    "has_redeemed_cnt": 0,
+                    "effective_forever": 1,
+                    "redeem_item_image_download": "",
+                    "card_item": {
+                        "card_type_info": null,
+                        "play": null,
+                        "tag": null
+                    },
+                    "jump_url": "",
+                    "redeem_cond_type": "lottery_num",
+                    "remain_stock": -1,
+                    "total_stock": -1
+                },
+                {
+                    "collect_id": 605,
+                    "start_time": 1701144000,
+                    "end_time": 2114406245,
+                    "redeem_text": "抽到任意1张隐藏卡即可领取，单UID仅可领取一次。",
+                    "redeem_item_type": 3,
+                    "redeem_item_id": "64082",
+                    "redeem_item_name": "2023劫杯头像框",
+                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/617f7a22baf4030a6dc1e2e8054f4ce259763988.png",
+                    "owned_item_amount": 0,
+                    "require_item_amount": 1,
+                    "has_redeemed_cnt": 0,
+                    "effective_forever": 1,
+                    "redeem_item_image_download": "",
+                    "card_item": {
+                        "card_type_info": null,
+                        "play": null,
+                        "tag": null
+                    },
+                    "jump_url": "",
+                    "redeem_cond_type": "scarcity",
+                    "remain_stock": -1,
+                    "total_stock": -1
+                }
+            ],
+            "display_title": "羁绊之礼",
+            "effective_forever": 1,
+            "guide_info": {
+                "title": "",
+                "guide_content": "",
+                "jump_url": ""
+            },
+            "is_can_donate": 1,
+            "is_up_chain": 0,
+            "related_mids": [
+                "474595622"
+            ],
+            "is_vip": false,
+            "task_list": null,
+            "popup_info": null,
+            "act_desc_light": "",
+            "not_need_realname": 1,
+            "product_introduce": "【2023劫杯收藏集】是哔哩哔哩携手永劫无间赛事定制打造的个人数字集卡，融合电竞潮流元素，设计精美。其中每张数字卡牌都将拥有独特编号，期待大家一起来解锁！",
+            "app_head_show": "https://i0.hdslb.com/bfs/garb/b2d8bfda772c31dac80c0f3cf63fd750dfa22aea.png",
+            "app_space_show": "https://i0.hdslb.com/bfs/garb/b2d8bfda772c31dac80c0f3cf63fd750dfa22aea.png",
+            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/3cc0d25b8619fb42e5b2d460faabb4b0bd923c3b.png\",\"card_count\":1,\"num_color\":\"#ff4a47\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/def4e97f8bf6bdf7ed4fba5a82f74b90885877d6.png\",\"card_count\":5,\"num_color\":\"#ff3535\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/7b7e93f4d9e097e798600402d25304e8b1bb07d3.png\",\"card_count\":15,\"num_color\":\"#ff2520\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/36e96b3f45c1170a448d66ee60a57dcba3439a12.png\",\"card_count\":30,\"num_color\":\"#ef2322\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/b205232f78da719af56188b9a2ba882f8a2ebc44.png\",\"card_count\":60,\"num_color\":\"#f10601\"}]",
+            "topic": null
+        }
+    },
+    "list": {
+        "code": 0,
+        "message": "0",
+        "ttl": 1,
+        "data": {
+            "uname": "",
+            "uface": "",
+            "act_y_img": "https://i0.hdslb.com/bfs/garb/30b307dc5fddeebbe5906b43d6eee9392cd89553.jpg",
+            "total_item_cnt": 8,
+            "owned_item_cnt": 0,
+            "item_list": [
+                {
+                    "item_type": 1,
+                    "item_scarcity": 30,
+                    "card_item": {
+                        "card_type_id": 1165607,
+                        "card_name": "妖刀姬-流火映真",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/6168fc6a164d8a8e12b42669f4206a794f315a47.png",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 30,
+                        "total_cnt_show": "000030",
+                        "holding_rate": 56,
+                        "video_list": [
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/lb/u1/_00000kshmnbaj92y52spsvrwgequ1lb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1701657430&gen=playurlv2&os=08cbv&oi=0&trid=efd76b4284ce47b6a5124d2a8291902fB&mid=0&platform=html5&upsig=c124917935fd9977e92dbbd3f2c81d4f&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/lb/u1/_00000kshmnbaj92y52spsvrwgequ1lb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1701657430&gen=playurlv2&os=08cbv&oi=0&trid=efd76b4284ce47b6a5124d2a8291902fB&mid=0&platform=html5&upsig=c124917935fd9977e92dbbd3f2c81d4f&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/lb/u1/_00000kshmnbaj92y52spsvrwgequ1lb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1701657430&gen=playurlv2&os=hwbbv&oi=0&trid=efd76b4284ce47b6a5124d2a8291902fB&mid=0&platform=html5&upsig=bd2b27933ad872d4054f59665159875f&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 30,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/b942b46c64db3a6d7b06a93236402fc385a42a3f.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark/nb/nr/_00003d1fqwh74r0pg2ehp2wy8ronrnb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1701657430&gen=playurlv2&os=alibv&oi=0&trid=efd76b4284ce47b6a5124d2a8291902fB&mid=0&platform=html5&upsig=4de6a98696e9589499cecd887eeb5372&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark/nb/nr/_00003d1fqwh74r0pg2ehp2wy8ronrnb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1701657430&gen=playurlv2&os=alibv&oi=0&trid=efd76b4284ce47b6a5124d2a8291902fB&mid=0&platform=html5&upsig=4de6a98696e9589499cecd887eeb5372&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/digital_watermark/nb/nr/_00003d1fqwh74r0pg2ehp2wy8ronrnb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1701657430&gen=playurlv2&os=alibbv&oi=0&trid=efd76b4284ce47b6a5124d2a8291902fB&mid=0&platform=html5&upsig=55f449e2d368b7521f82f3cff854af30&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 30,
+                    "card_item": {
+                        "card_type_id": 1165606,
+                        "card_name": "劫杯-武劫雄起",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/8cafec2fdafb9b3f3795fb9217e59b19d586024d.png",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 241,
+                        "total_cnt_show": "000241",
+                        "holding_rate": 445,
+                        "video_list": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/9b/cg/_000034iw3wsrh4zt32jbttzbav2cg9b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1701657421&gen=playurlv2&os=alibv&oi=0&trid=d94801ab0de14815817c80010f8714deB&mid=0&platform=html5&upsig=1e000ee1fd7e694f010d6c1d9ccec1aa&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/9b/cg/_000034iw3wsrh4zt32jbttzbav2cg9b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1701657421&gen=playurlv2&os=alibv&oi=0&trid=d94801ab0de14815817c80010f8714deB&mid=0&platform=html5&upsig=1e000ee1fd7e694f010d6c1d9ccec1aa&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/9b/cg/_000034iw3wsrh4zt32jbttzbav2cg9b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1701657421&gen=playurlv2&os=alibbv&oi=0&trid=d94801ab0de14815817c80010f8714deB&mid=0&platform=html5&upsig=9db090a455c3442d438eb586989960fc&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 20,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/82437b62d96d134c1228931b1227eafc674edfe9.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermark/fb/di/_00003lrrsjxam4i6l2ktgqx73phdifb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1701657421&gen=playurlv2&os=08cbv&oi=0&trid=d94801ab0de14815817c80010f8714deB&mid=0&platform=html5&upsig=7c06effaaf3c5ee9b9b18209280a801a&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermark/fb/di/_00003lrrsjxam4i6l2ktgqx73phdifb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1701657421&gen=playurlv2&os=08cbv&oi=0&trid=d94801ab0de14815817c80010f8714deB&mid=0&platform=html5&upsig=7c06effaaf3c5ee9b9b18209280a801a&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/digital_watermark/fb/di/_00003lrrsjxam4i6l2ktgqx73phdifb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1701657421&gen=playurlv2&os=hwbbv&oi=0&trid=d94801ab0de14815817c80010f8714deB&mid=0&platform=html5&upsig=d16821f1d3e4af8b4b51f14fecb231f1&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1165605,
+                        "card_name": "岳山-武威侯",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/7f8ec83dbbe4955504bbac76c928292b5d8ffd4d.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 872,
+                        "total_cnt_show": "000872",
+                        "holding_rate": 1608,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/f20367bf7f8c33e59a568bba317dcda370e33bca.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1165604,
+                        "card_name": "无尘-妙法通玄",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/274d41f9017a92d5b34bbc884145fc5305124998.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 862,
+                        "total_cnt_show": "000862",
+                        "holding_rate": 1589,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/df608142c385390617fc5e06f11189ad0b9bd844.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1165603,
+                        "card_name": "宁红夜-昆仑玄女",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/c9b18d401e7780be01eb90154a2a7d68da093706.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 850,
+                        "total_cnt_show": "000850",
+                        "holding_rate": 1567,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/b9c2442e330ac270f0061a92537b6bfa70e0c598.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1165602,
+                        "card_name": "胡桃-天才阴阳师",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/b3ba882b2a181f4dc33d4b77a260324f312841a8.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 878,
+                        "total_cnt_show": "000878",
+                        "holding_rate": 1619,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/0c5d954ca0ef58c1bdd3645a134f6733c8c4c939.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1165601,
+                        "card_name": "顾清寒-长公主",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/be98fca9c8b72f7582fead210a4a67d4f7b195bf.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 829,
+                        "total_cnt_show": "000829",
+                        "holding_rate": 1528,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/b4555c842b4738f673baa0befbf6a8e2ad103eed.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1165600,
+                        "card_name": "崔三娘-雾海龙王",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/4d08fb42bc378db3e9725303b596fa80e1f89dad.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 864,
+                        "total_cnt_show": "000864",
+                        "holding_rate": 1593,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/cd5d4e498d2a82f3f668c9aa13bd86e72b145e3d.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                }
+            ]
+        }
+    }
+}
