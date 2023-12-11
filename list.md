@@ -376,3 +376,6 @@
 [# 261.《地下城堡3：魂之诗》收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_261.json)
 ![《地下城堡3：魂之诗》收藏集](http://i0.hdslb.com/bfs/archive/ca1397cf21225ec64ca5eff639754068cdbd8daf.png)
 
+[# 262.机动战士高达SEED收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_262.json)
+![机动战士高达SEED收藏集](http://i0.hdslb.com/bfs/archive/a349a79e01a76dee65d244975e4f445c5d200843.jpg)
+
