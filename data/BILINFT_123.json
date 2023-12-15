@@ -5,7 +5,7 @@
         "ttl": 1,
         "data": {
             "act_title": "装扮小姐姐·中华锦绣",
-            "cur_time": 1688823857,
+            "cur_time": 1702648064,
             "start_time": 1687406401,
             "end_time": 2114406245,
             "pre_start_time": 1687338000,
@@ -21,20 +21,25 @@
                     "end_time": 2114406245,
                     "lottery_image": "http://i0.hdslb.com/bfs/archive/a0ea672996a36486f3238f3c46b8b08821b96ea7.jpg",
                     "draw_cnt": 0,
-                    "goods_id": 282,
+                    "goods_id": 9481987580928,
                     "price": 9900,
                     "goods_name": "羌绣",
                     "lottery_desc": "【装扮小姐姐·中华锦绣】共包含8张精美立绘，快来体验大美羌族文化！\n* 普通款：灵羊图腾、吉猴图腾、羊角花开、日月传奇、口弦传情、秀她所绣均分概率95%；\n* 隐藏款：羌族绣娘概率4.5%，羌族庆典概率0.5%。",
                     "item_total_cnt": 8,
                     "item_owned_cnt": 0,
-                    "total_sale_amount": 16521,
+                    "total_sale_amount": 26810,
                     "lottery_type": 1,
                     "effective_forever": 1,
                     "discount": {
                         "origin_price": 9900,
-                        "price": 9900
+                        "price": 900,
+                        "discount_guidance": {
+                            "guidance_text": "开通大会员首抽",
+                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                        }
                     },
-                    "free": 0
+                    "free": 0,
+                    "sale_mode": 1
                 }
             ],
             "share_info": {
@@ -54,7 +59,7 @@
                 }
             },
             "total_book_cnt": 3773,
-            "total_buy_cnt": 16522,
+            "total_buy_cnt": 26811,
             "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
             "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
             "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
@@ -63,20 +68,6 @@
             "is_pre_risk": 0,
             "is_collector_rank": 1,
             "collect_list": [
-                {
-                    "collect_id": 67,
-                    "start_time": 1687338000,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "55002",
-                    "redeem_item_name": "装扮小姐姐·中华锦绣表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/2d341d299943f2321b7f7a7b352b2664aae28e21.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1
-                },
                 {
                     "collect_id": 68,
                     "start_time": 1687338000,
@@ -89,7 +80,41 @@
                     "owned_item_amount": 0,
                     "require_item_amount": 1,
                     "has_redeemed_cnt": 0,
-                    "effective_forever": 1
+                    "effective_forever": 1,
+                    "redeem_item_image_download": "",
+                    "card_item": {
+                        "card_type_info": null,
+                        "play": null,
+                        "tag": null
+                    },
+                    "jump_url": "",
+                    "redeem_cond_type": "scarcity",
+                    "remain_stock": -1,
+                    "total_stock": -1
+                },
+                {
+                    "collect_id": 67,
+                    "start_time": 1687338000,
+                    "end_time": 2114406245,
+                    "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
+                    "redeem_item_type": 2,
+                    "redeem_item_id": "55002",
+                    "redeem_item_name": "装扮小姐姐·中华锦绣表情包",
+                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/2d341d299943f2321b7f7a7b352b2664aae28e21.png",
+                    "owned_item_amount": 0,
+                    "require_item_amount": 3,
+                    "has_redeemed_cnt": 0,
+                    "effective_forever": 1,
+                    "redeem_item_image_download": "",
+                    "card_item": {
+                        "card_type_info": null,
+                        "play": null,
+                        "tag": null
+                    },
+                    "jump_url": "",
+                    "redeem_cond_type": "scarcity",
+                    "remain_stock": -1,
+                    "total_stock": -1
                 }
             ],
             "display_title": "",
@@ -100,7 +125,18 @@
                 "jump_url": ""
             },
             "is_can_donate": 1,
-            "is_up_chain": 1
+            "is_up_chain": 1,
+            "related_mids": null,
+            "is_vip": false,
+            "task_list": null,
+            "popup_info": null,
+            "act_desc_light": "",
+            "not_need_realname": 0,
+            "product_introduce": "",
+            "app_head_show": "",
+            "app_space_show": "",
+            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/81380ea99276ded9e5a9eea548cd65613990cd4b.png\",\"card_count\":1,\"num_color\":\"#b57065\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/cc872a2e8e179f300b39d705a7e05b8613d7cad6.png\",\"card_count\":5,\"num_color\":\"#6892c0\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/a07e374729aaf924b39ddc6839fa31e8df321840.png\",\"card_count\":15,\"num_color\":\"#d59145\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/5a270c31c9b772f5112aa7ca80a40bc024f68c7e.png\",\"card_count\":30,\"num_color\":\"#df80a0\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/0e321573d513befd204ee7c6fe5d85331a569d52.png\",\"card_count\":60,\"num_color\":\"#8689de\"}]",
+            "topic": null
         }
     },
     "list": {
@@ -123,20 +159,32 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/0c889841d33e12de633d3a67a7b0986da714d403.png",
                         "card_type": 2,
                         "card_id_list": null,
-                        "total_cnt": 68,
-                        "total_cnt_show": "000068",
-                        "holding_rate": 42,
+                        "total_cnt": 122,
+                        "total_cnt_show": "000122",
+                        "holding_rate": 46,
                         "video_list": [
-                            "https://upos-sz-mirrorcos.bilivideo.com/panguxcodeboss/eb/4l/_00001c9w2qym8ol2r2chittxgsy4leb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1688831059&gen=playurlv2&os=cosbv&oi=0&trid=5f7ee2c43a5140f9a51d37c7ac8d3fc9B&mid=0&platform=html5&upsig=05826738c782faad914d63b727a8ba8e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000",
-                            "https://upos-sz-mirrorcos.bilivideo.com/panguxcodeboss/eb/4l/_00001c9w2qym8ol2r2chittxgsy4leb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1688831059&gen=playurlv2&os=cosbv&oi=0&trid=5f7ee2c43a5140f9a51d37c7ac8d3fc9B&mid=0&platform=html5&upsig=05826738c782faad914d63b727a8ba8e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000",
-                            "https://upos-sz-mirrorcosb.bilivideo.com/panguxcodeboss/eb/4l/_00001c9w2qym8ol2r2chittxgsy4leb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1688831059&gen=playurlv2&os=cosbbv&oi=0&trid=5f7ee2c43a5140f9a51d37c7ac8d3fc9B&mid=0&platform=html5&upsig=924e9ab3852ba92f5f7c8ee7926d08f8&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000"
+                            "https://upos-sz-mirrorcos.bilivideo.com/panguxcodeboss/eb/4l/_00001c9w2qym8ol2r2chittxgsy4leb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655226&gen=playurlv2&os=cosbv&oi=0&trid=c3d7f44715b442e186c59c0b9270b58dB&mid=0&platform=html5&upsig=cb4ee443fd22554274a186097acfa15b&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorcos.bilivideo.com/panguxcodeboss/eb/4l/_00001c9w2qym8ol2r2chittxgsy4leb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655226&gen=playurlv2&os=cosbv&oi=0&trid=c3d7f44715b442e186c59c0b9270b58dB&mid=0&platform=html5&upsig=cb4ee443fd22554274a186097acfa15b&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorcosb.bilivideo.com/panguxcodeboss/eb/4l/_00001c9w2qym8ol2r2chittxgsy4leb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655226&gen=playurlv2&os=cosbbv&oi=0&trid=c3d7f44715b442e186c59c0b9270b58dB&mid=0&platform=html5&upsig=6793733c066e1338d72c85c50c770599&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
                         ],
                         "is_physical_orientation": 0,
                         "card_scarcity": 30,
                         "is_mute": 0,
                         "width": 1242,
                         "height": 1862,
-                        "card_ext_text": ""
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/fbe5091ec65a80f9803287c725ffd8f51e1e87f2.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermark/rb/do/_000032jlyl6t4rgis2qptlb0fcjdorb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655226&gen=playurlv2&os=08cbv&oi=0&trid=c3d7f44715b442e186c59c0b9270b58dB&mid=0&platform=html5&upsig=7a74d381715c8198b10409f9562d6734&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermark/rb/do/_000032jlyl6t4rgis2qptlb0fcjdorb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655226&gen=playurlv2&os=08cbv&oi=0&trid=c3d7f44715b442e186c59c0b9270b58dB&mid=0&platform=html5&upsig=7a74d381715c8198b10409f9562d6734&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/digital_watermark/rb/do/_000032jlyl6t4rgis2qptlb0fcjdorb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655226&gen=playurlv2&os=hwbbv&oi=0&trid=c3d7f44715b442e186c59c0b9270b58dB&mid=0&platform=html5&upsig=cf7c4f19552fca8a6bfba039e6356cfd&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -148,20 +196,32 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/f26060b32ce0119230dba2f910764f966fb37665.png",
                         "card_type": 2,
                         "card_id_list": null,
-                        "total_cnt": 787,
-                        "total_cnt_show": "000787",
-                        "holding_rate": 478,
+                        "total_cnt": 1222,
+                        "total_cnt_show": "001222",
+                        "holding_rate": 457,
                         "video_list": [
-                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/pb/k3/_000003buagcj3daz72pkbp3h5b0k3pb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1688831059&gen=playurlv2&os=alibv&oi=0&trid=e6099211b61848509713a7ff16df692cB&mid=0&platform=html5&upsig=ca219f1e29dc01984633240da0db98af&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000",
-                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/pb/k3/_000003buagcj3daz72pkbp3h5b0k3pb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1688831059&gen=playurlv2&os=alibv&oi=0&trid=e6099211b61848509713a7ff16df692cB&mid=0&platform=html5&upsig=ca219f1e29dc01984633240da0db98af&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000",
-                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/pb/k3/_000003buagcj3daz72pkbp3h5b0k3pb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1688831059&gen=playurlv2&os=alibbv&oi=0&trid=e6099211b61848509713a7ff16df692cB&mid=0&platform=html5&upsig=c768a4a47343198de9fb1645851d289c&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000"
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/pb/k3/_000003buagcj3daz72pkbp3h5b0k3pb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655261&gen=playurlv2&os=alibv&oi=0&trid=9f53e281faab4dfe8a85c1e4af5af345B&mid=0&platform=html5&upsig=569ef19fd34fb2df6a5eb2186022150c&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/pb/k3/_000003buagcj3daz72pkbp3h5b0k3pb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655261&gen=playurlv2&os=alibv&oi=0&trid=9f53e281faab4dfe8a85c1e4af5af345B&mid=0&platform=html5&upsig=569ef19fd34fb2df6a5eb2186022150c&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/pb/k3/_000003buagcj3daz72pkbp3h5b0k3pb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655261&gen=playurlv2&os=alibbv&oi=0&trid=9f53e281faab4dfe8a85c1e4af5af345B&mid=0&platform=html5&upsig=e80cc37c634994ac1042aa13a84447fe&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
                         ],
                         "is_physical_orientation": 0,
                         "card_scarcity": 20,
                         "is_mute": 0,
                         "width": 1242,
                         "height": 1862,
-                        "card_ext_text": ""
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/366d20b77eb73e1c84143a4e9b174fb292f7a86e.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermark/zb/qc/_000039w3dxewqbooc21a3o1i1eqqczb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655261&gen=playurlv2&os=08cbv&oi=0&trid=9f53e281faab4dfe8a85c1e4af5af345B&mid=0&platform=html5&upsig=2c02ec3cb5dae3f23922f7b72532f0ec&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermark/zb/qc/_000039w3dxewqbooc21a3o1i1eqqczb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655261&gen=playurlv2&os=08cbv&oi=0&trid=9f53e281faab4dfe8a85c1e4af5af345B&mid=0&platform=html5&upsig=2c02ec3cb5dae3f23922f7b72532f0ec&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/digital_watermark/zb/qc/_000039w3dxewqbooc21a3o1i1eqqczb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655261&gen=playurlv2&os=hwbbv&oi=0&trid=9f53e281faab4dfe8a85c1e4af5af345B&mid=0&platform=html5&upsig=95c7f001f8a0573282aebeee0158a5ba&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -173,16 +233,24 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/46b88e2af39e4037a150cd3b4b9a1062c78dae4f.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 2590,
-                        "total_cnt_show": "002590",
-                        "holding_rate": 1571,
+                        "total_cnt": 4226,
+                        "total_cnt_show": "004226",
+                        "holding_rate": 1581,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
                         "is_mute": 0,
                         "width": 1242,
                         "height": 1863,
-                        "card_ext_text": ""
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/b47a866fa77c250ed0272d3219dd2b1c58881891.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -194,16 +262,24 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/0278429c18c240a4eace242af1494d892a2f4fb1.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 2626,
-                        "total_cnt_show": "002626",
-                        "holding_rate": 1593,
+                        "total_cnt": 4245,
+                        "total_cnt_show": "004245",
+                        "holding_rate": 1588,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
                         "is_mute": 0,
                         "width": 1242,
                         "height": 1863,
-                        "card_ext_text": ""
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/7e989bf32732ecb821815ce6ddab29b56169ab3c.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -215,16 +291,24 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/2923eb7a41ff96ab83b682ea13a390050735db3e.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 2603,
-                        "total_cnt_show": "002603",
-                        "holding_rate": 1579,
+                        "total_cnt": 4227,
+                        "total_cnt_show": "004227",
+                        "holding_rate": 1581,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
                         "is_mute": 0,
                         "width": 1242,
                         "height": 1863,
-                        "card_ext_text": ""
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/9231e4771deadf1cd2ddb6abc102c26312cd031d.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -236,16 +320,24 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/a7b57c7df469db14c4660e98acbcdd76ef4a0f75.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 2535,
-                        "total_cnt_show": "002535",
-                        "holding_rate": 1538,
+                        "total_cnt": 4188,
+                        "total_cnt_show": "004188",
+                        "holding_rate": 1567,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
                         "is_mute": 0,
                         "width": 1242,
                         "height": 1863,
-                        "card_ext_text": ""
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/d4284595c132b21be5c8f55523c2561975b053ec.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -257,16 +349,24 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/ad0f55e4c61e7e8d0e9181f443a600e4681c3a47.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 2695,
-                        "total_cnt_show": "002695",
-                        "holding_rate": 1635,
+                        "total_cnt": 4350,
+                        "total_cnt_show": "004350",
+                        "holding_rate": 1627,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
                         "is_mute": 0,
                         "width": 1242,
                         "height": 1863,
-                        "card_ext_text": ""
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/0c7e22eb8c202ed31045d744e7c230c6388418af.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -278,16 +378,24 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/ed284e692767d8becd24cef6e0603030b6e39dd9.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 2584,
-                        "total_cnt_show": "002584",
-                        "holding_rate": 1568,
+                        "total_cnt": 4162,
+                        "total_cnt_show": "004162",
+                        "holding_rate": 1557,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
                         "is_mute": 0,
                         "width": 1242,
                         "height": 1863,
-                        "card_ext_text": ""
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/66519987bbaa9844c9d220f4cfed156c03776122.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 }
             ]

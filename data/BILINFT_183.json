@@ -5,7 +5,7 @@
         "ttl": 1,
         "data": {
             "act_title": "蜡笔小新收藏集",
-            "cur_time": 1694392438,
+            "cur_time": 1702647990,
             "start_time": 1693980000,
             "end_time": 2114406245,
             "pre_start_time": 1693893600,
@@ -27,7 +27,7 @@
                     "lottery_desc": "蜡笔小新收藏集包含15张精美海报\n普通款：13张海报均分概率95%\n隐藏款：开心叠叠乐概率4.5%、动感光波概率0.5%",
                     "item_total_cnt": 15,
                     "item_owned_cnt": 0,
-                    "total_sale_amount": 7733,
+                    "total_sale_amount": 16964,
                     "lottery_type": 1,
                     "effective_forever": 1,
                     "discount": {
@@ -38,7 +38,8 @@
                             "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
                         }
                     },
-                    "free": 0
+                    "free": 0,
+                    "sale_mode": 1
                 }
             ],
             "share_info": {
@@ -58,7 +59,7 @@
                 }
             },
             "total_book_cnt": 1333,
-            "total_buy_cnt": 7733,
+            "total_buy_cnt": 16964,
             "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
             "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
             "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
@@ -68,16 +69,16 @@
             "is_collector_rank": 1,
             "collect_list": [
                 {
-                    "collect_id": 302,
+                    "collect_id": 304,
                     "start_time": 1693893600,
                     "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "58921",
-                    "redeem_item_name": "蜡笔小新头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/b93e38ab6737cf0f2e2cd728a95f62bc2057d7bc.png",
+                    "redeem_text": "抽出任意5张不同卡牌，即可领取，单UID仅可领取一次",
+                    "redeem_item_type": 5,
+                    "redeem_item_id": "58922&58923&58924&58950",
+                    "redeem_item_name": "点赞＆加载＆进度条＆个性主题",
+                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/2791d4b06db76bb0570959028c6f235287a0b9eb.png",
                     "owned_item_amount": 0,
-                    "require_item_amount": 1,
+                    "require_item_amount": 5,
                     "has_redeemed_cnt": 0,
                     "effective_forever": 1,
                     "redeem_item_image_download": "",
@@ -87,7 +88,9 @@
                         "tag": null
                     },
                     "jump_url": "",
-                    "redeem_cond_type": "scarcity"
+                    "redeem_cond_type": "scarcity",
+                    "remain_stock": -1,
+                    "total_stock": -1
                 },
                 {
                     "collect_id": 303,
@@ -109,19 +112,21 @@
                         "tag": null
                     },
                     "jump_url": "",
-                    "redeem_cond_type": "scarcity"
+                    "redeem_cond_type": "scarcity",
+                    "remain_stock": -1,
+                    "total_stock": -1
                 },
                 {
-                    "collect_id": 304,
+                    "collect_id": 302,
                     "start_time": 1693893600,
                     "end_time": 2114406245,
-                    "redeem_text": "抽出任意5张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "58922&58923&58924&58950",
-                    "redeem_item_name": "点赞＆加载＆进度条＆个性主题",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/2791d4b06db76bb0570959028c6f235287a0b9eb.png",
+                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                    "redeem_item_type": 3,
+                    "redeem_item_id": "58921",
+                    "redeem_item_name": "蜡笔小新头像框",
+                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/b93e38ab6737cf0f2e2cd728a95f62bc2057d7bc.png",
                     "owned_item_amount": 0,
-                    "require_item_amount": 5,
+                    "require_item_amount": 1,
                     "has_redeemed_cnt": 0,
                     "effective_forever": 1,
                     "redeem_item_image_download": "",
@@ -131,7 +136,9 @@
                         "tag": null
                     },
                     "jump_url": "",
-                    "redeem_cond_type": "scarcity"
+                    "redeem_cond_type": "scarcity",
+                    "remain_stock": -1,
+                    "total_stock": -1
                 }
             ],
             "display_title": "羁绊之礼",
@@ -143,13 +150,17 @@
             },
             "is_can_donate": 1,
             "is_up_chain": 0,
-            "related_mids": [
-                ""
-            ],
+            "related_mids": null,
             "is_vip": false,
             "task_list": null,
             "popup_info": null,
-            "act_desc_light": ""
+            "act_desc_light": "",
+            "not_need_realname": 1,
+            "product_introduce": "",
+            "app_head_show": "",
+            "app_space_show": "",
+            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/cf778cf0ab334551db3c6103f6b9f98e9660c591.png\",\"card_count\":1,\"num_color\":\"#c3a18f\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/57e24563c1ceacac18b03a84a4c3225d0dec8729.png\",\"card_count\":5,\"num_color\":\"#6fc7f6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/cdc0c9b7fbf0ddfdcec90756fd04ba6b48912ce7.png\",\"card_count\":15,\"num_color\":\"#ffbd55\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/e454df3a7c94f63399dd13d29541e1e2acef89c4.png\",\"card_count\":30,\"num_color\":\"#ee68f2\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/77b297c215c321008f38d14058970e4a68eac555.png\",\"card_count\":60,\"num_color\":\"#936df7\"}]",
+            "topic": null
         }
     },
     "list": {
@@ -172,9 +183,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/f6b386b9d0526b7d5d667cadde898df3367c7af2.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 42,
-                        "total_cnt_show": "000042",
-                        "holding_rate": 55,
+                        "total_cnt": 97,
+                        "total_cnt_show": "000097",
+                        "holding_rate": 58,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 30,
@@ -187,7 +198,9 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -199,9 +212,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/78448f488a294e47387d1497dd159502aabe13e3.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 348,
-                        "total_cnt_show": "000348",
-                        "holding_rate": 451,
+                        "total_cnt": 798,
+                        "total_cnt_show": "000798",
+                        "holding_rate": 472,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 20,
@@ -214,7 +227,9 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -226,9 +241,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/5f153183b09358be88883c483498cd092b41c414.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 593,
-                        "total_cnt_show": "000593",
-                        "holding_rate": 769,
+                        "total_cnt": 1260,
+                        "total_cnt_show": "001260",
+                        "holding_rate": 745,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
@@ -241,7 +256,9 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -253,9 +270,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/ba55f261b87426ba51bba48d1be6967d5104bef1.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 576,
-                        "total_cnt_show": "000576",
-                        "holding_rate": 747,
+                        "total_cnt": 1212,
+                        "total_cnt_show": "001212",
+                        "holding_rate": 716,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
@@ -268,7 +285,9 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -280,9 +299,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/2d69d95b2b3b14de40658807e9d896f25a16a657.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 600,
-                        "total_cnt_show": "000600",
-                        "holding_rate": 778,
+                        "total_cnt": 1285,
+                        "total_cnt_show": "001285",
+                        "holding_rate": 759,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
@@ -295,7 +314,9 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -307,9 +328,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/d54937ff8ddf05109e79cd349a9b2f1fb2b4b0d1.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 556,
-                        "total_cnt_show": "000556",
-                        "holding_rate": 721,
+                        "total_cnt": 1196,
+                        "total_cnt_show": "001196",
+                        "holding_rate": 707,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
@@ -322,7 +343,9 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -334,9 +357,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/515be14615ff7d33002a3554b854af135d0c41b1.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 555,
-                        "total_cnt_show": "000555",
-                        "holding_rate": 718,
+                        "total_cnt": 1244,
+                        "total_cnt_show": "001244",
+                        "holding_rate": 735,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
@@ -349,7 +372,9 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -361,9 +386,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/9a1552f2747acce56d61cf28dc0e0ffee35cef20.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 566,
-                        "total_cnt_show": "000566",
-                        "holding_rate": 734,
+                        "total_cnt": 1233,
+                        "total_cnt_show": "001233",
+                        "holding_rate": 728,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
@@ -376,7 +401,9 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -388,9 +415,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/9c620049e6028ab184957b6f44416a60c6bd9805.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 579,
-                        "total_cnt_show": "000579",
-                        "holding_rate": 751,
+                        "total_cnt": 1252,
+                        "total_cnt_show": "001252",
+                        "holding_rate": 740,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
@@ -403,7 +430,9 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -415,9 +444,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/51c2739a27b89ca1360343db64fde8fe86234b59.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 550,
-                        "total_cnt_show": "000550",
-                        "holding_rate": 713,
+                        "total_cnt": 1239,
+                        "total_cnt_show": "001239",
+                        "holding_rate": 732,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
@@ -430,7 +459,9 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -442,9 +473,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/be3dcfce439546adde146cfcecd49fc9e9abe6f9.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 541,
-                        "total_cnt_show": "000541",
-                        "holding_rate": 702,
+                        "total_cnt": 1210,
+                        "total_cnt_show": "001210",
+                        "holding_rate": 715,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
@@ -457,7 +488,9 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -469,9 +502,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/22a08562d4a3b75bc9ec623d2d300d209600ce7f.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 560,
-                        "total_cnt_show": "000560",
-                        "holding_rate": 726,
+                        "total_cnt": 1197,
+                        "total_cnt_show": "001197",
+                        "holding_rate": 707,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
@@ -484,7 +517,9 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -496,9 +531,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/7f9fcf0d9e2bbfd2d3a2429071f5e7f629fe8123.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 520,
-                        "total_cnt_show": "000520",
-                        "holding_rate": 674,
+                        "total_cnt": 1193,
+                        "total_cnt_show": "001193",
+                        "holding_rate": 705,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
@@ -511,7 +546,9 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -523,9 +560,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/450825089ad1b85b5c824f833099d57246849ba6.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 557,
-                        "total_cnt_show": "000557",
-                        "holding_rate": 721,
+                        "total_cnt": 1214,
+                        "total_cnt_show": "001214",
+                        "holding_rate": 717,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
@@ -538,7 +575,9 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -550,9 +589,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/e12bd1e99bfd82868a2692c3ec836951ab75083a.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 575,
-                        "total_cnt_show": "000575",
-                        "holding_rate": 746,
+                        "total_cnt": 1306,
+                        "total_cnt_show": "001306",
+                        "holding_rate": 772,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
@@ -565,7 +604,9 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 }
             ]

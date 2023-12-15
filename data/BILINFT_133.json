@@ -5,7 +5,7 @@
         "ttl": 1,
         "data": {
             "act_title": "BML十周年收藏集",
-            "cur_time": 1690236083,
+            "cur_time": 1702648055,
             "start_time": 1689307201,
             "end_time": 2114406245,
             "pre_start_time": 1689238800,
@@ -21,20 +21,25 @@
                     "end_time": 2114406245,
                     "lottery_image": "http://i0.hdslb.com/bfs/archive/242f29cfa1a4594a9deee4675d162e2611cd0df5.png",
                     "draw_cnt": 0,
-                    "goods_id": 294,
+                    "goods_id": 9482121796608,
                     "price": 9900,
                     "goods_name": "BML十周年",
                     "lottery_desc": "【BML十周年收藏集】共包含8张精美立绘，一起踏上BML银河列车！\n* 普通款：BML2015、BML2016、BML2017、BML2018、BML2019、BML2020均分概率95%；\n* 隐藏款：BML2023·十年相伴概率4.5%、BML2023·星际启航概率0.5%。",
                     "item_total_cnt": 8,
                     "item_owned_cnt": 0,
-                    "total_sale_amount": 25271,
+                    "total_sale_amount": 42820,
                     "lottery_type": 1,
                     "effective_forever": 1,
                     "discount": {
                         "origin_price": 9900,
-                        "price": 9900
+                        "price": 900,
+                        "discount_guidance": {
+                            "guidance_text": "开通大会员首抽",
+                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                        }
                     },
-                    "free": 0
+                    "free": 0,
+                    "sale_mode": 1
                 }
             ],
             "share_info": {
@@ -54,7 +59,7 @@
                 }
             },
             "total_book_cnt": 3221,
-            "total_buy_cnt": 25271,
+            "total_buy_cnt": 42820,
             "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
             "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
             "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
@@ -64,124 +69,52 @@
             "is_collector_rank": 1,
             "collect_list": [
                 {
-                    "collect_id": 106,
+                    "collect_id": 111,
                     "start_time": 1689238800,
                     "end_time": 2114406245,
-                    "redeem_text": "抽出任意2张卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 1,
-                    "redeem_item_id": "729448",
-                    "redeem_item_name": "BML2013",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/211b2f938b816ece92425505228d5f5c20def9b7.png",
+                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                    "redeem_item_type": 3,
+                    "redeem_item_id": "55428",
+                    "redeem_item_name": "BML十周年头像框",
+                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/d85450ea23c0773d2e5652a47db0235566d2e8da.png",
                     "owned_item_amount": 0,
-                    "require_item_amount": 2,
+                    "require_item_amount": 1,
                     "has_redeemed_cnt": 0,
                     "effective_forever": 1,
                     "redeem_item_image_download": "",
                     "card_item": {
-                        "card_type_info": {
-                            "id": 729448,
-                            "name": "BML2013",
-                            "overview_image": "https://i0.hdslb.com/bfs/baselabs/211b2f938b816ece92425505228d5f5c20def9b7.png",
-                            "content": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/baselabs/211b2f938b816ece92425505228d5f5c20def9b7.png",
-                                    "gyroscope": null
-                                },
-                                "animation": null
-                            },
-                            "material_type": 1,
-                            "theme": "BML兑换",
-                            "scarcity": 10,
-                            "layout": 0,
-                            "width": 1242,
-                            "height": 1863,
-                            "face_overflow": null,
-                            "material_sub_type": 0,
-                            "overview_image_watermarks": null
-                        },
+                        "card_type_info": null,
                         "play": null,
                         "tag": null
-                    }
+                    },
+                    "jump_url": "",
+                    "redeem_cond_type": "scarcity",
+                    "remain_stock": -1,
+                    "total_stock": -1
                 },
                 {
-                    "collect_id": 107,
+                    "collect_id": 110,
                     "start_time": 1689238800,
                     "end_time": 2114406245,
-                    "redeem_text": "抽出任意4张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 1,
-                    "redeem_item_id": "729449",
-                    "redeem_item_name": "BML2014",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/0d0363de16848079cdb6e3039d8a11fb20841ba8.png",
+                    "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
+                    "redeem_item_type": 2,
+                    "redeem_item_id": "55430",
+                    "redeem_item_name": "BML十周年表情包",
+                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/f62781c266db3ebf526550272e4acdb5f38bd521.png",
                     "owned_item_amount": 0,
-                    "require_item_amount": 4,
+                    "require_item_amount": 3,
                     "has_redeemed_cnt": 0,
                     "effective_forever": 1,
                     "redeem_item_image_download": "",
                     "card_item": {
-                        "card_type_info": {
-                            "id": 729449,
-                            "name": "BML2014",
-                            "overview_image": "https://i0.hdslb.com/bfs/baselabs/0d0363de16848079cdb6e3039d8a11fb20841ba8.png",
-                            "content": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/baselabs/0d0363de16848079cdb6e3039d8a11fb20841ba8.png",
-                                    "gyroscope": null
-                                },
-                                "animation": null
-                            },
-                            "material_type": 1,
-                            "theme": "BML兑换",
-                            "scarcity": 10,
-                            "layout": 0,
-                            "width": 1242,
-                            "height": 1863,
-                            "face_overflow": null,
-                            "material_sub_type": 0,
-                            "overview_image_watermarks": null
-                        },
+                        "card_type_info": null,
                         "play": null,
                         "tag": null
-                    }
-                },
-                {
-                    "collect_id": 108,
-                    "start_time": 1689238800,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意5张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 1,
-                    "redeem_item_id": "729647",
-                    "redeem_item_name": "BML2021",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/4ee053ddf4e51241703e66d877b28399c381bde7.jpg",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": {
-                            "id": 729647,
-                            "name": "BML2021",
-                            "overview_image": "https://i0.hdslb.com/bfs/baselabs/4ee053ddf4e51241703e66d877b28399c381bde7.jpg",
-                            "content": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/baselabs/4ee053ddf4e51241703e66d877b28399c381bde7.jpg",
-                                    "gyroscope": null
-                                },
-                                "animation": null
-                            },
-                            "material_type": 1,
-                            "theme": "BML兑换",
-                            "scarcity": 10,
-                            "layout": 0,
-                            "width": 1242,
-                            "height": 1863,
-                            "face_overflow": null,
-                            "material_sub_type": 0,
-                            "overview_image_watermarks": null
-                        },
-                        "play": null,
-                        "tag": null
-                    }
+                    },
+                    "jump_url": "",
+                    "redeem_cond_type": "scarcity",
+                    "remain_stock": -1,
+                    "total_stock": -1
                 },
                 {
                     "collect_id": 109,
@@ -205,7 +138,8 @@
                             "content": {
                                 "image": {
                                     "default_image": "https://i0.hdslb.com/bfs/baselabs/c382e23413bf11475a2a20e3c6b9985d1fde81ac.jpg",
-                                    "gyroscope": null
+                                    "gyroscope": null,
+                                    "location": ""
                                 },
                                 "animation": null
                             },
@@ -217,51 +151,206 @@
                             "height": 1863,
                             "face_overflow": null,
                             "material_sub_type": 0,
-                            "overview_image_watermarks": null
+                            "overview_image_watermarks": [
+                                {
+                                    "scene": 1,
+                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/aaa47a16ad11fb6a5a98c0588a4c334425e88fb2.png"
+                                }
+                            ],
+                            "watermark_animations": null,
+                            "space_background": {
+                                "image": {
+                                    "default_image": "https://i0.hdslb.com/bfs/baselabs/c382e23413bf11475a2a20e3c6b9985d1fde81ac.jpg",
+                                    "gyroscope": null,
+                                    "location": ""
+                                },
+                                "animation": null
+                            }
                         },
                         "play": null,
                         "tag": null
-                    }
+                    },
+                    "jump_url": "",
+                    "redeem_cond_type": "scarcity",
+                    "remain_stock": -1,
+                    "total_stock": -1
                 },
                 {
-                    "collect_id": 110,
+                    "collect_id": 108,
                     "start_time": 1689238800,
                     "end_time": 2114406245,
-                    "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "55430",
-                    "redeem_item_name": "BML十周年表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/f62781c266db3ebf526550272e4acdb5f38bd521.png",
+                    "redeem_text": "抽出任意5张不同卡牌，即可领取，单UID仅可领取一次",
+                    "redeem_item_type": 1,
+                    "redeem_item_id": "729647",
+                    "redeem_item_name": "BML2021",
+                    "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/4ee053ddf4e51241703e66d877b28399c381bde7.jpg",
                     "owned_item_amount": 0,
-                    "require_item_amount": 3,
+                    "require_item_amount": 5,
                     "has_redeemed_cnt": 0,
                     "effective_forever": 1,
                     "redeem_item_image_download": "",
                     "card_item": {
-                        "card_type_info": null,
+                        "card_type_info": {
+                            "id": 729647,
+                            "name": "BML2021",
+                            "overview_image": "https://i0.hdslb.com/bfs/baselabs/4ee053ddf4e51241703e66d877b28399c381bde7.jpg",
+                            "content": {
+                                "image": {
+                                    "default_image": "https://i0.hdslb.com/bfs/baselabs/4ee053ddf4e51241703e66d877b28399c381bde7.jpg",
+                                    "gyroscope": null,
+                                    "location": ""
+                                },
+                                "animation": null
+                            },
+                            "material_type": 1,
+                            "theme": "BML兑换",
+                            "scarcity": 10,
+                            "layout": 0,
+                            "width": 1242,
+                            "height": 1863,
+                            "face_overflow": null,
+                            "material_sub_type": 0,
+                            "overview_image_watermarks": [
+                                {
+                                    "scene": 1,
+                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/4b49e93f646b472188cf0821cf4176105c40ffb7.png"
+                                }
+                            ],
+                            "watermark_animations": null,
+                            "space_background": {
+                                "image": {
+                                    "default_image": "https://i0.hdslb.com/bfs/baselabs/4ee053ddf4e51241703e66d877b28399c381bde7.jpg",
+                                    "gyroscope": null,
+                                    "location": ""
+                                },
+                                "animation": null
+                            }
+                        },
                         "play": null,
                         "tag": null
-                    }
+                    },
+                    "jump_url": "",
+                    "redeem_cond_type": "scarcity",
+                    "remain_stock": -1,
+                    "total_stock": -1
                 },
                 {
-                    "collect_id": 111,
+                    "collect_id": 107,
                     "start_time": 1689238800,
                     "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "55428",
-                    "redeem_item_name": "BML十周年头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/d85450ea23c0773d2e5652a47db0235566d2e8da.png",
+                    "redeem_text": "抽出任意4张不同卡牌，即可领取，单UID仅可领取一次",
+                    "redeem_item_type": 1,
+                    "redeem_item_id": "729449",
+                    "redeem_item_name": "BML2014",
+                    "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/0d0363de16848079cdb6e3039d8a11fb20841ba8.png",
                     "owned_item_amount": 0,
-                    "require_item_amount": 1,
+                    "require_item_amount": 4,
                     "has_redeemed_cnt": 0,
                     "effective_forever": 1,
                     "redeem_item_image_download": "",
                     "card_item": {
-                        "card_type_info": null,
+                        "card_type_info": {
+                            "id": 729449,
+                            "name": "BML2014",
+                            "overview_image": "https://i0.hdslb.com/bfs/baselabs/0d0363de16848079cdb6e3039d8a11fb20841ba8.png",
+                            "content": {
+                                "image": {
+                                    "default_image": "https://i0.hdslb.com/bfs/baselabs/0d0363de16848079cdb6e3039d8a11fb20841ba8.png",
+                                    "gyroscope": null,
+                                    "location": ""
+                                },
+                                "animation": null
+                            },
+                            "material_type": 1,
+                            "theme": "BML兑换",
+                            "scarcity": 10,
+                            "layout": 0,
+                            "width": 1242,
+                            "height": 1863,
+                            "face_overflow": null,
+                            "material_sub_type": 0,
+                            "overview_image_watermarks": [
+                                {
+                                    "scene": 1,
+                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/cabff5702de9844e0325e0ec86aaf8d8b4f38676.png"
+                                }
+                            ],
+                            "watermark_animations": null,
+                            "space_background": {
+                                "image": {
+                                    "default_image": "https://i0.hdslb.com/bfs/baselabs/0d0363de16848079cdb6e3039d8a11fb20841ba8.png",
+                                    "gyroscope": null,
+                                    "location": ""
+                                },
+                                "animation": null
+                            }
+                        },
                         "play": null,
                         "tag": null
-                    }
+                    },
+                    "jump_url": "",
+                    "redeem_cond_type": "scarcity",
+                    "remain_stock": -1,
+                    "total_stock": -1
+                },
+                {
+                    "collect_id": 106,
+                    "start_time": 1689238800,
+                    "end_time": 2114406245,
+                    "redeem_text": "抽出任意2张卡牌，即可领取，单UID仅可领取一次",
+                    "redeem_item_type": 1,
+                    "redeem_item_id": "729448",
+                    "redeem_item_name": "BML2013",
+                    "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/211b2f938b816ece92425505228d5f5c20def9b7.png",
+                    "owned_item_amount": 0,
+                    "require_item_amount": 2,
+                    "has_redeemed_cnt": 0,
+                    "effective_forever": 1,
+                    "redeem_item_image_download": "",
+                    "card_item": {
+                        "card_type_info": {
+                            "id": 729448,
+                            "name": "BML2013",
+                            "overview_image": "https://i0.hdslb.com/bfs/baselabs/211b2f938b816ece92425505228d5f5c20def9b7.png",
+                            "content": {
+                                "image": {
+                                    "default_image": "https://i0.hdslb.com/bfs/baselabs/211b2f938b816ece92425505228d5f5c20def9b7.png",
+                                    "gyroscope": null,
+                                    "location": ""
+                                },
+                                "animation": null
+                            },
+                            "material_type": 1,
+                            "theme": "BML兑换",
+                            "scarcity": 10,
+                            "layout": 0,
+                            "width": 1242,
+                            "height": 1863,
+                            "face_overflow": null,
+                            "material_sub_type": 0,
+                            "overview_image_watermarks": [
+                                {
+                                    "scene": 1,
+                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/58e0cddef696820189ac788077cbb3b468e387de.png"
+                                }
+                            ],
+                            "watermark_animations": null,
+                            "space_background": {
+                                "image": {
+                                    "default_image": "https://i0.hdslb.com/bfs/baselabs/211b2f938b816ece92425505228d5f5c20def9b7.png",
+                                    "gyroscope": null,
+                                    "location": ""
+                                },
+                                "animation": null
+                            }
+                        },
+                        "play": null,
+                        "tag": null
+                    },
+                    "jump_url": "",
+                    "redeem_cond_type": "scarcity",
+                    "remain_stock": -1,
+                    "total_stock": -1
                 }
             ],
             "display_title": "羁绊之礼",
@@ -272,7 +361,18 @@
                 "jump_url": ""
             },
             "is_can_donate": 1,
-            "is_up_chain": 1
+            "is_up_chain": 1,
+            "related_mids": null,
+            "is_vip": false,
+            "task_list": null,
+            "popup_info": null,
+            "act_desc_light": "",
+            "not_need_realname": 0,
+            "product_introduce": "",
+            "app_head_show": "",
+            "app_space_show": "",
+            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/cf69822a73e5f6ce74b2ac4cfc84c68823e8375e.png\",\"card_count\":1,\"num_color\":\"#c68d6f\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/24246e54c8539c16a4e861d13366ff037b1c2a74.png\",\"card_count\":5,\"num_color\":\"#6bb5dc\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/335b512ae9d3e9965b09e3200f4e9509131dbc7f.png\",\"card_count\":15,\"num_color\":\"#e2b56e\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/0a113bee5f9a185753cc70fd676c6b3b6faae8aa.png\",\"card_count\":30,\"num_color\":\"#ec93bd\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/82b22c0387b2dc331f78d2cd8bb8f62b589c3286.png\",\"card_count\":60,\"num_color\":\"#a970d2\"}]",
+            "topic": null
         }
     },
     "list": {
@@ -295,8 +395,8 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/c382e23413bf11475a2a20e3c6b9985d1fde81ac.jpg",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 385,
-                        "total_cnt_show": "000385",
+                        "total_cnt": 624,
+                        "total_cnt_show": "000624",
                         "holding_rate": 0,
                         "video_list": null,
                         "is_physical_orientation": 0,
@@ -305,12 +405,14 @@
                         "width": 1242,
                         "height": 1863,
                         "card_ext_text": "羁绊之礼限定",
-                        "card_img_download": "https://i0.hdslb.com/bfs/baselabs/c382e23413bf11475a2a20e3c6b9985d1fde81ac.jpg",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/aaa47a16ad11fb6a5a98c0588a4c334425e88fb2.png",
                         "video_list_download": null,
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -322,8 +424,8 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/4ee053ddf4e51241703e66d877b28399c381bde7.jpg",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 491,
-                        "total_cnt_show": "000491",
+                        "total_cnt": 788,
+                        "total_cnt_show": "000788",
                         "holding_rate": 0,
                         "video_list": null,
                         "is_physical_orientation": 0,
@@ -332,12 +434,14 @@
                         "width": 1242,
                         "height": 1863,
                         "card_ext_text": "羁绊之礼限定",
-                        "card_img_download": "https://i0.hdslb.com/bfs/baselabs/4ee053ddf4e51241703e66d877b28399c381bde7.jpg",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/4b49e93f646b472188cf0821cf4176105c40ffb7.png",
                         "video_list_download": null,
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -349,8 +453,8 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/0d0363de16848079cdb6e3039d8a11fb20841ba8.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 577,
-                        "total_cnt_show": "000577",
+                        "total_cnt": 948,
+                        "total_cnt_show": "000948",
                         "holding_rate": 0,
                         "video_list": null,
                         "is_physical_orientation": 0,
@@ -359,12 +463,14 @@
                         "width": 1242,
                         "height": 1863,
                         "card_ext_text": "羁绊之礼限定",
-                        "card_img_download": "https://i0.hdslb.com/bfs/baselabs/0d0363de16848079cdb6e3039d8a11fb20841ba8.png",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/cabff5702de9844e0325e0ec86aaf8d8b4f38676.png",
                         "video_list_download": null,
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -376,8 +482,8 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/211b2f938b816ece92425505228d5f5c20def9b7.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 1347,
-                        "total_cnt_show": "001347",
+                        "total_cnt": 2220,
+                        "total_cnt_show": "002220",
                         "holding_rate": 0,
                         "video_list": null,
                         "is_physical_orientation": 0,
@@ -386,12 +492,14 @@
                         "width": 1242,
                         "height": 1863,
                         "card_ext_text": "羁绊之礼限定",
-                        "card_img_download": "https://i0.hdslb.com/bfs/baselabs/211b2f938b816ece92425505228d5f5c20def9b7.png",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/58e0cddef696820189ac788077cbb3b468e387de.png",
                         "video_list_download": null,
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -403,13 +511,13 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/9ab274eeba21a4d2487c0333f794a4c371e9a575.png",
                         "card_type": 2,
                         "card_id_list": null,
-                        "total_cnt": 1186,
-                        "total_cnt_show": "001186",
-                        "holding_rate": 471,
+                        "total_cnt": 1955,
+                        "total_cnt_show": "001955",
+                        "holding_rate": 458,
                         "video_list": [
-                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/1b/ll/_00003qsurrene75mb2o1l62g5edll1b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1690243284&gen=playurlv2&os=alibv&oi=0&trid=fbb5f82ffa14424f8ce442edf1bd2821B&mid=0&platform=html5&upsig=42c05ee7163011472a2f98931fdaf987&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000",
-                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/1b/ll/_00003qsurrene75mb2o1l62g5edll1b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1690243284&gen=playurlv2&os=alibv&oi=0&trid=fbb5f82ffa14424f8ce442edf1bd2821B&mid=0&platform=html5&upsig=42c05ee7163011472a2f98931fdaf987&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000",
-                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/1b/ll/_00003qsurrene75mb2o1l62g5edll1b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1690243284&gen=playurlv2&os=alibbv&oi=0&trid=fbb5f82ffa14424f8ce442edf1bd2821B&mid=0&platform=html5&upsig=0acbe956605a2335a9ac5c6d7090ed42&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000"
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/1b/ll/_00003qsurrene75mb2o1l62g5edll1b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655223&gen=playurlv2&os=alibv&oi=0&trid=9b1dc20829074840b3ceae44076acf34B&mid=0&platform=html5&upsig=cde9dbe961889891be74bf8768ae1cba&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/1b/ll/_00003qsurrene75mb2o1l62g5edll1b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655223&gen=playurlv2&os=alibv&oi=0&trid=9b1dc20829074840b3ceae44076acf34B&mid=0&platform=html5&upsig=cde9dbe961889891be74bf8768ae1cba&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/1b/ll/_00003qsurrene75mb2o1l62g5edll1b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655223&gen=playurlv2&os=alibbv&oi=0&trid=9b1dc20829074840b3ceae44076acf34B&mid=0&platform=html5&upsig=07a41e0cd580e11802482d02db8a8ea4&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
                         ],
                         "is_physical_orientation": 0,
                         "card_scarcity": 20,
@@ -417,16 +525,18 @@
                         "width": 1242,
                         "height": 1862,
                         "card_ext_text": "",
-                        "card_img_download": "https://i0.hdslb.com/bfs/baselabs/9ab274eeba21a4d2487c0333f794a4c371e9a575.png",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/c6335cdfb2939a43b663ff703f5d66c6088188fa.png",
                         "video_list_download": [
-                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/1b/ll/_00003qsurrene75mb2o1l62g5edll1b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1690243284&gen=playurlv2&os=alibv&oi=0&trid=fbb5f82ffa14424f8ce442edf1bd2821B&mid=0&platform=html5&upsig=42c05ee7163011472a2f98931fdaf987&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000",
-                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/1b/ll/_00003qsurrene75mb2o1l62g5edll1b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1690243284&gen=playurlv2&os=alibv&oi=0&trid=fbb5f82ffa14424f8ce442edf1bd2821B&mid=0&platform=html5&upsig=42c05ee7163011472a2f98931fdaf987&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000",
-                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/1b/ll/_00003qsurrene75mb2o1l62g5edll1b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1690243284&gen=playurlv2&os=alibbv&oi=0&trid=fbb5f82ffa14424f8ce442edf1bd2821B&mid=0&platform=html5&upsig=0acbe956605a2335a9ac5c6d7090ed42&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000"
+                            "https://upos-sz-mirrorcos.bilivideo.com/panguxcodeboss/digital_watermark/ob/en/_00000l2jfm6tfu35p2l003sjnwpenob-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655223&gen=playurlv2&os=cosbv&oi=0&trid=9b1dc20829074840b3ceae44076acf34B&mid=0&platform=html5&upsig=f82e577a41f8ba7c4393a1f5a0b04687&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorcos.bilivideo.com/panguxcodeboss/digital_watermark/ob/en/_00000l2jfm6tfu35p2l003sjnwpenob-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655223&gen=playurlv2&os=cosbv&oi=0&trid=9b1dc20829074840b3ceae44076acf34B&mid=0&platform=html5&upsig=f82e577a41f8ba7c4393a1f5a0b04687&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorcosb.bilivideo.com/panguxcodeboss/digital_watermark/ob/en/_00000l2jfm6tfu35p2l003sjnwpenob-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655223&gen=playurlv2&os=cosbbv&oi=0&trid=9b1dc20829074840b3ceae44076acf34B&mid=0&platform=html5&upsig=4cc264a7a05b790c97ebb5463e6b78d9&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
                         ],
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -438,13 +548,13 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/48e7877d4cb4278d79053e530aa3ec477866a544.jpg",
                         "card_type": 2,
                         "card_id_list": null,
-                        "total_cnt": 117,
-                        "total_cnt_show": "000117",
-                        "holding_rate": 47,
+                        "total_cnt": 188,
+                        "total_cnt_show": "000188",
+                        "holding_rate": 44,
                         "video_list": [
-                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/fb/1z/_00000lpoiji5d71m11z74fpaf9m1zfb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1690243284&gen=playurlv2&os=08cbv&oi=0&trid=6b663885af884ff28030453198f4cc49B&mid=0&platform=html5&upsig=2d6519acac2ed7d48e5240199f5845f1&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000",
-                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/fb/1z/_00000lpoiji5d71m11z74fpaf9m1zfb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1690243284&gen=playurlv2&os=08cbv&oi=0&trid=6b663885af884ff28030453198f4cc49B&mid=0&platform=html5&upsig=2d6519acac2ed7d48e5240199f5845f1&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000",
-                            "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/fb/1z/_00000lpoiji5d71m11z74fpaf9m1zfb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1690243284&gen=playurlv2&os=hwbbv&oi=0&trid=6b663885af884ff28030453198f4cc49B&mid=0&platform=html5&upsig=464646740363b7fa453c42cbaaf32e0d&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000"
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/fb/1z/_00000lpoiji5d71m11z74fpaf9m1zfb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655229&gen=playurlv2&os=08cbv&oi=0&trid=5f9c31d1f6414385b0cdf54c6df90e29B&mid=0&platform=html5&upsig=02c41d7dcb7b19e086bc480c37256176&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/fb/1z/_00000lpoiji5d71m11z74fpaf9m1zfb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655229&gen=playurlv2&os=08cbv&oi=0&trid=5f9c31d1f6414385b0cdf54c6df90e29B&mid=0&platform=html5&upsig=02c41d7dcb7b19e086bc480c37256176&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/fb/1z/_00000lpoiji5d71m11z74fpaf9m1zfb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655229&gen=playurlv2&os=hwbbv&oi=0&trid=5f9c31d1f6414385b0cdf54c6df90e29B&mid=0&platform=html5&upsig=52fdf6dc879fefc0731e9ec3a9be3063&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
                         ],
                         "is_physical_orientation": 0,
                         "card_scarcity": 30,
@@ -452,16 +562,18 @@
                         "width": 1242,
                         "height": 1862,
                         "card_ext_text": "",
-                        "card_img_download": "https://i0.hdslb.com/bfs/baselabs/48e7877d4cb4278d79053e530aa3ec477866a544.jpg",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/23a2d5df9ed67a8e736106d3fbcecf5d75ca5ad9.png",
                         "video_list_download": [
-                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/fb/1z/_00000lpoiji5d71m11z74fpaf9m1zfb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1690243284&gen=playurlv2&os=08cbv&oi=0&trid=6b663885af884ff28030453198f4cc49B&mid=0&platform=html5&upsig=2d6519acac2ed7d48e5240199f5845f1&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000",
-                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/fb/1z/_00000lpoiji5d71m11z74fpaf9m1zfb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1690243284&gen=playurlv2&os=08cbv&oi=0&trid=6b663885af884ff28030453198f4cc49B&mid=0&platform=html5&upsig=2d6519acac2ed7d48e5240199f5845f1&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000",
-                            "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/fb/1z/_00000lpoiji5d71m11z74fpaf9m1zfb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1690243284&gen=playurlv2&os=hwbbv&oi=0&trid=6b663885af884ff28030453198f4cc49B&mid=0&platform=html5&upsig=464646740363b7fa453c42cbaaf32e0d&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000"
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark/zb/ao/_0000090xabq17nolc2wvhu3o1skaozb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655229&gen=playurlv2&os=alibv&oi=0&trid=5f9c31d1f6414385b0cdf54c6df90e29B&mid=0&platform=html5&upsig=0bddaa50a8a2bd8eecb32c0fe524b52f&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark/zb/ao/_0000090xabq17nolc2wvhu3o1skaozb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655229&gen=playurlv2&os=alibv&oi=0&trid=5f9c31d1f6414385b0cdf54c6df90e29B&mid=0&platform=html5&upsig=0bddaa50a8a2bd8eecb32c0fe524b52f&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/digital_watermark/zb/ao/_0000090xabq17nolc2wvhu3o1skaozb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655229&gen=playurlv2&os=alibbv&oi=0&trid=5f9c31d1f6414385b0cdf54c6df90e29B&mid=0&platform=html5&upsig=7bbb2c18dbd6afd2089b063811765044&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
                         ],
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -473,9 +585,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/ba45f08ebec9b4cf3d15af5e947eb146d44eb8d8.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 4002,
-                        "total_cnt_show": "004002",
-                        "holding_rate": 1586,
+                        "total_cnt": 6726,
+                        "total_cnt_show": "006726",
+                        "holding_rate": 1574,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
@@ -483,12 +595,14 @@
                         "width": 1242,
                         "height": 1863,
                         "card_ext_text": "",
-                        "card_img_download": "https://i0.hdslb.com/bfs/baselabs/ba45f08ebec9b4cf3d15af5e947eb146d44eb8d8.png",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/cc4bd5e3cd993ce179d4678425a4d562b63c7c8b.png",
                         "video_list_download": null,
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -500,9 +614,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/bb170f5d9cf586732a63d09aa74316fb860e9e2c.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 3959,
-                        "total_cnt_show": "003959",
-                        "holding_rate": 1570,
+                        "total_cnt": 6716,
+                        "total_cnt_show": "006716",
+                        "holding_rate": 1572,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
@@ -510,12 +624,14 @@
                         "width": 1242,
                         "height": 1863,
                         "card_ext_text": "",
-                        "card_img_download": "https://i0.hdslb.com/bfs/baselabs/bb170f5d9cf586732a63d09aa74316fb860e9e2c.png",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/1a2eae373e1ae7e748a9aba3bc8c0b7bea1b34ee.png",
                         "video_list_download": null,
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -527,8 +643,8 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/bfcfcb94f1584c5ff76a240f76f13183da062e28.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 3966,
-                        "total_cnt_show": "003966",
+                        "total_cnt": 6718,
+                        "total_cnt_show": "006718",
                         "holding_rate": 1573,
                         "video_list": null,
                         "is_physical_orientation": 0,
@@ -537,12 +653,14 @@
                         "width": 1242,
                         "height": 1863,
                         "card_ext_text": "",
-                        "card_img_download": "https://i0.hdslb.com/bfs/baselabs/bfcfcb94f1584c5ff76a240f76f13183da062e28.png",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/92ef9ca487eb0534417e965b59f9171ca2e26d78.png",
                         "video_list_download": null,
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -554,9 +672,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/8aac584570623b4d1ab67a2a5cf1038c19132f50.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 3957,
-                        "total_cnt_show": "003957",
-                        "holding_rate": 1569,
+                        "total_cnt": 6810,
+                        "total_cnt_show": "006810",
+                        "holding_rate": 1594,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
@@ -564,12 +682,14 @@
                         "width": 1242,
                         "height": 1863,
                         "card_ext_text": "",
-                        "card_img_download": "https://i0.hdslb.com/bfs/baselabs/8aac584570623b4d1ab67a2a5cf1038c19132f50.png",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/f6d6408cb3707f93ee6ee2ec377aa3daacb0100d.png",
                         "video_list_download": null,
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -581,9 +701,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/bc060800d4840ec6c12923dfe7d917efda7bba81.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 3953,
-                        "total_cnt_show": "003953",
-                        "holding_rate": 1568,
+                        "total_cnt": 6756,
+                        "total_cnt_show": "006756",
+                        "holding_rate": 1582,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
@@ -591,12 +711,14 @@
                         "width": 1242,
                         "height": 1863,
                         "card_ext_text": "",
-                        "card_img_download": "https://i0.hdslb.com/bfs/baselabs/bc060800d4840ec6c12923dfe7d917efda7bba81.png",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/653f0244178028522365de59f2606788dd88070d.png",
                         "video_list_download": null,
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -608,9 +730,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/f7f7dcd8fc3b135f2decd14c71b4b78580e1a127.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 4085,
-                        "total_cnt_show": "004085",
-                        "holding_rate": 1620,
+                        "total_cnt": 6860,
+                        "total_cnt_show": "006860",
+                        "holding_rate": 1606,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
@@ -618,12 +740,14 @@
                         "width": 1242,
                         "height": 1863,
                         "card_ext_text": "",
-                        "card_img_download": "https://i0.hdslb.com/bfs/baselabs/f7f7dcd8fc3b135f2decd14c71b4b78580e1a127.png",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/74108acdd4e9f69f602b087282d2618de024bafc.png",
                         "video_list_download": null,
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 }
             ]

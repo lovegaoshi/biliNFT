@@ -4,14 +4,14 @@
         "message": "0",
         "ttl": 1,
         "data": {
-            "act_title": "画猫·历史宝藏收藏集",
-            "cur_time": 1694392444,
+            "act_title": "《画猫》系列收藏集",
+            "cur_time": 1702647985,
             "start_time": 1694152800,
             "end_time": 2114406245,
             "pre_start_time": 1694066400,
             "pre_end_time": 1694152799,
             "is_booked": 0,
-            "act_desc": "https://i0.hdslb.com/bfs/garb/478bd157a55fa4509647206e56d913e25e7c1dae.png",
+            "act_desc": "",
             "lottery_list": [
                 {
                     "lottery_id": 103,
@@ -27,7 +27,7 @@
                     "lottery_desc": "【画猫·历史宝藏】收藏集共包含16张立绘；\n* 普通款：青铜立人像、青花海水纹香炉、宋金项饰、Ⅰ号大型铜神树、绢衣彩绘木俑、真珠舍利宝幢、越王勾践剑、《上阳台帖》均分概率86%，贾湖骨笛、“彩凤鸣歧”七弦琴、大报恩寺琉璃塔拱门、妇好鸮尊均分概率9%；\n* 隐藏款：聂耳小提琴、鹿王本生图均分概率4.5%，鎏金银竹节铜熏炉、“见日之光”镜均分概率0.5%。",
                     "item_total_cnt": 16,
                     "item_owned_cnt": 0,
-                    "total_sale_amount": 5069,
+                    "total_sale_amount": 7305,
                     "lottery_type": 1,
                     "effective_forever": 1,
                     "discount": {
@@ -38,7 +38,36 @@
                             "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
                         }
                     },
-                    "free": 0
+                    "free": 0,
+                    "sale_mode": 1
+                },
+                {
+                    "lottery_id": 226,
+                    "lottery_name": "归汉",
+                    "display_time": 1702526400,
+                    "start_time": 1702612800,
+                    "end_time": 2114406245,
+                    "lottery_image": "http://i0.hdslb.com/bfs/archive/68bb0fb283b62c0e2ea266305de9ec29fabbc1e6.png",
+                    "draw_cnt": 0,
+                    "goods_id": 28458595937280,
+                    "price": 9900,
+                    "goods_name": "归汉",
+                    "lottery_desc": "*【普通款】共包含北国有佳人、道可道，非常道、鼓吹乐、汉朝的菜园子、花艺、火上的美食艺术、霍去病封狼居胥、麻沸散、美人红妆色正鲜、司马迁与《史记》、舞姿蹁跹戚夫人、掌上飞燕12张精美立绘，均分概率95%；\n*【隐藏款】：亥时、子时、虞姬均分概率4.5%；昭君出塞均分概率0.5%。\n*单个用户400抽保底必出昭君出塞，若1-399抽中已获得任一，则重置计数。",
+                    "item_total_cnt": 16,
+                    "item_owned_cnt": 0,
+                    "total_sale_amount": 1006,
+                    "lottery_type": 2,
+                    "effective_forever": 1,
+                    "discount": {
+                        "origin_price": 9900,
+                        "price": 4900,
+                        "discount_guidance": {
+                            "guidance_text": "开通大会员首抽",
+                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                        }
+                    },
+                    "free": 0,
+                    "sale_mode": 1
                 }
             ],
             "share_info": {
@@ -58,7 +87,7 @@
                 }
             },
             "total_book_cnt": 874,
-            "total_buy_cnt": 5069,
+            "total_buy_cnt": 8311,
             "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
             "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
             "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
@@ -68,36 +97,14 @@
             "is_collector_rank": 1,
             "collect_list": [
                 {
-                    "collect_id": 309,
-                    "start_time": 1694066400,
+                    "collect_id": 634,
+                    "start_time": 1702526400,
                     "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "58976",
-                    "redeem_item_name": "画猫·历史宝藏头像挂件",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/079cd45403d9e7c3b9d7ee6f445168ddff7aa951.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity"
-                },
-                {
-                    "collect_id": 312,
-                    "start_time": 1694066400,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意2张不同卡牌，即可领取，单UID仅可领取一次",
+                    "redeem_text": "在《归汉》中抽出任意2张不同卡牌，即可领取，单UID仅可领取一次",
                     "redeem_item_type": 5,
-                    "redeem_item_id": "58977",
-                    "redeem_item_name": "画猫·历史宝藏收藏集进度条",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/6c94d584c0410cfe51373978c465ab4b87428773.png",
+                    "redeem_item_id": "64789",
+                    "redeem_item_name": "画猫·归汉专属进度条",
+                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/ffc037b7d33f25d443b298bc9613baf4bf0feb11.png",
                     "owned_item_amount": 0,
                     "require_item_amount": 2,
                     "has_redeemed_cnt": 0,
@@ -109,7 +116,105 @@
                         "tag": null
                     },
                     "jump_url": "",
-                    "redeem_cond_type": "scarcity"
+                    "redeem_cond_type": "card_type_id",
+                    "remain_stock": -1,
+                    "total_stock": -1
+                },
+                {
+                    "collect_id": 652,
+                    "start_time": 1702526400,
+                    "end_time": 2114406245,
+                    "redeem_text": "在《归汉》中抽出任意3张不同卡牌，即可领取，单UID仅可领取一次。",
+                    "redeem_item_type": 5,
+                    "redeem_item_id": "65034",
+                    "redeem_item_name": "画猫·归汉表情包",
+                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/3188a6e87ac125cac2504b5c14f93fe34ed28b5a.png",
+                    "owned_item_amount": 0,
+                    "require_item_amount": 3,
+                    "has_redeemed_cnt": 0,
+                    "effective_forever": 1,
+                    "redeem_item_image_download": "",
+                    "card_item": {
+                        "card_type_info": null,
+                        "play": null,
+                        "tag": null
+                    },
+                    "jump_url": "",
+                    "redeem_cond_type": "card_type_id",
+                    "remain_stock": -1,
+                    "total_stock": -1
+                },
+                {
+                    "collect_id": 637,
+                    "start_time": 1702526400,
+                    "end_time": 2114406245,
+                    "redeem_text": "在《归汉》中抽出任意4张不同卡牌，即可领取，单UID仅可领取一次。",
+                    "redeem_item_type": 5,
+                    "redeem_item_id": "64792",
+                    "redeem_item_name": "画猫·归汉个性主题",
+                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/b55f7bc569269226910af491c329ee663a4cdbad.png",
+                    "owned_item_amount": 0,
+                    "require_item_amount": 4,
+                    "has_redeemed_cnt": 0,
+                    "effective_forever": 1,
+                    "redeem_item_image_download": "",
+                    "card_item": {
+                        "card_type_info": null,
+                        "play": null,
+                        "tag": null
+                    },
+                    "jump_url": "",
+                    "redeem_cond_type": "card_type_id",
+                    "remain_stock": -1,
+                    "total_stock": -1
+                },
+                {
+                    "collect_id": 636,
+                    "start_time": 1702526400,
+                    "end_time": 2114406245,
+                    "redeem_text": "在《归汉》中抽出任意2张隐藏卡牌，即可领取，单UID仅可领取一次。",
+                    "redeem_item_type": 3,
+                    "redeem_item_id": "64791",
+                    "redeem_item_name": "画猫·归汉专属新年头像框",
+                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/4e22c892d98f642bdb9312cba925d7fb6d611192.png",
+                    "owned_item_amount": 0,
+                    "require_item_amount": 2,
+                    "has_redeemed_cnt": 0,
+                    "effective_forever": 1,
+                    "redeem_item_image_download": "",
+                    "card_item": {
+                        "card_type_info": null,
+                        "play": null,
+                        "tag": null
+                    },
+                    "jump_url": "",
+                    "redeem_cond_type": "card_type_id",
+                    "remain_stock": -1,
+                    "total_stock": -1
+                },
+                {
+                    "collect_id": 635,
+                    "start_time": 1702526400,
+                    "end_time": 2114406245,
+                    "redeem_text": "在《归汉》中抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次。",
+                    "redeem_item_type": 3,
+                    "redeem_item_id": "64790",
+                    "redeem_item_name": "画猫·归汉专属头像框",
+                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/f7adab7a91f29c80a730814b90701a8e026236f0.png",
+                    "owned_item_amount": 0,
+                    "require_item_amount": 1,
+                    "has_redeemed_cnt": 0,
+                    "effective_forever": 1,
+                    "redeem_item_image_download": "",
+                    "card_item": {
+                        "card_type_info": null,
+                        "play": null,
+                        "tag": null
+                    },
+                    "jump_url": "",
+                    "redeem_cond_type": "card_type_id",
+                    "remain_stock": -1,
+                    "total_stock": -1
                 },
                 {
                     "collect_id": 313,
@@ -131,25 +236,79 @@
                         "tag": null
                     },
                     "jump_url": "",
-                    "redeem_cond_type": "scarcity"
+                    "redeem_cond_type": "scarcity",
+                    "remain_stock": -1,
+                    "total_stock": -1
+                },
+                {
+                    "collect_id": 312,
+                    "start_time": 1694066400,
+                    "end_time": 2114406245,
+                    "redeem_text": "抽出任意2张不同卡牌，即可领取，单UID仅可领取一次",
+                    "redeem_item_type": 5,
+                    "redeem_item_id": "58977",
+                    "redeem_item_name": "画猫·历史宝藏收藏集进度条",
+                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/6c94d584c0410cfe51373978c465ab4b87428773.png",
+                    "owned_item_amount": 0,
+                    "require_item_amount": 2,
+                    "has_redeemed_cnt": 0,
+                    "effective_forever": 1,
+                    "redeem_item_image_download": "",
+                    "card_item": {
+                        "card_type_info": null,
+                        "play": null,
+                        "tag": null
+                    },
+                    "jump_url": "",
+                    "redeem_cond_type": "scarcity",
+                    "remain_stock": -1,
+                    "total_stock": -1
+                },
+                {
+                    "collect_id": 309,
+                    "start_time": 1694066400,
+                    "end_time": 2114406245,
+                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                    "redeem_item_type": 3,
+                    "redeem_item_id": "58976",
+                    "redeem_item_name": "画猫·历史宝藏头像挂件",
+                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/079cd45403d9e7c3b9d7ee6f445168ddff7aa951.png",
+                    "owned_item_amount": 0,
+                    "require_item_amount": 1,
+                    "has_redeemed_cnt": 0,
+                    "effective_forever": 1,
+                    "redeem_item_image_download": "",
+                    "card_item": {
+                        "card_type_info": null,
+                        "play": null,
+                        "tag": null
+                    },
+                    "jump_url": "",
+                    "redeem_cond_type": "scarcity",
+                    "remain_stock": -1,
+                    "total_stock": -1
                 }
             ],
             "display_title": "羁绊之礼",
             "effective_forever": 1,
             "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "title": "《画猫·归汉》实体收藏卡",
+                "guide_content": "精美延续，会员购惊喜热卖中",
+                "jump_url": "https://b23.tv/jkOVeY1"
             },
             "is_can_donate": 1,
             "is_up_chain": 1,
-            "related_mids": [
-                ""
-            ],
+            "related_mids": null,
             "is_vip": false,
             "task_list": null,
             "popup_info": null,
-            "act_desc_light": ""
+            "act_desc_light": "",
+            "not_need_realname": 0,
+            "product_introduce": "产品介绍：\n跟随萌猫，漫步大汉盛世~超人气古风IP画猫正版授权，哔哩哔哩携手集卡社重磅推出《画猫·归汉》 装扮收藏集！全新卡面惊艳登场，古风拟人萌猫华丽演绎大汉雄风！B站精美主题装扮，专属勋章、头像框、进度条、表情包五大集卡奖励惊喜降临！让我们跟随哈基米一起梦回大汉，开启你的收集之旅吧~\n\nIP介绍：\n由天闻角川策划、插画师苏徵楼绘制的《画猫·归汉：汉朝风情绘卷》是以猫拟人，用千姿百态的猫咪演绎汉朝盛世的插画集。凭借猫与历史题材的破壁结合，深得市场口碑与年轻人热爱，成为国内超人气古风IP，更是被著名国画家戴敦邦、中国美术家协会理事金城、少年儿童文学出版社美术总监赵晓音、儿童文学作家曹文芳等联袂推荐！本画集向读者展现出民风民俗、名臣将士、绝代佳人、一代曲艺、文化传承等一系列独特的汉朝风貌。",
+            "app_head_show": "https://i0.hdslb.com/bfs/garb/a20cd258dae6cca87be96db04ab439a4401c27b5.jpg",
+            "app_space_show": "https://i0.hdslb.com/bfs/garb/a20cd258dae6cca87be96db04ab439a4401c27b5.jpg",
+            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/0762333065b392edf7d23b2ddbd184dbb7c8cdca.png\",\"card_count\":1,\"num_color\":\"#fa8d9f\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/18590a89038f487fa35c2b62b93633b6877dc33e.png\",\"card_count\":5,\"num_color\":\"#91cde9\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/26b1fbcbb50da8a4c2f35766e883b40da9e6818c.png\",\"card_count\":15,\"num_color\":\"#ff955b\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/c1daf291851ebde509fda1691481a25d2fab0816.png\",\"card_count\":30,\"num_color\":\"#97b854\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/2077670a00bf21df8154fbee5dbf49953272fca0.png\",\"card_count\":60,\"num_color\":\"#9c97d7\"}]",
+            "topic": null
         }
     },
     "list": {
@@ -160,9 +319,133 @@
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/c24524fc78f349956d7028bb4278bfa5a6491026.jpg",
-            "total_item_cnt": 16,
+            "total_item_cnt": 32,
             "owned_item_cnt": 0,
             "item_list": [
+                {
+                    "item_type": 1,
+                    "item_scarcity": 30,
+                    "card_item": {
+                        "card_type_id": 1165881,
+                        "card_name": "昭君出塞",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/b8d705105b0524755646a13791afabb389e32f4a.png",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 6,
+                        "total_cnt_show": "000006",
+                        "holding_rate": 8,
+                        "video_list": [
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/qb/34/_00001y6zy51llwpgw294rj9kwcp34qb-1-152210110000.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655153&gen=playurlv2&os=08cbv&oi=0&trid=663a4631d5804dc9b7ceb9a44550753fB&mid=0&platform=html5&upsig=9e529f63c79b396f56ed1382753b1863&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/qb/34/_00001y6zy51llwpgw294rj9kwcp34qb-1-152210110000.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655153&gen=playurlv2&os=08cbv&oi=0&trid=663a4631d5804dc9b7ceb9a44550753fB&mid=0&platform=html5&upsig=9e529f63c79b396f56ed1382753b1863&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/qb/34/_00001y6zy51llwpgw294rj9kwcp34qb-1-152210110000.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655153&gen=playurlv2&os=hwbbv&oi=0&trid=663a4631d5804dc9b7ceb9a44550753fB&mid=0&platform=html5&upsig=be5110fa11a7754ecf0c3b837875271e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 30,
+                        "is_mute": 1,
+                        "width": 848,
+                        "height": 1280,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/2aef45f8927d673af6ebc66b3e587e184fcd36ac.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermarkmb/vh/_0000100lei7t436uk1yp84hbz8mvhmb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655153&gen=playurlv2&os=08cbv&oi=0&trid=663a4631d5804dc9b7ceb9a44550753fB&mid=0&platform=html5&upsig=136979d27c73be7911f892284407473a&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermarkmb/vh/_0000100lei7t436uk1yp84hbz8mvhmb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655153&gen=playurlv2&os=08cbv&oi=0&trid=663a4631d5804dc9b7ceb9a44550753fB&mid=0&platform=html5&upsig=136979d27c73be7911f892284407473a&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/digital_watermarkmb/vh/_0000100lei7t436uk1yp84hbz8mvhmb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655153&gen=playurlv2&os=hwbbv&oi=0&trid=663a4631d5804dc9b7ceb9a44550753fB&mid=0&platform=html5&upsig=557c5e9cc903dd36344f9664118671aa&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 30,
+                    "card_item": {
+                        "card_type_id": 1165880,
+                        "card_name": "子时",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/23db80596dc0c2d0a55fb5fce3b3abb0c2f2608b.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 16,
+                        "total_cnt_show": "000016",
+                        "holding_rate": 20,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 20,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/9f7f7a4fc230973d3677101c7a469d1954df6e43.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 30,
+                    "card_item": {
+                        "card_type_id": 1165879,
+                        "card_name": "虞姬",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/60d46729ec3d96810a8d4989319a08d911988eac.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 21,
+                        "total_cnt_show": "000021",
+                        "holding_rate": 26,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 20,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/5b18cadf2e15047bd9f1d1ec63c480524116c415.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 30,
+                    "card_item": {
+                        "card_type_id": 1165878,
+                        "card_name": "亥时",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/f548d13341126ccbd3e66ca1e994309dcdba7203.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 15,
+                        "total_cnt_show": "000015",
+                        "holding_rate": 18,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 20,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/30f465e561bc7455f874be4a83d04f5ee6cb22ce.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
                 {
                     "item_type": 1,
                     "item_scarcity": 30,
@@ -172,9 +455,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/d6ad98f93429cea922b13bc254abe2269cce6bd6.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 124,
-                        "total_cnt_show": "000124",
-                        "holding_rate": 244,
+                        "total_cnt": 181,
+                        "total_cnt_show": "000181",
+                        "holding_rate": 217,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 30,
@@ -187,7 +470,9 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -199,9 +484,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/d045f69f3af53e9549da058dec32e33c6210c94f.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 117,
-                        "total_cnt_show": "000117",
-                        "holding_rate": 230,
+                        "total_cnt": 172,
+                        "total_cnt_show": "000172",
+                        "holding_rate": 205,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 30,
@@ -214,7 +499,9 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -226,9 +513,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/07052b87c85d00fcacc8c1bd509357e440d37f76.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 19,
-                        "total_cnt_show": "000019",
-                        "holding_rate": 38,
+                        "total_cnt": 25,
+                        "total_cnt_show": "000025",
+                        "holding_rate": 30,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 40,
@@ -241,7 +528,9 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -253,9 +542,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/784357fb5b73ac000f47d46aae16c5127b91c8f7.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 20,
-                        "total_cnt_show": "000020",
-                        "holding_rate": 40,
+                        "total_cnt": 27,
+                        "total_cnt_show": "000027",
+                        "holding_rate": 33,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 40,
@@ -268,7 +557,357 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1165877,
+                        "card_name": "掌上飞燕",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/69cedf4cb1f203d8f097870fd93bda6623acf849.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 73,
+                        "total_cnt_show": "000073",
+                        "holding_rate": 88,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/af10c85172b688d4e0849b38cf36a4ffbf5e18bb.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1165876,
+                        "card_name": "舞姿蹁跹戚夫人",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/07ccb38171406fa9a8257f14848d1025e0c7323a.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 81,
+                        "total_cnt_show": "000081",
+                        "holding_rate": 98,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/4171f778d7d94a03dc8c941e98c3981201dd1412.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1165875,
+                        "card_name": "司马迁与《史记》",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/3003b6b4999650bf314ef20c5b5317a9e81a33b8.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 85,
+                        "total_cnt_show": "000085",
+                        "holding_rate": 102,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/4aefc904eef72f91d9d7573b70f1fb2fd585d061.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1165874,
+                        "card_name": "美人红妆色正鲜",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/b8b5d325220f91a9a3c2a863addeecf4be104fd3.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 86,
+                        "total_cnt_show": "000086",
+                        "holding_rate": 104,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/cc527e0e2f4bde46754f2c81435ea695dad3f733.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1165873,
+                        "card_name": "麻沸散",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/6e5ee571fd900af7650af298beb82dbeaa28ddd5.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 79,
+                        "total_cnt_show": "000079",
+                        "holding_rate": 95,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/64b83eea50613dca92cca2ae1464345514675f95.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1165872,
+                        "card_name": "霍去病封狼居胥",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/77900a8131ecb3ccbc6bcdb60ea62580e7846bc5.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 82,
+                        "total_cnt_show": "000082",
+                        "holding_rate": 99,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/f9689a9e74763d3395883c9e3b73796a1849195d.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1165871,
+                        "card_name": "火上的美食艺术",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/e47c120b5a15583ae6a01e7058b7199016b3eaf6.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 72,
+                        "total_cnt_show": "000072",
+                        "holding_rate": 87,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/f1598c2a8107c515d1c0056d7c8cf2361e51765b.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1165870,
+                        "card_name": "花艺",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/c88695532a1dd19db40999a7cdf940d7abf4e970.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 73,
+                        "total_cnt_show": "000073",
+                        "holding_rate": 88,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/640f9c6ca990e753fe6002788a76415fa66682a9.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1165869,
+                        "card_name": "汉朝的菜园子",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/da448aa9cd04930f0212fa86cf15df52f2a71308.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 95,
+                        "total_cnt_show": "000095",
+                        "holding_rate": 114,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/cd100cbd788e15efb27a03f25e7da1c315ba5b9e.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1165868,
+                        "card_name": "鼓吹乐",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/25e5c7f7cec8d8a0ed661fe364c86a6c750f2a89.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 87,
+                        "total_cnt_show": "000087",
+                        "holding_rate": 105,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/05d515e07efd7a9cd2b9f9e4edf9034beec94311.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1165867,
+                        "card_name": "道可道，非常道",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/70f7160389ca09c44259abccf318214c828dbeb2.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 90,
+                        "total_cnt_show": "000090",
+                        "holding_rate": 108,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/504551568dc715f92b459aebfd76b175ae8f8648.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1165866,
+                        "card_name": "北国有佳人",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/fa653c84a3070124e8974287646c44997a76f0f7.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 76,
+                        "total_cnt_show": "000076",
+                        "holding_rate": 92,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/68095b44665ae4014b273eb9a53df6095630ccae.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -280,9 +919,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/9b559c48396677774d15e0e13a9c303735c0a9b1.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 508,
-                        "total_cnt_show": "000508",
-                        "holding_rate": 995,
+                        "total_cnt": 746,
+                        "total_cnt_show": "000746",
+                        "holding_rate": 890,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
@@ -295,7 +934,9 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -307,9 +948,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/aa9b0885d6a6443827f35b9d761bedb62e7bf69e.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 542,
-                        "total_cnt_show": "000542",
-                        "holding_rate": 1064,
+                        "total_cnt": 778,
+                        "total_cnt_show": "000778",
+                        "holding_rate": 929,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
@@ -322,7 +963,9 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -334,9 +977,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/c8948e4b1c7ffd2fd3e88838d46d940f9fbf69a5.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 583,
-                        "total_cnt_show": "000583",
-                        "holding_rate": 1147,
+                        "total_cnt": 842,
+                        "total_cnt_show": "000842",
+                        "holding_rate": 1006,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
@@ -349,7 +992,9 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -361,9 +1006,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/41e8b1894a803081a426dbfa6c4e878ff534d97b.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 564,
-                        "total_cnt_show": "000564",
-                        "holding_rate": 1105,
+                        "total_cnt": 784,
+                        "total_cnt_show": "000784",
+                        "holding_rate": 938,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
@@ -376,7 +1021,9 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -388,9 +1035,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/8c90f6a644daa7bbb744a262ed4f8ba5102d81e5.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 521,
-                        "total_cnt_show": "000521",
-                        "holding_rate": 1023,
+                        "total_cnt": 779,
+                        "total_cnt_show": "000779",
+                        "holding_rate": 929,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
@@ -403,7 +1050,9 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -415,9 +1064,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/52b60bb7b14dd949bb84a51b54f2a97c01270600.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 522,
-                        "total_cnt_show": "000522",
-                        "holding_rate": 1027,
+                        "total_cnt": 763,
+                        "total_cnt_show": "000763",
+                        "holding_rate": 910,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
@@ -430,7 +1079,9 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -442,9 +1093,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/fdac19a9d884a64ab5c2535c757a3a49b7a223a5.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 545,
-                        "total_cnt_show": "000545",
-                        "holding_rate": 1070,
+                        "total_cnt": 772,
+                        "total_cnt_show": "000772",
+                        "holding_rate": 923,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
@@ -457,7 +1108,9 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -469,9 +1122,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/05db531d4f83e8f4cf9170c168612c6def39e1da.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 527,
-                        "total_cnt_show": "000527",
-                        "holding_rate": 1032,
+                        "total_cnt": 757,
+                        "total_cnt_show": "000757",
+                        "holding_rate": 905,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 10,
@@ -484,7 +1137,9 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -496,9 +1151,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/b49b1ed035c06bfcca749b6a994688b0a1c0c5b1.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 128,
-                        "total_cnt_show": "000128",
-                        "holding_rate": 250,
+                        "total_cnt": 172,
+                        "total_cnt_show": "000172",
+                        "holding_rate": 205,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 20,
@@ -511,7 +1166,9 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -523,9 +1180,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/2aee7b8d61ff03d85e3b057ed9c927d179fcdbe1.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 117,
-                        "total_cnt_show": "000117",
-                        "holding_rate": 228,
+                        "total_cnt": 168,
+                        "total_cnt_show": "000168",
+                        "holding_rate": 201,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 20,
@@ -538,7 +1195,9 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -550,9 +1209,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/55fdef0b056ca7b5263c996b865cb68170223873.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 140,
-                        "total_cnt_show": "000140",
-                        "holding_rate": 274,
+                        "total_cnt": 187,
+                        "total_cnt_show": "000187",
+                        "holding_rate": 223,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 20,
@@ -565,7 +1224,9 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 },
                 {
@@ -577,9 +1238,9 @@
                         "card_img": "https://i0.hdslb.com/bfs/baselabs/1484dd642c1be0aa7b629907cd1fe056df971835.png",
                         "card_type": 1,
                         "card_id_list": null,
-                        "total_cnt": 122,
-                        "total_cnt_show": "000122",
-                        "holding_rate": 240,
+                        "total_cnt": 183,
+                        "total_cnt_show": "000183",
+                        "holding_rate": 219,
                         "video_list": null,
                         "is_physical_orientation": 0,
                         "card_scarcity": 20,
@@ -592,7 +1253,9 @@
                         "subtitles_url": "",
                         "play": null,
                         "tag": null,
-                        "card_sub_type": 0
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
                     }
                 }
             ]

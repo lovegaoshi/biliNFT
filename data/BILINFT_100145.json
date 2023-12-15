@@ -1,0 +1,819 @@
+{
+    "basic": {
+        "code": 0,
+        "message": "0",
+        "ttl": 1,
+        "data": {
+            "act_title": "一念逍遥收藏集",
+            "cur_time": 1702647943,
+            "start_time": 1695898800,
+            "end_time": 1758729599,
+            "pre_start_time": 1695812400,
+            "pre_end_time": 1695898799,
+            "is_booked": 0,
+            "act_desc": "",
+            "lottery_list": [
+                {
+                    "lottery_id": 100146,
+                    "lottery_name": "三界奇缘",
+                    "display_time": 1695812400,
+                    "start_time": 1695898800,
+                    "end_time": 1758729599,
+                    "lottery_image": "https://i0.hdslb.com/bfs/garb/617dcba088ebcf7abd209b95c02ad55c21786f0c.jpg",
+                    "draw_cnt": 0,
+                    "goods_id": 14378755714048,
+                    "price": 9900,
+                    "goods_name": "三界奇缘",
+                    "lottery_desc": "【隐藏款】长乐·白泽,苍狼野兽·金吒均分概率4.5%;时一二·旱魃,清风澈·铁扇均分概率0.5%;\n【普通款】鬼·孟婆,妖巫·齐天大圣均分概率9%;其余立绘均分概率86%;",
+                    "item_total_cnt": 16,
+                    "item_owned_cnt": 0,
+                    "total_sale_amount": 3005,
+                    "lottery_type": 1,
+                    "effective_forever": 0,
+                    "discount": {
+                        "origin_price": 9900,
+                        "price": 4900,
+                        "discount_guidance": {
+                            "guidance_text": "开通大会员首抽",
+                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                        }
+                    },
+                    "free": 0,
+                    "sale_mode": 2
+                }
+            ],
+            "share_info": {
+                "main_title": "一念逍遥收藏集",
+                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+                "share_content": "活动火热售卖中，快来开卡吧！"
+            },
+            "act_y_img": "https://i0.hdslb.com/bfs/garb/7e62bc599dbe6819fc5a635ebf8b1dffbd7a3cc1.png",
+            "animation_info": {
+                "animation_draw_url": {
+                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+                },
+                "animation_entry_url": {
+                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+                }
+            },
+            "total_book_cnt": 134,
+            "total_buy_cnt": 3005,
+            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+            "is_pre": 1,
+            "is_pre_risk": 0,
+            "is_collector_rank": 1,
+            "collect_list": [
+                {
+                    "collect_id": 100150,
+                    "start_time": 1695813300,
+                    "end_time": 2114406245,
+                    "redeem_text": "抽出任意2张立绘即可领取，单UID仅可领取一次。",
+                    "redeem_item_type": 2,
+                    "redeem_item_id": "1695792591001",
+                    "redeem_item_name": "一念逍遥收藏集表情包",
+                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/8be88ab54b9cf6e57d62520d35f3373fe80acabc.png",
+                    "owned_item_amount": 0,
+                    "require_item_amount": 2,
+                    "has_redeemed_cnt": 0,
+                    "effective_forever": 1,
+                    "redeem_item_image_download": "",
+                    "card_item": {
+                        "card_type_info": null,
+                        "play": null,
+                        "tag": null
+                    },
+                    "jump_url": "",
+                    "redeem_cond_type": "scarcity",
+                    "remain_stock": -1,
+                    "total_stock": -1
+                },
+                {
+                    "collect_id": 100149,
+                    "start_time": 1695813300,
+                    "end_time": 2114406245,
+                    "redeem_text": "抽出任意4张立绘即可领取，单UID仅可领取一次。",
+                    "redeem_item_type": 5,
+                    "redeem_item_id": "1695797880001&1695792899001&1695793523001&1695793141001",
+                    "redeem_item_name": "主题&点赞&加载&进度条",
+                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/08e82a8fd2088e758ce51a911c8fcaaf5a2e5e7c.png",
+                    "owned_item_amount": 0,
+                    "require_item_amount": 4,
+                    "has_redeemed_cnt": 0,
+                    "effective_forever": 1,
+                    "redeem_item_image_download": "",
+                    "card_item": {
+                        "card_type_info": null,
+                        "play": null,
+                        "tag": null
+                    },
+                    "jump_url": "",
+                    "redeem_cond_type": "scarcity",
+                    "remain_stock": -1,
+                    "total_stock": -1
+                },
+                {
+                    "collect_id": 100148,
+                    "start_time": 1695813300,
+                    "end_time": 2114406245,
+                    "redeem_text": "抽到任意1张隐藏卡即可领取，单UID仅可领取一次。",
+                    "redeem_item_type": 3,
+                    "redeem_item_id": "1695785478001",
+                    "redeem_item_name": "一念逍遥收藏集头像框",
+                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/a0ff3ea89bac5c48210b39131de66c3e2351ca03.png",
+                    "owned_item_amount": 0,
+                    "require_item_amount": 1,
+                    "has_redeemed_cnt": 0,
+                    "effective_forever": 1,
+                    "redeem_item_image_download": "",
+                    "card_item": {
+                        "card_type_info": null,
+                        "play": null,
+                        "tag": null
+                    },
+                    "jump_url": "",
+                    "redeem_cond_type": "scarcity",
+                    "remain_stock": -1,
+                    "total_stock": -1
+                },
+                {
+                    "collect_id": 100147,
+                    "start_time": 1695813300,
+                    "end_time": 2114406245,
+                    "redeem_text": "抽出任意6张立绘即可领取，单UID仅可领取一次。",
+                    "redeem_item_type": 1,
+                    "redeem_item_id": "1695798561002",
+                    "redeem_item_name": "一念逍遥·飞升",
+                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/b5fa4e30732cc6244dab9e2808f3511c3b9eb161.jpg",
+                    "owned_item_amount": 0,
+                    "require_item_amount": 6,
+                    "has_redeemed_cnt": 0,
+                    "effective_forever": 1,
+                    "redeem_item_image_download": "",
+                    "card_item": {
+                        "card_type_info": {
+                            "id": 1695798561002,
+                            "name": "一念逍遥·飞升",
+                            "overview_image": "https://i0.hdslb.com/bfs/garb/open/b5fa4e30732cc6244dab9e2808f3511c3b9eb161.jpg",
+                            "content": {
+                                "image": null,
+                                "animation": {
+                                    "animation_video_urls": [
+                                        "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/9b/ei/_00000k3a6dxmdgezr28h869vd2oei9b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655132&gen=playurlv2&os=08cbv&oi=0&trid=2d9f006346c143a4b97502b12a965bdbB&mid=0&platform=html5&upsig=9fe2b1c57ac31db91d4e0b70f30d2c0e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                                        "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/9b/ei/_00000k3a6dxmdgezr28h869vd2oei9b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655132&gen=playurlv2&os=08cbv&oi=0&trid=2d9f006346c143a4b97502b12a965bdbB&mid=0&platform=html5&upsig=9fe2b1c57ac31db91d4e0b70f30d2c0e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                                        "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/9b/ei/_00000k3a6dxmdgezr28h869vd2oei9b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655132&gen=playurlv2&os=hwbbv&oi=0&trid=2d9f006346c143a4b97502b12a965bdbB&mid=0&platform=html5&upsig=421743faf51073e20c60a8cb093704b8&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                                    ],
+                                    "animation_backup_image": "https://i0.hdslb.com/bfs/garb/open/b5fa4e30732cc6244dab9e2808f3511c3b9eb161.jpg",
+                                    "animation_first_frame": "https://i0.hdslb.com/bfs/garb/open/b5fa4e30732cc6244dab9e2808f3511c3b9eb161.jpg",
+                                    "is_mute": false,
+                                    "animation_url": "upos://panguxcodeboss/9b/ei/_00000k3a6dxmdgezr28h869vd2oei9b-1-152111110023.mp4",
+                                    "subtitles_url": "",
+                                    "duration": 9,
+                                    "width": 0,
+                                    "height": 0,
+                                    "location": "",
+                                    "compressed_w_h": ""
+                                }
+                            },
+                            "material_type": 2,
+                            "theme": "open",
+                            "scarcity": 0,
+                            "layout": 0,
+                            "width": 1242,
+                            "height": 1863,
+                            "face_overflow": null,
+                            "material_sub_type": 0,
+                            "overview_image_watermarks": [
+                                {
+                                    "scene": 1,
+                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/watermark/c2a9aad2016477e7468951823f62d8c36cae5e51.png"
+                                }
+                            ],
+                            "watermark_animations": [
+                                {
+                                    "scene": 2,
+                                    "watermark_animation": "https://upos-sz-mirrorcos.bilivideo.com/panguxcodeboss/digital_watermark/9b/7y/_000008f4m4gwmi68n2tqchnz9ul7y9b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655132&gen=playurlv2&os=cosbv&oi=0&trid=2d9f006346c143a4b97502b12a965bdbB&mid=0&platform=html5&upsig=b300e1767a991ec10458064690195fa8&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0"
+                                },
+                                {
+                                    "scene": 2,
+                                    "watermark_animation": "https://upos-sz-mirrorcos.bilivideo.com/panguxcodeboss/digital_watermark/9b/7y/_000008f4m4gwmi68n2tqchnz9ul7y9b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655132&gen=playurlv2&os=cosbv&oi=0&trid=2d9f006346c143a4b97502b12a965bdbB&mid=0&platform=html5&upsig=b300e1767a991ec10458064690195fa8&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0"
+                                },
+                                {
+                                    "scene": 2,
+                                    "watermark_animation": "https://upos-sz-mirrorcosb.bilivideo.com/panguxcodeboss/digital_watermark/9b/7y/_000008f4m4gwmi68n2tqchnz9ul7y9b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655132&gen=playurlv2&os=cosbbv&oi=0&trid=2d9f006346c143a4b97502b12a965bdbB&mid=0&platform=html5&upsig=fad304e16cd4ff84d151fb2dd3b0ea90&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                                }
+                            ],
+                            "space_background": {
+                                "image": null,
+                                "animation": {
+                                    "animation_video_urls": [
+                                        "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/yb/w6/_00003rvxwpxoqv8g82osc888x0ow6yb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655132&gen=playurlv2&os=08cbv&oi=0&trid=2d9f006346c143a4b97502b12a965bdbB&mid=0&platform=html5&upsig=e99afafcdccdac917a8460ee789b5638&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                                        "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/yb/w6/_00003rvxwpxoqv8g82osc888x0ow6yb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655132&gen=playurlv2&os=08cbv&oi=0&trid=2d9f006346c143a4b97502b12a965bdbB&mid=0&platform=html5&upsig=e99afafcdccdac917a8460ee789b5638&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                                        "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/yb/w6/_00003rvxwpxoqv8g82osc888x0ow6yb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655132&gen=playurlv2&os=hwbbv&oi=0&trid=2d9f006346c143a4b97502b12a965bdbB&mid=0&platform=html5&upsig=2bd43814fd23dd54a75cd834cd531d3b&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                                    ],
+                                    "animation_backup_image": "https://i0.hdslb.com/bfs/garb/open/c91b050060277accb221a2ff76467a1986c9d349.png",
+                                    "animation_first_frame": "https://i0.hdslb.com/bfs/garb/open/c91b050060277accb221a2ff76467a1986c9d349.png",
+                                    "is_mute": false,
+                                    "animation_url": "upos://panguxcodeboss/yb/w6/_00003rvxwpxoqv8g82osc888x0ow6yb-1-152111110023.mp4",
+                                    "subtitles_url": "",
+                                    "duration": 9,
+                                    "width": 1126,
+                                    "height": 1126,
+                                    "location": "",
+                                    "compressed_w_h": ""
+                                }
+                            }
+                        },
+                        "play": null,
+                        "tag": null
+                    },
+                    "jump_url": "",
+                    "redeem_cond_type": "scarcity",
+                    "remain_stock": -1,
+                    "total_stock": -1
+                }
+            ],
+            "display_title": "任务奖励",
+            "effective_forever": 0,
+            "guide_info": {
+                "title": "",
+                "guide_content": "",
+                "jump_url": ""
+            },
+            "is_can_donate": 1,
+            "is_up_chain": 0,
+            "related_mids": [
+                "558205781"
+            ],
+            "is_vip": false,
+            "task_list": null,
+            "popup_info": null,
+            "act_desc_light": "",
+            "not_need_realname": 1,
+            "product_introduce": "放置修仙手游《一念逍遥》【三界奇缘】仙灵卡牌重磅登陆哔哩哔哩！每张仙灵卡牌都将拥有独特编号，更有动态稀有卡牌等你解锁！快来收集心仪的仙灵，一起轻松修仙吧！",
+            "app_head_show": "https://i0.hdslb.com/bfs/garb/open/30805c9e7a90560e59569a185f42a127b67c77b7.png@1126w_1126h",
+            "app_space_show": "https://i0.hdslb.com/bfs/garb/open/30805c9e7a90560e59569a185f42a127b67c77b7.png@1126w_1126h",
+            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/1612977373e6b14aafa6c309439760818f099619.png\",\"card_count\":1,\"num_color\":\"#FF8A1F\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/f0b79eb15c9a25c8ceab47ad5dc72b07598a6b85.png\",\"card_count\":5,\"num_color\":\"#FFBA5C\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/d3e20a0e7a7591dcbdcbd9b4f13a76ffd810fc75.png\",\"card_count\":15,\"num_color\":\"#D07D2B\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/e559a78a4aa546ec956775587598ec72eaa54ffd.png\",\"card_count\":30,\"num_color\":\"#3DB5DB\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/8a2e1e8cf0df2d1de5c3cd8c83888a039712121e.png\",\"card_count\":60,\"num_color\":\"#24B790\"}]",
+            "topic": null
+        }
+    },
+    "list": {
+        "code": 0,
+        "message": "0",
+        "ttl": 1,
+        "data": {
+            "uname": "",
+            "uface": "",
+            "act_y_img": "https://i0.hdslb.com/bfs/garb/7e62bc599dbe6819fc5a635ebf8b1dffbd7a3cc1.png",
+            "total_item_cnt": 17,
+            "owned_item_cnt": 0,
+            "item_list": [
+                {
+                    "item_type": 1,
+                    "item_scarcity": 1000,
+                    "card_item": {
+                        "card_type_id": 1695798561002,
+                        "card_name": "一念逍遥·飞升",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/b5fa4e30732cc6244dab9e2808f3511c3b9eb161.jpg",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 94,
+                        "total_cnt_show": "000094",
+                        "holding_rate": 0,
+                        "video_list": [
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/9b/ei/_00000k3a6dxmdgezr28h869vd2oei9b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655132&gen=playurlv2&os=08cbv&oi=0&trid=2d9f006346c143a4b97502b12a965bdbB&mid=0&platform=html5&upsig=9fe2b1c57ac31db91d4e0b70f30d2c0e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/9b/ei/_00000k3a6dxmdgezr28h869vd2oei9b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655132&gen=playurlv2&os=08cbv&oi=0&trid=2d9f006346c143a4b97502b12a965bdbB&mid=0&platform=html5&upsig=9fe2b1c57ac31db91d4e0b70f30d2c0e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/9b/ei/_00000k3a6dxmdgezr28h869vd2oei9b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655132&gen=playurlv2&os=hwbbv&oi=0&trid=2d9f006346c143a4b97502b12a965bdbB&mid=0&platform=html5&upsig=421743faf51073e20c60a8cb093704b8&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 0,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "任务奖励限定",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/c2a9aad2016477e7468951823f62d8c36cae5e51.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirrorcos.bilivideo.com/panguxcodeboss/digital_watermark/9b/7y/_000008f4m4gwmi68n2tqchnz9ul7y9b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655132&gen=playurlv2&os=cosbv&oi=0&trid=2d9f006346c143a4b97502b12a965bdbB&mid=0&platform=html5&upsig=b300e1767a991ec10458064690195fa8&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorcos.bilivideo.com/panguxcodeboss/digital_watermark/9b/7y/_000008f4m4gwmi68n2tqchnz9ul7y9b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655132&gen=playurlv2&os=cosbv&oi=0&trid=2d9f006346c143a4b97502b12a965bdbB&mid=0&platform=html5&upsig=b300e1767a991ec10458064690195fa8&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorcosb.bilivideo.com/panguxcodeboss/digital_watermark/9b/7y/_000008f4m4gwmi68n2tqchnz9ul7y9b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655132&gen=playurlv2&os=cosbbv&oi=0&trid=2d9f006346c143a4b97502b12a965bdbB&mid=0&platform=html5&upsig=fad304e16cd4ff84d151fb2dd3b0ea90&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 30,
+                    "card_item": {
+                        "card_type_id": 1695794794017,
+                        "card_name": "清风澈·铁扇",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/18c982afdc8521ef43d7b837aaef1a8da4f6ce33.jpg",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 7,
+                        "total_cnt_show": "000007",
+                        "holding_rate": 24,
+                        "video_list": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/qb/l6/_00002rl0jv8uw3r442b2jyc07d9l6qb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655145&gen=playurlv2&os=alibv&oi=0&trid=4892df431fda42b1935b869ebb866615B&mid=0&platform=html5&upsig=8cfb980c5853f25f108720bd6696637f&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/qb/l6/_00002rl0jv8uw3r442b2jyc07d9l6qb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655145&gen=playurlv2&os=alibv&oi=0&trid=4892df431fda42b1935b869ebb866615B&mid=0&platform=html5&upsig=8cfb980c5853f25f108720bd6696637f&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/qb/l6/_00002rl0jv8uw3r442b2jyc07d9l6qb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655145&gen=playurlv2&os=alibbv&oi=0&trid=4892df431fda42b1935b869ebb866615B&mid=0&platform=html5&upsig=31d2fd86d418babb47f8561c234b725c&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 40,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/27fdf487c655c69c5d50319fb66a91f08c5f11d0.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark/7b/cd/_00003hljluasu1xev2tbxufenhacd7b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655145&gen=playurlv2&os=alibv&oi=0&trid=4892df431fda42b1935b869ebb866615B&mid=0&platform=html5&upsig=467179c9aeb4135c5d2b172d55f4f3ae&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark/7b/cd/_00003hljluasu1xev2tbxufenhacd7b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655145&gen=playurlv2&os=alibv&oi=0&trid=4892df431fda42b1935b869ebb866615B&mid=0&platform=html5&upsig=467179c9aeb4135c5d2b172d55f4f3ae&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/digital_watermark/7b/cd/_00003hljluasu1xev2tbxufenhacd7b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655145&gen=playurlv2&os=alibbv&oi=0&trid=4892df431fda42b1935b869ebb866615B&mid=0&platform=html5&upsig=d7121ce5a365e7ceba209f0fb7e7b5e1&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 30,
+                    "card_item": {
+                        "card_type_id": 1695794794016,
+                        "card_name": "时一二·旱魃",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/8d38d86559fcc9fc743c6f5ddd501f12f66ece0d.jpg",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 10,
+                        "total_cnt_show": "000010",
+                        "holding_rate": 34,
+                        "video_list": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/jb/v4/_00003akxvn9uca4cn23uhxifqhsv4jb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655145&gen=playurlv2&os=alibv&oi=0&trid=4892df431fda42b1935b869ebb866615B&mid=0&platform=html5&upsig=9b014dde3475c94d25f5125719e80b00&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/jb/v4/_00003akxvn9uca4cn23uhxifqhsv4jb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655145&gen=playurlv2&os=alibv&oi=0&trid=4892df431fda42b1935b869ebb866615B&mid=0&platform=html5&upsig=9b014dde3475c94d25f5125719e80b00&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/jb/v4/_00003akxvn9uca4cn23uhxifqhsv4jb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655145&gen=playurlv2&os=alibbv&oi=0&trid=4892df431fda42b1935b869ebb866615B&mid=0&platform=html5&upsig=c28fdf3e7c0c646f963fe14cd2b468ea&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 40,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/09e3edaa928437a325b37f4a5c5859bce8f5d492.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermark/3b/dy/_00002hl8e7uimlh2j2oa8fghh9ody3b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655145&gen=playurlv2&os=08cbv&oi=0&trid=4892df431fda42b1935b869ebb866615B&mid=0&platform=html5&upsig=e02e912a18a3c8774eec1f0fc9a74242&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermark/3b/dy/_00002hl8e7uimlh2j2oa8fghh9ody3b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655145&gen=playurlv2&os=08cbv&oi=0&trid=4892df431fda42b1935b869ebb866615B&mid=0&platform=html5&upsig=e02e912a18a3c8774eec1f0fc9a74242&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/digital_watermark/3b/dy/_00002hl8e7uimlh2j2oa8fghh9ody3b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655145&gen=playurlv2&os=hwbbv&oi=0&trid=4892df431fda42b1935b869ebb866615B&mid=0&platform=html5&upsig=55465e0397d0e66956f24445eaaeea6b&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 30,
+                    "card_item": {
+                        "card_type_id": 1695794794015,
+                        "card_name": "苍狼野兽·金吒",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/45d2a0b9246798b01382b879025399e9cb38b7c3.jpg",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 77,
+                        "total_cnt_show": "000077",
+                        "holding_rate": 258,
+                        "video_list": [
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/6b/bc/_00003ccz1g3v80a7e1zbqgjoyu7bc6b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655145&gen=playurlv2&os=08cbv&oi=0&trid=4892df431fda42b1935b869ebb866615B&mid=0&platform=html5&upsig=95e7b271eea4700039e7bff5b96a73f6&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/6b/bc/_00003ccz1g3v80a7e1zbqgjoyu7bc6b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655145&gen=playurlv2&os=08cbv&oi=0&trid=4892df431fda42b1935b869ebb866615B&mid=0&platform=html5&upsig=95e7b271eea4700039e7bff5b96a73f6&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/6b/bc/_00003ccz1g3v80a7e1zbqgjoyu7bc6b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655145&gen=playurlv2&os=hwbbv&oi=0&trid=4892df431fda42b1935b869ebb866615B&mid=0&platform=html5&upsig=a2867246c1a68fee1128279512ea3473&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 30,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/ca65c0dd190471f03b72de3076e4018e0695683b.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermark/rb/i8/_000021x1oy86ju5po22q5d976n7i8rb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655145&gen=playurlv2&os=08cbv&oi=0&trid=4892df431fda42b1935b869ebb866615B&mid=0&platform=html5&upsig=edd888b62e73ac3c0b4422c55e214c6c&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermark/rb/i8/_000021x1oy86ju5po22q5d976n7i8rb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655145&gen=playurlv2&os=08cbv&oi=0&trid=4892df431fda42b1935b869ebb866615B&mid=0&platform=html5&upsig=edd888b62e73ac3c0b4422c55e214c6c&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/digital_watermark/rb/i8/_000021x1oy86ju5po22q5d976n7i8rb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655145&gen=playurlv2&os=hwbbv&oi=0&trid=4892df431fda42b1935b869ebb866615B&mid=0&platform=html5&upsig=3623af6b1541221dbae9ae70d3bf9b60&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 30,
+                    "card_item": {
+                        "card_type_id": 1695794794014,
+                        "card_name": "长乐·白泽",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/21b3bf6f1533b4226a890bc6c0e10909665b8bac.jpg",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 68,
+                        "total_cnt_show": "000068",
+                        "holding_rate": 228,
+                        "video_list": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/sb/wr/_00003djx2f6b992hy2qh2p7im3uwrsb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655138&gen=playurlv2&os=alibv&oi=0&trid=d96f803fb30a4fe0b75d50de8fa9e414B&mid=0&platform=html5&upsig=1e2b5c8f5465d6a9b88c8d9ea7abf0b9&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/sb/wr/_00003djx2f6b992hy2qh2p7im3uwrsb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655138&gen=playurlv2&os=alibv&oi=0&trid=d96f803fb30a4fe0b75d50de8fa9e414B&mid=0&platform=html5&upsig=1e2b5c8f5465d6a9b88c8d9ea7abf0b9&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/sb/wr/_00003djx2f6b992hy2qh2p7im3uwrsb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655138&gen=playurlv2&os=alibbv&oi=0&trid=d96f803fb30a4fe0b75d50de8fa9e414B&mid=0&platform=html5&upsig=d1bb79d92cf9c09cada910186bea309e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 30,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/ab1475f84496ea002d7b5c79fb2c8136e9dd3cd3.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark/hb/v4/_0000176971q4fpubz27q5s8h2hxv4hb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655138&gen=playurlv2&os=alibv&oi=0&trid=d96f803fb30a4fe0b75d50de8fa9e414B&mid=0&platform=html5&upsig=48bf3009aee4bf7c305bc964e5727bc7&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark/hb/v4/_0000176971q4fpubz27q5s8h2hxv4hb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655138&gen=playurlv2&os=alibv&oi=0&trid=d96f803fb30a4fe0b75d50de8fa9e414B&mid=0&platform=html5&upsig=48bf3009aee4bf7c305bc964e5727bc7&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/digital_watermark/hb/v4/_0000176971q4fpubz27q5s8h2hxv4hb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655138&gen=playurlv2&os=alibbv&oi=0&trid=d96f803fb30a4fe0b75d50de8fa9e414B&mid=0&platform=html5&upsig=871eab3f7eb32545adcd9354344ac23e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1695794794013,
+                        "card_name": "妖巫·齐天大圣",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/4a243a3d87e0e43fa6550db5d565eeca94b37092.jpg",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 116,
+                        "total_cnt_show": "000116",
+                        "holding_rate": 389,
+                        "video_list": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/sb/fz/_00002ttn0lv9f17qq2lp5d6txjnfzsb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655145&gen=playurlv2&os=alibv&oi=0&trid=4892df431fda42b1935b869ebb866615B&mid=0&platform=html5&upsig=4cefe204554e74669478b1a310e5e78f&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/sb/fz/_00002ttn0lv9f17qq2lp5d6txjnfzsb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655145&gen=playurlv2&os=alibv&oi=0&trid=4892df431fda42b1935b869ebb866615B&mid=0&platform=html5&upsig=4cefe204554e74669478b1a310e5e78f&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/sb/fz/_00002ttn0lv9f17qq2lp5d6txjnfzsb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655145&gen=playurlv2&os=alibbv&oi=0&trid=4892df431fda42b1935b869ebb866615B&mid=0&platform=html5&upsig=2d2b09eb5e3f2d10e14b87afcf561fa0&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 20,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/42e583f48ec2ce6b46a853b9ce17e24300f98db1.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark/cb/qf/_00002jmodvowqv5ji2iqhg4tkj6qfcb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655145&gen=playurlv2&os=alibv&oi=0&trid=4892df431fda42b1935b869ebb866615B&mid=0&platform=html5&upsig=6047aadc0cf559736d477689aa5860f2&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark/cb/qf/_00002jmodvowqv5ji2iqhg4tkj6qfcb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655145&gen=playurlv2&os=alibv&oi=0&trid=4892df431fda42b1935b869ebb866615B&mid=0&platform=html5&upsig=6047aadc0cf559736d477689aa5860f2&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/digital_watermark/cb/qf/_00002jmodvowqv5ji2iqhg4tkj6qfcb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655145&gen=playurlv2&os=alibbv&oi=0&trid=4892df431fda42b1935b869ebb866615B&mid=0&platform=html5&upsig=537797db1c3302c0972f020886079040&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1695794794012,
+                        "card_name": "鬼·孟婆",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/767e5bd1e5c62bb6db8588d4bf25842ba1a1885b.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 145,
+                        "total_cnt_show": "000145",
+                        "holding_rate": 486,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 20,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/bf5e7670c8ac0e8dda2b39588e15dc7c979dc752.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1695794794011,
+                        "card_name": "人·灵珠子",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/c8779c9b25c66ed8b78f5701e93ffdec5ef417e2.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 252,
+                        "total_cnt_show": "000252",
+                        "holding_rate": 844,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/4a05b1d330a4cd7a2bdb61f851e97a7f437d4cfd.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1695794794010,
+                        "card_name": "鬼·白骨",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/bae3fb080cddc7ee107326e72b3f187d5efba255.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 269,
+                        "total_cnt_show": "000269",
+                        "holding_rate": 901,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/7e351f657486bfc2ea004e4fd7cd69b5139aad98.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1695794794009,
+                        "card_name": "人·药童",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/32e60c7a2117bdde1bc26c47d5203ed5a2a218c3.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 259,
+                        "total_cnt_show": "000259",
+                        "holding_rate": 867,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/08c23e0a71e5168f04ab9ae20165a50ec4b54421.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1695794794008,
+                        "card_name": "仙·白鹤童子",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/2f5c56862fc6837fb564ca3b1c340b474afeefdf.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 263,
+                        "total_cnt_show": "000263",
+                        "holding_rate": 881,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/bb2dfe7fcfa9928cb9f5f1b1d6aa53647bf02228.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1695794794007,
+                        "card_name": "妖·妲己",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/0768d96eebec9c551b3dd536aa6476726a35c331.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 273,
+                        "total_cnt_show": "000273",
+                        "holding_rate": 914,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/3985c4bdd0a1e9df1064facf588a0e8782ef4893.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1695794794006,
+                        "card_name": "人·芸娘",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/dfd30722ec59d8ced9545c6574bad8b8b568e59c.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 240,
+                        "total_cnt_show": "000240",
+                        "holding_rate": 804,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/4238c6becb1d61d8a956c882a1e121e41053f7b6.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1695794794005,
+                        "card_name": "仙·杨戬",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/92b3dec096b35465aea6bb589e61ba5522117be1.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 230,
+                        "total_cnt_show": "000230",
+                        "holding_rate": 770,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/8632faf3e2006ea174050eb8eed1379c27cf2712.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1695794794004,
+                        "card_name": "灵·红拂女",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/913eccd4d3bb300bc1db9dbb8ac2040be14977b4.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 291,
+                        "total_cnt_show": "000291",
+                        "holding_rate": 974,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/ee406534a5eadbf81e14cc8c6e5929bcbd9bd080.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1695794794003,
+                        "card_name": "妖·申公豹",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/a1cd11b4954ea48bf9f309b2f0c6583fd0aa6943.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 245,
+                        "total_cnt_show": "000245",
+                        "holding_rate": 820,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/1b2b230952e8e3bdb7ebe0a2900f1eb24454c84d.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1695794794002,
+                        "card_name": "灵·龙吉",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/29f70e2d5e5e3a99d901b5584a4270c2a5401601.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 243,
+                        "total_cnt_show": "000243",
+                        "holding_rate": 814,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/57035c569f3efa0b1fdbc6701cafe8444339651c.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                }
+            ]
+        }
+    }
+}
