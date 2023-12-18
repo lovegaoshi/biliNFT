@@ -661,3 +661,6 @@
 [# 267.元梦之星收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_267.json)
 ![元梦之星收藏集](http://i0.hdslb.com/bfs/archive/9e7f5e8bcf1aa1106d36e697ba852e2bdcbdeb75.jpg)
 
+[# 269.眞白花音收藏集第二弹](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_269.json)
+![眞白花音收藏集第二弹](http://i0.hdslb.com/bfs/archive/2194816ff97fd90d58d2da59b3ff8c95e65f3010.jpg)
+
