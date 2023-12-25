@@ -11,8 +11,12 @@ with open('biliEmote.json') as f:
 async def get_emote(eid: str = None, mid: str = None):
     try:
         for emote in emotes['data']['all_packages']:
-            if eid == emote['id'] or mid == emote['meta']['item_id']:
-                return emote
+            try:
+                if eid == emote['id'] or mid == emote['meta']['item_id']:
+                    return emote
+            except KeyError:
+                # TODO: item_id doesnt exist?
+                pass
         raise Exception('emote not found.')
     except Exception as e:
         raise HTTPException(status_code=406, detail=str(e))
