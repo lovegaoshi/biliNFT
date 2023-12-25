@@ -1,0 +1,981 @@
+{
+    "basic": {
+        "code": 0,
+        "message": "0",
+        "ttl": 1,
+        "data": {
+            "act_title": "《命运拳台》收藏集",
+            "cur_time": 1703464662,
+            "start_time": 1703210400,
+            "end_time": 2114406245,
+            "pre_start_time": 1703124000,
+            "pre_end_time": 1703210399,
+            "is_booked": 0,
+            "act_desc": "",
+            "lottery_list": [
+                {
+                    "lottery_id": 232,
+                    "lottery_name": "命运拳台",
+                    "display_time": 1703124000,
+                    "start_time": 1703210400,
+                    "end_time": 2114406245,
+                    "lottery_image": "http://i0.hdslb.com/bfs/archive/1b2195d67e9e4eb0fe26a6faaeef032080fead1c.png",
+                    "draw_cnt": 0,
+                    "goods_id": 29605618546176,
+                    "price": 9900,
+                    "goods_name": "命运拳台",
+                    "lottery_desc": "命运拳台收藏集常驻奖池共包含15张动态海报；\n普通款：角色设定12张，阿肝、张三均分概率9%，其余海报均分概率86%；\n隐藏款：悦动阿肝、动感阿肝均分概率4.5%、不如跳舞概率0.5%。",
+                    "item_total_cnt": 15,
+                    "item_owned_cnt": 0,
+                    "total_sale_amount": 15560,
+                    "lottery_type": 1,
+                    "effective_forever": 1,
+                    "discount": {
+                        "origin_price": 9900,
+                        "price": 4900,
+                        "discount_guidance": {
+                            "guidance_text": "开通大会员首抽",
+                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                        }
+                    },
+                    "free": 0,
+                    "sale_mode": 1
+                },
+                {
+                    "lottery_id": 233,
+                    "lottery_name": "福利奖池",
+                    "display_time": 1703209800,
+                    "start_time": 1703210400,
+                    "end_time": 2114406245,
+                    "lottery_image": "http://i0.hdslb.com/bfs/archive/6ab404d03d01c1cfb7f789892ecac3224f71e2bc.png",
+                    "draw_cnt": 0,
+                    "goods_id": 29605618546177,
+                    "price": 0,
+                    "goods_name": "福利奖池",
+                    "lottery_desc": "福利奖池共包含6张动态典藏卡，均分概率100%",
+                    "item_total_cnt": 6,
+                    "item_owned_cnt": 0,
+                    "total_sale_amount": 0,
+                    "lottery_type": 2,
+                    "effective_forever": 1,
+                    "discount": null,
+                    "free": 1,
+                    "sale_mode": 1
+                }
+            ],
+            "share_info": {
+                "main_title": "开启命运拳台奇幻冒险",
+                "sub_title": "命运拳台收藏集上线啦，专属勋章、表情包、头像框等你解锁~",
+                "share_content": "命运拳台收藏集火热售卖中，解锁超萌阿肝再现跳舞！"
+            },
+            "act_y_img": "https://i0.hdslb.com/bfs/garb/c6b4ac0533187296cf398b7e6842e8cb542b4980.png",
+            "animation_info": {
+                "animation_draw_url": {
+                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+                },
+                "animation_entry_url": {
+                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+                }
+            },
+            "total_book_cnt": 181,
+            "total_buy_cnt": 15560,
+            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+            "is_pre": 1,
+            "is_pre_risk": 0,
+            "is_collector_rank": 1,
+            "collect_list": [
+                {
+                    "collect_id": 676,
+                    "start_time": 1703124000,
+                    "end_time": 2114406245,
+                    "redeem_text": "抽到任意隐藏款卡牌，即可兑换，单UID仅可领取一次",
+                    "redeem_item_type": 3,
+                    "redeem_item_id": "65404",
+                    "redeem_item_name": "命运拳台头像框",
+                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/16bebf4f977d1e11677f139b64e145b765e3dde3.png",
+                    "owned_item_amount": 0,
+                    "require_item_amount": 1,
+                    "has_redeemed_cnt": 0,
+                    "effective_forever": 1,
+                    "redeem_item_image_download": "",
+                    "card_item": {
+                        "card_type_info": null,
+                        "play": null,
+                        "tag": null
+                    },
+                    "jump_url": "",
+                    "redeem_cond_type": "scarcity",
+                    "remain_stock": -1,
+                    "total_stock": -1
+                },
+                {
+                    "collect_id": 677,
+                    "start_time": 1703124000,
+                    "end_time": 2114406245,
+                    "redeem_text": "完成5抽，即可兑换，单UID仅可领取一次",
+                    "redeem_item_type": 5,
+                    "redeem_item_id": "65405&65413&65436&65435",
+                    "redeem_item_name": "点赞＆加载＆进度条＆个性主题",
+                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/736fcadfed4aac76c4fb6b8fd4930ad0c5f0bcbe.png",
+                    "owned_item_amount": 0,
+                    "require_item_amount": 5,
+                    "has_redeemed_cnt": 0,
+                    "effective_forever": 1,
+                    "redeem_item_image_download": "",
+                    "card_item": {
+                        "card_type_info": null,
+                        "play": null,
+                        "tag": null
+                    },
+                    "jump_url": "",
+                    "redeem_cond_type": "lottery_num",
+                    "remain_stock": -1,
+                    "total_stock": -1
+                },
+                {
+                    "collect_id": 675,
+                    "start_time": 1703124000,
+                    "end_time": 2114406245,
+                    "redeem_text": "完成2抽，即可领取，单UID仅可兑换一次",
+                    "redeem_item_type": 2,
+                    "redeem_item_id": "65409",
+                    "redeem_item_name": "命运拳台表情包",
+                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/a966cd993233d4ac25cc5776bddde92f2608f3ef.png",
+                    "owned_item_amount": 0,
+                    "require_item_amount": 2,
+                    "has_redeemed_cnt": 0,
+                    "effective_forever": 1,
+                    "redeem_item_image_download": "",
+                    "card_item": {
+                        "card_type_info": null,
+                        "play": null,
+                        "tag": null
+                    },
+                    "jump_url": "",
+                    "redeem_cond_type": "lottery_num",
+                    "remain_stock": -1,
+                    "total_stock": -1
+                }
+            ],
+            "display_title": "羁绊之礼",
+            "effective_forever": 1,
+            "guide_info": {
+                "title": "福利奖池",
+                "guide_content": "集碎片拼阿肝得角色动态典藏卡",
+                "jump_url": "https://m.bilibili.com/doria/quantai-2023.html"
+            },
+            "is_can_donate": 1,
+            "is_up_chain": 0,
+            "related_mids": [
+                "1420628859"
+            ],
+            "is_vip": false,
+            "task_list": null,
+            "popup_info": null,
+            "act_desc_light": "",
+            "not_need_realname": 1,
+            "product_introduce": "【命运拳台收藏集】是哔哩哔哩携手《命运拳台》动画，为庆祝动画开播，特打造首款定制数字收藏集，其中的每张数字卡片都将拥有独特编号，期待大家解锁命运拳台丰富精彩的画面！",
+            "app_head_show": "https://i0.hdslb.com/bfs/garb/7b268428625de7804cd2cd41e3e76bc0c5e77e0a.png",
+            "app_space_show": "https://i0.hdslb.com/bfs/garb/7b268428625de7804cd2cd41e3e76bc0c5e77e0a.png",
+            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/f8e5df18549d99f6c3c8d689c594045222688e64.png\",\"card_count\":1,\"num_color\":\"#B9150D\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/36e6c1a767483e03f85d4e5135edf7c412368ff0.png\",\"card_count\":5,\"num_color\":\"#37DBF2\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/15100a5cd6d34cf5e8d250598fa94922741902aa.png\",\"card_count\":15,\"num_color\":\"#F1CF3E\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/72f237668a89a89663b5ab0729ae14032bb0479c.png\",\"card_count\":30,\"num_color\":\"#33F266\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/c8dd6f53c0835526f7567f1a7e85b707a16e429c.png\",\"card_count\":60,\"num_color\":\"#BB35F2\"}]",
+            "topic": null,
+            "physical_exchange": false
+        }
+    },
+    "list": {
+        "code": 0,
+        "message": "0",
+        "ttl": 1,
+        "data": {
+            "uname": "",
+            "uface": "",
+            "act_y_img": "https://i0.hdslb.com/bfs/garb/c6b4ac0533187296cf398b7e6842e8cb542b4980.png",
+            "total_item_cnt": 21,
+            "owned_item_cnt": 0,
+            "item_list": [
+                {
+                    "item_type": 1,
+                    "item_scarcity": 30,
+                    "card_item": {
+                        "card_type_id": 1166196,
+                        "card_name": "不如跳舞",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/c7ba9dff944a1d65e406ade25f60fa9093f591d0.jpg",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 47,
+                        "total_cnt_show": "000047",
+                        "holding_rate": 51,
+                        "video_list": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/rb/47/_000039d4cl82ifduo2ovi64qt5w47rb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471863&gen=playurlv2&os=alibv&oi=0&trid=d44e3c7b19a84283a61a36593c762d1eB&mid=0&platform=html5&upsig=d0f55d06496fcfc69c9836659635ab1f&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/rb/47/_000039d4cl82ifduo2ovi64qt5w47rb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471863&gen=playurlv2&os=alibv&oi=0&trid=d44e3c7b19a84283a61a36593c762d1eB&mid=0&platform=html5&upsig=d0f55d06496fcfc69c9836659635ab1f&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/rb/47/_000039d4cl82ifduo2ovi64qt5w47rb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471863&gen=playurlv2&os=alibbv&oi=0&trid=d44e3c7b19a84283a61a36593c762d1eB&mid=0&platform=html5&upsig=99632b5e9953de7a474cac2a6b184f7f&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 40,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/a635c4dfe1b47a33550fbd9a693cd1be1063c6da.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermarkvb/3t/_00000uv4loj2v4nt62kk4hx0ge33tvb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471863&gen=playurlv2&os=08cbv&oi=0&trid=d44e3c7b19a84283a61a36593c762d1eB&mid=0&platform=html5&upsig=9edc35bae25c292856a7103397bbf12a&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermarkvb/3t/_00000uv4loj2v4nt62kk4hx0ge33tvb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471863&gen=playurlv2&os=08cbv&oi=0&trid=d44e3c7b19a84283a61a36593c762d1eB&mid=0&platform=html5&upsig=9edc35bae25c292856a7103397bbf12a&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/digital_watermarkvb/3t/_00000uv4loj2v4nt62kk4hx0ge33tvb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471863&gen=playurlv2&os=hwbbv&oi=0&trid=d44e3c7b19a84283a61a36593c762d1eB&mid=0&platform=html5&upsig=71d8e7461deb3e40218c80ab36a4e022&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 30,
+                    "card_item": {
+                        "card_type_id": 1166195,
+                        "card_name": "动感阿肝",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/f3102292f82f2fd87a9489bb89cdfdd1e2ee06e0.jpg",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 214,
+                        "total_cnt_show": "000214",
+                        "holding_rate": 231,
+                        "video_list": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/sb/be/_00000wd1jsa9g5dxm2hoh43ba03besb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471842&gen=playurlv2&os=alibv&oi=0&trid=2673d542618e4333949ae6d1cacae227B&mid=0&platform=html5&upsig=300841ccdfd3d90895c43ab70d3c97b6&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/sb/be/_00000wd1jsa9g5dxm2hoh43ba03besb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471842&gen=playurlv2&os=alibv&oi=0&trid=2673d542618e4333949ae6d1cacae227B&mid=0&platform=html5&upsig=300841ccdfd3d90895c43ab70d3c97b6&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/sb/be/_00000wd1jsa9g5dxm2hoh43ba03besb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471842&gen=playurlv2&os=alibbv&oi=0&trid=2673d542618e4333949ae6d1cacae227B&mid=0&platform=html5&upsig=a22375896ba691f09d3a5d59d507b8cf&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 30,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/2577b8205ecc2cc78691aa54086cd063aea7b783.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark3b/aa/_000009p9hj11oovew2u89klgdp2aa3b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471842&gen=playurlv2&os=alibv&oi=0&trid=2673d542618e4333949ae6d1cacae227B&mid=0&platform=html5&upsig=b6ca9d334d8e47ecfb9f372da6bca9e0&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark3b/aa/_000009p9hj11oovew2u89klgdp2aa3b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471842&gen=playurlv2&os=alibv&oi=0&trid=2673d542618e4333949ae6d1cacae227B&mid=0&platform=html5&upsig=b6ca9d334d8e47ecfb9f372da6bca9e0&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/digital_watermark3b/aa/_000009p9hj11oovew2u89klgdp2aa3b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471842&gen=playurlv2&os=alibbv&oi=0&trid=2673d542618e4333949ae6d1cacae227B&mid=0&platform=html5&upsig=ebb952eb05ada968e362a75bfab09865&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 30,
+                    "card_item": {
+                        "card_type_id": 1166194,
+                        "card_name": "悦动阿肝",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/5a73b9dd75cab0162beaafaba9e8fd3f173f05ef.jpg",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 211,
+                        "total_cnt_show": "000211",
+                        "holding_rate": 228,
+                        "video_list": [
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/5b/hn/_00001yun43bwbd9q52r4q0lsg3ohn5b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471808&gen=playurlv2&os=08cbv&oi=0&trid=5903c7831d284238a03ee9af69ee9aa6B&mid=0&platform=html5&upsig=59e73129e5795920af2b51f7906a9d4c&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/5b/hn/_00001yun43bwbd9q52r4q0lsg3ohn5b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471808&gen=playurlv2&os=08cbv&oi=0&trid=5903c7831d284238a03ee9af69ee9aa6B&mid=0&platform=html5&upsig=59e73129e5795920af2b51f7906a9d4c&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/5b/hn/_00001yun43bwbd9q52r4q0lsg3ohn5b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471808&gen=playurlv2&os=hwbbv&oi=0&trid=5903c7831d284238a03ee9af69ee9aa6B&mid=0&platform=html5&upsig=3e4055089cde1d075d6949c0d45423f2&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 30,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/d8676feb76ba993612b659cfae3bebaa1b8cc8b8.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermarkcb/e9/_000001hr3q9eo2zw12l9g1simkke9cb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471808&gen=playurlv2&os=alibv&oi=0&trid=5903c7831d284238a03ee9af69ee9aa6B&mid=0&platform=html5&upsig=88d5c91a637c38780f9c0900e70b2c43&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermarkcb/e9/_000001hr3q9eo2zw12l9g1simkke9cb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471808&gen=playurlv2&os=alibv&oi=0&trid=5903c7831d284238a03ee9af69ee9aa6B&mid=0&platform=html5&upsig=88d5c91a637c38780f9c0900e70b2c43&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/digital_watermarkcb/e9/_000001hr3q9eo2zw12l9g1simkke9cb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471808&gen=playurlv2&os=alibbv&oi=0&trid=5903c7831d284238a03ee9af69ee9aa6B&mid=0&platform=html5&upsig=7e35ee5ba43d0ca71a619566b585d7c1&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1166181,
+                        "card_name": "阿肝",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/98a3b83dc3fb2f57f3342e4b9083991b31964761.jpg",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 368,
+                        "total_cnt_show": "000368",
+                        "holding_rate": 397,
+                        "video_list": [
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/2b/qk/_00000yc6nv377wxtu2cnwigq9vwqk2b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=08cbv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=9d8c5562d28f9da37e65d40e44e2b5a3&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/2b/qk/_00000yc6nv377wxtu2cnwigq9vwqk2b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=08cbv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=9d8c5562d28f9da37e65d40e44e2b5a3&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/2b/qk/_00000yc6nv377wxtu2cnwigq9vwqk2b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=hwbbv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=23ccf833ad15f37fcb2d61b98bcbe4e3&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 20,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/e1d90e14aa6d4888b9aa04e797aa98ae86f8c042.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermarkab/a1/_000009s0xxg71xmpz2965dxajv2a1ab-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=72ddaaadefe4e4b4d498a9f565d153c6&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermarkab/a1/_000009s0xxg71xmpz2965dxajv2a1ab-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=72ddaaadefe4e4b4d498a9f565d153c6&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/digital_watermarkab/a1/_000009s0xxg71xmpz2965dxajv2a1ab-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibbv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=120ff1dd7a3fc8b299231c868e5f2bd2&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1166180,
+                        "card_name": "张三",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/973fb5ebbf1e5b174aea0962874af8c36248848f.jpg",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 430,
+                        "total_cnt_show": "000430",
+                        "holding_rate": 464,
+                        "video_list": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/eb/8a/_00001ox8e390n4xmx28jt3u5dag8aeb-1-152210110000.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=26fa58685b8a150d556d991e44e6f938&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/eb/8a/_00001ox8e390n4xmx28jt3u5dag8aeb-1-152210110000.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=26fa58685b8a150d556d991e44e6f938&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/eb/8a/_00001ox8e390n4xmx28jt3u5dag8aeb-1-152210110000.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibbv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=80adf178b5367369ce86d42dfa54feed&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 20,
+                        "is_mute": 1,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/f994ff4c2e6784d04ce0abe13020c8188d1a0442.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark1b/2n/_00000i6t3mvmukx502x2ow6uiue2n1b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=226e61cb3774d1acebad908d05f2d714&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark1b/2n/_00000i6t3mvmukx502x2ow6uiue2n1b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=226e61cb3774d1acebad908d05f2d714&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/digital_watermark1b/2n/_00000i6t3mvmukx502x2ow6uiue2n1b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibbv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=3da16981329f5b71be0fa40504db02da&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1166179,
+                        "card_name": "李四",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/a7675f88ed3576afbfb31f84f87d9dd8477302a4.jpg",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 789,
+                        "total_cnt_show": "000789",
+                        "holding_rate": 851,
+                        "video_list": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/jb/gk/_00003ltyrfyllrs2e2mygp0kr0igkjb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=ab3a3e6a2a64513b39e554efbb469b6f&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/jb/gk/_00003ltyrfyllrs2e2mygp0kr0igkjb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=ab3a3e6a2a64513b39e554efbb469b6f&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/jb/gk/_00003ltyrfyllrs2e2mygp0kr0igkjb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibbv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=5caab07070b56e6d299955c6a506a201&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/344cffa8bcb080e868480498104862d652d73215.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermarkeb/k6/_00001dne0hplk919w2rdikru1b5k6eb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=b601403424222d8532aa9e9efb64a36a&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermarkeb/k6/_00001dne0hplk919w2rdikru1b5k6eb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=b601403424222d8532aa9e9efb64a36a&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/digital_watermarkeb/k6/_00001dne0hplk919w2rdikru1b5k6eb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibbv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=d38a1cd20bfe37fa849d053ea30eafd2&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1166178,
+                        "card_name": "张三（头盔形态）",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/41b26277671fa18867a583f622830129bb52daff.jpg",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 802,
+                        "total_cnt_show": "000802",
+                        "holding_rate": 864,
+                        "video_list": [
+                            "https://upos-sz-mirrorcos.bilivideo.com/panguxcodeboss/xb/5w/_000025aek6e20j4wg2kip2ficsl5wxb-1-152210110000.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471857&gen=playurlv2&os=cosbv&oi=0&trid=5ef5d2f1298d480e84e6540db1076ce7B&mid=0&platform=html5&upsig=f1c6e44b9d434692f88c8d2a1286e316&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorcos.bilivideo.com/panguxcodeboss/xb/5w/_000025aek6e20j4wg2kip2ficsl5wxb-1-152210110000.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471857&gen=playurlv2&os=cosbv&oi=0&trid=5ef5d2f1298d480e84e6540db1076ce7B&mid=0&platform=html5&upsig=f1c6e44b9d434692f88c8d2a1286e316&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorcosb.bilivideo.com/panguxcodeboss/xb/5w/_000025aek6e20j4wg2kip2ficsl5wxb-1-152210110000.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471857&gen=playurlv2&os=cosbbv&oi=0&trid=5ef5d2f1298d480e84e6540db1076ce7B&mid=0&platform=html5&upsig=047024b1f091cb8e3f3e774d548e70be&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 1,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/188ce3b85118140f74fd377f08590c1d4a292a38.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermarkmb/z8/_00000wiaa0o3r42w72aaetat584z8mb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471857&gen=playurlv2&os=alibv&oi=0&trid=5ef5d2f1298d480e84e6540db1076ce7B&mid=0&platform=html5&upsig=15d67b9f7c37f210bfe710ccf1489aab&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermarkmb/z8/_00000wiaa0o3r42w72aaetat584z8mb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471857&gen=playurlv2&os=alibv&oi=0&trid=5ef5d2f1298d480e84e6540db1076ce7B&mid=0&platform=html5&upsig=15d67b9f7c37f210bfe710ccf1489aab&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/digital_watermarkmb/z8/_00000wiaa0o3r42w72aaetat584z8mb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471857&gen=playurlv2&os=alibbv&oi=0&trid=5ef5d2f1298d480e84e6540db1076ce7B&mid=0&platform=html5&upsig=b510f1a1d29e569759e2a5a6e7ade7da&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1166177,
+                        "card_name": "十一",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/aeca5ae818d515ac89d0a38f6e5494aa22e646ff.jpg",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 756,
+                        "total_cnt_show": "000756",
+                        "holding_rate": 815,
+                        "video_list": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/ob/h5/_00003u1ywf5t07y7l2imptaz4tzh5ob-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471805&gen=playurlv2&os=alibv&oi=0&trid=b53b6b90d6d642bf92a4f3137b187dd9B&mid=0&platform=html5&upsig=09d8d88e2d64e20fcd318a9c33785777&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/ob/h5/_00003u1ywf5t07y7l2imptaz4tzh5ob-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471805&gen=playurlv2&os=alibv&oi=0&trid=b53b6b90d6d642bf92a4f3137b187dd9B&mid=0&platform=html5&upsig=09d8d88e2d64e20fcd318a9c33785777&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/ob/h5/_00003u1ywf5t07y7l2imptaz4tzh5ob-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471805&gen=playurlv2&os=alibbv&oi=0&trid=b53b6b90d6d642bf92a4f3137b187dd9B&mid=0&platform=html5&upsig=8606fe143bf08ad7ddd13dcbbcc1eb7b&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/b8a3f5f969fb80ae8e0f4d75c10ac7cd0f247256.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermarklb/it/_00001qyy97ba653xn2792zjy5n7itlb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471805&gen=playurlv2&os=alibv&oi=0&trid=b53b6b90d6d642bf92a4f3137b187dd9B&mid=0&platform=html5&upsig=a087e654dc6e168b6ec70915f88092d3&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermarklb/it/_00001qyy97ba653xn2792zjy5n7itlb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471805&gen=playurlv2&os=alibv&oi=0&trid=b53b6b90d6d642bf92a4f3137b187dd9B&mid=0&platform=html5&upsig=a087e654dc6e168b6ec70915f88092d3&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/digital_watermarklb/it/_00001qyy97ba653xn2792zjy5n7itlb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471805&gen=playurlv2&os=alibbv&oi=0&trid=b53b6b90d6d642bf92a4f3137b187dd9B&mid=0&platform=html5&upsig=5000d943430a0255040f97bc0f6c3cbc&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1166176,
+                        "card_name": "彩子",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/01a6afbb48b8d252c2471cfa86f396a58de64384.jpg",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 850,
+                        "total_cnt_show": "000850",
+                        "holding_rate": 916,
+                        "video_list": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/lb/ws/_00001mfkvwm8r9ji12vpyc9gvkrwslb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471829&gen=playurlv2&os=alibv&oi=0&trid=3c3bb2209cc748f6b3ec379c5cc61bd6B&mid=0&platform=html5&upsig=bde4b8352ae01323f71709ae18a82bfd&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/lb/ws/_00001mfkvwm8r9ji12vpyc9gvkrwslb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471829&gen=playurlv2&os=alibv&oi=0&trid=3c3bb2209cc748f6b3ec379c5cc61bd6B&mid=0&platform=html5&upsig=bde4b8352ae01323f71709ae18a82bfd&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/lb/ws/_00001mfkvwm8r9ji12vpyc9gvkrwslb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471829&gen=playurlv2&os=alibbv&oi=0&trid=3c3bb2209cc748f6b3ec379c5cc61bd6B&mid=0&platform=html5&upsig=c875586fd29840d18268d50fdc77b220&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/fd2378db11951a510591798d2d11855a87ac2c3c.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermarklb/bm/_00000ymewjq67ueq42cxq3bg3v6bmlb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471829&gen=playurlv2&os=alibv&oi=0&trid=3c3bb2209cc748f6b3ec379c5cc61bd6B&mid=0&platform=html5&upsig=ca6d2a17caeed308e5a47a8b272a2df4&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermarklb/bm/_00000ymewjq67ueq42cxq3bg3v6bmlb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471829&gen=playurlv2&os=alibv&oi=0&trid=3c3bb2209cc748f6b3ec379c5cc61bd6B&mid=0&platform=html5&upsig=ca6d2a17caeed308e5a47a8b272a2df4&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/digital_watermarklb/bm/_00000ymewjq67ueq42cxq3bg3v6bmlb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471829&gen=playurlv2&os=alibbv&oi=0&trid=3c3bb2209cc748f6b3ec379c5cc61bd6B&mid=0&platform=html5&upsig=0948759d3578c6fb62a42a85debff2d2&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1166175,
+                        "card_name": "伊甸",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/0ae59dd068247630ea3a7d32ad400b55d2620fc9.jpg",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 785,
+                        "total_cnt_show": "000785",
+                        "holding_rate": 846,
+                        "video_list": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/qb/kl/_00000e5t6p3tt2uc32bcgsh57rgklqb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471815&gen=playurlv2&os=alibv&oi=0&trid=0d235fffef08473db5dcca083a63494dB&mid=0&platform=html5&upsig=ae7cbbc28aaf996686910da0336fa485&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/qb/kl/_00000e5t6p3tt2uc32bcgsh57rgklqb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471815&gen=playurlv2&os=alibv&oi=0&trid=0d235fffef08473db5dcca083a63494dB&mid=0&platform=html5&upsig=ae7cbbc28aaf996686910da0336fa485&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/qb/kl/_00000e5t6p3tt2uc32bcgsh57rgklqb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471815&gen=playurlv2&os=alibbv&oi=0&trid=0d235fffef08473db5dcca083a63494dB&mid=0&platform=html5&upsig=59844fb80daffe8cc3d8f8e48bf37c61&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/b5ce9026ec1ce93da791b6c5968fb385a595b9b2.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermark5b/zm/_00000ampwgnsgyv3u27vjt60igzzm5b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471815&gen=playurlv2&os=08cbv&oi=0&trid=0d235fffef08473db5dcca083a63494dB&mid=0&platform=html5&upsig=c8caba5586c396be1d1095a6d8885f2a&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermark5b/zm/_00000ampwgnsgyv3u27vjt60igzzm5b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471815&gen=playurlv2&os=08cbv&oi=0&trid=0d235fffef08473db5dcca083a63494dB&mid=0&platform=html5&upsig=c8caba5586c396be1d1095a6d8885f2a&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/digital_watermark5b/zm/_00000ampwgnsgyv3u27vjt60igzzm5b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471815&gen=playurlv2&os=hwbbv&oi=0&trid=0d235fffef08473db5dcca083a63494dB&mid=0&platform=html5&upsig=02cfbc5966e902625547ebb20becde3f&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1166174,
+                        "card_name": "天明",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/e01a50133ba46b3de3a88ded7642180a05785b18.jpg",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 815,
+                        "total_cnt_show": "000815",
+                        "holding_rate": 878,
+                        "video_list": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/zb/xy/_00000a4yqlflknzhc1zxsuc2nafxyzb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=a77fbbc4e649398b48478d1e84cbdf91&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/zb/xy/_00000a4yqlflknzhc1zxsuc2nafxyzb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=a77fbbc4e649398b48478d1e84cbdf91&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/zb/xy/_00000a4yqlflknzhc1zxsuc2nafxyzb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibbv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=d2d52cbfa3e4fbde6d532349f51789c7&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/989af13f4387a69187c784793de2680fdd54e538.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermarkmb/zj/_00001etg4norftwon1z9a72ot5tzjmb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=6d06e6edbc4fc31b94af5bf75a528ff7&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermarkmb/zj/_00001etg4norftwon1z9a72ot5tzjmb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=6d06e6edbc4fc31b94af5bf75a528ff7&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/digital_watermarkmb/zj/_00001etg4norftwon1z9a72ot5tzjmb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibbv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=8d219b1b270a9dcaca9e38f8fd6fbc92&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1166173,
+                        "card_name": "青隼",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/0e100905750b33d363d4fca65b431a0d9ce2f500.jpg",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 796,
+                        "total_cnt_show": "000796",
+                        "holding_rate": 858,
+                        "video_list": [
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/nb/qa/_0000318xktv6n2ieg2f115kydv3qanb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471819&gen=playurlv2&os=08cbv&oi=0&trid=f7fa30a8c9f5463292517a200072540eB&mid=0&platform=html5&upsig=c54e3420c565243a3e366c443b25d5c3&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/nb/qa/_0000318xktv6n2ieg2f115kydv3qanb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471819&gen=playurlv2&os=08cbv&oi=0&trid=f7fa30a8c9f5463292517a200072540eB&mid=0&platform=html5&upsig=c54e3420c565243a3e366c443b25d5c3&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/nb/qa/_0000318xktv6n2ieg2f115kydv3qanb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471819&gen=playurlv2&os=hwbbv&oi=0&trid=f7fa30a8c9f5463292517a200072540eB&mid=0&platform=html5&upsig=3a20629c14025b86a6f3c82a099ac3a5&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/2d562dcd53022987633547f6691e525cfac2fb96.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermarkzb/r8/_00001g8ya0whh57pp2ckychzt2mr8zb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471819&gen=playurlv2&os=08cbv&oi=0&trid=f7fa30a8c9f5463292517a200072540eB&mid=0&platform=html5&upsig=8771e9ad29c5ea6d0d577ce115be72ec&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermarkzb/r8/_00001g8ya0whh57pp2ckychzt2mr8zb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471819&gen=playurlv2&os=08cbv&oi=0&trid=f7fa30a8c9f5463292517a200072540eB&mid=0&platform=html5&upsig=8771e9ad29c5ea6d0d577ce115be72ec&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/digital_watermarkzb/r8/_00001g8ya0whh57pp2ckychzt2mr8zb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471819&gen=playurlv2&os=hwbbv&oi=0&trid=f7fa30a8c9f5463292517a200072540eB&mid=0&platform=html5&upsig=feebfaf7876a57a6a7fdff21aa80e269&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1166172,
+                        "card_name": "贺修",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/359a70f985484cd8f2d0cecbfcb2d15c4e80383d.jpg",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 831,
+                        "total_cnt_show": "000831",
+                        "holding_rate": 896,
+                        "video_list": [
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/mb/wf/_00001ituj7qqz7ebi2hljwrmh7dwfmb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471857&gen=playurlv2&os=08cbv&oi=0&trid=5ef5d2f1298d480e84e6540db1076ce7B&mid=0&platform=html5&upsig=c09043d34d5af6593907f666156f3487&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/mb/wf/_00001ituj7qqz7ebi2hljwrmh7dwfmb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471857&gen=playurlv2&os=08cbv&oi=0&trid=5ef5d2f1298d480e84e6540db1076ce7B&mid=0&platform=html5&upsig=c09043d34d5af6593907f666156f3487&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/mb/wf/_00001ituj7qqz7ebi2hljwrmh7dwfmb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471857&gen=playurlv2&os=hwbbv&oi=0&trid=5ef5d2f1298d480e84e6540db1076ce7B&mid=0&platform=html5&upsig=8996092e7840c8bfd49930ae4efafa33&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/20ad07d0f542aae490b54743681f60f3c11ed32f.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermarkmb/rv/_000005vfkmobr4jm8242bp6l32yrvmb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471857&gen=playurlv2&os=alibv&oi=0&trid=5ef5d2f1298d480e84e6540db1076ce7B&mid=0&platform=html5&upsig=673216f585add3b1c65255c56f329a9a&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermarkmb/rv/_000005vfkmobr4jm8242bp6l32yrvmb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471857&gen=playurlv2&os=alibv&oi=0&trid=5ef5d2f1298d480e84e6540db1076ce7B&mid=0&platform=html5&upsig=673216f585add3b1c65255c56f329a9a&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/digital_watermarkmb/rv/_000005vfkmobr4jm8242bp6l32yrvmb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471857&gen=playurlv2&os=alibbv&oi=0&trid=5ef5d2f1298d480e84e6540db1076ce7B&mid=0&platform=html5&upsig=7bb4bc674c23658405d22e42c06e8266&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1166171,
+                        "card_name": "林风廷",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/b280854a608ce6a2e7ea9e9a3e36d6aaa265acb3.jpg",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 826,
+                        "total_cnt_show": "000826",
+                        "holding_rate": 890,
+                        "video_list": [
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/pb/85/_000015xfmo878wphq2r9hw7zg9585pb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471814&gen=playurlv2&os=08cbv&oi=0&trid=29440aadb79141ab960528f772ee1389B&mid=0&platform=html5&upsig=36040334e1034c8cd9830572bd8b923b&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/pb/85/_000015xfmo878wphq2r9hw7zg9585pb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471814&gen=playurlv2&os=08cbv&oi=0&trid=29440aadb79141ab960528f772ee1389B&mid=0&platform=html5&upsig=36040334e1034c8cd9830572bd8b923b&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/pb/85/_000015xfmo878wphq2r9hw7zg9585pb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471814&gen=playurlv2&os=hwbbv&oi=0&trid=29440aadb79141ab960528f772ee1389B&mid=0&platform=html5&upsig=08ced7aa833066b5af2d4d406561c7cc&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/d0f2133722b413ac20643853a6b2c2a7c0790860.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermark3b/dj/_000023wvhmpladcqo2d099jj9phdj3b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471814&gen=playurlv2&os=08cbv&oi=0&trid=29440aadb79141ab960528f772ee1389B&mid=0&platform=html5&upsig=4af2161df7706818e00f896312f397ee&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermark3b/dj/_000023wvhmpladcqo2d099jj9phdj3b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471814&gen=playurlv2&os=08cbv&oi=0&trid=29440aadb79141ab960528f772ee1389B&mid=0&platform=html5&upsig=4af2161df7706818e00f896312f397ee&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/digital_watermark3b/dj/_000023wvhmpladcqo2d099jj9phdj3b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471814&gen=playurlv2&os=hwbbv&oi=0&trid=29440aadb79141ab960528f772ee1389B&mid=0&platform=html5&upsig=34faace2e5a6dd47b5872817c2952835&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1166170,
+                        "card_name": "大熊",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/fb4b7864e566c8de5d49988beb3326e7ae96cb36.jpg",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 762,
+                        "total_cnt_show": "000762",
+                        "holding_rate": 821,
+                        "video_list": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/db/0g/_00002q7njs49tba2z2iaod2r00k0gdb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471807&gen=playurlv2&os=alibv&oi=0&trid=609b9b0c5e9c4933bb00bdb892a8b838B&mid=0&platform=html5&upsig=96ca6f0c580de95bb5d8cc1c3a52146e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/db/0g/_00002q7njs49tba2z2iaod2r00k0gdb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471807&gen=playurlv2&os=alibv&oi=0&trid=609b9b0c5e9c4933bb00bdb892a8b838B&mid=0&platform=html5&upsig=96ca6f0c580de95bb5d8cc1c3a52146e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/db/0g/_00002q7njs49tba2z2iaod2r00k0gdb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471807&gen=playurlv2&os=alibbv&oi=0&trid=609b9b0c5e9c4933bb00bdb892a8b838B&mid=0&platform=html5&upsig=3f0e7778863be1630a8b1127a0e8044d&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/9c9c0d6151f53a30d456a21e909e630e946f3753.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermarkyb/la/_00001nn264lnsc4qt234cxnq40blayb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471807&gen=playurlv2&os=alibv&oi=0&trid=609b9b0c5e9c4933bb00bdb892a8b838B&mid=0&platform=html5&upsig=51a30837ae74138806732d9503f73d11&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermarkyb/la/_00001nn264lnsc4qt234cxnq40blayb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471807&gen=playurlv2&os=alibv&oi=0&trid=609b9b0c5e9c4933bb00bdb892a8b838B&mid=0&platform=html5&upsig=51a30837ae74138806732d9503f73d11&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/digital_watermarkyb/la/_00001nn264lnsc4qt234cxnq40blayb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471807&gen=playurlv2&os=alibbv&oi=0&trid=609b9b0c5e9c4933bb00bdb892a8b838B&mid=0&platform=html5&upsig=4789515cb3e3abd82e1a96f2c78e3e5a&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1166104,
+                        "card_name": "动态典藏卡·伊甸",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/45308a65fbb6fa0379f98d78a81e32d5bcb1dbd8.jpg",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 635,
+                        "total_cnt_show": "000635",
+                        "holding_rate": 0,
+                        "video_list": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/ib/wa/_000002qedw4tsb0rh2i92hndo0hwaib-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471863&gen=playurlv2&os=alibv&oi=0&trid=9c6cb63f12bb42d988b1b45bdc5fe78cB&mid=0&platform=html5&upsig=72ad9a915ad6e85006932970a4f86fbc&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/ib/wa/_000002qedw4tsb0rh2i92hndo0hwaib-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471863&gen=playurlv2&os=alibv&oi=0&trid=9c6cb63f12bb42d988b1b45bdc5fe78cB&mid=0&platform=html5&upsig=72ad9a915ad6e85006932970a4f86fbc&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/ib/wa/_000002qedw4tsb0rh2i92hndo0hwaib-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471863&gen=playurlv2&os=alibbv&oi=0&trid=9c6cb63f12bb42d988b1b45bdc5fe78cB&mid=0&platform=html5&upsig=b2868c9c1a27296b3df432274711506d&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/63c080d2ab0527b8ec0a012d945fa5f320d07d2d.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermarkcb/37/_00000hrref11x9yjr210t8txad137cb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471863&gen=playurlv2&os=alibv&oi=0&trid=9c6cb63f12bb42d988b1b45bdc5fe78cB&mid=0&platform=html5&upsig=bf02d623e53772cc158fa9b0b2ae605a&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermarkcb/37/_00000hrref11x9yjr210t8txad137cb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471863&gen=playurlv2&os=alibv&oi=0&trid=9c6cb63f12bb42d988b1b45bdc5fe78cB&mid=0&platform=html5&upsig=bf02d623e53772cc158fa9b0b2ae605a&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/digital_watermarkcb/37/_00000hrref11x9yjr210t8txad137cb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471863&gen=playurlv2&os=alibbv&oi=0&trid=9c6cb63f12bb42d988b1b45bdc5fe78cB&mid=0&platform=html5&upsig=0ff6b54b87df33212d2ca7ea0553d95e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1166103,
+                        "card_name": "动态典藏卡·天明",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/b6246089338a0b6687a87930666a437a947ce8d9.jpg",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 953,
+                        "total_cnt_show": "000953",
+                        "holding_rate": 0,
+                        "video_list": [
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/vb/qa/_00003ql30iz9nocqq2jjzepeyv2qavb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=08cbv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=fe3125dcd4d65a04838ba71ff94269da&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/vb/qa/_00003ql30iz9nocqq2jjzepeyv2qavb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=08cbv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=fe3125dcd4d65a04838ba71ff94269da&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/vb/qa/_00003ql30iz9nocqq2jjzepeyv2qavb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=hwbbv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=0af996254efc0baf5678280b97b1e542&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/0f99a95418585c8577e92cbca8b7cdcde0924ddb.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermarkwb/g6/_00001lb9po599uawg21cysztb4fg6wb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=90e7928260be52353fb4429ee3bfc876&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermarkwb/g6/_00001lb9po599uawg21cysztb4fg6wb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=90e7928260be52353fb4429ee3bfc876&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/digital_watermarkwb/g6/_00001lb9po599uawg21cysztb4fg6wb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibbv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=81dca53530c138a625cf6e855d19ed40&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1166102,
+                        "card_name": "动态典藏卡·大熊",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/343c240b294aa901bcbff17db4bcfc469743dc74.jpg",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 672,
+                        "total_cnt_show": "000672",
+                        "holding_rate": 0,
+                        "video_list": [
+                            "https://upos-sz-mirrorcos.bilivideo.com/panguxcodeboss/cb/dk/_00003kcn4ds1uw0y02fxz1da9frdkcb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=cosbv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=59082d51d6caadc54cd08da25e324493&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorcos.bilivideo.com/panguxcodeboss/cb/dk/_00003kcn4ds1uw0y02fxz1da9frdkcb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=cosbv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=59082d51d6caadc54cd08da25e324493&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorcosb.bilivideo.com/panguxcodeboss/cb/dk/_00003kcn4ds1uw0y02fxz1da9frdkcb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=cosbbv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=14fde7e68d59862ffbcc7566725dc489&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/0dc936e6a74cade681e00914781081166f0db694.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermarklb/bp/_00003ug97wsyk8n6h1y9k5rlo0cbplb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=72f32c1da4dc007b56e37aafdae6d3c6&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermarklb/bp/_00003ug97wsyk8n6h1y9k5rlo0cbplb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=72f32c1da4dc007b56e37aafdae6d3c6&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/digital_watermarklb/bp/_00003ug97wsyk8n6h1y9k5rlo0cbplb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibbv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=508e4285a6d8292ba0e188db8e28f608&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1166101,
+                        "card_name": "动态典藏卡·彩子",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/64b98d5e47bf39974a91eb9d06ec6014069cffa1.jpg",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 907,
+                        "total_cnt_show": "000907",
+                        "holding_rate": 0,
+                        "video_list": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/0b/xf/_00002gl0adeb8o02n210il83urmxf0b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=aafbd1839ef3464d31497f4a5b428220&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/0b/xf/_00002gl0adeb8o02n210il83urmxf0b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=aafbd1839ef3464d31497f4a5b428220&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/0b/xf/_00002gl0adeb8o02n210il83urmxf0b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibbv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=f05e70fe1d1f22b924501900ece32eaa&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/c2e8dd36a9b3b1beec065c4919f115e2aac53cf9.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark0b/db/_0000321xd01n6t3lb20hpyoyvqqdb0b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=ef2460f497d054388521a48c8bf8eff2&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark0b/db/_0000321xd01n6t3lb20hpyoyvqqdb0b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=ef2460f497d054388521a48c8bf8eff2&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/digital_watermark0b/db/_0000321xd01n6t3lb20hpyoyvqqdb0b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471839&gen=playurlv2&os=alibbv&oi=0&trid=03ca56ba65c949b1851466fc95f7f968B&mid=0&platform=html5&upsig=a3e5c045ffa7ffcde634dfc56847708c&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1166100,
+                        "card_name": "动态典藏卡·张三",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/336b659c10f845419e633f7706ec50303f7961f6.jpg",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 316,
+                        "total_cnt_show": "000316",
+                        "holding_rate": 0,
+                        "video_list": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/5b/vv/_000032cgjuqxwqhvr2lhsozmt1nvv5b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471824&gen=playurlv2&os=alibv&oi=0&trid=98f025245ed84298aacc47eb9b0fb3a4B&mid=0&platform=html5&upsig=f793015f7ee201e43424868ea4e1d96d&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/5b/vv/_000032cgjuqxwqhvr2lhsozmt1nvv5b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471824&gen=playurlv2&os=alibv&oi=0&trid=98f025245ed84298aacc47eb9b0fb3a4B&mid=0&platform=html5&upsig=f793015f7ee201e43424868ea4e1d96d&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/5b/vv/_000032cgjuqxwqhvr2lhsozmt1nvv5b-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471824&gen=playurlv2&os=alibbv&oi=0&trid=98f025245ed84298aacc47eb9b0fb3a4B&mid=0&platform=html5&upsig=59d9146e0b157d7ad12ba32d2b2a6dbc&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/1ed8112aa74f50659eb9855445aa9632f660f254.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermarklb/yp/_00000bravwdlsyal521j3sjkdmjyplb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471824&gen=playurlv2&os=alibv&oi=0&trid=98f025245ed84298aacc47eb9b0fb3a4B&mid=0&platform=html5&upsig=b0429b995945a0b6c80983f72079387f&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermarklb/yp/_00000bravwdlsyal521j3sjkdmjyplb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471824&gen=playurlv2&os=alibv&oi=0&trid=98f025245ed84298aacc47eb9b0fb3a4B&mid=0&platform=html5&upsig=b0429b995945a0b6c80983f72079387f&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/digital_watermarklb/yp/_00000bravwdlsyal521j3sjkdmjyplb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471824&gen=playurlv2&os=alibbv&oi=0&trid=98f025245ed84298aacc47eb9b0fb3a4B&mid=0&platform=html5&upsig=d0f02d86d022fb0eb837120309a62f3a&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1166099,
+                        "card_name": "动态典藏卡·阿肝",
+                        "card_img": "https://i0.hdslb.com/bfs/baselabs/19410ad46dbbb171429f30397edb1c084e552a40.jpg",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 349,
+                        "total_cnt_show": "000349",
+                        "holding_rate": 0,
+                        "video_list": [
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/mb/jl/_00001hhlgl8evmjv1274pxdkjjrjlmb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471849&gen=playurlv2&os=08cbv&oi=0&trid=9b2b658806764bcbaa721a079e4c2162B&mid=0&platform=html5&upsig=7a5ca8d83362a423a6561367e7263935&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/mb/jl/_00001hhlgl8evmjv1274pxdkjjrjlmb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471849&gen=playurlv2&os=08cbv&oi=0&trid=9b2b658806764bcbaa721a079e4c2162B&mid=0&platform=html5&upsig=7a5ca8d83362a423a6561367e7263935&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/mb/jl/_00001hhlgl8evmjv1274pxdkjjrjlmb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471849&gen=playurlv2&os=hwbbv&oi=0&trid=9b2b658806764bcbaa721a079e4c2162B&mid=0&platform=html5&upsig=8c1a514a53e50cabbd27da6e259b16ea&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/4d0f7eaf707d7509ead8659fc92ac330fde21a0b.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark4b/tt/_00003uabnetf0iqh229b8vgudfgtt4b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471849&gen=playurlv2&os=alibv&oi=0&trid=9b2b658806764bcbaa721a079e4c2162B&mid=0&platform=html5&upsig=d5db86e185a73bc50351c4b5bd984d19&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark4b/tt/_00003uabnetf0iqh229b8vgudfgtt4b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471849&gen=playurlv2&os=alibv&oi=0&trid=9b2b658806764bcbaa721a079e4c2162B&mid=0&platform=html5&upsig=d5db86e185a73bc50351c4b5bd984d19&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/digital_watermark4b/tt/_00003uabnetf0iqh229b8vgudfgtt4b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703471849&gen=playurlv2&os=alibbv&oi=0&trid=9b2b658806764bcbaa721a079e4c2162B&mid=0&platform=html5&upsig=d78062ac9def362868ed24c686c0951e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                }
+            ]
+        }
+    }
+}
