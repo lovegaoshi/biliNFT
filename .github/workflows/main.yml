@@ -1,7 +1,7 @@
 name: biliNFT scraper
 on:
   schedule:
-    - cron: '0 0 * * 1'
+    - cron: "0 0 * * 1"
   workflow_dispatch:
 jobs:
   scrapeNFT:
@@ -12,18 +12,19 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-        
+
       - name: python version_bump.py
         run: |
           python scraper.py
-      
+          python emotescraper.py ${{secrets.EMOTEURL}}
+
       - name: commit
         run: |
           git config --global user.email lovegaoshi@gaoshi.com
           git config --global user.name lovegaoshi
           git add .
           git commit -m "chore: weekly scrape" -a
-          
+
       - name: Push changes to master
         uses: ad-m/github-push-action@master
         with:
