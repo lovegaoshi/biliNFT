@@ -8,7 +8,7 @@ with open('biliEmote.json') as f:
 
 
 @app.get("/get-emote/")
-async def get_emote(eid: str = None, mid: str = None):
+async def get_emote(eid: int = None, mid: int = None):
     try:
         for emote in emotes['data']['all_packages']:
             try:
