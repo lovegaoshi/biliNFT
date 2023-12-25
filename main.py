@@ -14,8 +14,8 @@ async def get_emote(eid: str = None, mid: str = None):
             if eid == emote['id'] or mid == emote['meta']['item_id']:
                 return emote
         raise Exception('emote not found.')
-    except:
-        raise HTTPException(status_code=406, detail="n/a")
+    except Exception as e:
+        raise HTTPException(status_code=406, detail=str(e))
 
 
 @app.get("/")
