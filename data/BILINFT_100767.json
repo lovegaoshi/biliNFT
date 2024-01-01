@@ -1,0 +1,415 @@
+{
+    "basic": {
+        "code": 0,
+        "message": "0",
+        "ttl": 1,
+        "data": {
+            "act_title": "呆妹小霸王收藏集",
+            "cur_time": 1704070678,
+            "start_time": 1703844000,
+            "end_time": 2114406245,
+            "pre_start_time": 1703757600,
+            "pre_end_time": 1703843999,
+            "is_booked": 0,
+            "act_desc": "",
+            "lottery_list": [
+                {
+                    "lottery_id": 100768,
+                    "lottery_name": "冬日魅惑",
+                    "display_time": 1703757600,
+                    "start_time": 1703844000,
+                    "end_time": 2114406245,
+                    "lottery_image": "https://i0.hdslb.com/bfs/garb/b9edee4885c8efe516f32e79bdc41b05ad760132.png",
+                    "draw_cnt": 0,
+                    "goods_id": 31040921961984,
+                    "price": 9900,
+                    "goods_name": "冬日魅惑",
+                    "lottery_desc": "【隐藏款】女王呆妹概率4.5%;傲娇呆妹概率0.5%;\n【普通款】战场呆妹概率9%;其余立绘均分概率86%;",
+                    "item_total_cnt": 8,
+                    "item_owned_cnt": 0,
+                    "total_sale_amount": 880,
+                    "lottery_type": 1,
+                    "effective_forever": 1,
+                    "discount": {
+                        "origin_price": 9900,
+                        "price": 4900,
+                        "discount_guidance": {
+                            "guidance_text": "开通大会员首抽",
+                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                        }
+                    },
+                    "free": 0,
+                    "sale_mode": 1
+                }
+            ],
+            "share_info": {
+                "main_title": "呆妹小霸王收藏集",
+                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+                "share_content": "活动火热售卖中，快来开卡吧！"
+            },
+            "act_y_img": "https://i0.hdslb.com/bfs/garb/c3be7f5e37d8c00ccd52f01cbe036f17d4087dee.png",
+            "animation_info": {
+                "animation_draw_url": {
+                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+                },
+                "animation_entry_url": {
+                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+                }
+            },
+            "total_book_cnt": 126,
+            "total_buy_cnt": 880,
+            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+            "is_pre": 1,
+            "is_pre_risk": 0,
+            "is_collector_rank": 1,
+            "collect_list": [
+                {
+                    "collect_id": 100772,
+                    "start_time": 1703757600,
+                    "end_time": 2114406245,
+                    "redeem_text": "完成2抽即可领取，单UID仅可领取一次。",
+                    "redeem_item_type": 2,
+                    "redeem_item_id": "1703041889001",
+                    "redeem_item_name": "呆妹收藏集表情包",
+                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/987c622ab6c61530a91ccf1f3007c290797ffdbb.png",
+                    "owned_item_amount": 0,
+                    "require_item_amount": 2,
+                    "has_redeemed_cnt": 0,
+                    "effective_forever": 1,
+                    "redeem_item_image_download": "",
+                    "card_item": {
+                        "card_type_info": null,
+                        "play": null,
+                        "tag": null
+                    },
+                    "jump_url": "",
+                    "redeem_cond_type": "lottery_num",
+                    "remain_stock": -1,
+                    "total_stock": -1
+                },
+                {
+                    "collect_id": 100771,
+                    "start_time": 1703757600,
+                    "end_time": 2114406245,
+                    "redeem_text": "抽到任意1张隐藏款立绘即可领取，单UID仅可领取一次。",
+                    "redeem_item_type": 3,
+                    "redeem_item_id": "1701162180001",
+                    "redeem_item_name": "呆妹儿收藏集头像框",
+                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/84002b20c782dcf3a13884c43e48d7c6246cd6d6.png",
+                    "owned_item_amount": 0,
+                    "require_item_amount": 1,
+                    "has_redeemed_cnt": 0,
+                    "effective_forever": 1,
+                    "redeem_item_image_download": "",
+                    "card_item": {
+                        "card_type_info": null,
+                        "play": null,
+                        "tag": null
+                    },
+                    "jump_url": "",
+                    "redeem_cond_type": "scarcity",
+                    "remain_stock": -1,
+                    "total_stock": -1
+                }
+            ],
+            "display_title": "任务奖励",
+            "effective_forever": 1,
+            "guide_info": {
+                "title": "",
+                "guide_content": "",
+                "jump_url": ""
+            },
+            "is_can_donate": 1,
+            "is_up_chain": 0,
+            "related_mids": [
+                "247743458"
+            ],
+            "is_vip": false,
+            "task_list": null,
+            "popup_info": null,
+            "act_desc_light": "",
+            "not_need_realname": 1,
+            "product_introduce": "【呆妹收藏集】是哔哩哔哩携手呆妹定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁呆妹的绝美画面！",
+            "app_head_show": "https://i0.hdslb.com/bfs/garb/open/b7e47e1df228ee2a1633f0a4b2d89e619c59e6aa.png@0-0-1126-1126a",
+            "app_space_show": "https://i0.hdslb.com/bfs/garb/open/b7e47e1df228ee2a1633f0a4b2d89e619c59e6aa.png@0-0-1126-1126a",
+            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/9dd01da625a4e444682d02c9d5ab43aa9e85169a.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/54487d52004452509412045d13a1e79d7f3054fe.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/95704c7df11fcd947596ec48865801a1c5e60b5d.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/95e361561acbd6b16cb2eee30f42887df34106e2.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/3218e5ecf2036dd49b4e00dbc0af932b55b88348.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
+            "topic": null,
+            "physical_exchange": false
+        }
+    },
+    "list": {
+        "code": 0,
+        "message": "0",
+        "ttl": 1,
+        "data": {
+            "uname": "",
+            "uface": "",
+            "act_y_img": "https://i0.hdslb.com/bfs/garb/c3be7f5e37d8c00ccd52f01cbe036f17d4087dee.png",
+            "total_item_cnt": 8,
+            "owned_item_cnt": 0,
+            "item_list": [
+                {
+                    "item_type": 1,
+                    "item_scarcity": 30,
+                    "card_item": {
+                        "card_type_id": 1703488567009,
+                        "card_name": "傲娇呆妹",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/b7e47e1df228ee2a1633f0a4b2d89e619c59e6aa.png",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 5,
+                        "total_cnt_show": "000005",
+                        "holding_rate": 65,
+                        "video_list": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/5b/au/_00000r5vcyn7zjf031zdr02mvesau5b-1-152111110022.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1704077880&gen=playurlv2&os=alibv&oi=0&trid=5afbc46fca4344f697b8f38198d1926fB&mid=0&platform=html5&upsig=fd492c9e4b612ffd56669fdeb23e7415&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/5b/au/_00000r5vcyn7zjf031zdr02mvesau5b-1-152111110022.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1704077880&gen=playurlv2&os=alibv&oi=0&trid=5afbc46fca4344f697b8f38198d1926fB&mid=0&platform=html5&upsig=fd492c9e4b612ffd56669fdeb23e7415&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/5b/au/_00000r5vcyn7zjf031zdr02mvesau5b-1-152111110022.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1704077880&gen=playurlv2&os=alibbv&oi=0&trid=5afbc46fca4344f697b8f38198d1926fB&mid=0&platform=html5&upsig=3d0a89c6fe7328bb7912f7c6faeab729&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 40,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/d2bbeb0d98bbfe380e42fa1877cd7ad2112c1eed.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermarkxb/xo/_00003kzok6anixvwx2wamiitd7xxoxb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1704077880&gen=playurlv2&os=08cbv&oi=0&trid=5afbc46fca4344f697b8f38198d1926fB&mid=0&platform=html5&upsig=607e2c93ce7e12202d4c9d762fca87c5&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermarkxb/xo/_00003kzok6anixvwx2wamiitd7xxoxb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1704077880&gen=playurlv2&os=08cbv&oi=0&trid=5afbc46fca4344f697b8f38198d1926fB&mid=0&platform=html5&upsig=607e2c93ce7e12202d4c9d762fca87c5&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/digital_watermarkxb/xo/_00003kzok6anixvwx2wamiitd7xxoxb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1704077880&gen=playurlv2&os=hwbbv&oi=0&trid=5afbc46fca4344f697b8f38198d1926fB&mid=0&platform=html5&upsig=7be0de64a5b3470c35f2c452eed424ce&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 30,
+                    "card_item": {
+                        "card_type_id": 1703488567008,
+                        "card_name": "女王呆妹",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/7cf176eef4f496208aa6d49dbe72072b8c62f84e.png",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 34,
+                        "total_cnt_show": "000034",
+                        "holding_rate": 437,
+                        "video_list": [
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/lb/z2/_00000kbbaz0hkl5ho2r6e6vvuwtz2lb-1-152111110022.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1704077880&gen=playurlv2&os=alibv&oi=0&trid=5afbc46fca4344f697b8f38198d1926fB&mid=0&platform=html5&upsig=7968756b225583b91a0807ed375b25dd&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/lb/z2/_00000kbbaz0hkl5ho2r6e6vvuwtz2lb-1-152111110022.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1704077880&gen=playurlv2&os=alibv&oi=0&trid=5afbc46fca4344f697b8f38198d1926fB&mid=0&platform=html5&upsig=7968756b225583b91a0807ed375b25dd&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/lb/z2/_00000kbbaz0hkl5ho2r6e6vvuwtz2lb-1-152111110022.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1704077880&gen=playurlv2&os=alibbv&oi=0&trid=5afbc46fca4344f697b8f38198d1926fB&mid=0&platform=html5&upsig=efcfe38e05a625f92575a79936063798&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 30,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/bae4d6226782d3a012b9534ea01e2452e7104630.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirrorcos.bilivideo.com/panguxcodeboss/digital_watermark5b/u6/_00002630z0u65zqvy26r06ssw20u65b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1704077880&gen=playurlv2&os=cosbv&oi=0&trid=5afbc46fca4344f697b8f38198d1926fB&mid=0&platform=html5&upsig=3ea7e2c46c26f869ca5edb89d166443c&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorcos.bilivideo.com/panguxcodeboss/digital_watermark5b/u6/_00002630z0u65zqvy26r06ssw20u65b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1704077880&gen=playurlv2&os=cosbv&oi=0&trid=5afbc46fca4344f697b8f38198d1926fB&mid=0&platform=html5&upsig=3ea7e2c46c26f869ca5edb89d166443c&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorcosb.bilivideo.com/panguxcodeboss/digital_watermark5b/u6/_00002630z0u65zqvy26r06ssw20u65b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1704077880&gen=playurlv2&os=cosbbv&oi=0&trid=5afbc46fca4344f697b8f38198d1926fB&mid=0&platform=html5&upsig=5083837d8c91faa0bfdcc9606e2cf981&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1703488567006,
+                        "card_name": "战场呆妹",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/c4a1eb174efdd5dd5118bbf910e66da9c748c62b.png",
+                        "card_type": 2,
+                        "card_id_list": null,
+                        "total_cnt": 69,
+                        "total_cnt_show": "000069",
+                        "holding_rate": 886,
+                        "video_list": [
+                            "https://upos-sz-mirrorcos.bilivideo.com/panguxcodeboss/wb/sb/_00002558kzu89uqhq2w2jmcmnzpsbwb-1-152111110022.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1704077880&gen=playurlv2&os=cosbv&oi=0&trid=5afbc46fca4344f697b8f38198d1926fB&mid=0&platform=html5&upsig=7390c11e9cbc50601767733bd5d50e4e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorcos.bilivideo.com/panguxcodeboss/wb/sb/_00002558kzu89uqhq2w2jmcmnzpsbwb-1-152111110022.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1704077880&gen=playurlv2&os=cosbv&oi=0&trid=5afbc46fca4344f697b8f38198d1926fB&mid=0&platform=html5&upsig=7390c11e9cbc50601767733bd5d50e4e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorcosb.bilivideo.com/panguxcodeboss/wb/sb/_00002558kzu89uqhq2w2jmcmnzpsbwb-1-152111110022.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1704077880&gen=playurlv2&os=cosbbv&oi=0&trid=5afbc46fca4344f697b8f38198d1926fB&mid=0&platform=html5&upsig=d630f2d3798c8a8c8e0c2fe94c38c5c8&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 20,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/02d0629877566ded89d79eddc7f75feda3b5cc03.png",
+                        "video_list_download": [
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermarknb/kd/_00001qdzuya7ik74k2bckp47zibkdnb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1704077880&gen=playurlv2&os=08cbv&oi=0&trid=5afbc46fca4344f697b8f38198d1926fB&mid=0&platform=html5&upsig=74e895a289ee547b72093d5ea1404e29&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermarknb/kd/_00001qdzuya7ik74k2bckp47zibkdnb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1704077880&gen=playurlv2&os=08cbv&oi=0&trid=5afbc46fca4344f697b8f38198d1926fB&mid=0&platform=html5&upsig=74e895a289ee547b72093d5ea1404e29&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                            "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/digital_watermarknb/kd/_00001qdzuya7ik74k2bckp47zibkdnb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1704077880&gen=playurlv2&os=hwbbv&oi=0&trid=5afbc46fca4344f697b8f38198d1926fB&mid=0&platform=html5&upsig=68e68714b06d7019133647e9eb4bc211&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1703488567002,
+                        "card_name": "魅惑呆妹",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/86993184ab79a180186a501283b267a98ce7d855.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 137,
+                        "total_cnt_show": "000137",
+                        "holding_rate": 1759,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/9da36f10985300264df0706d798bfe54629d8d9f.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1703488567003,
+                        "card_name": "楚楚呆妹",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/988b692ae8fd81d6804aaf4783fd6375dec6890d.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 144,
+                        "total_cnt_show": "000144",
+                        "holding_rate": 1849,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/c587aee1f61c542a67a3062e0e51769e43f24315.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1703488567004,
+                        "card_name": "可人呆妹",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/14a4cb3498928d8dcd3d1462fcd366cbf1d061a2.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 117,
+                        "total_cnt_show": "000117",
+                        "holding_rate": 1502,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/8ba6613866d70d2a2fbf0907f291c636ada8f89d.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1703488567005,
+                        "card_name": "圣诞呆妹",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/3d18f8217b0cd08955cac4745cf6a6ab4683f9d4.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 139,
+                        "total_cnt_show": "000139",
+                        "holding_rate": 1785,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/49f83aaa7e209bd253809183edc069c4fc7920e9.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "item_scarcity": 10,
+                    "card_item": {
+                        "card_type_id": 1703488567007,
+                        "card_name": "秋日呆妹",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/acb9a5ecaf94ade440b81e30363f1c8df6c1d509.png",
+                        "card_type": 1,
+                        "card_id_list": null,
+                        "total_cnt": 134,
+                        "total_cnt_show": "000134",
+                        "holding_rate": 1721,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/c7908c017bd29de09fa5163fb0655ca6ec1851ac.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_limited_card": 0,
+                        "stock_info": null
+                    }
+                }
+            ]
+        }
+    }
+}
