@@ -6,6 +6,8 @@ import glob
 from os.path import join, basename
 import requests
 
+headers = {
+    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46'}
 '''
 https://api.bilibili.com/x/vas/dlc_act/act/basic?act_id={藏品id}
 https://api.bilibili.com/x/vas/dlc_act/act/item/list?act_id={藏品id}
@@ -44,7 +46,8 @@ def write_list():
 
 def scrape_id(last_scraped: str):
     data = {}
-    res = requests.get(BASIC_API.format(id=last_scraped), timeout=10)
+    res = requests.get(BASIC_API.format(id=last_scraped),
+                       timeout=10, headers=headers)
     jsoned = res.json()
     if jsoned['code'] != 0:
         logging.warning(
@@ -66,7 +69,7 @@ def scrape_id(last_scraped: str):
     data['basic'] = jsoned
     time.sleep(1)
     data['list'] = requests.get(LIST_API.format(
-        id=last_scraped), timeout=10).json()
+        id=last_scraped), timeout=10, headers=headers).json()
     with open(join('data', f'BILINFT_{last_scraped}.json'), 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
     return 0
@@ -92,7 +95,7 @@ def old_scrape():
 
 if __name__ == '__main__':
     logging.basicConfig(level=logging.DEBUG)
-    res = requests.get(MASTER_LIST_API, timeout=10)
+    res = requests.get(MASTER_LIST_API, timeout=10, headers=headers)
     jsoned = res.json()
     nft_list = [x['act_id'] for x in jsoned['data']['subject_card_list']]
     scraped_nft = [int(basename(x)[8:-5]) for x in glob.glob('data/*.json')]

@@ -340,6 +340,9 @@
 [# 100730.夕兔收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_100730.json)
 ![夕兔收藏集](https://i0.hdslb.com/bfs/garb/8948da5be7b186e65d36794c3340a516504fe6bc.png)
 
+[# 100736.米诺高分少女收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_100736.json)
+![米诺高分少女收藏集](https://i0.hdslb.com/bfs/garb/e7b9d84e9f116ad40c4c9e68fdffce7310f79ef7.jpg)
+
 [# 100740.斋藤直葵收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_100740.json)
 ![斋藤直葵收藏集](https://i0.hdslb.com/bfs/garb/c491b1d99610cf81e2c13acc9da95638f1e91f14.png)
 
@@ -810,4 +813,7 @@
 
 [# 277.ATEEZ收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_277.json)
 ![ATEEZ收藏集](http://i0.hdslb.com/bfs/archive/2ad15dab89234a54109379e067ed24aca403e49a.jpg)
+
+[# 280.MTG收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_280.json)
+![MTG收藏集](http://i0.hdslb.com/bfs/archive/6f4430e998651b291ce6c4f79351e551ffe0ba21.jpg)
 
