@@ -94,10 +94,19 @@ def old_scrape():
 
 
 if __name__ == '__main__':
+    import argparse
+    parser = argparse.ArgumentParser(description="ina music segment")
+    parser.add_argument("--id", type=str,
+                        help="file path or weblink", nargs='+', default=[])
+    args = parser.parse_args()
+
     logging.basicConfig(level=logging.DEBUG)
-    res = requests.get(MASTER_LIST_API, timeout=10, headers=headers)
-    jsoned = res.json()
-    nft_list = [x['act_id'] for x in jsoned['data']['subject_card_list']]
+    if (len(args.id) > 0):
+        nft_list = args.id
+    else:
+        res = requests.get(MASTER_LIST_API, timeout=10, headers=headers)
+        jsoned = res.json()
+        nft_list = [x['act_id'] for x in jsoned['data']['subject_card_list']]
     scraped_nft = [int(basename(x)[8:-5]) for x in glob.glob('data/*.json')]
     for nft_id in nft_list:
         if nft_id not in scraped_nft:

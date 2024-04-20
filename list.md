@@ -739,6 +739,9 @@
 [# 101673.FPX·凤卷硝云收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_101673.json)
 ![FPX·凤卷硝云收藏集](https://i0.hdslb.com/bfs/garb/8e00b5122ac2ed38527a23975b29c5b04616b329.png)
 
+[# 101677.蛙吹Keroro收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_101677.json)
+![蛙吹Keroro收藏集](https://i0.hdslb.com/bfs/garb/da63e53ec89fc391968f8523f41f43e12c6dd781.jpg)
+
 [# 101687.Liyuu收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_101687.json)
 ![Liyuu收藏集](http://i0.hdslb.com/bfs/archive/71c3d2f57d42c49db2abd27aa2c3b2ffdf862e67.png)
 
