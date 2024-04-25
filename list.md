@@ -757,11 +757,17 @@
 [# 101724.FPX.ZQ·雀鸣深渊收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_101724.json)
 ![FPX.ZQ·雀鸣深渊收藏集](https://i0.hdslb.com/bfs/garb/269417f7f90a50dff7549987978ee3a9ff120fa1.png)
 
+[# 101727.粉扑扑收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_101727.json)
+![粉扑扑收藏集](https://i0.hdslb.com/bfs/garb/13fe69d7eb101f7e1570f4f80c139d4e8e186426.jpg)
+
 [# 101733.浅川玉乃收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_101733.json)
 ![浅川玉乃收藏集](https://i0.hdslb.com/bfs/garb/fbaadfc5d8ad6cea962838e666757d0e7866750a.png)
 
 [# 101751.交错战线收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_101751.json)
 ![交错战线收藏集](https://i0.hdslb.com/bfs/garb/84eaa797618a6d6d0d4dd80919adc42a7fadc191.jpg)
+
+[# 101759.桃核豆豆子收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_101759.json)
+![桃核豆豆子收藏集](http://i0.hdslb.com/bfs/archive/3ecd2eaf2db5efd33cc89040cf08e94822ce8886.jpg)
 
 [# 101768.戏里戏外又逢卿·416收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_101768.json)
 ![戏里戏外又逢卿·416收藏集](https://i0.hdslb.com/bfs/garb/cb1f3d677486b1f15007702ae1805b1c2f696f80.png)
