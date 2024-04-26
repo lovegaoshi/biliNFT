@@ -6,15 +6,15 @@ import glob
 from os.path import join, basename
 import requests
 
-headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0'}
+from scrapers.NFTlist import scrape as masterlist_scrape
+from scrapers.constants import headers
+
 '''
 https://api.bilibili.com/x/vas/dlc_act/act/basic?act_id={藏品id}
 https://api.bilibili.com/x/vas/dlc_act/act/item/list?act_id={藏品id}
 '''
 BASIC_API = 'https://api.bilibili.com/x/vas/dlc_act/act/basic?act_id={id}'
 LIST_API = 'https://api.bilibili.com/x/vas/dlc_act/act/item/list?act_id={id}'
-MASTER_LIST_API = 'https://api.bilibili.com/x/garb/card/subject/list?subject_id=42'
 
 
 def save_last_scraped(scraped: str):
@@ -104,9 +104,7 @@ if __name__ == '__main__':
     if (len(args.id) > 0):
         nft_list = args.id
     else:
-        res = requests.get(MASTER_LIST_API, timeout=10, headers=headers)
-        jsoned = res.json()
-        nft_list = [x['act_id'] for x in jsoned['data']['subject_card_list']]
+        nft_list = masterlist_scrape()
     scraped_nft = [int(basename(x)[8:-5]) for x in glob.glob('data/*.json')]
     for nft_id in nft_list:
         if nft_id not in scraped_nft:

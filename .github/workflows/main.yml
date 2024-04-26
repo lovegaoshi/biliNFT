@@ -20,7 +20,7 @@ jobs:
 
       - name: commit
         run: |
-          git config --global user.email lovegaoshi@gaoshi.com
+          git config --global user.email 106490582+lovegaoshi@users.noreply.github.com
           git config --global user.name lovegaoshi
           git add .
           git commit -m "chore: weekly scrape" -a
