@@ -1,292 +1,284 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "时光代理人",
-            "cur_time": 1702648030,
-            "start_time": 1689217200,
-            "end_time": 2114406245,
-            "pre_start_time": 1689130800,
-            "pre_end_time": 1689217199,
-            "is_booked": 0,
-            "act_desc": "https://i0.hdslb.com/bfs/garb/e17064dd842f12a678ddf900bf6d878bb860fb5d.png",
-            "lottery_list": [
-                {
-                    "lottery_id": 31,
-                    "lottery_name": "盛夏",
-                    "display_time": 1689130800,
-                    "start_time": 1689217200,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/c00abdde796b34657c1b75c92b083b711b17d9f5.png",
-                    "draw_cnt": 0,
-                    "goods_id": 5654225892354,
-                    "price": 9900,
-                    "goods_name": "盛夏",
-                    "lottery_desc": "【时光相册系列·盛夏】共包含12张精美海报！\n普通款：Q萌·程小时、Q萌·陆光、Q萌·乔苓、初见·程小时、初见·陆光、初见·乔苓、繁星·程小时、繁星·陆光、繁星·乔苓均分概率95%；\n隐藏款：明媚时光、异色轮舞均分概率4.5%、光影流沙概率0.5%。",
-                    "item_total_cnt": 21,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 534915,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 1900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                },
-                {
-                    "lottery_id": 34,
-                    "lottery_name": "福利卡池",
-                    "display_time": 1689303599,
-                    "start_time": 1689303600,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/5455cf556c5aed3fb723966326e828980d8db337.png",
-                    "draw_cnt": 0,
-                    "goods_id": 5654225892353,
-                    "price": 0,
-                    "goods_name": "福利卡池",
-                    "lottery_desc": "时光代理人福利卡池共包含4张海报；\n简约·程小时、简约·陆光、简约·乔苓、童稚·程小时每张海报概率25%\n（注：免费奖池抽取的卡牌不参与收集度奖励兑换哦~）",
-                    "item_total_cnt": 4,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 482633,
-                    "lottery_type": 2,
-                    "effective_forever": 1,
-                    "discount": null,
-                    "free": 1,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "时光代理人收藏集，盛夏系列售卖中",
-                "sub_title": "时光代理人收藏集来袭，精美独家立绘海报、专属勋章、头像框、表情包等你解锁！",
-                "share_content": "时光代理人·时光相册集火热售卖中，大会员首抽1.9元！精美头像框等你解锁！一起共赴盛夏之约！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/851c637e8c46bba5c4c4bc48a691ef23f260547e.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
-                },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
-            },
-            "total_book_cnt": 5896,
-            "total_buy_cnt": 1031322,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 171,
-                    "start_time": 1691661600,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出盛夏Ⅰ、Ⅱ卡池任意4张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "56703",
-                    "redeem_item_name": "时光代理人个性主题",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/7691c6bf57bcadf01302ad6a9326ebca24dee9d9.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 4,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 96,
-                    "start_time": 1689130800,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出盛夏Ⅰ、Ⅱ卡池任意5张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "55400&55401&55402",
-                    "redeem_item_name": "动态点赞＆加载动画＆进度条",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/98d8745e90ac6ae7310c1d3ad59bbeeaf828492b.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 95,
-                    "start_time": 1689130800,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出盛夏Ⅰ、Ⅱ卡池任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "55399",
-                    "redeem_item_name": "时光代理人头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/a0c0e3d5988c1ef878f3ef51ec9f6d9e5826d6dd.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 94,
-                    "start_time": 1689130800,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出盛夏Ⅰ、Ⅱ卡池任意3张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "55398",
-                    "redeem_item_name": "时光代理人表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/8e438fe5d4351311d4a703e9e52ed53c9b6c1283.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 354,
-                    "start_time": 1694768400,
-                    "end_time": 1696953599,
-                    "redeem_text": "抽齐21张盛夏卡牌，即可领取。通过问卷二选一，10月28日前陆续发至账户",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "59374",
-                    "redeem_item_name": "时光代理人出框头像二选一",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/e4bec2a1ce1eb4399ddde94afe81e2c7184b645a.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 21,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之礼",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
-            },
-            "is_can_donate": 1,
-            "is_up_chain": 1,
-            "related_mids": [
-                "514978269"
-            ],
-            "is_vip": false,
-            "task_list": {
-                "item": [
-                    {
-                        "id": 3120221,
-                        "title": "每购买1次年度大会员",
-                        "desc": "盛夏池抽卡机会",
-                        "process": {
-                            "totalDetailCount": 1,
-                            "completeDetailCount": 0,
-                            "totalCompleteCount": 1,
-                            "completeCount": 0,
-                            "awardCount": 0,
-                            "awardRemindCount": 0,
-                            "state": 1,
-                            "remainingTask": {
-                                "id": null
-                            }
-                        },
-                        "task_code": "vip",
-                        "finish_url": "bilibili://user_center/vip/buy/167?pay_tips_id=39292&valid_channel=direct",
-                        "task_status": 0,
-                        "start_time": {},
-                        "end_time": {},
-                        "need_pre_task_list": null,
-                        "incomplete_pre_task_list": null,
-                        "jump_url": "bilibili://user_center/vip/buy/167?pay_tips_id=39292&valid_channel=direct",
-                        "prop_info": [
-                            {
-                                "prop_id": 1470146,
-                                "prop_num": 2,
-                                "prop_type": "GARB_DLC_CARD"
-                            }
-                        ],
-                        "Config": {
-                            "customize_config": {}
-                        }
+        "act_title": "时光代理人",
+        "cur_time": 1702648030,
+        "start_time": 1689217200,
+        "end_time": 2114406245,
+        "pre_start_time": 1689130800,
+        "pre_end_time": 1689217199,
+        "is_booked": 0,
+        "act_desc": "https://i0.hdslb.com/bfs/garb/e17064dd842f12a678ddf900bf6d878bb860fb5d.png",
+        "lottery_list": [
+            {
+                "lottery_id": 31,
+                "lottery_name": "盛夏",
+                "display_time": 1689130800,
+                "start_time": 1689217200,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/c00abdde796b34657c1b75c92b083b711b17d9f5.png",
+                "draw_cnt": 0,
+                "goods_id": 5654225892354,
+                "price": 9900,
+                "goods_name": "盛夏",
+                "lottery_desc": "【时光相册系列·盛夏】共包含12张精美海报！\n普通款：Q萌·程小时、Q萌·陆光、Q萌·乔苓、初见·程小时、初见·陆光、初见·乔苓、繁星·程小时、繁星·陆光、繁星·乔苓均分概率95%；\n隐藏款：明媚时光、异色轮舞均分概率4.5%、光影流沙概率0.5%。",
+                "item_total_cnt": 21,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 534915,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 1900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
                     }
-                ],
-                "task_name": "大会员专属福利",
-                "task_jump_url": "bilibili://user_center/vip/buy/167?pay_tips_id=39292&valid_channel=direct",
-                "task_jump_text": "去开通 >",
-                "task_activity_id": 952,
-                "task_type": "vip"
+                },
+                "free": 0,
+                "sale_mode": 1
             },
-            "popup_info": {
-                "popup_type": 1,
-                "popup_content": "https://i0.hdslb.com/bfs/activity-plat/static/20230724/4cefecc6742f8995a6bd22402a6d0b8b/E658Kdv4jy.png",
-                "button_text": "我知道了",
-                "button_jump_url": ""
+            {
+                "lottery_id": 34,
+                "lottery_name": "福利卡池",
+                "display_time": 1689303599,
+                "start_time": 1689303600,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/5455cf556c5aed3fb723966326e828980d8db337.png",
+                "draw_cnt": 0,
+                "goods_id": 5654225892353,
+                "price": 0,
+                "goods_name": "福利卡池",
+                "lottery_desc": "时光代理人福利卡池共包含4张海报；\n简约·程小时、简约·陆光、简约·乔苓、童稚·程小时每张海报概率25%\n（注：免费奖池抽取的卡牌不参与收集度奖励兑换哦~）",
+                "item_total_cnt": 4,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 482633,
+                "lottery_type": 2,
+                "effective_forever": 1,
+                "discount": null,
+                "free": 1,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "时光代理人收藏集，盛夏系列售卖中",
+            "sub_title": "时光代理人收藏集来袭，精美独家立绘海报、专属勋章、头像框、表情包等你解锁！",
+            "share_content": "时光代理人·时光相册集火热售卖中，大会员首抽1.9元！精美头像框等你解锁！一起共赴盛夏之约！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/851c637e8c46bba5c4c4bc48a691ef23f260547e.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "act_desc_light": "",
-            "not_need_realname": 0,
-            "product_introduce": "",
-            "app_head_show": "",
-            "app_space_show": "",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/685a802f2b91210876b337c32e82bcbf3ded50a9.png\",\"card_count\":1,\"num_color\":\"#c68d6f\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/7d0bdd6ed89810b2dd8420973cf18051f2033fcb.png\",\"card_count\":5,\"num_color\":\"#86bedb\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/a2cc377ae42acec893f297df8414f5259ade14c3.png\",\"card_count\":15,\"num_color\":\"#ffd78d\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/1893118f5388b5ee46ce54bd5d73ef8fbd14eef7.png\",\"card_count\":30,\"num_color\":\"#ffa7e4\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/1a03bd8cbe64fd015274b45c296401f71f6d0d89.png\",\"card_count\":60,\"num_color\":\"#a18ee8\"}]",
-            "topic": null
-        }
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 5896,
+        "total_buy_cnt": 1031322,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 171,
+                "start_time": 1691661600,
+                "end_time": 2114406245,
+                "redeem_text": "抽出盛夏Ⅰ、Ⅱ卡池任意4张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "56703",
+                "redeem_item_name": "时光代理人个性主题",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/7691c6bf57bcadf01302ad6a9326ebca24dee9d9.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 4,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 96,
+                "start_time": 1689130800,
+                "end_time": 2114406245,
+                "redeem_text": "抽出盛夏Ⅰ、Ⅱ卡池任意5张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "55400&55401&55402",
+                "redeem_item_name": "动态点赞＆加载动画＆进度条",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/98d8745e90ac6ae7310c1d3ad59bbeeaf828492b.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 5,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 95,
+                "start_time": 1689130800,
+                "end_time": 2114406245,
+                "redeem_text": "抽出盛夏Ⅰ、Ⅱ卡池任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "55399",
+                "redeem_item_name": "时光代理人头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/a0c0e3d5988c1ef878f3ef51ec9f6d9e5826d6dd.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 94,
+                "start_time": 1689130800,
+                "end_time": 2114406245,
+                "redeem_text": "抽出盛夏Ⅰ、Ⅱ卡池任意3张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "55398",
+                "redeem_item_name": "时光代理人表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/8e438fe5d4351311d4a703e9e52ed53c9b6c1283.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 354,
+                "start_time": 1694768400,
+                "end_time": 1696953599,
+                "redeem_text": "抽齐21张盛夏卡牌，即可领取。通过问卷二选一，10月28日前陆续发至账户",
+                "redeem_item_type": 5,
+                "redeem_item_id": "59374",
+                "redeem_item_name": "时光代理人出框头像二选一",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/e4bec2a1ce1eb4399ddde94afe81e2c7184b645a.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 21,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之礼",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 1,
+        "related_mids": [
+            "514978269"
+        ],
+        "is_vip": false,
+        "task_list": {
+            "item": [
+                {
+                    "id": 3120221,
+                    "title": "每购买1次年度大会员",
+                    "desc": "盛夏池抽卡机会",
+                    "process": {
+                        "totalDetailCount": 1,
+                        "completeDetailCount": 0,
+                        "totalCompleteCount": 1,
+                        "completeCount": 0,
+                        "awardCount": 0,
+                        "awardRemindCount": 0,
+                        "state": 1,
+                        "remainingTask": {
+                            "id": null
+                        }
+                    },
+                    "task_code": "vip",
+                    "finish_url": "bilibili://user_center/vip/buy/167?pay_tips_id=39292&valid_channel=direct",
+                    "task_status": 0,
+                    "start_time": {},
+                    "end_time": {},
+                    "need_pre_task_list": null,
+                    "incomplete_pre_task_list": null,
+                    "jump_url": "bilibili://user_center/vip/buy/167?pay_tips_id=39292&valid_channel=direct",
+                    "prop_info": [
+                        {
+                            "prop_id": 1470146,
+                            "prop_num": 2,
+                            "prop_type": "GARB_DLC_CARD"
+                        }
+                    ],
+                    "Config": {
+                        "customize_config": {}
+                    }
+                }
+            ],
+            "task_name": "大会员专属福利",
+            "task_jump_url": "bilibili://user_center/vip/buy/167?pay_tips_id=39292&valid_channel=direct",
+            "task_jump_text": "去开通 >",
+            "task_activity_id": 952,
+            "task_type": "vip"
+        },
+        "popup_info": {
+            "popup_type": 1,
+            "popup_content": "https://i0.hdslb.com/bfs/activity-plat/static/20230724/4cefecc6742f8995a6bd22402a6d0b8b/E658Kdv4jy.png",
+            "button_text": "我知道了",
+            "button_jump_url": ""
+        },
+        "act_desc_light": "",
+        "not_need_realname": 0,
+        "product_introduce": "",
+        "app_head_show": "",
+        "app_space_show": "",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/685a802f2b91210876b337c32e82bcbf3ded50a9.png\",\"card_count\":1,\"num_color\":\"#c68d6f\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/7d0bdd6ed89810b2dd8420973cf18051f2033fcb.png\",\"card_count\":5,\"num_color\":\"#86bedb\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/a2cc377ae42acec893f297df8414f5259ade14c3.png\",\"card_count\":15,\"num_color\":\"#ffd78d\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/1893118f5388b5ee46ce54bd5d73ef8fbd14eef7.png\",\"card_count\":30,\"num_color\":\"#ffa7e4\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/1a03bd8cbe64fd015274b45c296401f71f6d0d89.png\",\"card_count\":60,\"num_color\":\"#a18ee8\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/851c637e8c46bba5c4c4bc48a691ef23f260547e.png",
@@ -1060,5 +1052,5 @@
                 }
             ]
         }
-    }
+    ]
 }

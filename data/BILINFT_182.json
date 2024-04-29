@@ -1,247 +1,239 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "波喵喵喵收藏集",
-            "cur_time": 1702647754,
-            "start_time": 1693800000,
-            "end_time": 2114406245,
-            "pre_start_time": 1693713600,
-            "pre_end_time": 1693799999,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 101,
-                    "lottery_name": "可萌可御喵",
-                    "display_time": 1693713600,
-                    "start_time": 1693800000,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/7f37795718cd83bf57300fa3ddbf35f9ad403273.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 9975908818432,
-                    "price": 9900,
-                    "goods_name": "可萌可御喵",
-                    "lottery_desc": "【波喵喵喵收藏集—可萌可御喵】共包含16张精美立绘，喵喵来送礼物啦！\n* 隐藏款：补充能量元气和不可错过兔女郎2张，均分概率0.5%；超可爱恶魔喵和可爱女仆击中你2张，均分概率4.5%\n* 普通款：今天和喵喵约会和今天一起窝家里2张，均分概率9%；美若天仙喵、姐姐喵、婚纱喵、可爱制服喵、居家发呆喵、少女喵、女高喵、玩雪喵、冬季制服喵和贴心棉袄喵共10张，均分概率86%",
-                    "item_total_cnt": 16,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 13892,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "波喵喵喵收藏集—可萌可御喵开售",
-                "sub_title": "多种美图、魅力舞蹈，还有可爱表情包、头像框等你抱回家！",
-                "share_content": "波喵喵喵收藏集—可萌可御喵火热开售中，绝美舞姿尽显优雅从容！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/5bff010521e06f8dcd9fbd995b5764af4b98e2ed.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "波喵喵喵收藏集",
+        "cur_time": 1702647754,
+        "start_time": 1693800000,
+        "end_time": 2114406245,
+        "pre_start_time": 1693713600,
+        "pre_end_time": 1693799999,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 101,
+                "lottery_name": "可萌可御喵",
+                "display_time": 1693713600,
+                "start_time": 1693800000,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/7f37795718cd83bf57300fa3ddbf35f9ad403273.jpg",
+                "draw_cnt": 0,
+                "goods_id": 9975908818432,
+                "price": 9900,
+                "goods_name": "可萌可御喵",
+                "lottery_desc": "【波喵喵喵收藏集—可萌可御喵】共包含16张精美立绘，喵喵来送礼物啦！\n* 隐藏款：补充能量元气和不可错过兔女郎2张，均分概率0.5%；超可爱恶魔喵和可爱女仆击中你2张，均分概率4.5%\n* 普通款：今天和喵喵约会和今天一起窝家里2张，均分概率9%；美若天仙喵、姐姐喵、婚纱喵、可爱制服喵、居家发呆喵、少女喵、女高喵、玩雪喵、冬季制服喵和贴心棉袄喵共10张，均分概率86%",
+                "item_total_cnt": 16,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 13892,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "波喵喵喵收藏集—可萌可御喵开售",
+            "sub_title": "多种美图、魅力舞蹈，还有可爱表情包、头像框等你抱回家！",
+            "share_content": "波喵喵喵收藏集—可萌可御喵火热开售中，绝美舞姿尽显优雅从容！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/5bff010521e06f8dcd9fbd995b5764af4b98e2ed.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 697,
-            "total_buy_cnt": 13892,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 622,
-                    "start_time": 1702008000,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出可萌可御喵卡池任意8张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 1,
-                    "redeem_item_id": "1165683",
-                    "redeem_item_name": "陪喵喵过生日",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/f4563507e24dddfa14f6d8f8f3b940280506cb2b.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 8,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": {
-                            "id": 1165683,
-                            "name": "陪喵喵过生日",
-                            "overview_image": "https://i0.hdslb.com/bfs/baselabs/f4563507e24dddfa14f6d8f8f3b940280506cb2b.png",
-                            "content": {
-                                "image": null,
-                                "animation": {
-                                    "animation_video_urls": [
-                                        "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/pb/t1/_00003l1qymws4od1v2481avebwlt1pb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654906&gen=playurlv2&os=alibv&oi=0&trid=c1a23eb41db448dfb456fd76ee067110B&mid=0&platform=html5&upsig=c3b490c9b7b8c8417a816f1f6e14e87e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
-                                        "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/pb/t1/_00003l1qymws4od1v2481avebwlt1pb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654906&gen=playurlv2&os=alibv&oi=0&trid=c1a23eb41db448dfb456fd76ee067110B&mid=0&platform=html5&upsig=c3b490c9b7b8c8417a816f1f6e14e87e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
-                                        "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/pb/t1/_00003l1qymws4od1v2481avebwlt1pb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654906&gen=playurlv2&os=alibbv&oi=0&trid=c1a23eb41db448dfb456fd76ee067110B&mid=0&platform=html5&upsig=97d42ba97672972023f2f98073053b85&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
-                                    ],
-                                    "animation_backup_image": "https://i0.hdslb.com/bfs/baselabs/f4563507e24dddfa14f6d8f8f3b940280506cb2b.png",
-                                    "animation_first_frame": "https://i0.hdslb.com/bfs/baselabs/f4563507e24dddfa14f6d8f8f3b940280506cb2b.png",
-                                    "is_mute": false,
-                                    "animation_url": "upos://panguxcodeboss/pb/t1/_00003l1qymws4od1v2481avebwlt1pb-1-152111110023.mp4",
-                                    "subtitles_url": "",
-                                    "duration": 23.089733,
-                                    "width": 0,
-                                    "height": 0,
-                                    "location": "",
-                                    "compressed_w_h": ""
-                                }
-                            },
-                            "material_type": 2,
-                            "theme": "波喵喵典藏卡视频",
-                            "scarcity": 50,
-                            "layout": 0,
-                            "width": 1242,
-                            "height": 1862,
-                            "face_overflow": null,
-                            "material_sub_type": 0,
-                            "overview_image_watermarks": [
-                                {
-                                    "scene": 1,
-                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/03d4c262f67dbace1ab5860ee180caaf8a9e0109.png"
-                                }
-                            ],
-                            "watermark_animations": [
-                                {
-                                    "scene": 2,
-                                    "watermark_animation": "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark/5b/p5/_00001zshwi92isx4q2djkdr614gp55b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654906&gen=playurlv2&os=alibv&oi=0&trid=c1a23eb41db448dfb456fd76ee067110B&mid=0&platform=html5&upsig=12c092d7d7971f57cc22fba127154bc0&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0"
-                                },
-                                {
-                                    "scene": 2,
-                                    "watermark_animation": "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark/5b/p5/_00001zshwi92isx4q2djkdr614gp55b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654906&gen=playurlv2&os=alibv&oi=0&trid=c1a23eb41db448dfb456fd76ee067110B&mid=0&platform=html5&upsig=12c092d7d7971f57cc22fba127154bc0&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0"
-                                },
-                                {
-                                    "scene": 2,
-                                    "watermark_animation": "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/digital_watermark/5b/p5/_00001zshwi92isx4q2djkdr614gp55b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654906&gen=playurlv2&os=alibbv&oi=0&trid=c1a23eb41db448dfb456fd76ee067110B&mid=0&platform=html5&upsig=b35f07bdd7c60016afc4bb5fec9864a0&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
-                                }
-                            ],
-                            "space_background": {
-                                "image": null,
-                                "animation": {
-                                    "animation_video_urls": [
-                                        "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/pb/t1/_00003l1qymws4od1v2481avebwlt1pb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654906&gen=playurlv2&os=alibv&oi=0&trid=c1a23eb41db448dfb456fd76ee067110B&mid=0&platform=html5&upsig=c3b490c9b7b8c8417a816f1f6e14e87e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
-                                        "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/pb/t1/_00003l1qymws4od1v2481avebwlt1pb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654906&gen=playurlv2&os=alibv&oi=0&trid=c1a23eb41db448dfb456fd76ee067110B&mid=0&platform=html5&upsig=c3b490c9b7b8c8417a816f1f6e14e87e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
-                                        "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/pb/t1/_00003l1qymws4od1v2481avebwlt1pb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654906&gen=playurlv2&os=alibbv&oi=0&trid=c1a23eb41db448dfb456fd76ee067110B&mid=0&platform=html5&upsig=97d42ba97672972023f2f98073053b85&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
-                                    ],
-                                    "animation_backup_image": "https://i0.hdslb.com/bfs/baselabs/f4563507e24dddfa14f6d8f8f3b940280506cb2b.png@1080w_1618h",
-                                    "animation_first_frame": "https://i0.hdslb.com/bfs/baselabs/f4563507e24dddfa14f6d8f8f3b940280506cb2b.png@1080w_1618h",
-                                    "is_mute": false,
-                                    "animation_url": "upos://panguxcodeboss/pb/t1/_00003l1qymws4od1v2481avebwlt1pb-1-152111110023.mp4",
-                                    "subtitles_url": "",
-                                    "duration": 23.089733,
-                                    "width": 0,
-                                    "height": 0,
-                                    "location": "0-47-1079-1079",
-                                    "compressed_w_h": "1079-1618"
-                                }
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 697,
+        "total_buy_cnt": 13892,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 622,
+                "start_time": 1702008000,
+                "end_time": 2114406245,
+                "redeem_text": "抽出可萌可御喵卡池任意8张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 1,
+                "redeem_item_id": "1165683",
+                "redeem_item_name": "陪喵喵过生日",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/f4563507e24dddfa14f6d8f8f3b940280506cb2b.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 8,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": {
+                        "id": 1165683,
+                        "name": "陪喵喵过生日",
+                        "overview_image": "https://i0.hdslb.com/bfs/baselabs/f4563507e24dddfa14f6d8f8f3b940280506cb2b.png",
+                        "content": {
+                            "image": null,
+                            "animation": {
+                                "animation_video_urls": [
+                                    "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/pb/t1/_00003l1qymws4od1v2481avebwlt1pb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654906&gen=playurlv2&os=alibv&oi=0&trid=c1a23eb41db448dfb456fd76ee067110B&mid=0&platform=html5&upsig=c3b490c9b7b8c8417a816f1f6e14e87e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                                    "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/pb/t1/_00003l1qymws4od1v2481avebwlt1pb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654906&gen=playurlv2&os=alibv&oi=0&trid=c1a23eb41db448dfb456fd76ee067110B&mid=0&platform=html5&upsig=c3b490c9b7b8c8417a816f1f6e14e87e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                                    "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/pb/t1/_00003l1qymws4od1v2481avebwlt1pb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654906&gen=playurlv2&os=alibbv&oi=0&trid=c1a23eb41db448dfb456fd76ee067110B&mid=0&platform=html5&upsig=97d42ba97672972023f2f98073053b85&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                                ],
+                                "animation_backup_image": "https://i0.hdslb.com/bfs/baselabs/f4563507e24dddfa14f6d8f8f3b940280506cb2b.png",
+                                "animation_first_frame": "https://i0.hdslb.com/bfs/baselabs/f4563507e24dddfa14f6d8f8f3b940280506cb2b.png",
+                                "is_mute": false,
+                                "animation_url": "upos://panguxcodeboss/pb/t1/_00003l1qymws4od1v2481avebwlt1pb-1-152111110023.mp4",
+                                "subtitles_url": "",
+                                "duration": 23.089733,
+                                "width": 0,
+                                "height": 0,
+                                "location": "",
+                                "compressed_w_h": ""
                             }
                         },
-                        "play": null,
-                        "tag": null
+                        "material_type": 2,
+                        "theme": "波喵喵典藏卡视频",
+                        "scarcity": 50,
+                        "layout": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "face_overflow": null,
+                        "material_sub_type": 0,
+                        "overview_image_watermarks": [
+                            {
+                                "scene": 1,
+                                "watermark_image": "https://i0.hdslb.com/bfs/garb/03d4c262f67dbace1ab5860ee180caaf8a9e0109.png"
+                            }
+                        ],
+                        "watermark_animations": [
+                            {
+                                "scene": 2,
+                                "watermark_animation": "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark/5b/p5/_00001zshwi92isx4q2djkdr614gp55b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654906&gen=playurlv2&os=alibv&oi=0&trid=c1a23eb41db448dfb456fd76ee067110B&mid=0&platform=html5&upsig=12c092d7d7971f57cc22fba127154bc0&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0"
+                            },
+                            {
+                                "scene": 2,
+                                "watermark_animation": "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark/5b/p5/_00001zshwi92isx4q2djkdr614gp55b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654906&gen=playurlv2&os=alibv&oi=0&trid=c1a23eb41db448dfb456fd76ee067110B&mid=0&platform=html5&upsig=12c092d7d7971f57cc22fba127154bc0&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0"
+                            },
+                            {
+                                "scene": 2,
+                                "watermark_animation": "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/digital_watermark/5b/p5/_00001zshwi92isx4q2djkdr614gp55b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654906&gen=playurlv2&os=alibbv&oi=0&trid=c1a23eb41db448dfb456fd76ee067110B&mid=0&platform=html5&upsig=b35f07bdd7c60016afc4bb5fec9864a0&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                            }
+                        ],
+                        "space_background": {
+                            "image": null,
+                            "animation": {
+                                "animation_video_urls": [
+                                    "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/pb/t1/_00003l1qymws4od1v2481avebwlt1pb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654906&gen=playurlv2&os=alibv&oi=0&trid=c1a23eb41db448dfb456fd76ee067110B&mid=0&platform=html5&upsig=c3b490c9b7b8c8417a816f1f6e14e87e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                                    "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/pb/t1/_00003l1qymws4od1v2481avebwlt1pb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654906&gen=playurlv2&os=alibv&oi=0&trid=c1a23eb41db448dfb456fd76ee067110B&mid=0&platform=html5&upsig=c3b490c9b7b8c8417a816f1f6e14e87e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                                    "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/pb/t1/_00003l1qymws4od1v2481avebwlt1pb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654906&gen=playurlv2&os=alibbv&oi=0&trid=c1a23eb41db448dfb456fd76ee067110B&mid=0&platform=html5&upsig=97d42ba97672972023f2f98073053b85&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                                ],
+                                "animation_backup_image": "https://i0.hdslb.com/bfs/baselabs/f4563507e24dddfa14f6d8f8f3b940280506cb2b.png@1080w_1618h",
+                                "animation_first_frame": "https://i0.hdslb.com/bfs/baselabs/f4563507e24dddfa14f6d8f8f3b940280506cb2b.png@1080w_1618h",
+                                "is_mute": false,
+                                "animation_url": "upos://panguxcodeboss/pb/t1/_00003l1qymws4od1v2481avebwlt1pb-1-152111110023.mp4",
+                                "subtitles_url": "",
+                                "duration": 23.089733,
+                                "width": 0,
+                                "height": 0,
+                                "location": "0-47-1079-1079",
+                                "compressed_w_h": "1079-1618"
+                            }
+                        }
                     },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 300,
-                    "start_time": 1693713600,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "58900",
-                    "redeem_item_name": "可萌可御喵·表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/e57260ea11fc7dbacad6fde1c67b5f937dbb456c.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 299,
-                    "start_time": 1693713600,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "58857",
-                    "redeem_item_name": "可萌可御·头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/ce7861d4e5fff9ca0bf6120eb3eaaa0fb617b6b4.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之礼",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 1,
-            "related_mids": [
-                "463999"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 0,
-            "product_introduce": "【波喵喵喵收藏集】是哔哩哔哩携手波喵喵喵定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁波喵喵喵的绝美画面！\n波喵喵喵是B站舞蹈区UP主。热爱舞蹈，可萌可御，日常通过直播、视频等方式活跃在bilibili等平台。",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/16d35313b0894437110c35b91409284b36b34689.png",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/16d35313b0894437110c35b91409284b36b34689.png",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/86cbe65d1c558aacd5444d8295356537d4dbedd7.png\",\"card_count\":1,\"num_color\":\"#df8246\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/5a6f0a0f60236640fabca0bca9069ea14c9ad7f9.png\",\"card_count\":5,\"num_color\":\"#59a1ff\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/d49095596b806e98da446106b0f217c6d54ebbdc.png\",\"card_count\":15,\"num_color\":\"#ff9d59\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/d675b273903b94312d8b5021907569aa8bf1e9d5.png\",\"card_count\":30,\"num_color\":\"#f55a8c\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/df0c7580976100e9b72335e9a2300c3273b5b43b.png\",\"card_count\":60,\"num_color\":\"#a975fe\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 300,
+                "start_time": 1693713600,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "58900",
+                "redeem_item_name": "可萌可御喵·表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/e57260ea11fc7dbacad6fde1c67b5f937dbb456c.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 299,
+                "start_time": 1693713600,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "58857",
+                "redeem_item_name": "可萌可御·头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/ce7861d4e5fff9ca0bf6120eb3eaaa0fb617b6b4.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之礼",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 1,
+        "related_mids": [
+            "463999"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 0,
+        "product_introduce": "【波喵喵喵收藏集】是哔哩哔哩携手波喵喵喵定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁波喵喵喵的绝美画面！\n波喵喵喵是B站舞蹈区UP主。热爱舞蹈，可萌可御，日常通过直播、视频等方式活跃在bilibili等平台。",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/16d35313b0894437110c35b91409284b36b34689.png",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/16d35313b0894437110c35b91409284b36b34689.png",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/86cbe65d1c558aacd5444d8295356537d4dbedd7.png\",\"card_count\":1,\"num_color\":\"#df8246\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/5a6f0a0f60236640fabca0bca9069ea14c9ad7f9.png\",\"card_count\":5,\"num_color\":\"#59a1ff\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/d49095596b806e98da446106b0f217c6d54ebbdc.png\",\"card_count\":15,\"num_color\":\"#ff9d59\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/d675b273903b94312d8b5021907569aa8bf1e9d5.png\",\"card_count\":30,\"num_color\":\"#f55a8c\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/df0c7580976100e9b72335e9a2300c3273b5b43b.png\",\"card_count\":60,\"num_color\":\"#a975fe\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/5bff010521e06f8dcd9fbd995b5764af4b98e2ed.jpg",
@@ -799,5 +791,5 @@
                 }
             ]
         }
-    }
+    ]
 }

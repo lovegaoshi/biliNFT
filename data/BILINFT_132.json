@@ -1,199 +1,191 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "小只芋收藏集",
-            "cur_time": 1702648052,
-            "start_time": 1689332401,
-            "end_time": 2114406245,
-            "pre_start_time": 1689246000,
-            "pre_end_time": 1689332400,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 37,
-                    "lottery_name": "芋芋日志",
-                    "display_time": 1689246000,
-                    "start_time": 1689332400,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/cfc33167acbccd66739fb279d27bb048874a4820.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 9482107116544,
-                    "price": 9900,
-                    "goods_name": "芋芋日志",
-                    "lottery_desc": "【小只芋收藏集—芋芋日志】共包含20张精美立绘，快让小只芋带领你去奇喵幻彩世界冒险吧！\n* 普通款：笼乐天使、春情初绽、缚锁双生、镜生双像、来游泳吗、美食陷阱、梦境迫降、蘑菇森林、请拆礼物、深海之梦、星星点灯、易位窃徒、云间飞舞共13张，均分概率86%；出水芙芋、饿芋扑鸟和干物猫娘3张，均分概率9%\n* 隐藏款：衣柜蹁跹和午后小憩2张均分概率4.5%；林中之约和恶魔晚会2张均分概率0.5%",
-                    "item_total_cnt": 20,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 26959,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "小只芋收藏集—芋芋日志开售",
-                "sub_title": "全新幻彩精美立绘、表情包、头像框等你抱回家！",
-                "share_content": "小只芋收藏集—萌萌哒芋头火热开售中，独家音声抢先听！"
+        "act_title": "小只芋收藏集",
+        "cur_time": 1702648052,
+        "start_time": 1689332401,
+        "end_time": 2114406245,
+        "pre_start_time": 1689246000,
+        "pre_end_time": 1689332400,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 37,
+                "lottery_name": "芋芋日志",
+                "display_time": 1689246000,
+                "start_time": 1689332400,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/cfc33167acbccd66739fb279d27bb048874a4820.jpg",
+                "draw_cnt": 0,
+                "goods_id": 9482107116544,
+                "price": 9900,
+                "goods_name": "芋芋日志",
+                "lottery_desc": "【小只芋收藏集—芋芋日志】共包含20张精美立绘，快让小只芋带领你去奇喵幻彩世界冒险吧！\n* 普通款：笼乐天使、春情初绽、缚锁双生、镜生双像、来游泳吗、美食陷阱、梦境迫降、蘑菇森林、请拆礼物、深海之梦、星星点灯、易位窃徒、云间飞舞共13张，均分概率86%；出水芙芋、饿芋扑鸟和干物猫娘3张，均分概率9%\n* 隐藏款：衣柜蹁跹和午后小憩2张均分概率4.5%；林中之约和恶魔晚会2张均分概率0.5%",
+                "item_total_cnt": 20,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 26959,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
+                },
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "小只芋收藏集—芋芋日志开售",
+            "sub_title": "全新幻彩精美立绘、表情包、头像框等你抱回家！",
+            "share_content": "小只芋收藏集—萌萌哒芋头火热开售中，独家音声抢先听！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/9222cf0ee217425f71fbf8e22496ce934e4f9aee.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/9222cf0ee217425f71fbf8e22496ce934e4f9aee.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 2138,
+        "total_buy_cnt": 26959,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 100009,
+                "start_time": 1695096000,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意5张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "59510&59510",
+                "redeem_item_name": "衣柜蹁跹个性主题",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/16412b33c027a32b1405a5c604e1274ccce09075.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 5,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "total_book_cnt": 2138,
-            "total_buy_cnt": 26959,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 100009,
-                    "start_time": 1695096000,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意5张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "59510&59510",
-                    "redeem_item_name": "衣柜蹁跹个性主题",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/16412b33c027a32b1405a5c604e1274ccce09075.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            {
+                "collect_id": 100,
+                "start_time": 1689246000,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意4张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "55375&55376&55377",
+                "redeem_item_name": "动态点赞&加载动画&进度条",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/22d6d8ff5abec4dab6fc2187ff0d46ba9f5c8127.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 4,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 100,
-                    "start_time": 1689246000,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意4张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "55375&55376&55377",
-                    "redeem_item_name": "动态点赞&加载动画&进度条",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/22d6d8ff5abec4dab6fc2187ff0d46ba9f5c8127.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 4,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 99,
-                    "start_time": 1689246000,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "55332",
-                    "redeem_item_name": "芋芋日志·头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/068c9cd7b85e3f44382e85a3b5e36b9f7b43c2c4.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 98,
-                    "start_time": 1689246000,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "55354",
-                    "redeem_item_name": "芋芋日志·表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/82add1ca27c1605bb32d00c7a2faeded0bbd5ed6.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之礼",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 1,
-            "related_mids": [
-                "375191059"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 0,
-            "product_introduce": "【小只芋收藏集】是哔哩哔哩携手小只芋定制打造的个人数字收藏集，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁小只芋在不同世界奇妙冒险时留下的绝美画面！\n小只芋是个人势UP主，平时通过直播，视频等方式活跃在bilibili等平台，陪伴芋友们一起度过愉快的时光。",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/0c79a98b7624fa35c078e1560509fe976811686b.png",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/0c79a98b7624fa35c078e1560509fe976811686b.png",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/d38eec4508fdd101caf5541790004c7de6b344f5.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/c7677159c276b494d04d0e2aa4700cfa98fe7b27.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/1592a90bf92cfc65670034778955f34ad8d830ab.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/017df3eefe4f5ae334fe1258149b67ef7fa1959c.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/4c0603261cd2217b7287d7d12a9fc5d1d723f3aa.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 99,
+                "start_time": 1689246000,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "55332",
+                "redeem_item_name": "芋芋日志·头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/068c9cd7b85e3f44382e85a3b5e36b9f7b43c2c4.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 98,
+                "start_time": 1689246000,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "55354",
+                "redeem_item_name": "芋芋日志·表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/82add1ca27c1605bb32d00c7a2faeded0bbd5ed6.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之礼",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 1,
+        "related_mids": [
+            "375191059"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 0,
+        "product_introduce": "【小只芋收藏集】是哔哩哔哩携手小只芋定制打造的个人数字收藏集，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁小只芋在不同世界奇妙冒险时留下的绝美画面！\n小只芋是个人势UP主，平时通过直播，视频等方式活跃在bilibili等平台，陪伴芋友们一起度过愉快的时光。",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/0c79a98b7624fa35c078e1560509fe976811686b.png",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/0c79a98b7624fa35c078e1560509fe976811686b.png",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/d38eec4508fdd101caf5541790004c7de6b344f5.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/c7677159c276b494d04d0e2aa4700cfa98fe7b27.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/1592a90bf92cfc65670034778955f34ad8d830ab.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/017df3eefe4f5ae334fe1258149b67ef7fa1959c.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/4c0603261cd2217b7287d7d12a9fc5d1d723f3aa.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/9222cf0ee217425f71fbf8e22496ce934e4f9aee.jpg",
@@ -838,5 +830,5 @@
                 }
             ]
         }
-    }
+    ]
 }

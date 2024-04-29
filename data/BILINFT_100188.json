@@ -1,175 +1,167 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "Minicatty收藏集·初遇",
-            "cur_time": 1702647833,
-            "start_time": 1699614000,
-            "end_time": 2114406245,
-            "pre_start_time": 1699527600,
-            "pre_end_time": 1699613999,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 100201,
-                    "lottery_name": "Minicatty·初遇",
-                    "display_time": 1699527600,
-                    "start_time": 1699614000,
-                    "end_time": 2646385200,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/05bdb03f7042adff19131248c5b539feda4d5cdd.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 20865488022016,
-                    "price": 9900,
-                    "goods_name": "Minicatty·初遇",
-                    "lottery_desc": "【隐藏款】伞下概率4.5%;微醺概率0.5%;\n【普通款】躲猫猫概率9%;其余立绘均分概率86%;",
-                    "item_total_cnt": 8,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 9441,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 2
-                }
-            ],
-            "share_info": {
-                "main_title": "Minicatty收藏集·初遇",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热售卖中，快来开卡吧！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/bcad84f863f6c6928f1efdae0e06a22b32568ef5.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "Minicatty收藏集·初遇",
+        "cur_time": 1702647833,
+        "start_time": 1699614000,
+        "end_time": 2114406245,
+        "pre_start_time": 1699527600,
+        "pre_end_time": 1699613999,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 100201,
+                "lottery_name": "Minicatty·初遇",
+                "display_time": 1699527600,
+                "start_time": 1699614000,
+                "end_time": 2646385200,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/05bdb03f7042adff19131248c5b539feda4d5cdd.jpg",
+                "draw_cnt": 0,
+                "goods_id": 20865488022016,
+                "price": 9900,
+                "goods_name": "Minicatty·初遇",
+                "lottery_desc": "【隐藏款】伞下概率4.5%;微醺概率0.5%;\n【普通款】躲猫猫概率9%;其余立绘均分概率86%;",
+                "item_total_cnt": 8,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 9441,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 2
+            }
+        ],
+        "share_info": {
+            "main_title": "Minicatty收藏集·初遇",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/bcad84f863f6c6928f1efdae0e06a22b32568ef5.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 483,
-            "total_buy_cnt": 9441,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 100257,
-                    "start_time": 1699527600,
-                    "end_time": 2049361200,
-                    "redeem_text": "完成2抽即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "1697304771001",
-                    "redeem_item_name": "Minicatty表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/cf62328ad614896f655cfe63a458a1091dbe3ec7.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 483,
+        "total_buy_cnt": 9441,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 100257,
+                "start_time": 1699527600,
+                "end_time": 2049361200,
+                "redeem_text": "完成2抽即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 2,
+                "redeem_item_id": "1697304771001",
+                "redeem_item_name": "Minicatty表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/cf62328ad614896f655cfe63a458a1091dbe3ec7.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 100258,
-                    "start_time": 1699527600,
-                    "end_time": 2049361200,
-                    "redeem_text": "抽到任意1张隐藏卡即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "1697470346001",
-                    "redeem_item_name": "Minicatty头像挂件",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/f9f5e7d1a85d967e67059bb22afae9f0003948ee.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 100259,
-                    "start_time": 1699527600,
-                    "end_time": 2049274800,
-                    "redeem_text": "抽出任意5张立绘即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "1697441438001&1697437363001&1697303352001&1697477249001",
-                    "redeem_item_name": "Minicatty动态个性主题组件",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/6ac833807e3c2db02c155fb8b2fc79d167d6b47c.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "任务奖励",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 1,
-            "related_mids": [
-                "423902976"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 0,
-            "product_introduce": "【Minicatty收藏集】来咯！收藏集每张卡片都有独特编号噢！隐藏卡更配有情景音声！还有全新表情包、头像框、主题可以兑换！快来查收这只的可爱的社恐小猫咪！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/open/f73cf99494f02958b690751c87930dffca6e71fc.png@1126w_1126h",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/open/f73cf99494f02958b690751c87930dffca6e71fc.png@1126w_1126h",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/f949e60fcbdfb0c988cad51cf1435c16ad713c11.png\",\"card_count\":1,\"num_color\":\"#F2B5B5\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/410966a3e710825e93f366557afa925459dcc560.png\",\"card_count\":5,\"num_color\":\"#79C6E0\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/199b2c41f039da5c1f984dbcc84086745cb4ddbe.png\",\"card_count\":15,\"num_color\":\"#ECD331\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/fb7aaa7707c095a6749eb4b948e781912651d391.png\",\"card_count\":30,\"num_color\":\"#F673DC\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/b02fb29d97ed7eb68cb60fe3c4c118939904a1fd.png\",\"card_count\":60,\"num_color\":\"#9A63E1\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 100258,
+                "start_time": 1699527600,
+                "end_time": 2049361200,
+                "redeem_text": "抽到任意1张隐藏卡即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 3,
+                "redeem_item_id": "1697470346001",
+                "redeem_item_name": "Minicatty头像挂件",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/f9f5e7d1a85d967e67059bb22afae9f0003948ee.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 100259,
+                "start_time": 1699527600,
+                "end_time": 2049274800,
+                "redeem_text": "抽出任意5张立绘即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 5,
+                "redeem_item_id": "1697441438001&1697437363001&1697303352001&1697477249001",
+                "redeem_item_name": "Minicatty动态个性主题组件",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/6ac833807e3c2db02c155fb8b2fc79d167d6b47c.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 5,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "任务奖励",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 1,
+        "related_mids": [
+            "423902976"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 0,
+        "product_introduce": "【Minicatty收藏集】来咯！收藏集每张卡片都有独特编号噢！隐藏卡更配有情景音声！还有全新表情包、头像框、主题可以兑换！快来查收这只的可爱的社恐小猫咪！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/open/f73cf99494f02958b690751c87930dffca6e71fc.png@1126w_1126h",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/open/f73cf99494f02958b690751c87930dffca6e71fc.png@1126w_1126h",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/f949e60fcbdfb0c988cad51cf1435c16ad713c11.png\",\"card_count\":1,\"num_color\":\"#F2B5B5\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/410966a3e710825e93f366557afa925459dcc560.png\",\"card_count\":5,\"num_color\":\"#79C6E0\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/199b2c41f039da5c1f984dbcc84086745cb4ddbe.png\",\"card_count\":15,\"num_color\":\"#ECD331\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/fb7aaa7707c095a6749eb4b948e781912651d391.png\",\"card_count\":30,\"num_color\":\"#F673DC\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/b02fb29d97ed7eb68cb60fe3c4c118939904a1fd.png\",\"card_count\":60,\"num_color\":\"#9A63E1\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/bcad84f863f6c6928f1efdae0e06a22b32568ef5.png",
@@ -450,5 +442,5 @@
                 }
             ]
         }
-    }
+    ]
 }

@@ -1,105 +1,97 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "最萌的磊收藏集",
-            "cur_time": 1714151111,
-            "start_time": 1714204800,
-            "end_time": 2114406245,
-            "pre_start_time": 1714118400,
-            "pre_end_time": 1714204799,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 101762,
-                    "lottery_name": "少年冒险录",
-                    "display_time": 1714118400,
-                    "start_time": 1714204800,
-                    "end_time": 2114406245,
-                    "lottery_image": "https://i0.hdslb.com/bfs/garb/68342457f0a7860351fbc9590cdfbcc3136631a5.png",
-                    "draw_cnt": 0,
-                    "goods_id": 52769094407168,
-                    "price": 9900,
-                    "goods_name": "少年冒险录",
-                    "lottery_desc": "【隐藏款-大隐藏】：比温泉更温暖的,锦池栖迟均分概率0.5%,若前399抽均未获得过任意大隐藏，则第400抽必得大隐藏;\n【隐藏款-小隐藏】：他仍不失希望,为了身后的伙伴均分概率4.5%;\n【普通款】：小小的危机,账号已封禁!?均分概率9%，其余立绘均分概率86%;",
-                    "item_total_cnt": 17,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 400,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "最萌的磊 勇者冒险录",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热预约中，快点击锁定吧！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/6b7b7f9abcda9a62ddbfa188988906c515402632.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "最萌的磊收藏集",
+        "cur_time": 1714151111,
+        "start_time": 1714204800,
+        "end_time": 2114406245,
+        "pre_start_time": 1714118400,
+        "pre_end_time": 1714204799,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 101762,
+                "lottery_name": "少年冒险录",
+                "display_time": 1714118400,
+                "start_time": 1714204800,
+                "end_time": 2114406245,
+                "lottery_image": "https://i0.hdslb.com/bfs/garb/68342457f0a7860351fbc9590cdfbcc3136631a5.png",
+                "draw_cnt": 0,
+                "goods_id": 52769094407168,
+                "price": 9900,
+                "goods_name": "少年冒险录",
+                "lottery_desc": "【隐藏款-大隐藏】：比温泉更温暖的,锦池栖迟均分概率0.5%,若前399抽均未获得过任意大隐藏，则第400抽必得大隐藏;\n【隐藏款-小隐藏】：他仍不失希望,为了身后的伙伴均分概率4.5%;\n【普通款】：小小的危机,账号已封禁!?均分概率9%，其余立绘均分概率86%;",
+                "item_total_cnt": 17,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 400,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "最萌的磊 勇者冒险录",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热预约中，快点击锁定吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/6b7b7f9abcda9a62ddbfa188988906c515402632.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 250,
-            "total_buy_cnt": 400,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": null,
-            "display_title": "任务奖励",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
-            },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "2867683"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【最萌的磊收藏集】是哔哩哔哩携手最萌的磊定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，上面记录了勇者在不同世界冒险时的各种场景，期待大家和最萌的磊一起开展冒险！\n最萌的磊是全职个人势主播。日常通过直播、视频等方式活跃在bilibili等平台，为用户提供丰富的战败内容。",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/open/21c8ee672f76c21a9eb1075dbfc63f5065b49b0e.png@0-0-1126-1126a",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/open/21c8ee672f76c21a9eb1075dbfc63f5065b49b0e.png@0-0-1126-1126a",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/d80449d596520e0150585fef355ef4b1e71e30e3.png\",\"num_color\":\"#C48E82\",\"card_count\":1,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/ce0e55006e78a12d2152761448d11128257d12e0.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/d80449d596520e0150585fef355ef4b1e71e30e3.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/d80449d596520e0150585fef355ef4b1e71e30e3.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/29422161963c213b746c3198d9512045c4652dfb.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/2ffd79594af1aec2703ad33e6419f9081a1e0389\"}},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/7665a7ae1dd14b5468daaa9371a460ac0ea08d2a.png\",\"num_color\":\"#87B0F7\",\"card_count\":5,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/22ff20ac54126e9b50803dcf9a063a6c867780a6.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/7665a7ae1dd14b5468daaa9371a460ac0ea08d2a.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/7665a7ae1dd14b5468daaa9371a460ac0ea08d2a.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/ac35f3c2282c1870fa6864bb48651593d82c7991.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/7d73d237d88c818b24cff6ad244846e476561a47\"}},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/3640ad51fc7f7eb3735409789f3ad71b2d2752cd.png\",\"num_color\":\"#FB9906\",\"card_count\":15,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/162aae0c5ad9f521832c71e2cc24ba9b7a44e539.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/3640ad51fc7f7eb3735409789f3ad71b2d2752cd.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/3640ad51fc7f7eb3735409789f3ad71b2d2752cd.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/7c4497785ba047e9aa0fc9eca025d5cee8f7b25c.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/fcd69d7e43279ae889f75fa4bf43779ecf926049\"}},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/fffd71bd77231f445cec6d49c19f56755c0bee91.png\",\"num_color\":\"#D170B1\",\"card_count\":30,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/7a9de52b99bf48fe6f3c427fdfd153c696ec7f40.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/fffd71bd77231f445cec6d49c19f56755c0bee91.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/fffd71bd77231f445cec6d49c19f56755c0bee91.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/01e17d57affca16db001ea25e99a9e546ab6ff58.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/a92e522ecd23974075bca02fe7b3f9dcdbe7cff1\"}},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/00f0b57e4484dde77200ebbc7d71df12ca756e3b.png\",\"num_color\":\"#765CFE\",\"card_count\":60,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/3dc278f9ef31d573ae808c2fc42e45ac6d865829.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/00f0b57e4484dde77200ebbc7d71df12ca756e3b.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/00f0b57e4484dde77200ebbc7d71df12ca756e3b.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/17a7f688ef7d4fa0165d7f1ce52a5351771bda69.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/e099c898054a9090887c7b43bf1e0a43d4592872\"}}]",
-            "topic": null,
-            "physical_exchange": false,
-            "act_square_img": "https://i0.hdslb.com/bfs/garb/f98a71fce721aa6e56058e0fe2fdf81e48567416.png",
-            "tab_lottery_id": 101762
-        }
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 250,
+        "total_buy_cnt": 400,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": null,
+        "display_title": "任务奖励",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "2867683"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【最萌的磊收藏集】是哔哩哔哩携手最萌的磊定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，上面记录了勇者在不同世界冒险时的各种场景，期待大家和最萌的磊一起开展冒险！\n最萌的磊是全职个人势主播。日常通过直播、视频等方式活跃在bilibili等平台，为用户提供丰富的战败内容。",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/open/21c8ee672f76c21a9eb1075dbfc63f5065b49b0e.png@0-0-1126-1126a",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/open/21c8ee672f76c21a9eb1075dbfc63f5065b49b0e.png@0-0-1126-1126a",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/d80449d596520e0150585fef355ef4b1e71e30e3.png\",\"num_color\":\"#C48E82\",\"card_count\":1,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/ce0e55006e78a12d2152761448d11128257d12e0.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/d80449d596520e0150585fef355ef4b1e71e30e3.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/d80449d596520e0150585fef355ef4b1e71e30e3.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/29422161963c213b746c3198d9512045c4652dfb.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/2ffd79594af1aec2703ad33e6419f9081a1e0389\"}},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/7665a7ae1dd14b5468daaa9371a460ac0ea08d2a.png\",\"num_color\":\"#87B0F7\",\"card_count\":5,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/22ff20ac54126e9b50803dcf9a063a6c867780a6.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/7665a7ae1dd14b5468daaa9371a460ac0ea08d2a.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/7665a7ae1dd14b5468daaa9371a460ac0ea08d2a.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/ac35f3c2282c1870fa6864bb48651593d82c7991.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/7d73d237d88c818b24cff6ad244846e476561a47\"}},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/3640ad51fc7f7eb3735409789f3ad71b2d2752cd.png\",\"num_color\":\"#FB9906\",\"card_count\":15,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/162aae0c5ad9f521832c71e2cc24ba9b7a44e539.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/3640ad51fc7f7eb3735409789f3ad71b2d2752cd.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/3640ad51fc7f7eb3735409789f3ad71b2d2752cd.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/7c4497785ba047e9aa0fc9eca025d5cee8f7b25c.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/fcd69d7e43279ae889f75fa4bf43779ecf926049\"}},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/fffd71bd77231f445cec6d49c19f56755c0bee91.png\",\"num_color\":\"#D170B1\",\"card_count\":30,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/7a9de52b99bf48fe6f3c427fdfd153c696ec7f40.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/fffd71bd77231f445cec6d49c19f56755c0bee91.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/fffd71bd77231f445cec6d49c19f56755c0bee91.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/01e17d57affca16db001ea25e99a9e546ab6ff58.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/a92e522ecd23974075bca02fe7b3f9dcdbe7cff1\"}},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/00f0b57e4484dde77200ebbc7d71df12ca756e3b.png\",\"num_color\":\"#765CFE\",\"card_count\":60,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/3dc278f9ef31d573ae808c2fc42e45ac6d865829.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/00f0b57e4484dde77200ebbc7d71df12ca756e3b.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/00f0b57e4484dde77200ebbc7d71df12ca756e3b.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/17a7f688ef7d4fa0165d7f1ce52a5351771bda69.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/e099c898054a9090887c7b43bf1e0a43d4592872\"}}]",
+        "topic": null,
+        "physical_exchange": false,
+        "act_square_img": "https://i0.hdslb.com/bfs/garb/f98a71fce721aa6e56058e0fe2fdf81e48567416.png",
+        "tab_lottery_id": 101762
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/6b7b7f9abcda9a62ddbfa188988906c515402632.png",
@@ -694,5 +686,5 @@
                 }
             ]
         }
-    }
+    ]
 }

@@ -1,201 +1,193 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "庭树沐年收藏集",
-            "cur_time": 1709512540,
-            "start_time": 1709096400,
-            "end_time": 2114406245,
-            "pre_start_time": 1709010000,
-            "pre_end_time": 1709096399,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 101185,
-                    "lottery_name": "百变沐年",
-                    "display_time": 1709010000,
-                    "start_time": 1709096400,
-                    "end_time": 2114406245,
-                    "lottery_image": "https://i0.hdslb.com/bfs/garb/d4b4082ff4a3234f749fb264e0e8af516d7ba56e.png",
-                    "draw_cnt": 0,
-                    "goods_id": 42056003128320,
-                    "price": 9900,
-                    "goods_name": "百变沐年",
-                    "lottery_desc": "【隐藏款-大隐藏】：私人助理,悠闲假期,夜色朦胧均分概率0.5%,若前399抽均未获得过任意大隐藏，则第400抽必得大隐藏;\n【隐藏款-小隐藏】：竹林密会,佳人有约,台球助教均分概率4.5%;\n【普通款】：人生如茶,公主卡片,沐光流年均分概率9%，其余立绘均分概率86%;",
-                    "item_total_cnt": 24,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 19167,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "庭树沐年收藏集",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热售卖中，快来开卡吧！"
+        "act_title": "庭树沐年收藏集",
+        "cur_time": 1709512540,
+        "start_time": 1709096400,
+        "end_time": 2114406245,
+        "pre_start_time": 1709010000,
+        "pre_end_time": 1709096399,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 101185,
+                "lottery_name": "百变沐年",
+                "display_time": 1709010000,
+                "start_time": 1709096400,
+                "end_time": 2114406245,
+                "lottery_image": "https://i0.hdslb.com/bfs/garb/d4b4082ff4a3234f749fb264e0e8af516d7ba56e.png",
+                "draw_cnt": 0,
+                "goods_id": 42056003128320,
+                "price": 9900,
+                "goods_name": "百变沐年",
+                "lottery_desc": "【隐藏款-大隐藏】：私人助理,悠闲假期,夜色朦胧均分概率0.5%,若前399抽均未获得过任意大隐藏，则第400抽必得大隐藏;\n【隐藏款-小隐藏】：竹林密会,佳人有约,台球助教均分概率4.5%;\n【普通款】：人生如茶,公主卡片,沐光流年均分概率9%，其余立绘均分概率86%;",
+                "item_total_cnt": 24,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 19167,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
+                },
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "庭树沐年收藏集",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/cb7dcb45dbb20cf1ae73124051c63ae0c06a2ffd.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/cb7dcb45dbb20cf1ae73124051c63ae0c06a2ffd.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 420,
+        "total_buy_cnt": 19167,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 101208,
+                "start_time": 1709010000,
+                "end_time": 1717171200,
+                "redeem_text": "百变沐年卡池抽到任意24张不同卡牌即可领取",
+                "redeem_item_type": 9,
+                "redeem_item_id": "",
+                "redeem_item_name": "限定实体写真本+人设抱枕",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/00fd79e2ecd5c2d6b65d6779f910dd21cba167ae.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 24,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "total_book_cnt": 420,
-            "total_buy_cnt": 19167,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 101208,
-                    "start_time": 1709010000,
-                    "end_time": 1717171200,
-                    "redeem_text": "百变沐年卡池抽到任意24张不同卡牌即可领取",
-                    "redeem_item_type": 9,
-                    "redeem_item_id": "",
-                    "redeem_item_name": "限定实体写真本+人设抱枕",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/00fd79e2ecd5c2d6b65d6779f910dd21cba167ae.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 24,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            {
+                "collect_id": 101207,
+                "start_time": 1709010000,
+                "end_time": 2114406245,
+                "redeem_text": "百变沐年卡池完成4抽即可领取",
+                "redeem_item_type": 5,
+                "redeem_item_id": "1708424205001",
+                "redeem_item_name": "庭树沐年-个性主题",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/fcc651d8a3da6bb905c41c16a6f142d88b34f970.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 4,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 101207,
-                    "start_time": 1709010000,
-                    "end_time": 2114406245,
-                    "redeem_text": "百变沐年卡池完成4抽即可领取",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "1708424205001",
-                    "redeem_item_name": "庭树沐年-个性主题",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/fcc651d8a3da6bb905c41c16a6f142d88b34f970.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 4,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 101189,
-                    "start_time": 1709010000,
-                    "end_time": 2114406245,
-                    "redeem_text": "百变沐年卡池抽到任意1张隐藏款立绘即可领取",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "1708229518001",
-                    "redeem_item_name": "庭树沐年-头像挂件",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/849b2877285ef6f79849a21f7edc74d37af2ac08.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 101188,
-                    "start_time": 1709010000,
-                    "end_time": 2114406245,
-                    "redeem_text": "百变沐年卡池完成2抽即可领取",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "1708229620001",
-                    "redeem_item_name": "庭树沐年-表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/6cd2b03407f65a38cc06ab8ccce11f69984a152a.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "任务奖励",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "382894360"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【庭树沐年收藏集】是哔哩哔哩携手庭树沐年定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，还有精美视频卡片和涂鸦签名。期待大家一起来解锁！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/open/c6ab1c5de4769c48cf0e911e4b67194254adb70a.png@0-0-1126-1126a",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/open/c6ab1c5de4769c48cf0e911e4b67194254adb70a.png@0-0-1126-1126a",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/c1ff5bca6a66f9a4b5da52a16fc36b4c94210840.png\",\"card_count\":1,\"num_color\":\"#96D588\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/d01c8dc7a8031a3576a566e03f94eb05fb1bdc1b.png\",\"card_count\":5,\"num_color\":\"#EED25B\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/49d7c9925cd07feaf918316ba5fcd1f9cd25d2f9.png\",\"card_count\":15,\"num_color\":\"#FFA1F6\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/a7e90dc14e0a4cb3015eb079cc7cd9fbf9067bee.png\",\"card_count\":30,\"num_color\":\"#D8B8FF\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/c6e2acadfadb6d4a3e9b40f67951873fe38c223e.png\",\"card_count\":60,\"num_color\":\"#86DBFF\"}]",
-            "topic": null,
-            "physical_exchange": false,
-            "act_square_img": "https://i0.hdslb.com/bfs/garb/a46c61ff5ede4d3c5db2df4e11b665782ef3c2bd.png"
-        }
+            {
+                "collect_id": 101189,
+                "start_time": 1709010000,
+                "end_time": 2114406245,
+                "redeem_text": "百变沐年卡池抽到任意1张隐藏款立绘即可领取",
+                "redeem_item_type": 3,
+                "redeem_item_id": "1708229518001",
+                "redeem_item_name": "庭树沐年-头像挂件",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/849b2877285ef6f79849a21f7edc74d37af2ac08.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 101188,
+                "start_time": 1709010000,
+                "end_time": 2114406245,
+                "redeem_text": "百变沐年卡池完成2抽即可领取",
+                "redeem_item_type": 2,
+                "redeem_item_id": "1708229620001",
+                "redeem_item_name": "庭树沐年-表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/6cd2b03407f65a38cc06ab8ccce11f69984a152a.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "任务奖励",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "382894360"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【庭树沐年收藏集】是哔哩哔哩携手庭树沐年定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，还有精美视频卡片和涂鸦签名。期待大家一起来解锁！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/open/c6ab1c5de4769c48cf0e911e4b67194254adb70a.png@0-0-1126-1126a",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/open/c6ab1c5de4769c48cf0e911e4b67194254adb70a.png@0-0-1126-1126a",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/c1ff5bca6a66f9a4b5da52a16fc36b4c94210840.png\",\"card_count\":1,\"num_color\":\"#96D588\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/d01c8dc7a8031a3576a566e03f94eb05fb1bdc1b.png\",\"card_count\":5,\"num_color\":\"#EED25B\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/49d7c9925cd07feaf918316ba5fcd1f9cd25d2f9.png\",\"card_count\":15,\"num_color\":\"#FFA1F6\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/a7e90dc14e0a4cb3015eb079cc7cd9fbf9067bee.png\",\"card_count\":30,\"num_color\":\"#D8B8FF\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/c6e2acadfadb6d4a3e9b40f67951873fe38c223e.png\",\"card_count\":60,\"num_color\":\"#86DBFF\"}]",
+        "topic": null,
+        "physical_exchange": false,
+        "act_square_img": "https://i0.hdslb.com/bfs/garb/a46c61ff5ede4d3c5db2df4e11b665782ef3c2bd.png"
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/cb7dcb45dbb20cf1ae73124051c63ae0c06a2ffd.png",
@@ -972,5 +964,5 @@
                 }
             ]
         }
-    }
+    ]
 }

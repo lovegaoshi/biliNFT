@@ -1,151 +1,143 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "小铃久绘收藏集",
-            "cur_time": 1702647971,
-            "start_time": 1694952000,
-            "end_time": 2114406245,
-            "pre_start_time": 1694865600,
-            "pre_end_time": 1694951999,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 100004,
-                    "lottery_name": "甜蜜约绘",
-                    "display_time": 1694865600,
-                    "start_time": 1694952001,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/3d6bedd0a665d1f4cd04553f578a45a7060ba74a.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 12392067002368,
-                    "price": 9900,
-                    "goods_name": "甜蜜约绘",
-                    "lottery_desc": "【小铃久绘收藏集—甜蜜约绘】共包含8张精美立绘，想和你一起甜甜约绘！\n* 隐藏款：课后密会，概率0.5%；皇家秋千，概率4.5%\n* 普通款：沙滩戏水，概率9%；天使邀约、美神旗袍、浓情之浴、睡意朦胧、甜心女仆共5张，均分概率86%",
-                    "item_total_cnt": 8,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 19626,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "小铃久绘收藏集—甜蜜约绘开售",
-                "sub_title": "全新绘绘精美立绘、表情包、头像框等你抱回家！",
-                "share_content": "小铃久绘收藏集—甜蜜约绘火热开售中，温柔音声抢先听！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/ee34594affe2f9db39864b8086bc8fa28094eff1.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "小铃久绘收藏集",
+        "cur_time": 1702647971,
+        "start_time": 1694952000,
+        "end_time": 2114406245,
+        "pre_start_time": 1694865600,
+        "pre_end_time": 1694951999,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 100004,
+                "lottery_name": "甜蜜约绘",
+                "display_time": 1694865600,
+                "start_time": 1694952001,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/3d6bedd0a665d1f4cd04553f578a45a7060ba74a.jpg",
+                "draw_cnt": 0,
+                "goods_id": 12392067002368,
+                "price": 9900,
+                "goods_name": "甜蜜约绘",
+                "lottery_desc": "【小铃久绘收藏集—甜蜜约绘】共包含8张精美立绘，想和你一起甜甜约绘！\n* 隐藏款：课后密会，概率0.5%；皇家秋千，概率4.5%\n* 普通款：沙滩戏水，概率9%；天使邀约、美神旗袍、浓情之浴、睡意朦胧、甜心女仆共5张，均分概率86%",
+                "item_total_cnt": 8,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 19626,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "小铃久绘收藏集—甜蜜约绘开售",
+            "sub_title": "全新绘绘精美立绘、表情包、头像框等你抱回家！",
+            "share_content": "小铃久绘收藏集—甜蜜约绘火热开售中，温柔音声抢先听！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/ee34594affe2f9db39864b8086bc8fa28094eff1.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 773,
-            "total_buy_cnt": 19625,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 100006,
-                    "start_time": 1694865600,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "59509",
-                    "redeem_item_name": "甜蜜约绘表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/5c26a71b1f02d53aa1d068dc7b0af3664962d818.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 773,
+        "total_buy_cnt": 19625,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 100006,
+                "start_time": 1694865600,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "59509",
+                "redeem_item_name": "甜蜜约绘表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/5c26a71b1f02d53aa1d068dc7b0af3664962d818.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 100005,
-                    "start_time": 1694865600,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "59488",
-                    "redeem_item_name": "甜蜜约绘头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/2119e1f02b5cd144cb207a9a141bf84c95e60983.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之旅",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "1875094289"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【小铃久绘收藏集】是哔哩哔哩携手小铃久绘Official定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，感谢相遇感谢相伴的每一天，期待大家一起来解锁约绘的绝美画面！\n小铃久绘是活跃于bilibili的个人势虚拟主播，形象是超绝可爱拥有独特性格魅力的异世界粉色大猫猫。日常通过直播、视频等方式，为用户提供丰富的文化娱乐内容。努力赛AI的猫娘，以靠人不如靠己的全能气势，正在向着KIRAKIRA偶像目标进发中！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/813928740440d47fd4698345574a5a60140567fc.png",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/813928740440d47fd4698345574a5a60140567fc.png",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/192c9a3f44221cc0e897bda970fb63fd2bed0bef.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/32be58156fdd91dc817ef3c9e94682c9c5864e7c.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/6aec702b885edf8e3b751314042f4193d57ac8f6.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/c517c53597cfe5e1efd82ceba75e1fa8107eb113.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/2a5bd806de7d2c2cff80609a660823be2d976249.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 100005,
+                "start_time": 1694865600,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "59488",
+                "redeem_item_name": "甜蜜约绘头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/2119e1f02b5cd144cb207a9a141bf84c95e60983.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之旅",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "1875094289"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【小铃久绘收藏集】是哔哩哔哩携手小铃久绘Official定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，感谢相遇感谢相伴的每一天，期待大家一起来解锁约绘的绝美画面！\n小铃久绘是活跃于bilibili的个人势虚拟主播，形象是超绝可爱拥有独特性格魅力的异世界粉色大猫猫。日常通过直播、视频等方式，为用户提供丰富的文化娱乐内容。努力赛AI的猫娘，以靠人不如靠己的全能气势，正在向着KIRAKIRA偶像目标进发中！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/813928740440d47fd4698345574a5a60140567fc.png",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/813928740440d47fd4698345574a5a60140567fc.png",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/192c9a3f44221cc0e897bda970fb63fd2bed0bef.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/32be58156fdd91dc817ef3c9e94682c9c5864e7c.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/6aec702b885edf8e3b751314042f4193d57ac8f6.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/c517c53597cfe5e1efd82ceba75e1fa8107eb113.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/2a5bd806de7d2c2cff80609a660823be2d976249.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/ee34594affe2f9db39864b8086bc8fa28094eff1.jpg",
@@ -418,5 +410,5 @@
                 }
             ]
         }
-    }
+    ]
 }

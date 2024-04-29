@@ -1,270 +1,262 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "幻星集",
-            "cur_time": 1702648007,
-            "start_time": 1686974401,
-            "end_time": 2114406245,
-            "pre_start_time": 1686902400,
-            "pre_end_time": 1686974400,
-            "is_booked": 0,
-            "act_desc": "https://i0.hdslb.com/bfs/garb/8311a932f5844f99981986fcaf6278cc93b5346c.png",
-            "lottery_list": [
-                {
-                    "lottery_id": 21,
-                    "lottery_name": "自然的奥秘",
-                    "display_time": 1686902400,
-                    "start_time": 1686974401,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/212eccdaee0284ab5923b441576fe96711b898bf.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 6750820383745,
-                    "price": 9900,
-                    "goods_name": "自然的奥秘",
-                    "lottery_desc": "【幻星集·自然的奥秘】共包含24张精美立绘，快和2233一起探索神秘宇宙！\n* 普通款：权杖1&2、权杖3&4、权杖5&6、权杖7&8、权杖9&10、权杖KING、权杖QUEEN、权杖KNIGHT、权杖PAGE、圣杯1&2、圣杯3&4、圣杯5&6、圣杯7&8、圣杯9&10、圣杯KING、圣杯QUEEN、圣杯KNIGHT、圣杯PAGE均分概率95%；\n* 隐藏款：世界&星星、节制&隐士、愚者&魔法师均分概率4.5%，占星师、星穹之境、魔鬼&死神均分概率0.5%。",
-                    "item_total_cnt": 24,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 239257,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
+        "act_title": "幻星集",
+        "cur_time": 1702648007,
+        "start_time": 1686974401,
+        "end_time": 2114406245,
+        "pre_start_time": 1686902400,
+        "pre_end_time": 1686974400,
+        "is_booked": 0,
+        "act_desc": "https://i0.hdslb.com/bfs/garb/8311a932f5844f99981986fcaf6278cc93b5346c.png",
+        "lottery_list": [
+            {
+                "lottery_id": 21,
+                "lottery_name": "自然的奥秘",
+                "display_time": 1686902400,
+                "start_time": 1686974401,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/212eccdaee0284ab5923b441576fe96711b898bf.jpg",
+                "draw_cnt": 0,
+                "goods_id": 6750820383745,
+                "price": 9900,
+                "goods_name": "自然的奥秘",
+                "lottery_desc": "【幻星集·自然的奥秘】共包含24张精美立绘，快和2233一起探索神秘宇宙！\n* 普通款：权杖1&2、权杖3&4、权杖5&6、权杖7&8、权杖9&10、权杖KING、权杖QUEEN、权杖KNIGHT、权杖PAGE、圣杯1&2、圣杯3&4、圣杯5&6、圣杯7&8、圣杯9&10、圣杯KING、圣杯QUEEN、圣杯KNIGHT、圣杯PAGE均分概率95%；\n* 隐藏款：世界&星星、节制&隐士、愚者&魔法师均分概率4.5%，占星师、星穹之境、魔鬼&死神均分概率0.5%。",
+                "item_total_cnt": 24,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 239257,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                {
-                    "lottery_id": 150,
-                    "lottery_name": "我必上岸福利",
-                    "display_time": 1697513099,
-                    "start_time": 1697513100,
-                    "end_time": 1704038399,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/92027e41c0f7f410c6a95e24e06e0fb509bef42f.png",
-                    "draw_cnt": 0,
-                    "goods_id": 17817128695808,
-                    "price": 0,
-                    "goods_name": "我必上岸福利",
-                    "lottery_desc": "幻星集福利卡池目前共包含2张海报；\n考研必胜、我必上岸，每张海报均分概率100%\n（注：免费奖池抽取的卡牌不参与收集度奖励兑换哦~）",
-                    "item_total_cnt": 2,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 2080,
-                    "lottery_type": 2,
-                    "effective_forever": 0,
-                    "discount": null,
-                    "free": 1,
-                    "sale_mode": 2
-                },
-                {
-                    "lottery_id": 78,
-                    "lottery_name": "命运的选择",
-                    "display_time": 1692176400,
-                    "start_time": 1692244800,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/6b2193c51164defe5e1e45c2b1d6fbe80734146c.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 6750820383744,
-                    "price": 9900,
-                    "goods_name": "命运的选择",
-                    "lottery_desc": "【幻星集·命运的选择】共包含24张精美立绘，快和2233一起揭开命运的篇章！\n* 普通款：宝剑1&2、宝剑3&4、宝剑5&6、宝剑7&8、宝剑9&10、宝剑KING、宝剑QUEEN、宝剑KNIGHT、宝剑PAGE、星币1&2、星币3&4、星币5&6、星币7&8、星币9&10、星币KING、星币QUEEN、星币KNIGHT、星币PAGE、均分概率95%；\n* 隐藏款：教皇&女祭司、审判&正义、战车&倒吊人均分概率4.5%，幻影之誓、惊涛烈焰、丰饶赞歌均分概率0.5%。",
-                    "item_total_cnt": 24,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 471005,
-                    "lottery_type": 2,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "《幻星集》塔罗收藏集开售中",
-                "sub_title": "精美立绘、表情包、头像框、独家音声等你抱回家！",
-                "share_content": "《幻星集》塔罗收藏集开售中～邀你共同探索宇宙潜藏的秘密！"
+                "free": 0,
+                "sale_mode": 1
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/433b18847e0d6a776a7432f9c20681e3c291cd32.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
-                },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+            {
+                "lottery_id": 150,
+                "lottery_name": "我必上岸福利",
+                "display_time": 1697513099,
+                "start_time": 1697513100,
+                "end_time": 1704038399,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/92027e41c0f7f410c6a95e24e06e0fb509bef42f.png",
+                "draw_cnt": 0,
+                "goods_id": 17817128695808,
+                "price": 0,
+                "goods_name": "我必上岸福利",
+                "lottery_desc": "幻星集福利卡池目前共包含2张海报；\n考研必胜、我必上岸，每张海报均分概率100%\n（注：免费奖池抽取的卡牌不参与收集度奖励兑换哦~）",
+                "item_total_cnt": 2,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 2080,
+                "lottery_type": 2,
+                "effective_forever": 0,
+                "discount": null,
+                "free": 1,
+                "sale_mode": 2
             },
-            "total_book_cnt": 5976,
-            "total_buy_cnt": 715494,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 199,
-                    "start_time": 1692176400,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张幻星集·命运的选择隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "56880",
-                    "redeem_item_name": "幻星集·命运的选择头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/81366acbdd810d351531f3bbf94ea8e702ef7213.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            {
+                "lottery_id": 78,
+                "lottery_name": "命运的选择",
+                "display_time": 1692176400,
+                "start_time": 1692244800,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/6b2193c51164defe5e1e45c2b1d6fbe80734146c.jpg",
+                "draw_cnt": 0,
+                "goods_id": 6750820383744,
+                "price": 9900,
+                "goods_name": "命运的选择",
+                "lottery_desc": "【幻星集·命运的选择】共包含24张精美立绘，快和2233一起揭开命运的篇章！\n* 普通款：宝剑1&2、宝剑3&4、宝剑5&6、宝剑7&8、宝剑9&10、宝剑KING、宝剑QUEEN、宝剑KNIGHT、宝剑PAGE、星币1&2、星币3&4、星币5&6、星币7&8、星币9&10、星币KING、星币QUEEN、星币KNIGHT、星币PAGE、均分概率95%；\n* 隐藏款：教皇&女祭司、审判&正义、战车&倒吊人均分概率4.5%，幻影之誓、惊涛烈焰、丰饶赞歌均分概率0.5%。",
+                "item_total_cnt": 24,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 471005,
+                "lottery_type": 2,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                {
-                    "collect_id": 198,
-                    "start_time": 1692176400,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意5张幻星集·命运的选择不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "56879",
-                    "redeem_item_name": "幻星集·命运的选择动态主题",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/12ff77194d4227a1d9ba5b003a31be8af9c1e555.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 62,
-                    "start_time": 1686902400,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张幻星集·自然的奥秘隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "54440",
-                    "redeem_item_name": "幻星集·自然的奥秘头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/89623c4f001f27872e4e1f33e2562775d0fa1e05.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 61,
-                    "start_time": 1686902400,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "54419",
-                    "redeem_item_name": "幻星集表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/3d51f54345e786a34d1d54086b1e85123afac947.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 361,
-                    "start_time": 1694768340,
-                    "end_time": 1696953600,
-                    "redeem_text": "抽齐幻星集全部48张卡牌领取。通过问卷四选一，10月28日发至账户",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "59374",
-                    "redeem_item_name": "幻星集动态出框头像四选一",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/6d0121663dde366c5743e59f4dcc87ddf7ea70c5.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 48,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "愿星辰和努力指引你上岸！",
-                "guide_content": "前往考研活动赢取福利抽数",
-                "jump_url": "https://www.bilibili.com/blackboard/era/juezhankaoyan.html"
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "《幻星集》塔罗收藏集开售中",
+            "sub_title": "精美立绘、表情包、头像框、独家音声等你抱回家！",
+            "share_content": "《幻星集》塔罗收藏集开售中～邀你共同探索宇宙潜藏的秘密！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/433b18847e0d6a776a7432f9c20681e3c291cd32.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "is_can_donate": 1,
-            "is_up_chain": 1,
-            "related_mids": null,
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 0,
-            "product_introduce": "",
-            "app_head_show": "",
-            "app_space_show": "",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/f1f8f8d0574ccc776f6300c93747e0a7cf683600.png\",\"card_count\":1,\"num_color\":\"#d69f6f\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/18ecf193ffa84b2728504ea652c7cfb82900ec62.png\",\"card_count\":5,\"num_color\":\"#5db0d9\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/2c7a97394f13b4602a9a2898cbdd6fb61852d927.png\",\"card_count\":15,\"num_color\":\"#d6a035\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/99866b0cbed39fddea37d254dc467da31796d988.png\",\"card_count\":30,\"num_color\":\"#e05b8f\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/57e7a7d7cb92b365080703e01f478ffa71a930ef.png\",\"card_count\":60,\"num_color\":\"#4c69d0\"}]",
-            "topic": null
-        }
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 5976,
+        "total_buy_cnt": 715494,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 199,
+                "start_time": 1692176400,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意1张幻星集·命运的选择隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "56880",
+                "redeem_item_name": "幻星集·命运的选择头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/81366acbdd810d351531f3bbf94ea8e702ef7213.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 198,
+                "start_time": 1692176400,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意5张幻星集·命运的选择不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "56879",
+                "redeem_item_name": "幻星集·命运的选择动态主题",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/12ff77194d4227a1d9ba5b003a31be8af9c1e555.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 5,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 62,
+                "start_time": 1686902400,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意1张幻星集·自然的奥秘隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "54440",
+                "redeem_item_name": "幻星集·自然的奥秘头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/89623c4f001f27872e4e1f33e2562775d0fa1e05.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 61,
+                "start_time": 1686902400,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "54419",
+                "redeem_item_name": "幻星集表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/3d51f54345e786a34d1d54086b1e85123afac947.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 361,
+                "start_time": 1694768340,
+                "end_time": 1696953600,
+                "redeem_text": "抽齐幻星集全部48张卡牌领取。通过问卷四选一，10月28日发至账户",
+                "redeem_item_type": 5,
+                "redeem_item_id": "59374",
+                "redeem_item_name": "幻星集动态出框头像四选一",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/6d0121663dde366c5743e59f4dcc87ddf7ea70c5.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 48,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "愿星辰和努力指引你上岸！",
+            "guide_content": "前往考研活动赢取福利抽数",
+            "jump_url": "https://www.bilibili.com/blackboard/era/juezhankaoyan.html"
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 1,
+        "related_mids": null,
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 0,
+        "product_introduce": "",
+        "app_head_show": "",
+        "app_space_show": "",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/f1f8f8d0574ccc776f6300c93747e0a7cf683600.png\",\"card_count\":1,\"num_color\":\"#d69f6f\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/18ecf193ffa84b2728504ea652c7cfb82900ec62.png\",\"card_count\":5,\"num_color\":\"#5db0d9\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/2c7a97394f13b4602a9a2898cbdd6fb61852d927.png\",\"card_count\":15,\"num_color\":\"#d6a035\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/99866b0cbed39fddea37d254dc467da31796d988.png\",\"card_count\":30,\"num_color\":\"#e05b8f\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/57e7a7d7cb92b365080703e01f478ffa71a930ef.png\",\"card_count\":60,\"num_color\":\"#4c69d0\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/433b18847e0d6a776a7432f9c20681e3c291cd32.jpg",
@@ -1906,5 +1898,5 @@
                 }
             ]
         }
-    }
+    ]
 }

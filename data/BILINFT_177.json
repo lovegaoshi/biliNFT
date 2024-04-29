@@ -1,173 +1,165 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "卡拉彼丘收藏集",
-            "cur_time": 1702647995,
-            "start_time": 1693299600,
-            "end_time": 2114406245,
-            "pre_start_time": 1693213200,
-            "pre_end_time": 1693299599,
-            "is_booked": 0,
-            "act_desc": "https://i0.hdslb.com/bfs/garb/331deb107ccd8e97f03ddf6473497f71637c93eb.png",
-            "lottery_list": [
-                {
-                    "lottery_id": 95,
-                    "lottery_name": "卡丘世界",
-                    "display_time": 1693213200,
-                    "start_time": 1693299600,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/96f6d6a79227df58cd7daf052282cf8f3c7ffbab.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 8927215374336,
-                    "price": 9900,
-                    "goods_name": "卡丘世界",
-                    "lottery_desc": "【卡拉彼丘收藏集】卡丘世界奖池共包含16张精美数字卡牌，欢迎引航者来到卡丘世界，和我们一起奔赴前线吧～\n* 普通款：星空之门·星绘、遁影藏踪·拉薇、高空花火·星绘、卡丘重塑·心夏、破晓帷幕·令、强雷铸甲·明、夕阳回忆·奥黛丽、吸能赋甲·明、寻影猎刃·拉薇、悠闲午后·米雪儿、重返街头·白墨、重火倾斜·奥黛丽共12张均分概率95%；\n* 隐藏款：稀有卡沙滩牛仔·明、夏日音乐节·令&信共2张均分概率4.5%；超稀有卡海滨奇遇·伊薇特、激扬碧浪·玛德蕾娜共2张概率0.5%",
-                    "item_total_cnt": 16,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 48384,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "卡拉彼丘收藏集",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "卡拉彼丘收藏集活动火热售卖中，快来开卡吧！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/d923be5156337ca3cd7c5094cd0952fcbfa19c1f.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "卡拉彼丘收藏集",
+        "cur_time": 1702647995,
+        "start_time": 1693299600,
+        "end_time": 2114406245,
+        "pre_start_time": 1693213200,
+        "pre_end_time": 1693299599,
+        "is_booked": 0,
+        "act_desc": "https://i0.hdslb.com/bfs/garb/331deb107ccd8e97f03ddf6473497f71637c93eb.png",
+        "lottery_list": [
+            {
+                "lottery_id": 95,
+                "lottery_name": "卡丘世界",
+                "display_time": 1693213200,
+                "start_time": 1693299600,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/96f6d6a79227df58cd7daf052282cf8f3c7ffbab.jpg",
+                "draw_cnt": 0,
+                "goods_id": 8927215374336,
+                "price": 9900,
+                "goods_name": "卡丘世界",
+                "lottery_desc": "【卡拉彼丘收藏集】卡丘世界奖池共包含16张精美数字卡牌，欢迎引航者来到卡丘世界，和我们一起奔赴前线吧～\n* 普通款：星空之门·星绘、遁影藏踪·拉薇、高空花火·星绘、卡丘重塑·心夏、破晓帷幕·令、强雷铸甲·明、夕阳回忆·奥黛丽、吸能赋甲·明、寻影猎刃·拉薇、悠闲午后·米雪儿、重返街头·白墨、重火倾斜·奥黛丽共12张均分概率95%；\n* 隐藏款：稀有卡沙滩牛仔·明、夏日音乐节·令&信共2张均分概率4.5%；超稀有卡海滨奇遇·伊薇特、激扬碧浪·玛德蕾娜共2张概率0.5%",
+                "item_total_cnt": 16,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 48384,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "卡拉彼丘收藏集",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "卡拉彼丘收藏集活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/d923be5156337ca3cd7c5094cd0952fcbfa19c1f.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 1684,
-            "total_buy_cnt": 48384,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 236,
-                    "start_time": 1693213200,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "57277",
-                    "redeem_item_name": "卡拉彼丘收藏集表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/47d7e433c1e5614f0df5475ecca0fbe04ce414e2.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 1684,
+        "total_buy_cnt": 48384,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 236,
+                "start_time": 1693213200,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "57277",
+                "redeem_item_name": "卡拉彼丘收藏集表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/47d7e433c1e5614f0df5475ecca0fbe04ce414e2.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 232,
-                    "start_time": 1693213200,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意5张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "57300&57299&57298&57297",
-                    "redeem_item_name": "点赞&加载&进度条&主题",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/3a1fd765272ee4639137ebc3e8adbb79a1f4df8d.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 231,
-                    "start_time": 1693213200,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "57275",
-                    "redeem_item_name": "卡拉彼丘收藏集头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/1fbbc43b4a29623b2d3bacc1e393e1f2ce38cd38.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之礼",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": null,
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "",
-            "app_head_show": "",
-            "app_space_show": "",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/4d89246ff0961e48cf30018c0ca387d955fbb378.png\",\"card_count\":1,\"num_color\":\"#bcbcbd\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/3485a54139b76d074e9dffe1be0d043a567b31d8.png\",\"card_count\":5,\"num_color\":\"#dfb149\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/1117870eea2bde13a230b2dc7af0365e00b2f201.png\",\"card_count\":15,\"num_color\":\"#5083c4\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/872d7b608d56dd85cbab0a3f9aa7152127cc288d.png\",\"card_count\":30,\"num_color\":\"#94569f\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/6300b90399b4e0cf5acae65005d954f08abc48fc.png\",\"card_count\":60,\"num_color\":\"#c94a50\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 232,
+                "start_time": 1693213200,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意5张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "57300&57299&57298&57297",
+                "redeem_item_name": "点赞&加载&进度条&主题",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/3a1fd765272ee4639137ebc3e8adbb79a1f4df8d.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 5,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 231,
+                "start_time": 1693213200,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "57275",
+                "redeem_item_name": "卡拉彼丘收藏集头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/1fbbc43b4a29623b2d3bacc1e393e1f2ce38cd38.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之礼",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": null,
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "",
+        "app_head_show": "",
+        "app_space_show": "",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/4d89246ff0961e48cf30018c0ca387d955fbb378.png\",\"card_count\":1,\"num_color\":\"#bcbcbd\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/3485a54139b76d074e9dffe1be0d043a567b31d8.png\",\"card_count\":5,\"num_color\":\"#dfb149\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/1117870eea2bde13a230b2dc7af0365e00b2f201.png\",\"card_count\":15,\"num_color\":\"#5083c4\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/872d7b608d56dd85cbab0a3f9aa7152127cc288d.png\",\"card_count\":30,\"num_color\":\"#94569f\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/6300b90399b4e0cf5acae65005d954f08abc48fc.png\",\"card_count\":60,\"num_color\":\"#c94a50\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/d923be5156337ca3cd7c5094cd0952fcbfa19c1f.jpg",
@@ -680,5 +672,5 @@
                 }
             ]
         }
-    }
+    ]
 }

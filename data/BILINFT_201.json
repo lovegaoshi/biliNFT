@@ -1,175 +1,167 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "岱川Doris收藏集",
-            "cur_time": 1702647961,
-            "start_time": 1695528000,
-            "end_time": 2114406245,
-            "pre_start_time": 1695441600,
-            "pre_end_time": 1695527999,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 128,
-                    "lottery_name": "岱川四季集",
-                    "display_time": 1695441600,
-                    "start_time": 1695528000,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/b66d11e938ef91089ac84dba4be4deadb7a18ac6.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 13478752445952,
-                    "price": 9900,
-                    "goods_name": "岱川四季集",
-                    "lottery_desc": "【岱川Doris收藏集—岱川四季集】共包含10张精美立绘，感受小龙猫的百变魅力！\n* 隐藏款：与我共舞，概率0.5%；折翼救赎 ，概率4.5%\n* 普通款：初见情书，概率9%；夏日悸动、枫叶JK、微醺岱姐、睡衣蛋糕、白鸽玫瑰、天使准心、向日葵の约定共7张，均分概率86%",
-                    "item_total_cnt": 10,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 12515,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "岱川Doris收藏集—岱川四季集开售",
-                "sub_title": "超精美立绘，趣味表情包、头像框等你抱回家！",
-                "share_content": "岱川Doris收藏集—岱川四季集火热开售中，岱川音声抢先听！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/1d1554f43e952385355d1e8223f298f1dc944a2a.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "岱川Doris收藏集",
+        "cur_time": 1702647961,
+        "start_time": 1695528000,
+        "end_time": 2114406245,
+        "pre_start_time": 1695441600,
+        "pre_end_time": 1695527999,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 128,
+                "lottery_name": "岱川四季集",
+                "display_time": 1695441600,
+                "start_time": 1695528000,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/b66d11e938ef91089ac84dba4be4deadb7a18ac6.jpg",
+                "draw_cnt": 0,
+                "goods_id": 13478752445952,
+                "price": 9900,
+                "goods_name": "岱川四季集",
+                "lottery_desc": "【岱川Doris收藏集—岱川四季集】共包含10张精美立绘，感受小龙猫的百变魅力！\n* 隐藏款：与我共舞，概率0.5%；折翼救赎 ，概率4.5%\n* 普通款：初见情书，概率9%；夏日悸动、枫叶JK、微醺岱姐、睡衣蛋糕、白鸽玫瑰、天使准心、向日葵の约定共7张，均分概率86%",
+                "item_total_cnt": 10,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 12515,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "岱川Doris收藏集—岱川四季集开售",
+            "sub_title": "超精美立绘，趣味表情包、头像框等你抱回家！",
+            "share_content": "岱川Doris收藏集—岱川四季集火热开售中，岱川音声抢先听！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/1d1554f43e952385355d1e8223f298f1dc944a2a.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 591,
-            "total_buy_cnt": 12515,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 384,
-                    "start_time": 1695441600,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意5张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "59748",
-                    "redeem_item_name": "【初见情书】动态个性主题",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/701798919006f9b20870e9b6983ccab85b632b6a.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 591,
+        "total_buy_cnt": 12515,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 384,
+                "start_time": 1695441600,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意5张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "59748",
+                "redeem_item_name": "【初见情书】动态个性主题",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/701798919006f9b20870e9b6983ccab85b632b6a.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 5,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 383,
-                    "start_time": 1695441600,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "59759",
-                    "redeem_item_name": "岱川四季集表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/9fb493692fb8fb14dd526fa8bbc8d4bcc280a83b.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 382,
-                    "start_time": 1695441600,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "59747",
-                    "redeem_item_name": "岱川四季集头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/f7cee15d434c657ceec10612d32612e8478fb060.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之旅",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "1643484295"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【岱川Doris收藏集】是哔哩哔哩携手岱川Doris定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁小龙猫不同季节的绝美画面！\n岱川Doris是来自魔法森林的活力龙猫，喜欢唱歌、配音、占卜。日常通过直播、视频等方式活跃在bilibili等平台，为用户提供丰富的文化娱乐内容。",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/4645ce7cf3ef723dc6b6bb8b44348684380cd18e.png",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/54b00298e310f4e5dab3a212196377ed7f7ee61f.png",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/820318553fafe41ccd6a9ebc915d3c5279f8aa8b.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/ff259021106c92d0f35072660a7846c12d9661b1.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/66400c1e03c3f8ac9d579d67864231a0dc63343e.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/6b695505ac031dc214c49b4dc258ee7fc78f8a24.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/b64705ccd4f32df171c14979a53d943d74f60825.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 383,
+                "start_time": 1695441600,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "59759",
+                "redeem_item_name": "岱川四季集表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/9fb493692fb8fb14dd526fa8bbc8d4bcc280a83b.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 382,
+                "start_time": 1695441600,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "59747",
+                "redeem_item_name": "岱川四季集头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/f7cee15d434c657ceec10612d32612e8478fb060.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之旅",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "1643484295"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【岱川Doris收藏集】是哔哩哔哩携手岱川Doris定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁小龙猫不同季节的绝美画面！\n岱川Doris是来自魔法森林的活力龙猫，喜欢唱歌、配音、占卜。日常通过直播、视频等方式活跃在bilibili等平台，为用户提供丰富的文化娱乐内容。",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/4645ce7cf3ef723dc6b6bb8b44348684380cd18e.png",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/54b00298e310f4e5dab3a212196377ed7f7ee61f.png",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/820318553fafe41ccd6a9ebc915d3c5279f8aa8b.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/ff259021106c92d0f35072660a7846c12d9661b1.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/66400c1e03c3f8ac9d579d67864231a0dc63343e.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/6b695505ac031dc214c49b4dc258ee7fc78f8a24.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/b64705ccd4f32df171c14979a53d943d74f60825.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/1d1554f43e952385355d1e8223f298f1dc944a2a.jpg",
@@ -504,5 +496,5 @@
                 }
             ]
         }
-    }
+    ]
 }

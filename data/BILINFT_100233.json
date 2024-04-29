@@ -1,287 +1,279 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "QUIN和他的朋友们收藏集",
-            "cur_time": 1702647837,
-            "start_time": 1699588800,
-            "end_time": 2114406245,
-            "pre_start_time": 1699502400,
-            "pre_end_time": 1699588799,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 100302,
-                    "lottery_name": "堇业美食家",
-                    "display_time": 1699502400,
-                    "start_time": 1699588800,
-                    "end_time": 2114406245,
-                    "lottery_image": "https://i0.hdslb.com/bfs/garb/4966e8c030b38b7071250e44635c7555de39e8f3.png",
-                    "draw_cnt": 0,
-                    "goods_id": 22117120764928,
-                    "price": 9900,
-                    "goods_name": "堇业美食家",
-                    "lottery_desc": "【隐藏款】全摸德概率4.5%;堇业火锅概率0.5%;\n【普通款】小P甜点概率9%;其余立绘均分概率86%;",
-                    "item_total_cnt": 8,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 64477,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+        "act_title": "QUIN和他的朋友们收藏集",
+        "cur_time": 1702647837,
+        "start_time": 1699588800,
+        "end_time": 2114406245,
+        "pre_start_time": 1699502400,
+        "pre_end_time": 1699588799,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 100302,
+                "lottery_name": "堇业美食家",
+                "display_time": 1699502400,
+                "start_time": 1699588800,
+                "end_time": 2114406245,
+                "lottery_image": "https://i0.hdslb.com/bfs/garb/4966e8c030b38b7071250e44635c7555de39e8f3.png",
+                "draw_cnt": 0,
+                "goods_id": 22117120764928,
+                "price": 9900,
+                "goods_name": "堇业美食家",
+                "lottery_desc": "【隐藏款】全摸德概率4.5%;堇业火锅概率0.5%;\n【普通款】小P甜点概率9%;其余立绘均分概率86%;",
+                "item_total_cnt": 8,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 64477,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
+                },
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "QUIN和他的朋友们收藏集",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/a961f709b87c43668cfda38dabb47c08f9bda7f8.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            },
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 2649,
+        "total_buy_cnt": 64477,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 100476,
+                "start_time": 1702008000,
+                "end_time": 2114406245,
+                "redeem_text": "在秦师傅爆炒,天师傅摆盘,爽师傅炖汤,肯师傅烤肠,机皇甜点,小P甜点,全摸德,堇业火锅中抽出任意2张立绘即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 5,
+                "redeem_item_id": "1701330522001",
+                "redeem_item_name": "摸鱼进度条",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/96057a9d9cb5dc547916af0a6745d45fbe3a7e46.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 100475,
+                "start_time": 1702008000,
+                "end_time": 2114406245,
+                "redeem_text": "在秦师傅爆炒,天师傅摆盘,爽师傅炖汤,肯师傅烤肠,机皇甜点,小P甜点,全摸德,堇业火锅中抽出任意2张立绘即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 5,
+                "redeem_item_id": "1701316312001",
+                "redeem_item_name": "打铁奎恩加载动画",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/6792010526ded5fd7abdc92a61f116816ea7e562.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 100474,
+                "start_time": 1702008000,
+                "end_time": 2114406245,
+                "redeem_text": "在秦师傅爆炒,天师傅摆盘,爽师傅炖汤,肯师傅烤肠,机皇甜点,小P甜点,全摸德,堇业火锅中抽出任意2张立绘即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 5,
+                "redeem_item_id": "1701316315001",
+                "redeem_item_name": "猛男寨动态点赞",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/7e945b5ae1cecf5b818a7b0ac8173d97593f4e94.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 100308,
+                "start_time": 1699507560,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意7张立绘即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 1,
+                "redeem_item_id": "1699253266002",
+                "redeem_item_name": "Quin和他的朋友们",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/146ec828ae4227141ab949c5ef0c0cf89d6d33fc.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 7,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": {
+                        "id": 1699253266002,
+                        "name": "Quin和他的朋友们",
+                        "overview_image": "https://i0.hdslb.com/bfs/garb/open/146ec828ae4227141ab949c5ef0c0cf89d6d33fc.png",
+                        "content": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/garb/open/146ec828ae4227141ab949c5ef0c0cf89d6d33fc.png",
+                                "gyroscope": null,
+                                "location": ""
+                            },
+                            "animation": null
+                        },
+                        "material_type": 1,
+                        "theme": "open",
+                        "scarcity": 0,
+                        "layout": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "face_overflow": null,
+                        "material_sub_type": 0,
+                        "overview_image_watermarks": [
+                            {
+                                "scene": 1,
+                                "watermark_image": "https://i0.hdslb.com/bfs/garb/watermark/43ab9c148037480c9e51e59d4eb76aa6f05c4059.png"
+                            }
+                        ],
+                        "watermark_animations": null,
+                        "space_background": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/garb/open/146ec828ae4227141ab949c5ef0c0cf89d6d33fc.png",
+                                "gyroscope": null,
+                                "location": "0-207-1242-1242"
+                            },
+                            "animation": null
                         }
                     },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "QUIN和他的朋友们收藏集",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热售卖中，快来开卡吧！"
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/a961f709b87c43668cfda38dabb47c08f9bda7f8.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            {
+                "collect_id": 100307,
+                "start_time": 1699507560,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意2张立绘即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 2,
+                "redeem_item_id": "1698315875001",
+                "redeem_item_name": "Quin和他的朋友们表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/679bf17f24e053e062fa078f6a84e861785267c1.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "total_book_cnt": 2649,
-            "total_buy_cnt": 64477,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 100476,
-                    "start_time": 1702008000,
-                    "end_time": 2114406245,
-                    "redeem_text": "在秦师傅爆炒,天师傅摆盘,爽师傅炖汤,肯师傅烤肠,机皇甜点,小P甜点,全摸德,堇业火锅中抽出任意2张立绘即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "1701330522001",
-                    "redeem_item_name": "摸鱼进度条",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/96057a9d9cb5dc547916af0a6745d45fbe3a7e46.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            {
+                "collect_id": 100306,
+                "start_time": 1699507560,
+                "end_time": 2114406245,
+                "redeem_text": "抽到任意1张隐藏卡即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 3,
+                "redeem_item_id": "1698220680001",
+                "redeem_item_name": "Quin和他的朋友们头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/03b551a0070b17d0934384f95795863f7b77893e.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 100475,
-                    "start_time": 1702008000,
-                    "end_time": 2114406245,
-                    "redeem_text": "在秦师傅爆炒,天师傅摆盘,爽师傅炖汤,肯师傅烤肠,机皇甜点,小P甜点,全摸德,堇业火锅中抽出任意2张立绘即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "1701316312001",
-                    "redeem_item_name": "打铁奎恩加载动画",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/6792010526ded5fd7abdc92a61f116816ea7e562.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 100474,
-                    "start_time": 1702008000,
-                    "end_time": 2114406245,
-                    "redeem_text": "在秦师傅爆炒,天师傅摆盘,爽师傅炖汤,肯师傅烤肠,机皇甜点,小P甜点,全摸德,堇业火锅中抽出任意2张立绘即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "1701316315001",
-                    "redeem_item_name": "猛男寨动态点赞",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/7e945b5ae1cecf5b818a7b0ac8173d97593f4e94.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 100308,
-                    "start_time": 1699507560,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意7张立绘即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 1,
-                    "redeem_item_id": "1699253266002",
-                    "redeem_item_name": "Quin和他的朋友们",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/146ec828ae4227141ab949c5ef0c0cf89d6d33fc.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 7,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": {
-                            "id": 1699253266002,
-                            "name": "Quin和他的朋友们",
-                            "overview_image": "https://i0.hdslb.com/bfs/garb/open/146ec828ae4227141ab949c5ef0c0cf89d6d33fc.png",
-                            "content": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/garb/open/146ec828ae4227141ab949c5ef0c0cf89d6d33fc.png",
-                                    "gyroscope": null,
-                                    "location": ""
-                                },
-                                "animation": null
-                            },
-                            "material_type": 1,
-                            "theme": "open",
-                            "scarcity": 0,
-                            "layout": 0,
-                            "width": 1242,
-                            "height": 1863,
-                            "face_overflow": null,
-                            "material_sub_type": 0,
-                            "overview_image_watermarks": [
-                                {
-                                    "scene": 1,
-                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/watermark/43ab9c148037480c9e51e59d4eb76aa6f05c4059.png"
-                                }
-                            ],
-                            "watermark_animations": null,
-                            "space_background": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/garb/open/146ec828ae4227141ab949c5ef0c0cf89d6d33fc.png",
-                                    "gyroscope": null,
-                                    "location": "0-207-1242-1242"
-                                },
-                                "animation": null
-                            }
-                        },
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 100307,
-                    "start_time": 1699507560,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意2张立绘即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "1698315875001",
-                    "redeem_item_name": "Quin和他的朋友们表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/679bf17f24e053e062fa078f6a84e861785267c1.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 100306,
-                    "start_time": 1699507560,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽到任意1张隐藏卡即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "1698220680001",
-                    "redeem_item_name": "Quin和他的朋友们头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/03b551a0070b17d0934384f95795863f7b77893e.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "任务奖励",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
-            },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "3493087233968327",
-                "15810",
-                "48039",
-                "1472906636",
-                "1343403",
-                "3822341"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【QUIN和他的朋友们收藏集】是哔哩哔哩携手摸鱼禁止定制打造的团体数字集卡，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁QUIN和他的朋友们收藏集的绝赞画面！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/open/676ac07f8eb2556acbb9d9068ac686c543c3d5cb.png@0-0-1126-1126a",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/open/676ac07f8eb2556acbb9d9068ac686c543c3d5cb.png@0-0-1126-1126a",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/0565df5f521b3fa40965effe11a65c7825818c08.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/8e967838c967ae43d76154bc7587a63e2f42fbec.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/d8fb63ea637e4ee6979f613de57645f2a61a0a59.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/7ebdbcc6f8b278b5aee4815f703e4b392798a80e.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/4a006f08738801e838eb70740a1b44c051bafbfa.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
-            "topic": null
-        }
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "任务奖励",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "3493087233968327",
+            "15810",
+            "48039",
+            "1472906636",
+            "1343403",
+            "3822341"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【QUIN和他的朋友们收藏集】是哔哩哔哩携手摸鱼禁止定制打造的团体数字集卡，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁QUIN和他的朋友们收藏集的绝赞画面！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/open/676ac07f8eb2556acbb9d9068ac686c543c3d5cb.png@0-0-1126-1126a",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/open/676ac07f8eb2556acbb9d9068ac686c543c3d5cb.png@0-0-1126-1126a",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/0565df5f521b3fa40965effe11a65c7825818c08.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/8e967838c967ae43d76154bc7587a63e2f42fbec.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/d8fb63ea637e4ee6979f613de57645f2a61a0a59.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/7ebdbcc6f8b278b5aee4815f703e4b392798a80e.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/4a006f08738801e838eb70740a1b44c051bafbfa.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/a961f709b87c43668cfda38dabb47c08f9bda7f8.png",
@@ -579,5 +571,5 @@
                 }
             ]
         }
-    }
+    ]
 }

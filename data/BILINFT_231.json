@@ -1,255 +1,247 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "王者拜仁",
-            "cur_time": 1702647885,
-            "start_time": 1697799600,
-            "end_time": 2114406245,
-            "pre_start_time": 1697794200,
-            "pre_end_time": 1697799599,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 161,
-                    "lottery_name": "温布利一代",
-                    "display_time": 1697794200,
-                    "start_time": 1697799600,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/1b3be98578f10ccf0bc0bad421aafef39e6880e8.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 18534126087680,
-                    "price": 9900,
-                    "goods_name": "温布利一代",
-                    "lottery_desc": "【王者拜仁】温布利一代！重回十年前的温布利之夜～\n* 普通款：拉菲尼亚、路易斯·古斯塔沃、范比滕、托尼·克罗斯、马里奥·戈麦斯、克劳迪奥·皮萨罗、丹特、大卫·阿拉巴、热罗姆·博阿滕、马里奥·曼朱基奇、哈维·马丁内斯、曼努埃尔·诺伊尔、施魏因施泰格、托马斯·穆勒、阿尔扬·罗本、菲利普·拉姆均分概率95%；\n* 隐藏款：星河梦迹、心比山坚、砥柱中流、老仁与海均分概率4.5%，功成温布利、巅峰狂想曲、绝杀定乾坤均分概率0.5%。\n400抽保底必出功成温布利、巅峰狂想曲、绝杀定乾坤其中一张，若1-399抽中已获得任一，则重置计数。",
-                    "item_total_cnt": 25,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 39530,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+        "act_title": "王者拜仁",
+        "cur_time": 1702647885,
+        "start_time": 1697799600,
+        "end_time": 2114406245,
+        "pre_start_time": 1697794200,
+        "pre_end_time": 1697799599,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 161,
+                "lottery_name": "温布利一代",
+                "display_time": 1697794200,
+                "start_time": 1697799600,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/1b3be98578f10ccf0bc0bad421aafef39e6880e8.jpg",
+                "draw_cnt": 0,
+                "goods_id": 18534126087680,
+                "price": 9900,
+                "goods_name": "温布利一代",
+                "lottery_desc": "【王者拜仁】温布利一代！重回十年前的温布利之夜～\n* 普通款：拉菲尼亚、路易斯·古斯塔沃、范比滕、托尼·克罗斯、马里奥·戈麦斯、克劳迪奥·皮萨罗、丹特、大卫·阿拉巴、热罗姆·博阿滕、马里奥·曼朱基奇、哈维·马丁内斯、曼努埃尔·诺伊尔、施魏因施泰格、托马斯·穆勒、阿尔扬·罗本、菲利普·拉姆均分概率95%；\n* 隐藏款：星河梦迹、心比山坚、砥柱中流、老仁与海均分概率4.5%，功成温布利、巅峰狂想曲、绝杀定乾坤均分概率0.5%。\n400抽保底必出功成温布利、巅峰狂想曲、绝杀定乾坤其中一张，若1-399抽中已获得任一，则重置计数。",
+                "item_total_cnt": 25,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 39530,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
+                },
+                "free": 0,
+                "sale_mode": 1
+            },
+            {
+                "lottery_id": 162,
+                "lottery_name": "拜仁福利卡池",
+                "display_time": 1697794200,
+                "start_time": 1697799600,
+                "end_time": 1704038399,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/088c67dbc4eea93680907535d9b394237d2fd111.jpg",
+                "draw_cnt": 0,
+                "goods_id": 18534126087681,
+                "price": 0,
+                "goods_name": "拜仁福利卡池",
+                "lottery_desc": "拜仁福利卡池目前共包含5张海报；\n吉祥三宝、所向披靡、仁声鼎沸、我心红白、绝杀时刻均分概率100%\n（注：免费奖池抽取的卡牌不参与收集度奖励兑换哦~）",
+                "item_total_cnt": 5,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 7309,
+                "lottery_type": 2,
+                "effective_forever": 0,
+                "discount": null,
+                "free": 1,
+                "sale_mode": 2
+            }
+        ],
+        "share_info": {
+            "main_title": "《王者拜仁》球星收藏集开售",
+            "sub_title": "温布利精神永恒！",
+            "share_content": "《王者拜仁》球星收藏集火热售卖中！温布利精神永恒！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/596ec71f3241587c9eac54eb73298ebba9721567.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            },
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 232,
+        "total_buy_cnt": 46839,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 532,
+                "start_time": 1698732780,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意4张温布利一代不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "61400",
+                "redeem_item_name": "王者拜仁主题",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/c4178b1e048231f6ba342399feda3ff8f51ec636.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 4,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 502,
+                "start_time": 1697794200,
+                "end_time": 2114406245,
+                "redeem_text": "抽到任意5张温布利一代不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 1,
+                "redeem_item_id": "1155835",
+                "redeem_item_name": "尖锋斗士",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/02971f2b53f8b8c38a140d774cb577c246d0c92f.jpg",
+                "owned_item_amount": 0,
+                "require_item_amount": 5,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": {
+                        "id": 1155835,
+                        "name": "尖锋斗士",
+                        "overview_image": "https://i0.hdslb.com/bfs/baselabs/02971f2b53f8b8c38a140d774cb577c246d0c92f.jpg",
+                        "content": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/baselabs/02971f2b53f8b8c38a140d774cb577c246d0c92f.jpg",
+                                "gyroscope": null,
+                                "location": ""
+                            },
+                            "animation": null
+                        },
+                        "material_type": 1,
+                        "theme": "兑换",
+                        "scarcity": 20,
+                        "layout": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "face_overflow": null,
+                        "material_sub_type": 0,
+                        "overview_image_watermarks": [
+                            {
+                                "scene": 1,
+                                "watermark_image": "https://i0.hdslb.com/bfs/garb/e1f1546f112906b00a86b51883e95e081863b5e1.png"
+                            }
+                        ],
+                        "watermark_animations": null,
+                        "space_background": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/baselabs/02971f2b53f8b8c38a140d774cb577c246d0c92f.jpg",
+                                "gyroscope": null,
+                                "location": ""
+                            },
+                            "animation": null
                         }
                     },
-                    "free": 0,
-                    "sale_mode": 1
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "lottery_id": 162,
-                    "lottery_name": "拜仁福利卡池",
-                    "display_time": 1697794200,
-                    "start_time": 1697799600,
-                    "end_time": 1704038399,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/088c67dbc4eea93680907535d9b394237d2fd111.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 18534126087681,
-                    "price": 0,
-                    "goods_name": "拜仁福利卡池",
-                    "lottery_desc": "拜仁福利卡池目前共包含5张海报；\n吉祥三宝、所向披靡、仁声鼎沸、我心红白、绝杀时刻均分概率100%\n（注：免费奖池抽取的卡牌不参与收集度奖励兑换哦~）",
-                    "item_total_cnt": 5,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 7309,
-                    "lottery_type": 2,
-                    "effective_forever": 0,
-                    "discount": null,
-                    "free": 1,
-                    "sale_mode": 2
-                }
-            ],
-            "share_info": {
-                "main_title": "《王者拜仁》球星收藏集开售",
-                "sub_title": "温布利精神永恒！",
-                "share_content": "《王者拜仁》球星收藏集火热售卖中！温布利精神永恒！"
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/596ec71f3241587c9eac54eb73298ebba9721567.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            {
+                "collect_id": 501,
+                "start_time": 1697794200,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "60905",
+                "redeem_item_name": "王者拜仁头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/982da1472e3abdb6a87f15f48bc753bb0160cc84.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "total_book_cnt": 232,
-            "total_buy_cnt": 46839,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 532,
-                    "start_time": 1698732780,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意4张温布利一代不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "61400",
-                    "redeem_item_name": "王者拜仁主题",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/c4178b1e048231f6ba342399feda3ff8f51ec636.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 4,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            {
+                "collect_id": 500,
+                "start_time": 1697794200,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "60916",
+                "redeem_item_name": "王者拜仁表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/976578954553f6955a06fd9b61ebee516c34a68c.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 502,
-                    "start_time": 1697794200,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽到任意5张温布利一代不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 1,
-                    "redeem_item_id": "1155835",
-                    "redeem_item_name": "尖锋斗士",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/02971f2b53f8b8c38a140d774cb577c246d0c92f.jpg",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": {
-                            "id": 1155835,
-                            "name": "尖锋斗士",
-                            "overview_image": "https://i0.hdslb.com/bfs/baselabs/02971f2b53f8b8c38a140d774cb577c246d0c92f.jpg",
-                            "content": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/baselabs/02971f2b53f8b8c38a140d774cb577c246d0c92f.jpg",
-                                    "gyroscope": null,
-                                    "location": ""
-                                },
-                                "animation": null
-                            },
-                            "material_type": 1,
-                            "theme": "兑换",
-                            "scarcity": 20,
-                            "layout": 0,
-                            "width": 1242,
-                            "height": 1863,
-                            "face_overflow": null,
-                            "material_sub_type": 0,
-                            "overview_image_watermarks": [
-                                {
-                                    "scene": 1,
-                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/e1f1546f112906b00a86b51883e95e081863b5e1.png"
-                                }
-                            ],
-                            "watermark_animations": null,
-                            "space_background": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/baselabs/02971f2b53f8b8c38a140d774cb577c246d0c92f.jpg",
-                                    "gyroscope": null,
-                                    "location": ""
-                                },
-                                "animation": null
-                            }
-                        },
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 501,
-                    "start_time": 1697794200,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "60905",
-                    "redeem_item_name": "王者拜仁头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/982da1472e3abdb6a87f15f48bc753bb0160cc84.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 500,
-                    "start_time": 1697794200,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "60916",
-                    "redeem_item_name": "王者拜仁表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/976578954553f6955a06fd9b61ebee516c34a68c.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之礼",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "看拜仁纪录片，得收藏集",
-                "guide_content": "前往观看活动页面赢取福利抽数",
-                "jump_url": "https://www.bilibili.com/blackboard/era/KGYwm3IPF3Nec2P6.html"
-            },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "473904412"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【王者拜仁-温布利一代】是拜仁慕尼黑足球俱乐部官方授权数字球星收藏集，带你重回十年前的温布利之夜，重温拜仁传奇队伍的王者风姿，Mia san mia！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/d0c5a556af2906819040d2ac89e900f5c3c760e6.jpg",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/d0c5a556af2906819040d2ac89e900f5c3c760e6.jpg",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/4fce7df1e0a18237ec37f42187a8d76a17fa7fa6.png\",\"card_count\":1,\"num_color\":\"#8e8e8e\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/635cf01dd520b5ad6bc3f8a58a665576f4e50fd1.png\",\"card_count\":5,\"num_color\":\"#a08a5a\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/e9a5ef538c214a9736baf0d034799f5814a4b7ec.png\",\"card_count\":15,\"num_color\":\"#c35cb8\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/329132d5938227ff970465b698bce66969a2173b.png\",\"card_count\":30,\"num_color\":\"#2A65AD\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/4cee05a42b1ffc1ff34cc438306b41da6103dfea.png\",\"card_count\":60,\"num_color\":\"#dc052d\"}]",
-            "topic": null
-        }
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之礼",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "看拜仁纪录片，得收藏集",
+            "guide_content": "前往观看活动页面赢取福利抽数",
+            "jump_url": "https://www.bilibili.com/blackboard/era/KGYwm3IPF3Nec2P6.html"
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "473904412"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【王者拜仁-温布利一代】是拜仁慕尼黑足球俱乐部官方授权数字球星收藏集，带你重回十年前的温布利之夜，重温拜仁传奇队伍的王者风姿，Mia san mia！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/d0c5a556af2906819040d2ac89e900f5c3c760e6.jpg",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/d0c5a556af2906819040d2ac89e900f5c3c760e6.jpg",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/4fce7df1e0a18237ec37f42187a8d76a17fa7fa6.png\",\"card_count\":1,\"num_color\":\"#8e8e8e\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/635cf01dd520b5ad6bc3f8a58a665576f4e50fd1.png\",\"card_count\":5,\"num_color\":\"#a08a5a\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/e9a5ef538c214a9736baf0d034799f5814a4b7ec.png\",\"card_count\":15,\"num_color\":\"#c35cb8\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/329132d5938227ff970465b698bce66969a2173b.png\",\"card_count\":30,\"num_color\":\"#2A65AD\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/4cee05a42b1ffc1ff34cc438306b41da6103dfea.png\",\"card_count\":60,\"num_color\":\"#dc052d\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/596ec71f3241587c9eac54eb73298ebba9721567.jpg",
@@ -1181,5 +1173,5 @@
                 }
             ]
         }
-    }
+    ]
 }

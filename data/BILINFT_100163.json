@@ -1,151 +1,143 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "人间六月烟",
-            "cur_time": 1702647921,
-            "start_time": 1696932000,
-            "end_time": 2114406245,
-            "pre_start_time": 1696845600,
-            "pre_end_time": 1696931999,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 100164,
-                    "lottery_name": "人间六月烟",
-                    "display_time": 1696845600,
-                    "start_time": 1696932000,
-                    "end_time": 2114406245,
-                    "lottery_image": "https://i0.hdslb.com/bfs/garb/361f9aad207e1783e5e4f2b7609682e60d4b11ca.png",
-                    "draw_cnt": 0,
-                    "goods_id": 16545533161984,
-                    "price": 9900,
-                    "goods_name": "人间六月烟",
-                    "lottery_desc": "【隐藏款】小公主概率4.5%;双生鸟概率0.5%;\n【普通款】山鹿族概率9%;其余立绘均分概率86%;",
-                    "item_total_cnt": 12,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 2467,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "人间六月烟",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热售卖中，快来开卡吧！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/e2e610fb59bfcc0a51db8b2801c9e193ab2aa71b.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "人间六月烟",
+        "cur_time": 1702647921,
+        "start_time": 1696932000,
+        "end_time": 2114406245,
+        "pre_start_time": 1696845600,
+        "pre_end_time": 1696931999,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 100164,
+                "lottery_name": "人间六月烟",
+                "display_time": 1696845600,
+                "start_time": 1696932000,
+                "end_time": 2114406245,
+                "lottery_image": "https://i0.hdslb.com/bfs/garb/361f9aad207e1783e5e4f2b7609682e60d4b11ca.png",
+                "draw_cnt": 0,
+                "goods_id": 16545533161984,
+                "price": 9900,
+                "goods_name": "人间六月烟",
+                "lottery_desc": "【隐藏款】小公主概率4.5%;双生鸟概率0.5%;\n【普通款】山鹿族概率9%;其余立绘均分概率86%;",
+                "item_total_cnt": 12,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 2467,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "人间六月烟",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/e2e610fb59bfcc0a51db8b2801c9e193ab2aa71b.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 409,
-            "total_buy_cnt": 2467,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 100166,
-                    "start_time": 1696845600,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意2张立绘即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "1695906348001",
-                    "redeem_item_name": "六月烟小鼠表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/d11b7e1c6d3303e44645ac2df2f38ab28adde714.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 409,
+        "total_buy_cnt": 2467,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 100166,
+                "start_time": 1696845600,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意2张立绘即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 2,
+                "redeem_item_id": "1695906348001",
+                "redeem_item_name": "六月烟小鼠表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/d11b7e1c6d3303e44645ac2df2f38ab28adde714.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 100165,
-                    "start_time": 1696845600,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽到任意1张隐藏卡即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "1695906404001",
-                    "redeem_item_name": "六月烟小鼠头像挂件",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/826099d712c67307ca5463b56c0fc184fb04e8b0.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "任务奖励",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "253026258"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【人间六月烟】以人子Rz创作的幻想世界观下的冒险少女为主题，包含了可爱明媚风格的精美插画，解锁种族少女，踏入绮丽异世界。",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/open/e4bed6245f48870d4e28936ff1b6faf22d07de3e.png@1126w_1126h",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/open/e4bed6245f48870d4e28936ff1b6faf22d07de3e.png@1126w_1126h",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/31d4c8f98eb56002f8c77326e0c308d7b476287b.png\",\"card_count\":1,\"num_color\":\"#DFB78F\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/d97361a8c5cd7c1b530ef28f117ece3fbb7312a3.png\",\"card_count\":5,\"num_color\":\"#56AFF3\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/e7725eff0040b8d67b9ba9aa421ec03705c2fcc8.png\",\"card_count\":15,\"num_color\":\"#F8CD6A\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/5ae2f13898dc6173b4b9788b8af0683e2f4f8a29.png\",\"card_count\":30,\"num_color\":\"#FB81C4\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/60f91af2152ea0ef4b6f1602b598b8a9b3d8513a.png\",\"card_count\":60,\"num_color\":\"#BA66EA\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 100165,
+                "start_time": 1696845600,
+                "end_time": 2114406245,
+                "redeem_text": "抽到任意1张隐藏卡即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 3,
+                "redeem_item_id": "1695906404001",
+                "redeem_item_name": "六月烟小鼠头像挂件",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/826099d712c67307ca5463b56c0fc184fb04e8b0.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "任务奖励",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "253026258"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【人间六月烟】以人子Rz创作的幻想世界观下的冒险少女为主题，包含了可爱明媚风格的精美插画，解锁种族少女，踏入绮丽异世界。",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/open/e4bed6245f48870d4e28936ff1b6faf22d07de3e.png@1126w_1126h",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/open/e4bed6245f48870d4e28936ff1b6faf22d07de3e.png@1126w_1126h",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/31d4c8f98eb56002f8c77326e0c308d7b476287b.png\",\"card_count\":1,\"num_color\":\"#DFB78F\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/d97361a8c5cd7c1b530ef28f117ece3fbb7312a3.png\",\"card_count\":5,\"num_color\":\"#56AFF3\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/e7725eff0040b8d67b9ba9aa421ec03705c2fcc8.png\",\"card_count\":15,\"num_color\":\"#F8CD6A\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/5ae2f13898dc6173b4b9788b8af0683e2f4f8a29.png\",\"card_count\":30,\"num_color\":\"#FB81C4\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/60f91af2152ea0ef4b6f1602b598b8a9b3d8513a.png\",\"card_count\":60,\"num_color\":\"#BA66EA\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/e2e610fb59bfcc0a51db8b2801c9e193ab2aa71b.png",
@@ -518,5 +510,5 @@
                 }
             ]
         }
-    }
+    ]
 }

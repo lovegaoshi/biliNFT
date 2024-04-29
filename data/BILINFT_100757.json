@@ -1,176 +1,168 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "可洛Cro收藏集",
-            "cur_time": 1704070683,
-            "start_time": 1703851200,
-            "end_time": 2114406245,
-            "pre_start_time": 1703764800,
-            "pre_end_time": 1703851199,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 100758,
-                    "lottery_name": "和鳄鱼娘有个约会",
-                    "display_time": 1703764800,
-                    "start_time": 1703851200,
-                    "end_time": 2114406245,
-                    "lottery_image": "https://i0.hdslb.com/bfs/garb/cf188a60099b889d4230b84fd90a1e8635ba4768.png",
-                    "draw_cnt": 0,
-                    "goods_id": 31056021457408,
-                    "price": 9900,
-                    "goods_name": "和鳄鱼娘有个约会",
-                    "lottery_desc": "【隐藏款】蛋包饭的契约概率4.5%;怦然心动概率0.5%;\n【普通款】热情盛夏概率9%;其余立绘均分概率86%;",
-                    "item_total_cnt": 8,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 7237,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "和鳄鱼娘有个约会",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热售卖中，快来开卡吧！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/06d3e88e38f55c48d570a06b1aa4cd4a30865c0a.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "可洛Cro收藏集",
+        "cur_time": 1704070683,
+        "start_time": 1703851200,
+        "end_time": 2114406245,
+        "pre_start_time": 1703764800,
+        "pre_end_time": 1703851199,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 100758,
+                "lottery_name": "和鳄鱼娘有个约会",
+                "display_time": 1703764800,
+                "start_time": 1703851200,
+                "end_time": 2114406245,
+                "lottery_image": "https://i0.hdslb.com/bfs/garb/cf188a60099b889d4230b84fd90a1e8635ba4768.png",
+                "draw_cnt": 0,
+                "goods_id": 31056021457408,
+                "price": 9900,
+                "goods_name": "和鳄鱼娘有个约会",
+                "lottery_desc": "【隐藏款】蛋包饭的契约概率4.5%;怦然心动概率0.5%;\n【普通款】热情盛夏概率9%;其余立绘均分概率86%;",
+                "item_total_cnt": 8,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 7237,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "和鳄鱼娘有个约会",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/06d3e88e38f55c48d570a06b1aa4cd4a30865c0a.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 381,
-            "total_buy_cnt": 7237,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 100762,
-                    "start_time": 1703764800,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成5抽即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "1702542992001&1702532733001&1702543145001&1702532958001",
-                    "redeem_item_name": "可洛Cro收藏集-个性主题",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/9cf89f9b992a50fbbfe11e5826409d99e14870e6.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 381,
+        "total_buy_cnt": 7237,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 100762,
+                "start_time": 1703764800,
+                "end_time": 2114406245,
+                "redeem_text": "完成5抽即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 5,
+                "redeem_item_id": "1702542992001&1702532733001&1702543145001&1702532958001",
+                "redeem_item_name": "可洛Cro收藏集-个性主题",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/9cf89f9b992a50fbbfe11e5826409d99e14870e6.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 5,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 100761,
-                    "start_time": 1703764800,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成2抽即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "1702533113001",
-                    "redeem_item_name": "可洛Cro收藏集-表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/eb13a4721ae1aafe0e80bce349be18e1f8245bf8.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 100760,
-                    "start_time": 1703764800,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽到任意1张隐藏款立绘即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "1702533017001",
-                    "redeem_item_name": "可洛Cro收藏集-头像挂件",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/9261fcefd336cdd2171b9704837b65a6cc083ba1.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "任务奖励",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "3494361880856991"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "产品亮点\n【可洛Cro收藏集】是哔哩哔哩携可洛Cro定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，超多场景解锁！一起来发现可洛Cro的另一面吧！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/open/55c9c1b3879462b4ef2b0b4c7eacc3382653bb7e.png@0-0-1126-1126a",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/open/55c9c1b3879462b4ef2b0b4c7eacc3382653bb7e.png@0-0-1126-1126a",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/0456b84143939cbc169f62df86e45851049d7b69.png\",\"card_count\":1,\"num_color\":\"#E4B8B8\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/fa5af05fedcebe2b1660f3d1589bed40f43fd801.png\",\"card_count\":5,\"num_color\":\"#00C3FF\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/b815e268d65318e88e386da3558a1c0b93923a22.png\",\"card_count\":15,\"num_color\":\"#E4BF4F\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/9a5086aedac92374f2e026ec60eae83c9341af77.png\",\"card_count\":30,\"num_color\":\"#CC00FF\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/48e5e5512c3ef2733941283658f3bf7f5e936d4b.png\",\"card_count\":60,\"num_color\":\"#465EE7\"}]",
-            "topic": null,
-            "physical_exchange": false
-        }
+            {
+                "collect_id": 100761,
+                "start_time": 1703764800,
+                "end_time": 2114406245,
+                "redeem_text": "完成2抽即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 2,
+                "redeem_item_id": "1702533113001",
+                "redeem_item_name": "可洛Cro收藏集-表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/eb13a4721ae1aafe0e80bce349be18e1f8245bf8.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 100760,
+                "start_time": 1703764800,
+                "end_time": 2114406245,
+                "redeem_text": "抽到任意1张隐藏款立绘即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 3,
+                "redeem_item_id": "1702533017001",
+                "redeem_item_name": "可洛Cro收藏集-头像挂件",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/9261fcefd336cdd2171b9704837b65a6cc083ba1.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "任务奖励",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "3494361880856991"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "产品亮点\n【可洛Cro收藏集】是哔哩哔哩携可洛Cro定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，超多场景解锁！一起来发现可洛Cro的另一面吧！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/open/55c9c1b3879462b4ef2b0b4c7eacc3382653bb7e.png@0-0-1126-1126a",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/open/55c9c1b3879462b4ef2b0b4c7eacc3382653bb7e.png@0-0-1126-1126a",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/0456b84143939cbc169f62df86e45851049d7b69.png\",\"card_count\":1,\"num_color\":\"#E4B8B8\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/fa5af05fedcebe2b1660f3d1589bed40f43fd801.png\",\"card_count\":5,\"num_color\":\"#00C3FF\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/b815e268d65318e88e386da3558a1c0b93923a22.png\",\"card_count\":15,\"num_color\":\"#E4BF4F\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/9a5086aedac92374f2e026ec60eae83c9341af77.png\",\"card_count\":30,\"num_color\":\"#CC00FF\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/48e5e5512c3ef2733941283658f3bf7f5e936d4b.png\",\"card_count\":60,\"num_color\":\"#465EE7\"}]",
+        "topic": null,
+        "physical_exchange": false
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/06d3e88e38f55c48d570a06b1aa4cd4a30865c0a.png",
@@ -435,5 +427,5 @@
                 }
             ]
         }
-    }
+    ]
 }

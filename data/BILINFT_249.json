@@ -1,179 +1,171 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "Twinkle.Star收藏集",
-            "cur_time": 1702647818,
-            "start_time": 1700391600,
-            "end_time": 2114406245,
-            "pre_start_time": 1700305200,
-            "pre_end_time": 1700391599,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 202,
-                    "lottery_name": "良月清池",
-                    "display_time": 1700305200,
-                    "start_time": 1700391600,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/2dc05ffcdfa873fe230108a0d8bbc774e6dab593.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 23791786814976,
-                    "price": 9900,
-                    "goods_name": "良月清池",
-                    "lottery_desc": "【Twinkle.Star收藏集——良月清池】共包含26张精美立绘：\n* 隐藏款：良月清池、露娜·清池小酌、露米·清池小憩，共3张，概率0.5%；dodo·清池戏水、永恒娘·清池觅果、古堡龙姬·清池观月，共3张，概率4.5%\n* 普通款：甜小米、奶小黄、唐小娜、狂小do、潮小妮，共5张，概率9%；其余15张，概率86%",
-                    "item_total_cnt": 26,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 42482,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "Twinkle.Star收藏集——良月清池开售",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "要和Twinkle.Star一起去泡温泉嘛？"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/215765f400f08565c90dce91becc0db617a9d34e.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "Twinkle.Star收藏集",
+        "cur_time": 1702647818,
+        "start_time": 1700391600,
+        "end_time": 2114406245,
+        "pre_start_time": 1700305200,
+        "pre_end_time": 1700391599,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 202,
+                "lottery_name": "良月清池",
+                "display_time": 1700305200,
+                "start_time": 1700391600,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/2dc05ffcdfa873fe230108a0d8bbc774e6dab593.jpg",
+                "draw_cnt": 0,
+                "goods_id": 23791786814976,
+                "price": 9900,
+                "goods_name": "良月清池",
+                "lottery_desc": "【Twinkle.Star收藏集——良月清池】共包含26张精美立绘：\n* 隐藏款：良月清池、露娜·清池小酌、露米·清池小憩，共3张，概率0.5%；dodo·清池戏水、永恒娘·清池觅果、古堡龙姬·清池观月，共3张，概率4.5%\n* 普通款：甜小米、奶小黄、唐小娜、狂小do、潮小妮，共5张，概率9%；其余15张，概率86%",
+                "item_total_cnt": 26,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 42482,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "Twinkle.Star收藏集——良月清池开售",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "要和Twinkle.Star一起去泡温泉嘛？"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/215765f400f08565c90dce91becc0db617a9d34e.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 1092,
-            "total_buy_cnt": 42482,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 562,
-                    "start_time": 1700305200,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成2抽，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "63496",
-                    "redeem_item_name": "Twinkle.Star表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/8538e7944a41ccf3bb1cbafa0f31a8cf5bcc6d1f.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 1092,
+        "total_buy_cnt": 42482,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 562,
+                "start_time": 1700305200,
+                "end_time": 2114406245,
+                "redeem_text": "完成2抽，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "63496",
+                "redeem_item_name": "Twinkle.Star表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/8538e7944a41ccf3bb1cbafa0f31a8cf5bcc6d1f.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 566,
-                    "start_time": 1700305200,
-                    "end_time": 2114406245,
-                    "redeem_text": "任意4抽，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "63517&63519&63523&63518",
-                    "redeem_item_name": "Twinkle.Star个性主题&点赞&加载&进度条",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/0b5b62bebad68e2e884c63365da0be86d963b620.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 4,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 563,
-                    "start_time": 1700305200,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "63369",
-                    "redeem_item_name": "Twinkle.Star头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/2357d58ca061d0cc1f20e4983d7946c4e262f64c.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之礼",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "2000609327",
-                "1908273021",
-                "1377212676",
-                "1855519979",
-                "686201061"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【良月清池】是完美五姐妹古堡龙姬、永恒娘、dodo、露米、露娜携手定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，五位姐妹都准备了温泉旅行时的绝美画面，期待大家一起享受冬日的温馨时光！\n古堡龙姬是来自完美世界电竞旗下的CSGO虚拟偶像，是古堡的大公主。\n永恒娘同样是来自完美世界电竞旗下的CSGO虚拟偶像，是来自摆欧海的水精灵。\nDodo是来自完美世界电竞旗下的DOTA2虚拟偶像，梦想是夺得TI冠军。\n露米是来自完美世界电竞旗下的虚拟歌姬，本体由星云幻化而成，想把自己的歌声传递给世界。\n露娜同样是来自完美世界电竞旗下的虚拟歌姬，喜欢安静闲暇的时光。",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/ac98513645b1dabe8f81a106889c34c764b2f8ca.png",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/ac98513645b1dabe8f81a106889c34c764b2f8ca.png",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/735a8e2a994aa31ab4e6a4deb51bfd9f4c1a7967.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/750b2bc1a58928af37f29cbb168de676f1233a97.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/43bb3bcc4f09ab6babe960922df31903838a0870.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/c709745c728e76316783f07ca25755010daeb262.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/fbc225341dcd83e5b83145b6a0788738c478016b.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 566,
+                "start_time": 1700305200,
+                "end_time": 2114406245,
+                "redeem_text": "任意4抽，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "63517&63519&63523&63518",
+                "redeem_item_name": "Twinkle.Star个性主题&点赞&加载&进度条",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/0b5b62bebad68e2e884c63365da0be86d963b620.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 4,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 563,
+                "start_time": 1700305200,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "63369",
+                "redeem_item_name": "Twinkle.Star头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/2357d58ca061d0cc1f20e4983d7946c4e262f64c.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之礼",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "2000609327",
+            "1908273021",
+            "1377212676",
+            "1855519979",
+            "686201061"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【良月清池】是完美五姐妹古堡龙姬、永恒娘、dodo、露米、露娜携手定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，五位姐妹都准备了温泉旅行时的绝美画面，期待大家一起享受冬日的温馨时光！\n古堡龙姬是来自完美世界电竞旗下的CSGO虚拟偶像，是古堡的大公主。\n永恒娘同样是来自完美世界电竞旗下的CSGO虚拟偶像，是来自摆欧海的水精灵。\nDodo是来自完美世界电竞旗下的DOTA2虚拟偶像，梦想是夺得TI冠军。\n露米是来自完美世界电竞旗下的虚拟歌姬，本体由星云幻化而成，想把自己的歌声传递给世界。\n露娜同样是来自完美世界电竞旗下的虚拟歌姬，喜欢安静闲暇的时光。",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/ac98513645b1dabe8f81a106889c34c764b2f8ca.png",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/ac98513645b1dabe8f81a106889c34c764b2f8ca.png",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/735a8e2a994aa31ab4e6a4deb51bfd9f4c1a7967.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/750b2bc1a58928af37f29cbb168de676f1233a97.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/43bb3bcc4f09ab6babe960922df31903838a0870.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/c709745c728e76316783f07ca25755010daeb262.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/fbc225341dcd83e5b83145b6a0788738c478016b.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/215765f400f08565c90dce91becc0db617a9d34e.jpg",
@@ -1024,5 +1016,5 @@
                 }
             ]
         }
-    }
+    ]
 }

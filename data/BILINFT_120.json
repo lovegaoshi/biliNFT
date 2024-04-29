@@ -1,113 +1,105 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "保卫萝卜收藏集",
-            "cur_time": 1688823850,
-            "start_time": 1687240800,
-            "end_time": 1690819199,
-            "pre_start_time": 1687154400,
-            "pre_end_time": 1687240799,
-            "is_booked": 0,
-            "act_desc": "https://i0.hdslb.com/bfs/garb/a9d937965bf7b1d8d7ea72a5ae69e42c824a0988.png",
-            "lottery_list": [
-                {
-                    "lottery_id": 22,
-                    "lottery_name": "保卫萝卜奖池",
-                    "display_time": 1687154400,
-                    "start_time": 1687240800,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/963e2a33cdcfa2c6e70eb65a63b4e4480d11796c.png",
-                    "draw_cnt": 0,
-                    "goods_id": 277,
-                    "price": 9900,
-                    "goods_name": "保卫萝卜奖池",
-                    "lottery_desc": "保卫萝卜奖池包含阿波与呆呆兔系列、温馨时刻系列、幸运时刻系列、特别纪念、特殊纪念一16张精美立绘，等你拥有！\n* 普通款：阿波与呆呆兔系列共10张，均分概率85%；温馨时刻系列共2张均分概率10%\n* 隐藏款：幸运时刻系列2张均分概率4.5%；特殊纪念、特别纪念2张均分概率0.5%",
-                    "item_total_cnt": 16,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 8823,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 9900
-                    },
-                    "free": 0
-                }
-            ],
-            "share_info": {
-                "main_title": "保卫萝卜收藏集",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热售卖中，快来开卡吧！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/f0a71308c839aa65066e868c80c6096ddff4bfec.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "保卫萝卜收藏集",
+        "cur_time": 1688823850,
+        "start_time": 1687240800,
+        "end_time": 1690819199,
+        "pre_start_time": 1687154400,
+        "pre_end_time": 1687240799,
+        "is_booked": 0,
+        "act_desc": "https://i0.hdslb.com/bfs/garb/a9d937965bf7b1d8d7ea72a5ae69e42c824a0988.png",
+        "lottery_list": [
+            {
+                "lottery_id": 22,
+                "lottery_name": "保卫萝卜奖池",
+                "display_time": 1687154400,
+                "start_time": 1687240800,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/963e2a33cdcfa2c6e70eb65a63b4e4480d11796c.png",
+                "draw_cnt": 0,
+                "goods_id": 277,
+                "price": 9900,
+                "goods_name": "保卫萝卜奖池",
+                "lottery_desc": "保卫萝卜奖池包含阿波与呆呆兔系列、温馨时刻系列、幸运时刻系列、特别纪念、特殊纪念一16张精美立绘，等你拥有！\n* 普通款：阿波与呆呆兔系列共10张，均分概率85%；温馨时刻系列共2张均分概率10%\n* 隐藏款：幸运时刻系列2张均分概率4.5%；特殊纪念、特别纪念2张均分概率0.5%",
+                "item_total_cnt": 16,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 8823,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 9900
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0
+            }
+        ],
+        "share_info": {
+            "main_title": "保卫萝卜收藏集",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/f0a71308c839aa65066e868c80c6096ddff4bfec.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 2881,
-            "total_buy_cnt": 8823,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 63,
-                    "start_time": 1687154400,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "54441",
-                    "redeem_item_name": "保卫萝卜头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/7cb0137c705ef5063054149d45b3bde3c184bb68.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1
-                },
-                {
-                    "collect_id": 64,
-                    "start_time": 1687154400,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "54463",
-                    "redeem_item_name": "保卫萝卜表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/3331bdcf2e5c4a1f756dcdbf52cd38fd7b4737f1.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1
-                }
-            ],
-            "display_title": "兑换福利",
-            "effective_forever": 0,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 2881,
+        "total_buy_cnt": 8823,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 63,
+                "start_time": 1687154400,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "54441",
+                "redeem_item_name": "保卫萝卜头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/7cb0137c705ef5063054149d45b3bde3c184bb68.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 1
-        }
+            {
+                "collect_id": 64,
+                "start_time": 1687154400,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "54463",
+                "redeem_item_name": "保卫萝卜表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/3331bdcf2e5c4a1f756dcdbf52cd38fd7b4737f1.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1
+            }
+        ],
+        "display_title": "兑换福利",
+        "effective_forever": 0,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 1
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/f0a71308c839aa65066e868c80c6096ddff4bfec.png",
@@ -468,5 +460,5 @@
                 }
             ]
         }
-    }
+    ]
 }

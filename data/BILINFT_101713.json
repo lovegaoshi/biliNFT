@@ -1,105 +1,97 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "富大贵收藏集",
-            "cur_time": 1714151116,
-            "start_time": 1714122000,
-            "end_time": 2114406245,
-            "pre_start_time": 1714035600,
-            "pre_end_time": 1714121999,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 101714,
-                    "lottery_name": "富大贵收藏集",
-                    "display_time": 1714035600,
-                    "start_time": 1714122000,
-                    "end_time": 2114406245,
-                    "lottery_image": "https://i0.hdslb.com/bfs/garb/1647cbcf5ed1e1662a6b622c8ddefd0791c58b10.png",
-                    "draw_cnt": 0,
-                    "goods_id": 52595450216448,
-                    "price": 9900,
-                    "goods_name": "富大贵收藏集",
-                    "lottery_desc": "【隐藏款-大隐藏】：潮风与太阳,风调雨顺均分概率0.5%,若前399抽均未获得过任意大隐藏，则第400抽必得大隐藏;\n【隐藏款-小隐藏】：湊与智乙,心斋桥均分概率4.5%;\n【普通款】：音乐节,待机时间,年关,星期日均分概率9%，其余立绘均分概率86%;",
-                    "item_total_cnt": 20,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 625,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "富大贵收藏集",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热售卖中，快来开卡吧！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/0e4afcdd807ffddbc35e5d01c3d98bca73bc4426.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "富大贵收藏集",
+        "cur_time": 1714151116,
+        "start_time": 1714122000,
+        "end_time": 2114406245,
+        "pre_start_time": 1714035600,
+        "pre_end_time": 1714121999,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 101714,
+                "lottery_name": "富大贵收藏集",
+                "display_time": 1714035600,
+                "start_time": 1714122000,
+                "end_time": 2114406245,
+                "lottery_image": "https://i0.hdslb.com/bfs/garb/1647cbcf5ed1e1662a6b622c8ddefd0791c58b10.png",
+                "draw_cnt": 0,
+                "goods_id": 52595450216448,
+                "price": 9900,
+                "goods_name": "富大贵收藏集",
+                "lottery_desc": "【隐藏款-大隐藏】：潮风与太阳,风调雨顺均分概率0.5%,若前399抽均未获得过任意大隐藏，则第400抽必得大隐藏;\n【隐藏款-小隐藏】：湊与智乙,心斋桥均分概率4.5%;\n【普通款】：音乐节,待机时间,年关,星期日均分概率9%，其余立绘均分概率86%;",
+                "item_total_cnt": 20,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 625,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "富大贵收藏集",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/0e4afcdd807ffddbc35e5d01c3d98bca73bc4426.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 137,
-            "total_buy_cnt": 625,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": null,
-            "display_title": "任务奖励",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
-            },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "475787503"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "BiliBili携手知名漫画家富大贵推出原创收藏集\n绚丽的色彩、生动的笔触\n每一幅插图都是精心绘制\n期待大家一起来解锁~",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/open/d13663881c81c202560eac9367bcbe13a639a7b7.png@0-28-1126-1126a",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/open/d13663881c81c202560eac9367bcbe13a639a7b7.png@0-28-1126-1126a",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/15c18c55b0a782f56da017048b03adf7b5b5791c.png\",\"num_color\":\"#B4AEDE\",\"card_count\":1,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/cdaf9a23933a05c7ce18389c2d80775f22d0e1cf.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/15c18c55b0a782f56da017048b03adf7b5b5791c.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/15c18c55b0a782f56da017048b03adf7b5b5791c.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/f11aae806b8d094948eb914f0ad2ed86fdc5b959.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/39c8f50af7a8fb3fe05683ae70a53353fb9bf723\"}},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/f65fbfda363e805064f8e926dc253a256238a721.png\",\"num_color\":\"#D7A194\",\"card_count\":5,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/bbf2746a8a52f82042043b31be6fd31fae08419a.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/f65fbfda363e805064f8e926dc253a256238a721.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/f65fbfda363e805064f8e926dc253a256238a721.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/91e0fff4a3bac47d1d0b70ce714d09e84982b731.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/87ae1feb1f4341013b9cf4f4195a33f96521debb\"}},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/de5f62ae4dde8486903dc74274dd3c26e6d590a8.png\",\"num_color\":\"#D5ACC6\",\"card_count\":15,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/c9a41f7e1d1f0087f70d0c4c1fc125cc42ed50d6.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/de5f62ae4dde8486903dc74274dd3c26e6d590a8.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/de5f62ae4dde8486903dc74274dd3c26e6d590a8.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/f53a408a8452be86bfa202d3cb7a1eede0285534.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/5ebc654b7cfe4951bd9b5720ce9ebf9802a5c0de\"}},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/ba638b94d7272dd6e7f525275c67575779f6bb6f.png\",\"num_color\":\"#BEC7B0\",\"card_count\":30,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/b361e95b37568f7abc5085c8cab4c8fd87b12272.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/ba638b94d7272dd6e7f525275c67575779f6bb6f.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/ba638b94d7272dd6e7f525275c67575779f6bb6f.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/428f39490a54238a41bd45cd8e5fe3f8253adf98.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/7090124f90fb9dc0956ac9ad19989b2450459112\"}},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/f67a0750f8bc20e4ce34c89833376ddc2f1fb30a.png\",\"num_color\":\"#A0B5DD\",\"card_count\":60,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/4ba7e9ae227c75910806e54ddf77543bcb2c8844.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/f67a0750f8bc20e4ce34c89833376ddc2f1fb30a.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/f67a0750f8bc20e4ce34c89833376ddc2f1fb30a.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/01ec439bb364e941f5013146ecfd147ef62caad5.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/74b0b63fa73bf5753db089cbf513e55cc8e83775\"}}]",
-            "topic": null,
-            "physical_exchange": false,
-            "act_square_img": "https://i0.hdslb.com/bfs/garb/131c894671ade5d3bf6452018d89203c67cbd873.png",
-            "tab_lottery_id": 101714
-        }
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 137,
+        "total_buy_cnt": 625,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": null,
+        "display_title": "任务奖励",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "475787503"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "BiliBili携手知名漫画家富大贵推出原创收藏集\n绚丽的色彩、生动的笔触\n每一幅插图都是精心绘制\n期待大家一起来解锁~",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/open/d13663881c81c202560eac9367bcbe13a639a7b7.png@0-28-1126-1126a",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/open/d13663881c81c202560eac9367bcbe13a639a7b7.png@0-28-1126-1126a",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/15c18c55b0a782f56da017048b03adf7b5b5791c.png\",\"num_color\":\"#B4AEDE\",\"card_count\":1,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/cdaf9a23933a05c7ce18389c2d80775f22d0e1cf.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/15c18c55b0a782f56da017048b03adf7b5b5791c.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/15c18c55b0a782f56da017048b03adf7b5b5791c.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/f11aae806b8d094948eb914f0ad2ed86fdc5b959.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/39c8f50af7a8fb3fe05683ae70a53353fb9bf723\"}},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/f65fbfda363e805064f8e926dc253a256238a721.png\",\"num_color\":\"#D7A194\",\"card_count\":5,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/bbf2746a8a52f82042043b31be6fd31fae08419a.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/f65fbfda363e805064f8e926dc253a256238a721.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/f65fbfda363e805064f8e926dc253a256238a721.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/91e0fff4a3bac47d1d0b70ce714d09e84982b731.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/87ae1feb1f4341013b9cf4f4195a33f96521debb\"}},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/de5f62ae4dde8486903dc74274dd3c26e6d590a8.png\",\"num_color\":\"#D5ACC6\",\"card_count\":15,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/c9a41f7e1d1f0087f70d0c4c1fc125cc42ed50d6.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/de5f62ae4dde8486903dc74274dd3c26e6d590a8.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/de5f62ae4dde8486903dc74274dd3c26e6d590a8.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/f53a408a8452be86bfa202d3cb7a1eede0285534.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/5ebc654b7cfe4951bd9b5720ce9ebf9802a5c0de\"}},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/ba638b94d7272dd6e7f525275c67575779f6bb6f.png\",\"num_color\":\"#BEC7B0\",\"card_count\":30,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/b361e95b37568f7abc5085c8cab4c8fd87b12272.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/ba638b94d7272dd6e7f525275c67575779f6bb6f.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/ba638b94d7272dd6e7f525275c67575779f6bb6f.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/428f39490a54238a41bd45cd8e5fe3f8253adf98.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/7090124f90fb9dc0956ac9ad19989b2450459112\"}},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/f67a0750f8bc20e4ce34c89833376ddc2f1fb30a.png\",\"num_color\":\"#A0B5DD\",\"card_count\":60,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/4ba7e9ae227c75910806e54ddf77543bcb2c8844.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/f67a0750f8bc20e4ce34c89833376ddc2f1fb30a.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/f67a0750f8bc20e4ce34c89833376ddc2f1fb30a.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/01ec439bb364e941f5013146ecfd147ef62caad5.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/74b0b63fa73bf5753db089cbf513e55cc8e83775\"}}]",
+        "topic": null,
+        "physical_exchange": false,
+        "act_square_img": "https://i0.hdslb.com/bfs/garb/131c894671ade5d3bf6452018d89203c67cbd873.png",
+        "tab_lottery_id": 101714
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/0e4afcdd807ffddbc35e5d01c3d98bca73bc4426.png",
@@ -704,5 +696,5 @@
                 }
             ]
         }
-    }
+    ]
 }

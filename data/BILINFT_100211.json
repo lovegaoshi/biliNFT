@@ -1,226 +1,218 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "psplive山珍",
-            "cur_time": 1702647876,
-            "start_time": 1698145200,
-            "end_time": 2114406245,
-            "pre_start_time": 1698058800,
-            "pre_end_time": 1698145199,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 100213,
-                    "lottery_name": "psplive山珍",
-                    "display_time": 1698058800,
-                    "start_time": 1698145200,
-                    "end_time": 2114406245,
-                    "lottery_image": "https://i0.hdslb.com/bfs/garb/bc5b9088c8e1416af095ed8272b7df9c7c468fdc.png",
-                    "draw_cnt": 0,
-                    "goods_id": 19089795870208,
-                    "price": 9900,
-                    "goods_name": "psplive山珍",
-                    "lottery_desc": "【隐藏款】水中嬉戏 东爱璃,水中嬉戏 笙歌,水中嬉戏 星汐均分概率4.5%;与你同行 东爱璃,与你同行 笙歌,与你同行 星汐均分概率0.5%;【普通款】舞台风采 东爱璃,舞台风采 笙歌,舞台风采 星汐均分概率9%;其余立绘均分概率86%;",
-                    "item_total_cnt": 24,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 41969,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "psplive山珍",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热售卖中，快来开卡吧！"
+        "act_title": "psplive山珍",
+        "cur_time": 1702647876,
+        "start_time": 1698145200,
+        "end_time": 2114406245,
+        "pre_start_time": 1698058800,
+        "pre_end_time": 1698145199,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 100213,
+                "lottery_name": "psplive山珍",
+                "display_time": 1698058800,
+                "start_time": 1698145200,
+                "end_time": 2114406245,
+                "lottery_image": "https://i0.hdslb.com/bfs/garb/bc5b9088c8e1416af095ed8272b7df9c7c468fdc.png",
+                "draw_cnt": 0,
+                "goods_id": 19089795870208,
+                "price": 9900,
+                "goods_name": "psplive山珍",
+                "lottery_desc": "【隐藏款】水中嬉戏 东爱璃,水中嬉戏 笙歌,水中嬉戏 星汐均分概率4.5%;与你同行 东爱璃,与你同行 笙歌,与你同行 星汐均分概率0.5%;【普通款】舞台风采 东爱璃,舞台风采 笙歌,舞台风采 星汐均分概率9%;其余立绘均分概率86%;",
+                "item_total_cnt": 24,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 41969,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
+                },
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "psplive山珍",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/b23f618193da9c345fb676b10762b9646b7a05a9.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/b23f618193da9c345fb676b10762b9646b7a05a9.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 1585,
+        "total_buy_cnt": 41969,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 100220,
+                "start_time": 1698058800,
+                "end_time": 2114406245,
+                "redeem_text": "完成2抽即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 5,
+                "redeem_item_id": "1697192578001",
+                "redeem_item_name": "psplive山珍加载动画",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/48e729c21663fc91114f79eef1de6de42c114e58.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "total_book_cnt": 1585,
-            "total_buy_cnt": 41969,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 100220,
-                    "start_time": 1698058800,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成2抽即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "1697192578001",
-                    "redeem_item_name": "psplive山珍加载动画",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/48e729c21663fc91114f79eef1de6de42c114e58.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            {
+                "collect_id": 100219,
+                "start_time": 1698058800,
+                "end_time": 2114406245,
+                "redeem_text": "完成2抽即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 5,
+                "redeem_item_id": "1697192596001",
+                "redeem_item_name": "psplive山珍动态点赞",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/249bfcfd7072485ec5daf6b5260ccce28d3e83d0.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 100219,
-                    "start_time": 1698058800,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成2抽即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "1697192596001",
-                    "redeem_item_name": "psplive山珍动态点赞",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/249bfcfd7072485ec5daf6b5260ccce28d3e83d0.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 100218,
-                    "start_time": 1698058800,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成2抽即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "1697192542001",
-                    "redeem_item_name": "psplive山珍进度条",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/8fd9c14ae6420848fe6668efb507c54d1427811f.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 100217,
-                    "start_time": 1698058800,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意2张立绘即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "1697451320001",
-                    "redeem_item_name": "psplive山珍表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/6d779e609cce9a9f0b4bc14d8277d54a182a88a0.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 100216,
-                    "start_time": 1698058800,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽到任意1张隐藏卡即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "1697192738001",
-                    "redeem_item_name": "psplive山珍头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/a049aae3e50bcf9bb7a0ac4dba9986ef2999acf2.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "任务奖励",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 1,
-            "related_mids": [
-                "3821157",
-                "15641218",
-                "51030552",
-                "454673997"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 0,
-            "product_introduce": "【psplive山珍集】是哔哩哔哩携手虚拟艺人团体psplive定制打造的个人数字集卡第一弹，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁psplive成员们的绝美画面！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/open/bc7e7f82f866b92a0e94e4c253d445fe015a1ad3.png@1126w_1126h",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/open/bc7e7f82f866b92a0e94e4c253d445fe015a1ad3.png@1126w_1126h",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/4399a16cff3c92a71f87d9c8bd8c62f894a8cc8d.png\",\"card_count\":1,\"num_color\":\"#E3697A\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/2198bbb878d038fe14f7e6ebca4d8abdaa075cd7.png\",\"card_count\":5,\"num_color\":\"#E3697A\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/210a1e4377e03724edc4445512b7d7d5379f1d48.png\",\"card_count\":15,\"num_color\":\"#E3697A\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/65fe8f873cda26cf61607bb7a48b4481a6a8dace.png\",\"card_count\":30,\"num_color\":\"#E3697A\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/3c520a08532d583ee3fd9338a53e23fc0f5c1fc4.png\",\"card_count\":60,\"num_color\":\"#E3697A\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 100218,
+                "start_time": 1698058800,
+                "end_time": 2114406245,
+                "redeem_text": "完成2抽即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 5,
+                "redeem_item_id": "1697192542001",
+                "redeem_item_name": "psplive山珍进度条",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/8fd9c14ae6420848fe6668efb507c54d1427811f.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 100217,
+                "start_time": 1698058800,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意2张立绘即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 2,
+                "redeem_item_id": "1697451320001",
+                "redeem_item_name": "psplive山珍表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/6d779e609cce9a9f0b4bc14d8277d54a182a88a0.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 100216,
+                "start_time": 1698058800,
+                "end_time": 2114406245,
+                "redeem_text": "抽到任意1张隐藏卡即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 3,
+                "redeem_item_id": "1697192738001",
+                "redeem_item_name": "psplive山珍头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/a049aae3e50bcf9bb7a0ac4dba9986ef2999acf2.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "任务奖励",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 1,
+        "related_mids": [
+            "3821157",
+            "15641218",
+            "51030552",
+            "454673997"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 0,
+        "product_introduce": "【psplive山珍集】是哔哩哔哩携手虚拟艺人团体psplive定制打造的个人数字集卡第一弹，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁psplive成员们的绝美画面！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/open/bc7e7f82f866b92a0e94e4c253d445fe015a1ad3.png@1126w_1126h",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/open/bc7e7f82f866b92a0e94e4c253d445fe015a1ad3.png@1126w_1126h",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/4399a16cff3c92a71f87d9c8bd8c62f894a8cc8d.png\",\"card_count\":1,\"num_color\":\"#E3697A\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/2198bbb878d038fe14f7e6ebca4d8abdaa075cd7.png\",\"card_count\":5,\"num_color\":\"#E3697A\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/210a1e4377e03724edc4445512b7d7d5379f1d48.png\",\"card_count\":15,\"num_color\":\"#E3697A\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/65fe8f873cda26cf61607bb7a48b4481a6a8dace.png\",\"card_count\":30,\"num_color\":\"#E3697A\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/3c520a08532d583ee3fd9338a53e23fc0f5c1fc4.png\",\"card_count\":60,\"num_color\":\"#E3697A\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/b23f618193da9c345fb676b10762b9646b7a05a9.png",
@@ -1021,5 +1013,5 @@
                 }
             ]
         }
-    }
+    ]
 }

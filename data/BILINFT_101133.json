@@ -1,448 +1,440 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "LALIGA龙年特典",
-            "cur_time": 1707698174,
-            "start_time": 1707278400,
-            "end_time": 1719763199,
-            "pre_start_time": 1707192000,
-            "pre_end_time": 1707278399,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 101134,
-                    "lottery_name": "LALIGA群龙出击",
-                    "display_time": 1707192000,
-                    "start_time": 1707278400,
-                    "end_time": 1719763199,
-                    "lottery_image": "https://i0.hdslb.com/bfs/garb/dffe7b1a69e1e2f8af3f12ee7f8dd812dff7d8b5.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 38293712438272,
-                    "price": 9900,
-                    "goods_name": "LALIGA群龙出击",
-                    "lottery_desc": "【隐藏款-大隐藏】：国家德比S1 S23-24,国家德比S2 S23-24,西甲联盟群龙出击 S23-24均分概率0.5%,若前399抽均未获得过任意大隐藏，则第400抽必得大隐藏;\n【隐藏款-小隐藏】：国家德比A1 S23-24,国家德比A2 S23-24,西甲联盟群星 S23-24均分概率4.5%;\n",
-                    "item_total_cnt": 26,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 754,
-                    "lottery_type": 1,
-                    "effective_forever": 0,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+        "act_title": "LALIGA龙年特典",
+        "cur_time": 1707698174,
+        "start_time": 1707278400,
+        "end_time": 1719763199,
+        "pre_start_time": 1707192000,
+        "pre_end_time": 1707278399,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 101134,
+                "lottery_name": "LALIGA群龙出击",
+                "display_time": 1707192000,
+                "start_time": 1707278400,
+                "end_time": 1719763199,
+                "lottery_image": "https://i0.hdslb.com/bfs/garb/dffe7b1a69e1e2f8af3f12ee7f8dd812dff7d8b5.jpg",
+                "draw_cnt": 0,
+                "goods_id": 38293712438272,
+                "price": 9900,
+                "goods_name": "LALIGA群龙出击",
+                "lottery_desc": "【隐藏款-大隐藏】：国家德比S1 S23-24,国家德比S2 S23-24,西甲联盟群龙出击 S23-24均分概率0.5%,若前399抽均未获得过任意大隐藏，则第400抽必得大隐藏;\n【隐藏款-小隐藏】：国家德比A1 S23-24,国家德比A2 S23-24,西甲联盟群星 S23-24均分概率4.5%;\n",
+                "item_total_cnt": 26,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 754,
+                "lottery_type": 1,
+                "effective_forever": 0,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
+                },
+                "free": 0,
+                "sale_mode": 2
+            }
+        ],
+        "share_info": {
+            "main_title": "LALIGA龙年特典",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/4961b760cb97b0a7bdfa03b898f0d127a96775c3.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            },
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 196,
+        "total_buy_cnt": 754,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 101141,
+                "start_time": 1707217200,
+                "end_time": 1719763199,
+                "redeem_text": "LALIGA群龙出击 完成25抽即可领取",
+                "redeem_item_type": 1,
+                "redeem_item_id": "1707214541002",
+                "redeem_item_name": "国家德比",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/5bd5054d9749d850b2bc8dae3aa6d97b90fa6b27.jpg",
+                "owned_item_amount": 0,
+                "require_item_amount": 25,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": {
+                        "id": 1707214541002,
+                        "name": "国家德比",
+                        "overview_image": "https://i0.hdslb.com/bfs/garb/item/5bd5054d9749d850b2bc8dae3aa6d97b90fa6b27.jpg",
+                        "content": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/garb/item/5bd5054d9749d850b2bc8dae3aa6d97b90fa6b27.jpg",
+                                "gyroscope": null,
+                                "location": ""
+                            },
+                            "animation": null
+                        },
+                        "material_type": 1,
+                        "theme": "open",
+                        "scarcity": 0,
+                        "layout": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "face_overflow": null,
+                        "material_sub_type": 0,
+                        "overview_image_watermarks": [
+                            {
+                                "scene": 1,
+                                "watermark_image": "https://i0.hdslb.com/bfs/garb/watermark/bcb6d1b403e5149f637645cf277b9cd8e17159db.png"
+                            }
+                        ],
+                        "watermark_animations": null,
+                        "space_background": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/garb/item/5bd5054d9749d850b2bc8dae3aa6d97b90fa6b27.jpg",
+                                "gyroscope": null,
+                                "location": "0-0-1242-1242"
+                            },
+                            "animation": null
                         }
                     },
-                    "free": 0,
-                    "sale_mode": 2
-                }
-            ],
-            "share_info": {
-                "main_title": "LALIGA龙年特典",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热售卖中，快来开卡吧！"
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/4961b760cb97b0a7bdfa03b898f0d127a96775c3.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            {
+                "collect_id": 101140,
+                "start_time": 1707217200,
+                "end_time": 1719763199,
+                "redeem_text": "LALIGA群龙出击 完成20抽即可领取",
+                "redeem_item_type": 1,
+                "redeem_item_id": "1707214517002",
+                "redeem_item_name": "马德里德比",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/f985917a998b18d3b3cab915992f44fe819ad4df.jpg",
+                "owned_item_amount": 0,
+                "require_item_amount": 20,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": {
+                        "id": 1707214517002,
+                        "name": "马德里德比",
+                        "overview_image": "https://i0.hdslb.com/bfs/garb/open/f985917a998b18d3b3cab915992f44fe819ad4df.jpg",
+                        "content": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/garb/open/f985917a998b18d3b3cab915992f44fe819ad4df.jpg",
+                                "gyroscope": null,
+                                "location": ""
+                            },
+                            "animation": null
+                        },
+                        "material_type": 1,
+                        "theme": "open",
+                        "scarcity": 0,
+                        "layout": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "face_overflow": null,
+                        "material_sub_type": 0,
+                        "overview_image_watermarks": [
+                            {
+                                "scene": 1,
+                                "watermark_image": "https://i0.hdslb.com/bfs/garb/watermark/4fc72ec77fc384e9d8d885b56358a6d1f06fecb3.png"
+                            }
+                        ],
+                        "watermark_animations": null,
+                        "space_background": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/garb/open/f985917a998b18d3b3cab915992f44fe819ad4df.jpg",
+                                "gyroscope": null,
+                                "location": "0-0-1242-1242"
+                            },
+                            "animation": null
+                        }
+                    },
+                    "play": null,
+                    "tag": null
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "total_book_cnt": 196,
-            "total_buy_cnt": 754,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 101141,
-                    "start_time": 1707217200,
-                    "end_time": 1719763199,
-                    "redeem_text": "LALIGA群龙出击 完成25抽即可领取",
-                    "redeem_item_type": 1,
-                    "redeem_item_id": "1707214541002",
-                    "redeem_item_name": "国家德比",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/5bd5054d9749d850b2bc8dae3aa6d97b90fa6b27.jpg",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 25,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": {
-                            "id": 1707214541002,
-                            "name": "国家德比",
-                            "overview_image": "https://i0.hdslb.com/bfs/garb/item/5bd5054d9749d850b2bc8dae3aa6d97b90fa6b27.jpg",
-                            "content": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/garb/item/5bd5054d9749d850b2bc8dae3aa6d97b90fa6b27.jpg",
-                                    "gyroscope": null,
-                                    "location": ""
-                                },
-                                "animation": null
+            {
+                "collect_id": 101139,
+                "start_time": 1707217200,
+                "end_time": 1719763199,
+                "redeem_text": "LALIGA群龙出击 完成15抽即可领取",
+                "redeem_item_type": 1,
+                "redeem_item_id": "1707214373002",
+                "redeem_item_name": "巴斯克德比",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/4e2b7dccfc3c36b3a922d8fa4d84a12f8ca3b0da.jpg",
+                "owned_item_amount": 0,
+                "require_item_amount": 15,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": {
+                        "id": 1707214373002,
+                        "name": "巴斯克德比",
+                        "overview_image": "https://i0.hdslb.com/bfs/garb/item/4e2b7dccfc3c36b3a922d8fa4d84a12f8ca3b0da.jpg",
+                        "content": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/garb/item/4e2b7dccfc3c36b3a922d8fa4d84a12f8ca3b0da.jpg",
+                                "gyroscope": null,
+                                "location": ""
                             },
-                            "material_type": 1,
-                            "theme": "open",
-                            "scarcity": 0,
-                            "layout": 0,
-                            "width": 1242,
-                            "height": 1863,
-                            "face_overflow": null,
-                            "material_sub_type": 0,
-                            "overview_image_watermarks": [
-                                {
-                                    "scene": 1,
-                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/watermark/bcb6d1b403e5149f637645cf277b9cd8e17159db.png"
-                                }
-                            ],
-                            "watermark_animations": null,
-                            "space_background": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/garb/item/5bd5054d9749d850b2bc8dae3aa6d97b90fa6b27.jpg",
-                                    "gyroscope": null,
-                                    "location": "0-0-1242-1242"
-                                },
-                                "animation": null
-                            }
+                            "animation": null
                         },
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 101140,
-                    "start_time": 1707217200,
-                    "end_time": 1719763199,
-                    "redeem_text": "LALIGA群龙出击 完成20抽即可领取",
-                    "redeem_item_type": 1,
-                    "redeem_item_id": "1707214517002",
-                    "redeem_item_name": "马德里德比",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/f985917a998b18d3b3cab915992f44fe819ad4df.jpg",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 20,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": {
-                            "id": 1707214517002,
-                            "name": "马德里德比",
-                            "overview_image": "https://i0.hdslb.com/bfs/garb/open/f985917a998b18d3b3cab915992f44fe819ad4df.jpg",
-                            "content": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/garb/open/f985917a998b18d3b3cab915992f44fe819ad4df.jpg",
-                                    "gyroscope": null,
-                                    "location": ""
-                                },
-                                "animation": null
+                        "material_type": 1,
+                        "theme": "open",
+                        "scarcity": 0,
+                        "layout": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "face_overflow": null,
+                        "material_sub_type": 0,
+                        "overview_image_watermarks": [
+                            {
+                                "scene": 1,
+                                "watermark_image": "https://i0.hdslb.com/bfs/garb/watermark/d40df81840e74fe486b115981e03e246c79af1e5.png"
+                            }
+                        ],
+                        "watermark_animations": null,
+                        "space_background": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/garb/item/4e2b7dccfc3c36b3a922d8fa4d84a12f8ca3b0da.jpg",
+                                "gyroscope": null,
+                                "location": "0-0-1242-1242"
                             },
-                            "material_type": 1,
-                            "theme": "open",
-                            "scarcity": 0,
-                            "layout": 0,
-                            "width": 1242,
-                            "height": 1863,
-                            "face_overflow": null,
-                            "material_sub_type": 0,
-                            "overview_image_watermarks": [
-                                {
-                                    "scene": 1,
-                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/watermark/4fc72ec77fc384e9d8d885b56358a6d1f06fecb3.png"
-                                }
-                            ],
-                            "watermark_animations": null,
-                            "space_background": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/garb/open/f985917a998b18d3b3cab915992f44fe819ad4df.jpg",
-                                    "gyroscope": null,
-                                    "location": "0-0-1242-1242"
-                                },
-                                "animation": null
-                            }
-                        },
-                        "play": null,
-                        "tag": null
+                            "animation": null
+                        }
                     },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 101139,
-                    "start_time": 1707217200,
-                    "end_time": 1719763199,
-                    "redeem_text": "LALIGA群龙出击 完成15抽即可领取",
-                    "redeem_item_type": 1,
-                    "redeem_item_id": "1707214373002",
-                    "redeem_item_name": "巴斯克德比",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/4e2b7dccfc3c36b3a922d8fa4d84a12f8ca3b0da.jpg",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 15,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": {
-                            "id": 1707214373002,
-                            "name": "巴斯克德比",
-                            "overview_image": "https://i0.hdslb.com/bfs/garb/item/4e2b7dccfc3c36b3a922d8fa4d84a12f8ca3b0da.jpg",
-                            "content": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/garb/item/4e2b7dccfc3c36b3a922d8fa4d84a12f8ca3b0da.jpg",
-                                    "gyroscope": null,
-                                    "location": ""
-                                },
-                                "animation": null
-                            },
-                            "material_type": 1,
-                            "theme": "open",
-                            "scarcity": 0,
-                            "layout": 0,
-                            "width": 1242,
-                            "height": 1863,
-                            "face_overflow": null,
-                            "material_sub_type": 0,
-                            "overview_image_watermarks": [
-                                {
-                                    "scene": 1,
-                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/watermark/d40df81840e74fe486b115981e03e246c79af1e5.png"
-                                }
-                            ],
-                            "watermark_animations": null,
-                            "space_background": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/garb/item/4e2b7dccfc3c36b3a922d8fa4d84a12f8ca3b0da.jpg",
-                                    "gyroscope": null,
-                                    "location": "0-0-1242-1242"
-                                },
-                                "animation": null
-                            }
-                        },
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 101138,
-                    "start_time": 1707217200,
-                    "end_time": 1719763199,
-                    "redeem_text": "LALIGA群龙出击 完成10抽即可领取",
-                    "redeem_item_type": 1,
-                    "redeem_item_id": "1707214448002",
-                    "redeem_item_name": "加泰罗尼亚德比",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/ce65937c0b8f0e5a6e7827cb9b0f33aa1229cd98.jpg",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 10,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": {
-                            "id": 1707214448002,
-                            "name": "加泰罗尼亚德比",
-                            "overview_image": "https://i0.hdslb.com/bfs/garb/open/ce65937c0b8f0e5a6e7827cb9b0f33aa1229cd98.jpg",
-                            "content": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/garb/open/ce65937c0b8f0e5a6e7827cb9b0f33aa1229cd98.jpg",
-                                    "gyroscope": null,
-                                    "location": ""
-                                },
-                                "animation": null
-                            },
-                            "material_type": 1,
-                            "theme": "open",
-                            "scarcity": 0,
-                            "layout": 0,
-                            "width": 1242,
-                            "height": 1863,
-                            "face_overflow": null,
-                            "material_sub_type": 0,
-                            "overview_image_watermarks": [
-                                {
-                                    "scene": 1,
-                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/watermark/9cb0cfb60b68e6e4741fa16c9713d2800114dc6b.png"
-                                }
-                            ],
-                            "watermark_animations": null,
-                            "space_background": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/garb/open/ce65937c0b8f0e5a6e7827cb9b0f33aa1229cd98.jpg",
-                                    "gyroscope": null,
-                                    "location": "0-0-1242-1242"
-                                },
-                                "animation": null
-                            }
-                        },
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 101137,
-                    "start_time": 1707217200,
-                    "end_time": 1719763199,
-                    "redeem_text": "LALIGA群龙出击 完成5抽即可领取",
-                    "redeem_item_type": 1,
-                    "redeem_item_id": "1707214498002",
-                    "redeem_item_name": "塞维利亚德比",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/b7ec8cfcee1317420920cdd19e4ebe81664eecf9.jpg",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": {
-                            "id": 1707214498002,
-                            "name": "塞维利亚德比",
-                            "overview_image": "https://i0.hdslb.com/bfs/garb/item/b7ec8cfcee1317420920cdd19e4ebe81664eecf9.jpg",
-                            "content": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/garb/item/b7ec8cfcee1317420920cdd19e4ebe81664eecf9.jpg",
-                                    "gyroscope": null,
-                                    "location": ""
-                                },
-                                "animation": null
-                            },
-                            "material_type": 1,
-                            "theme": "open",
-                            "scarcity": 0,
-                            "layout": 0,
-                            "width": 1242,
-                            "height": 1863,
-                            "face_overflow": null,
-                            "material_sub_type": 0,
-                            "overview_image_watermarks": [
-                                {
-                                    "scene": 1,
-                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/watermark/2a86ae097a9d41ed502c4f2ef94237809028a040.png"
-                                }
-                            ],
-                            "watermark_animations": null,
-                            "space_background": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/garb/item/b7ec8cfcee1317420920cdd19e4ebe81664eecf9.jpg",
-                                    "gyroscope": null,
-                                    "location": "0-0-1242-1242"
-                                },
-                                "animation": null
-                            }
-                        },
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 101136,
-                    "start_time": 1707217200,
-                    "end_time": 1719763199,
-                    "redeem_text": "LALIGA群龙出击 抽到任意1张隐藏款立绘即可领取",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "1707213731001",
-                    "redeem_item_name": "LALIGA龙年头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/da773a9f9eeab8672c100d2f3b80d47839785972.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 101135,
-                    "start_time": 1707217200,
-                    "end_time": 1719763199,
-                    "redeem_text": "LALIGA群龙出击 完成3抽即可领取",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "1707213396001",
-                    "redeem_item_name": "LALIGA表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/aadfb565683dc55386a3d0e675ad9004f83dc0aa.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "任务奖励",
-            "effective_forever": 0,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "1796971060"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "S23/24西甲联盟特别收藏集【LALIGA 23/24 龙年特典】劲爆来袭！\n在足球新绿洲bilibili平台上，LALIGA力图于龙年新春之际同广大热爱西甲的球迷群体一起，展现属于西甲的独特魅力，更为中国球迷送上特别的新年祝福！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/open/5300cf3f7156e184d52e1ce7681c438d83f4fede.png@0-0-1126-1126a",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/open/5300cf3f7156e184d52e1ce7681c438d83f4fede.png@0-0-1126-1126a",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/fe48e3e2d3aa6f0d066f5221dd893c2fe5660cc9.png\",\"card_count\":1,\"num_color\":\"#C2CDE1\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/c87827ed62127dacf63d8b9a9179866572166ba5.png\",\"card_count\":5,\"num_color\":\"#ADCAF8\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/2678d57a89db95f3f4b9565df6305ced6422eae7.png\",\"card_count\":15,\"num_color\":\"#E4B1EA\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/3eeb5390cc89d91e6f55a030251c04ec07ae412c.png\",\"card_count\":30,\"num_color\":\"#F2BB93\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/06f8b770b00b6d179763e578cd76ec47f798884b.png\",\"card_count\":60,\"num_color\":\"#F6D985\"}]",
-            "topic": null,
-            "physical_exchange": false,
-            "act_square_img": "https://i0.hdslb.com/bfs/garb/b71d0e6ca71516ceccf9cdc11f74285121fb89ae.jpg"
-        }
+            {
+                "collect_id": 101138,
+                "start_time": 1707217200,
+                "end_time": 1719763199,
+                "redeem_text": "LALIGA群龙出击 完成10抽即可领取",
+                "redeem_item_type": 1,
+                "redeem_item_id": "1707214448002",
+                "redeem_item_name": "加泰罗尼亚德比",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/ce65937c0b8f0e5a6e7827cb9b0f33aa1229cd98.jpg",
+                "owned_item_amount": 0,
+                "require_item_amount": 10,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": {
+                        "id": 1707214448002,
+                        "name": "加泰罗尼亚德比",
+                        "overview_image": "https://i0.hdslb.com/bfs/garb/open/ce65937c0b8f0e5a6e7827cb9b0f33aa1229cd98.jpg",
+                        "content": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/garb/open/ce65937c0b8f0e5a6e7827cb9b0f33aa1229cd98.jpg",
+                                "gyroscope": null,
+                                "location": ""
+                            },
+                            "animation": null
+                        },
+                        "material_type": 1,
+                        "theme": "open",
+                        "scarcity": 0,
+                        "layout": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "face_overflow": null,
+                        "material_sub_type": 0,
+                        "overview_image_watermarks": [
+                            {
+                                "scene": 1,
+                                "watermark_image": "https://i0.hdslb.com/bfs/garb/watermark/9cb0cfb60b68e6e4741fa16c9713d2800114dc6b.png"
+                            }
+                        ],
+                        "watermark_animations": null,
+                        "space_background": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/garb/open/ce65937c0b8f0e5a6e7827cb9b0f33aa1229cd98.jpg",
+                                "gyroscope": null,
+                                "location": "0-0-1242-1242"
+                            },
+                            "animation": null
+                        }
+                    },
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 101137,
+                "start_time": 1707217200,
+                "end_time": 1719763199,
+                "redeem_text": "LALIGA群龙出击 完成5抽即可领取",
+                "redeem_item_type": 1,
+                "redeem_item_id": "1707214498002",
+                "redeem_item_name": "塞维利亚德比",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/b7ec8cfcee1317420920cdd19e4ebe81664eecf9.jpg",
+                "owned_item_amount": 0,
+                "require_item_amount": 5,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": {
+                        "id": 1707214498002,
+                        "name": "塞维利亚德比",
+                        "overview_image": "https://i0.hdslb.com/bfs/garb/item/b7ec8cfcee1317420920cdd19e4ebe81664eecf9.jpg",
+                        "content": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/garb/item/b7ec8cfcee1317420920cdd19e4ebe81664eecf9.jpg",
+                                "gyroscope": null,
+                                "location": ""
+                            },
+                            "animation": null
+                        },
+                        "material_type": 1,
+                        "theme": "open",
+                        "scarcity": 0,
+                        "layout": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "face_overflow": null,
+                        "material_sub_type": 0,
+                        "overview_image_watermarks": [
+                            {
+                                "scene": 1,
+                                "watermark_image": "https://i0.hdslb.com/bfs/garb/watermark/2a86ae097a9d41ed502c4f2ef94237809028a040.png"
+                            }
+                        ],
+                        "watermark_animations": null,
+                        "space_background": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/garb/item/b7ec8cfcee1317420920cdd19e4ebe81664eecf9.jpg",
+                                "gyroscope": null,
+                                "location": "0-0-1242-1242"
+                            },
+                            "animation": null
+                        }
+                    },
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 101136,
+                "start_time": 1707217200,
+                "end_time": 1719763199,
+                "redeem_text": "LALIGA群龙出击 抽到任意1张隐藏款立绘即可领取",
+                "redeem_item_type": 3,
+                "redeem_item_id": "1707213731001",
+                "redeem_item_name": "LALIGA龙年头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/da773a9f9eeab8672c100d2f3b80d47839785972.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 101135,
+                "start_time": 1707217200,
+                "end_time": 1719763199,
+                "redeem_text": "LALIGA群龙出击 完成3抽即可领取",
+                "redeem_item_type": 2,
+                "redeem_item_id": "1707213396001",
+                "redeem_item_name": "LALIGA表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/aadfb565683dc55386a3d0e675ad9004f83dc0aa.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "任务奖励",
+        "effective_forever": 0,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "1796971060"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "S23/24西甲联盟特别收藏集【LALIGA 23/24 龙年特典】劲爆来袭！\n在足球新绿洲bilibili平台上，LALIGA力图于龙年新春之际同广大热爱西甲的球迷群体一起，展现属于西甲的独特魅力，更为中国球迷送上特别的新年祝福！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/open/5300cf3f7156e184d52e1ce7681c438d83f4fede.png@0-0-1126-1126a",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/open/5300cf3f7156e184d52e1ce7681c438d83f4fede.png@0-0-1126-1126a",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/fe48e3e2d3aa6f0d066f5221dd893c2fe5660cc9.png\",\"card_count\":1,\"num_color\":\"#C2CDE1\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/c87827ed62127dacf63d8b9a9179866572166ba5.png\",\"card_count\":5,\"num_color\":\"#ADCAF8\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/2678d57a89db95f3f4b9565df6305ced6422eae7.png\",\"card_count\":15,\"num_color\":\"#E4B1EA\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/3eeb5390cc89d91e6f55a030251c04ec07ae412c.png\",\"card_count\":30,\"num_color\":\"#F2BB93\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/06f8b770b00b6d179763e578cd76ec47f798884b.png\",\"card_count\":60,\"num_color\":\"#F6D985\"}]",
+        "topic": null,
+        "physical_exchange": false,
+        "act_square_img": "https://i0.hdslb.com/bfs/garb/b71d0e6ca71516ceccf9cdc11f74285121fb89ae.jpg"
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/4961b760cb97b0a7bdfa03b898f0d127a96775c3.jpg",
@@ -1390,5 +1382,5 @@
                 }
             ]
         }
-    }
+    ]
 }

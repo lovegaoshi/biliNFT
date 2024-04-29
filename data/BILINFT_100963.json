@@ -1,153 +1,145 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "狛纳世界",
-            "cur_time": 1707093371,
-            "start_time": 1706950800,
-            "end_time": 2114406245,
-            "pre_start_time": 1706864400,
-            "pre_end_time": 1706950799,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 100964,
-                    "lottery_name": "大愿归梦·十泉介",
-                    "display_time": 1706864400,
-                    "start_time": 1706950800,
-                    "end_time": 2114406245,
-                    "lottery_image": "https://i0.hdslb.com/bfs/garb/1505b80595fdb2db35b5419573e9e7f0c15e6b3e.png",
-                    "draw_cnt": 0,
-                    "goods_id": 37556353793536,
-                    "price": 9900,
-                    "goods_name": "大愿归梦·十泉介",
-                    "lottery_desc": "【隐藏款】荣光之角概率4.5%;离梦概率0.5%;\n【普通款】大愿归梦概率9%;其余立绘均分概率86%;",
-                    "item_total_cnt": 11,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 3459,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "全兽出击",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热售卖中，快来开卡吧！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/aee68595b0c21ccc6b23cb966343147be4809310.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "狛纳世界",
+        "cur_time": 1707093371,
+        "start_time": 1706950800,
+        "end_time": 2114406245,
+        "pre_start_time": 1706864400,
+        "pre_end_time": 1706950799,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 100964,
+                "lottery_name": "大愿归梦·十泉介",
+                "display_time": 1706864400,
+                "start_time": 1706950800,
+                "end_time": 2114406245,
+                "lottery_image": "https://i0.hdslb.com/bfs/garb/1505b80595fdb2db35b5419573e9e7f0c15e6b3e.png",
+                "draw_cnt": 0,
+                "goods_id": 37556353793536,
+                "price": 9900,
+                "goods_name": "大愿归梦·十泉介",
+                "lottery_desc": "【隐藏款】荣光之角概率4.5%;离梦概率0.5%;\n【普通款】大愿归梦概率9%;其余立绘均分概率86%;",
+                "item_total_cnt": 11,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 3459,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "全兽出击",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/aee68595b0c21ccc6b23cb966343147be4809310.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 468,
-            "total_buy_cnt": 3459,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 100967,
-                    "start_time": 1706864400,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成2抽即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "1706213244001",
-                    "redeem_item_name": "狛纳世界表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/c6014ad9567ccf299e9a00d88f022a1b01e5000c.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 468,
+        "total_buy_cnt": 3459,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 100967,
+                "start_time": 1706864400,
+                "end_time": 2114406245,
+                "redeem_text": "完成2抽即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 2,
+                "redeem_item_id": "1706213244001",
+                "redeem_item_name": "狛纳世界表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/c6014ad9567ccf299e9a00d88f022a1b01e5000c.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 100966,
-                    "start_time": 1706864400,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽到任意1张隐藏款立绘即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "1706213391001",
-                    "redeem_item_name": "狛纳世界头像挂件",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/b38e0faef69549fae65a6ae45fa96c87e521718a.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "任务奖励",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "470339447"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "想要被毛绒绒包围吗？那就来【狛纳世界】吧！这里有超可爱的熊叔，软乎乎的熊宝，还有更多萌萌的兽兽们～\n收藏集包含多张全新表情包与插图，抽取卡面还可解锁周边与超多专属奖励。\n龙年熊起，祝各位收藏家单抽出奇迹！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/open/551c76c9f790329ef0e9c8a06d4b74fa2691735f.png@0-0-1126-1126a",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/open/551c76c9f790329ef0e9c8a06d4b74fa2691735f.png@0-0-1126-1126a",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/0ef63e7ea2041dde6258139801fe48c980a3e61c.png\",\"card_count\":1,\"num_color\":\"#A18C7B\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/777bf54a1c5e9952694c61fde056d8566148087c.png\",\"card_count\":5,\"num_color\":\"#7798C0\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/00bb5d2d6651751445a65ac32691538374fe6531.png\",\"card_count\":15,\"num_color\":\"#F6CF50\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/50b22f974624c4b5d3d993e82cc3fbb0535823e2.png\",\"card_count\":30,\"num_color\":\"#F7B140\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/f7c2adf99dcfa02cb862759a437402a6ed495282.png\",\"card_count\":60,\"num_color\":\"#AB7DEB\"}]",
-            "topic": null,
-            "physical_exchange": false,
-            "act_square_img": "https://i0.hdslb.com/bfs/garb/1505b80595fdb2db35b5419573e9e7f0c15e6b3e.png"
-        }
+            {
+                "collect_id": 100966,
+                "start_time": 1706864400,
+                "end_time": 2114406245,
+                "redeem_text": "抽到任意1张隐藏款立绘即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 3,
+                "redeem_item_id": "1706213391001",
+                "redeem_item_name": "狛纳世界头像挂件",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/b38e0faef69549fae65a6ae45fa96c87e521718a.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "任务奖励",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "470339447"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "想要被毛绒绒包围吗？那就来【狛纳世界】吧！这里有超可爱的熊叔，软乎乎的熊宝，还有更多萌萌的兽兽们～\n收藏集包含多张全新表情包与插图，抽取卡面还可解锁周边与超多专属奖励。\n龙年熊起，祝各位收藏家单抽出奇迹！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/open/551c76c9f790329ef0e9c8a06d4b74fa2691735f.png@0-0-1126-1126a",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/open/551c76c9f790329ef0e9c8a06d4b74fa2691735f.png@0-0-1126-1126a",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/0ef63e7ea2041dde6258139801fe48c980a3e61c.png\",\"card_count\":1,\"num_color\":\"#A18C7B\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/777bf54a1c5e9952694c61fde056d8566148087c.png\",\"card_count\":5,\"num_color\":\"#7798C0\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/00bb5d2d6651751445a65ac32691538374fe6531.png\",\"card_count\":15,\"num_color\":\"#F6CF50\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/50b22f974624c4b5d3d993e82cc3fbb0535823e2.png\",\"card_count\":30,\"num_color\":\"#F7B140\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/f7c2adf99dcfa02cb862759a437402a6ed495282.png\",\"card_count\":60,\"num_color\":\"#AB7DEB\"}]",
+        "topic": null,
+        "physical_exchange": false,
+        "act_square_img": "https://i0.hdslb.com/bfs/garb/1505b80595fdb2db35b5419573e9e7f0c15e6b3e.png"
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/aee68595b0c21ccc6b23cb966343147be4809310.png",
@@ -499,5 +491,5 @@
                 }
             ]
         }
-    }
+    ]
 }

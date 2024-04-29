@@ -1,226 +1,218 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "psplive海味",
-            "cur_time": 1702647817,
-            "start_time": 1700564400,
-            "end_time": 2114406245,
-            "pre_start_time": 1700478000,
-            "pre_end_time": 1700564399,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 100345,
-                    "lottery_name": "psplive海味",
-                    "display_time": 1700478000,
-                    "start_time": 1700564400,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/0598cd59116806a563e88986e5028484169cab4d.png",
-                    "draw_cnt": 0,
-                    "goods_id": 24163228087296,
-                    "price": 9900,
-                    "goods_name": "psplive海味",
-                    "lottery_desc": "【隐藏款】水中嬉戏 白神遥,水中嬉戏 红晓音,水中嬉戏 秋凛子均分概率4.5%;与你同行 白神遥,与你同行 红晓音,与你同行 秋凛子均分概率0.5%;\n【普通款】冒失海豹 白神遥,舞台风采 红晓音,禁止偷看 秋凛子均分概率9%;其余立绘均分概率86%;",
-                    "item_total_cnt": 24,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 39098,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "psplive海味",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热售卖中，快来开卡吧！"
+        "act_title": "psplive海味",
+        "cur_time": 1702647817,
+        "start_time": 1700564400,
+        "end_time": 2114406245,
+        "pre_start_time": 1700478000,
+        "pre_end_time": 1700564399,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 100345,
+                "lottery_name": "psplive海味",
+                "display_time": 1700478000,
+                "start_time": 1700564400,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/0598cd59116806a563e88986e5028484169cab4d.png",
+                "draw_cnt": 0,
+                "goods_id": 24163228087296,
+                "price": 9900,
+                "goods_name": "psplive海味",
+                "lottery_desc": "【隐藏款】水中嬉戏 白神遥,水中嬉戏 红晓音,水中嬉戏 秋凛子均分概率4.5%;与你同行 白神遥,与你同行 红晓音,与你同行 秋凛子均分概率0.5%;\n【普通款】冒失海豹 白神遥,舞台风采 红晓音,禁止偷看 秋凛子均分概率9%;其余立绘均分概率86%;",
+                "item_total_cnt": 24,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 39098,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
+                },
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "psplive海味",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/373b9c198883a96c1cb39529942840e6e901edbd.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/373b9c198883a96c1cb39529942840e6e901edbd.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 1544,
+        "total_buy_cnt": 39098,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 100351,
+                "start_time": 1700478000,
+                "end_time": 2114406245,
+                "redeem_text": "完成2抽即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 5,
+                "redeem_item_id": "1699280107001",
+                "redeem_item_name": "psplive海味进度条",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/0557475f9580c611b28a0ffb673da8e214d60caf.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "total_book_cnt": 1544,
-            "total_buy_cnt": 39098,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 100351,
-                    "start_time": 1700478000,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成2抽即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "1699280107001",
-                    "redeem_item_name": "psplive海味进度条",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/0557475f9580c611b28a0ffb673da8e214d60caf.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            {
+                "collect_id": 100350,
+                "start_time": 1700478000,
+                "end_time": 2114406245,
+                "redeem_text": "完成2抽即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 5,
+                "redeem_item_id": "1699280128001",
+                "redeem_item_name": "psplive海味加载动画",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/b24d22e8099e5c57f9c4da4a9093048d775904a2.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 100350,
-                    "start_time": 1700478000,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成2抽即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "1699280128001",
-                    "redeem_item_name": "psplive海味加载动画",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/b24d22e8099e5c57f9c4da4a9093048d775904a2.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 100349,
-                    "start_time": 1700478000,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成2抽即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "1699280145001",
-                    "redeem_item_name": "psplive海味动态点赞",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/1d8daf16b0f5eb029f85602e833292f3b701d610.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 100348,
-                    "start_time": 1700478000,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意2张立绘即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "1699280695001",
-                    "redeem_item_name": "psplive海味表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/3fcb76e405a55cf0f57a7563cee7385c45d3a01e.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 100347,
-                    "start_time": 1700478000,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽到任意1张隐藏款立绘即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "1699280487001",
-                    "redeem_item_name": "psplive海味头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/bfdddbfe31bc903666de5e7777bf5333ccf8e734.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "任务奖励",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 1,
-            "related_mids": [
-                "477332594",
-                "899804",
-                "479633069",
-                "454673997"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 0,
-            "product_introduce": "【psplive海味集】是哔哩哔哩携手虚拟艺人团体psplive定制打造的个人数字集卡第二弹，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁psplive成员们的绝美画面！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/open/6341b615fc5e467ae716e04130642ee382de59e2.png@0-0-1126-1126a",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/open/6341b615fc5e467ae716e04130642ee382de59e2.png@0-0-1126-1126a",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/b81582d8c72b1543b7bdbb847dbb76d84cf1d9c8.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/54104ead7a030dc008d248459c396b990825ffe1.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/a4b49101c06b1a15347cd305e05db3cc3099d1f1.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/799421c5ce95052763129d7026d45b34efec6227.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/059c1fdcfd1dbe5ff8eb12ecda5d995176b1cf98.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 100349,
+                "start_time": 1700478000,
+                "end_time": 2114406245,
+                "redeem_text": "完成2抽即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 5,
+                "redeem_item_id": "1699280145001",
+                "redeem_item_name": "psplive海味动态点赞",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/1d8daf16b0f5eb029f85602e833292f3b701d610.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 100348,
+                "start_time": 1700478000,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意2张立绘即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 2,
+                "redeem_item_id": "1699280695001",
+                "redeem_item_name": "psplive海味表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/3fcb76e405a55cf0f57a7563cee7385c45d3a01e.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 100347,
+                "start_time": 1700478000,
+                "end_time": 2114406245,
+                "redeem_text": "抽到任意1张隐藏款立绘即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 3,
+                "redeem_item_id": "1699280487001",
+                "redeem_item_name": "psplive海味头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/bfdddbfe31bc903666de5e7777bf5333ccf8e734.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "任务奖励",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 1,
+        "related_mids": [
+            "477332594",
+            "899804",
+            "479633069",
+            "454673997"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 0,
+        "product_introduce": "【psplive海味集】是哔哩哔哩携手虚拟艺人团体psplive定制打造的个人数字集卡第二弹，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁psplive成员们的绝美画面！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/open/6341b615fc5e467ae716e04130642ee382de59e2.png@0-0-1126-1126a",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/open/6341b615fc5e467ae716e04130642ee382de59e2.png@0-0-1126-1126a",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/b81582d8c72b1543b7bdbb847dbb76d84cf1d9c8.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/54104ead7a030dc008d248459c396b990825ffe1.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/a4b49101c06b1a15347cd305e05db3cc3099d1f1.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/799421c5ce95052763129d7026d45b34efec6227.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/059c1fdcfd1dbe5ff8eb12ecda5d995176b1cf98.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/373b9c198883a96c1cb39529942840e6e901edbd.png",
@@ -1021,5 +1013,5 @@
                 }
             ]
         }
-    }
+    ]
 }

@@ -1,174 +1,166 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "多特蒙德-黄黑无间",
-            "cur_time": 1705669505,
-            "start_time": 1705748400,
-            "end_time": 2114406245,
-            "pre_start_time": 1705662000,
-            "pre_end_time": 1705748399,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 100894,
-                    "lottery_name": "黄黑无间",
-                    "display_time": 1705662000,
-                    "start_time": 1705748400,
-                    "end_time": 2114406245,
-                    "lottery_image": "https://i0.hdslb.com/bfs/garb/bd33c6b8c8d6f25fff65cf1999041b9cab433dcb.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 35037003155968,
-                    "price": 9900,
-                    "goods_name": "黄黑无间",
-                    "lottery_desc": "【隐藏款】胡梅尔斯,马伦,雷纳,沃尔夫均分概率4.5%;奥巴梅扬 & 罗伊斯,贝林厄姆,哈兰德,桑乔均分概率0.5%;\n【普通款】胡梅尔斯,科贝尔,罗伊斯,桑乔均分概率9%;其余立绘均分概率86%;",
-                    "item_total_cnt": 32,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 0,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "多特蒙德-黄黑无间",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热预约中，快点击锁定吧！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/e9b553324d1647ee8d71caf8cde5c1c5d26612dd.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "多特蒙德-黄黑无间",
+        "cur_time": 1705669505,
+        "start_time": 1705748400,
+        "end_time": 2114406245,
+        "pre_start_time": 1705662000,
+        "pre_end_time": 1705748399,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 100894,
+                "lottery_name": "黄黑无间",
+                "display_time": 1705662000,
+                "start_time": 1705748400,
+                "end_time": 2114406245,
+                "lottery_image": "https://i0.hdslb.com/bfs/garb/bd33c6b8c8d6f25fff65cf1999041b9cab433dcb.jpg",
+                "draw_cnt": 0,
+                "goods_id": 35037003155968,
+                "price": 9900,
+                "goods_name": "黄黑无间",
+                "lottery_desc": "【隐藏款】胡梅尔斯,马伦,雷纳,沃尔夫均分概率4.5%;奥巴梅扬 & 罗伊斯,贝林厄姆,哈兰德,桑乔均分概率0.5%;\n【普通款】胡梅尔斯,科贝尔,罗伊斯,桑乔均分概率9%;其余立绘均分概率86%;",
+                "item_total_cnt": 32,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 0,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "多特蒙德-黄黑无间",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热预约中，快点击锁定吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/e9b553324d1647ee8d71caf8cde5c1c5d26612dd.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 83,
-            "total_buy_cnt": 0,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 100903,
-                    "start_time": 1705663920,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意3张立绘即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "1705645938001",
-                    "redeem_item_name": "多特蒙德表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/a9cda6ec873db6e82be330571125311c1d8fbc6b.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 83,
+        "total_buy_cnt": 0,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 100903,
+                "start_time": 1705663920,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意3张立绘即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 2,
+                "redeem_item_id": "1705645938001",
+                "redeem_item_name": "多特蒙德表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/a9cda6ec873db6e82be330571125311c1d8fbc6b.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 100902,
-                    "start_time": 1705663920,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意5张立绘即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "1705654763001&1705653477001&1705654132001&1705661051001",
-                    "redeem_item_name": "多特蒙德主题+点赞+进度条+加载动画",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/442999233e7367afc6c38e2dd9577a0b2f110fab.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 100901,
-                    "start_time": 1705663920,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽到任意1张隐藏款立绘即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "1705646034001",
-                    "redeem_item_name": "多特蒙德头像挂件",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/22664ad84c6f08a3e0ddbbd8fe45288d63d3d7e0.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "任务奖励",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": null,
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【多特蒙德-黄黑无间】是多特蒙德足球俱乐部官方授权数字收藏集，Heja BVB！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/open/f5558c1c059db430eacffa23007c769cc802e66d.jpg@0-0-1126-1126a",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/open/f5558c1c059db430eacffa23007c769cc802e66d.jpg@0-0-1126-1126a",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/0e0ef030a0be70ae2c777500cb399a0e1ba97140.png\",\"card_count\":1,\"num_color\":\"#A58A5B\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/db4f63fd9cb462d66aa9960370e0e838967e09d0.png\",\"card_count\":5,\"num_color\":\"#709178\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/c4fa13b3f8869044c1773cf8b4344226ae8d6809.png\",\"card_count\":15,\"num_color\":\"#A1A1A1\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/e4535ace2487677d48da9258acf12c65f636c397.png\",\"card_count\":30,\"num_color\":\"#E2B959\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/e1f543e81b6f02b48315a408a576dc09bae0abc5.png\",\"card_count\":60,\"num_color\":\"#AA76D3\"}]",
-            "topic": null,
-            "physical_exchange": false
-        }
+            {
+                "collect_id": 100902,
+                "start_time": 1705663920,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意5张立绘即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 5,
+                "redeem_item_id": "1705654763001&1705653477001&1705654132001&1705661051001",
+                "redeem_item_name": "多特蒙德主题+点赞+进度条+加载动画",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/442999233e7367afc6c38e2dd9577a0b2f110fab.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 5,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 100901,
+                "start_time": 1705663920,
+                "end_time": 2114406245,
+                "redeem_text": "抽到任意1张隐藏款立绘即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 3,
+                "redeem_item_id": "1705646034001",
+                "redeem_item_name": "多特蒙德头像挂件",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/22664ad84c6f08a3e0ddbbd8fe45288d63d3d7e0.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "任务奖励",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": null,
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【多特蒙德-黄黑无间】是多特蒙德足球俱乐部官方授权数字收藏集，Heja BVB！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/open/f5558c1c059db430eacffa23007c769cc802e66d.jpg@0-0-1126-1126a",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/open/f5558c1c059db430eacffa23007c769cc802e66d.jpg@0-0-1126-1126a",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/0e0ef030a0be70ae2c777500cb399a0e1ba97140.png\",\"card_count\":1,\"num_color\":\"#A58A5B\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/db4f63fd9cb462d66aa9960370e0e838967e09d0.png\",\"card_count\":5,\"num_color\":\"#709178\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/c4fa13b3f8869044c1773cf8b4344226ae8d6809.png\",\"card_count\":15,\"num_color\":\"#A1A1A1\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/e4535ace2487677d48da9258acf12c65f636c397.png\",\"card_count\":30,\"num_color\":\"#E2B959\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/e1f543e81b6f02b48315a408a576dc09bae0abc5.png\",\"card_count\":60,\"num_color\":\"#AA76D3\"}]",
+        "topic": null,
+        "physical_exchange": false
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/e9b553324d1647ee8d71caf8cde5c1c5d26612dd.jpg",
@@ -1137,5 +1129,5 @@
                 }
             ]
         }
-    }
+    ]
 }

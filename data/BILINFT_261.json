@@ -1,343 +1,335 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "《地下城堡3：魂之诗》收藏集",
-            "cur_time": 1702647781,
-            "start_time": 1701338400,
-            "end_time": 2114406245,
-            "pre_start_time": 1701252000,
-            "pre_end_time": 1701338399,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 216,
-                    "lottery_name": "唤灵之典",
-                    "display_time": 1701252000,
-                    "start_time": 1701338400,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/ca1397cf21225ec64ca5eff639754068cdbd8daf.png",
-                    "draw_cnt": 0,
-                    "goods_id": 25786117549056,
-                    "price": 9900,
-                    "goods_name": "唤灵之典",
-                    "lottery_desc": "【地下城堡3收藏集——唤灵之典】共包含16张精美立绘\n* 隐藏款：独行暗影·罗拉娜、笼中鸟·尤塔，均分概率0.5%；亘古之忆·穆琳、寒血诅咒·玛雅，均分概率4.5%\n* 普通款：深海之霞·汐丽儿、远航向导·约瑟芬，均分概率9%；晨光传承者·维比娅、撼地先锋·玖、极光之舞·娜塔莉亚、黎明骑士·席娜、千面魅影·蕾拉、沙蛇·艾亚、神眼泽的树灵·茵娜、危月燕·邵依、影法师·卡尔萨、永旺之歌·薇奥拉，共10张，均分概率86%",
-                    "item_total_cnt": 16,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 6972,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "地下城堡3魂之诗收藏集",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热售卖中，快来开卡吧！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/884eae3b4b435ee700679164f9c336abdde1953e.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "《地下城堡3：魂之诗》收藏集",
+        "cur_time": 1702647781,
+        "start_time": 1701338400,
+        "end_time": 2114406245,
+        "pre_start_time": 1701252000,
+        "pre_end_time": 1701338399,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 216,
+                "lottery_name": "唤灵之典",
+                "display_time": 1701252000,
+                "start_time": 1701338400,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/ca1397cf21225ec64ca5eff639754068cdbd8daf.png",
+                "draw_cnt": 0,
+                "goods_id": 25786117549056,
+                "price": 9900,
+                "goods_name": "唤灵之典",
+                "lottery_desc": "【地下城堡3收藏集——唤灵之典】共包含16张精美立绘\n* 隐藏款：独行暗影·罗拉娜、笼中鸟·尤塔，均分概率0.5%；亘古之忆·穆琳、寒血诅咒·玛雅，均分概率4.5%\n* 普通款：深海之霞·汐丽儿、远航向导·约瑟芬，均分概率9%；晨光传承者·维比娅、撼地先锋·玖、极光之舞·娜塔莉亚、黎明骑士·席娜、千面魅影·蕾拉、沙蛇·艾亚、神眼泽的树灵·茵娜、危月燕·邵依、影法师·卡尔萨、永旺之歌·薇奥拉，共10张，均分概率86%",
+                "item_total_cnt": 16,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 6972,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "地下城堡3魂之诗收藏集",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/884eae3b4b435ee700679164f9c336abdde1953e.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 210,
-            "total_buy_cnt": 6972,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 620,
-                    "start_time": 1701333334,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意7张立绘即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 1,
-                    "redeem_item_id": "1165647",
-                    "redeem_item_name": "【典藏】孤塔中的监视者·罗拉娜",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/02db91bb6a8e0343cc01388a2ca92022818efa3d.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 7,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": {
-                            "id": 1165647,
-                            "name": "孤塔中的监视者·罗拉娜",
-                            "overview_image": "https://i0.hdslb.com/bfs/baselabs/02db91bb6a8e0343cc01388a2ca92022818efa3d.png",
-                            "content": {
-                                "image": null,
-                                "animation": {
-                                    "animation_video_urls": [
-                                        "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/db/bo/_00002djw29vp9wxrs26x5e3snp7bodb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654968&gen=playurlv2&os=08cbv&oi=0&trid=a2ad42e1e11e44138687f27ddc263ed0B&mid=0&platform=html5&upsig=c17d7d76c782b9b7ad1313e82bc2f33b&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
-                                        "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/db/bo/_00002djw29vp9wxrs26x5e3snp7bodb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654968&gen=playurlv2&os=08cbv&oi=0&trid=a2ad42e1e11e44138687f27ddc263ed0B&mid=0&platform=html5&upsig=c17d7d76c782b9b7ad1313e82bc2f33b&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
-                                        "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/db/bo/_00002djw29vp9wxrs26x5e3snp7bodb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654968&gen=playurlv2&os=hwbbv&oi=0&trid=a2ad42e1e11e44138687f27ddc263ed0B&mid=0&platform=html5&upsig=51cf097571818351ba9772e1ce7b4f66&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
-                                    ],
-                                    "animation_backup_image": "https://i0.hdslb.com/bfs/baselabs/02db91bb6a8e0343cc01388a2ca92022818efa3d.png",
-                                    "animation_first_frame": "https://i0.hdslb.com/bfs/baselabs/02db91bb6a8e0343cc01388a2ca92022818efa3d.png",
-                                    "is_mute": false,
-                                    "animation_url": "upos://panguxcodeboss/db/bo/_00002djw29vp9wxrs26x5e3snp7bodb-1-152111110023.mp4",
-                                    "subtitles_url": "",
-                                    "duration": 10,
-                                    "width": 0,
-                                    "height": 0,
-                                    "location": "",
-                                    "compressed_w_h": ""
-                                }
-                            },
-                            "material_type": 2,
-                            "theme": "收集奖励-视频",
-                            "scarcity": 30,
-                            "layout": 0,
-                            "width": 1242,
-                            "height": 1862,
-                            "face_overflow": null,
-                            "material_sub_type": 0,
-                            "overview_image_watermarks": [
-                                {
-                                    "scene": 1,
-                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/47df9d09c48a8307c8010c833f97b94140197b65.png"
-                                }
-                            ],
-                            "watermark_animations": [
-                                {
-                                    "scene": 2,
-                                    "watermark_animation": "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark/rb/bh/_00001veh6nvm4ntmz2v1574d0m7bhrb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654968&gen=playurlv2&os=alibv&oi=0&trid=a2ad42e1e11e44138687f27ddc263ed0B&mid=0&platform=html5&upsig=5e7d380d8ea130193f76b420d1782033&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0"
-                                },
-                                {
-                                    "scene": 2,
-                                    "watermark_animation": "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark/rb/bh/_00001veh6nvm4ntmz2v1574d0m7bhrb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654968&gen=playurlv2&os=alibv&oi=0&trid=a2ad42e1e11e44138687f27ddc263ed0B&mid=0&platform=html5&upsig=5e7d380d8ea130193f76b420d1782033&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0"
-                                },
-                                {
-                                    "scene": 2,
-                                    "watermark_animation": "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/digital_watermark/rb/bh/_00001veh6nvm4ntmz2v1574d0m7bhrb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654968&gen=playurlv2&os=alibbv&oi=0&trid=a2ad42e1e11e44138687f27ddc263ed0B&mid=0&platform=html5&upsig=6c1ff9595d635bfbd4db378eeba3c82c&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
-                                }
-                            ],
-                            "space_background": {
-                                "image": null,
-                                "animation": {
-                                    "animation_video_urls": [
-                                        "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/db/bo/_00002djw29vp9wxrs26x5e3snp7bodb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654968&gen=playurlv2&os=08cbv&oi=0&trid=a2ad42e1e11e44138687f27ddc263ed0B&mid=0&platform=html5&upsig=c17d7d76c782b9b7ad1313e82bc2f33b&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
-                                        "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/db/bo/_00002djw29vp9wxrs26x5e3snp7bodb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654968&gen=playurlv2&os=08cbv&oi=0&trid=a2ad42e1e11e44138687f27ddc263ed0B&mid=0&platform=html5&upsig=c17d7d76c782b9b7ad1313e82bc2f33b&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
-                                        "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/db/bo/_00002djw29vp9wxrs26x5e3snp7bodb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654968&gen=playurlv2&os=hwbbv&oi=0&trid=a2ad42e1e11e44138687f27ddc263ed0B&mid=0&platform=html5&upsig=51cf097571818351ba9772e1ce7b4f66&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
-                                    ],
-                                    "animation_backup_image": "https://i0.hdslb.com/bfs/baselabs/02db91bb6a8e0343cc01388a2ca92022818efa3d.png@1080w_1618h",
-                                    "animation_first_frame": "https://i0.hdslb.com/bfs/baselabs/02db91bb6a8e0343cc01388a2ca92022818efa3d.png@1080w_1618h",
-                                    "is_mute": false,
-                                    "animation_url": "upos://panguxcodeboss/db/bo/_00002djw29vp9wxrs26x5e3snp7bodb-1-152111110023.mp4",
-                                    "subtitles_url": "",
-                                    "duration": 10,
-                                    "width": 0,
-                                    "height": 0,
-                                    "location": "0-23-1079-1079",
-                                    "compressed_w_h": "1079-1618"
-                                }
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 210,
+        "total_buy_cnt": 6972,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 620,
+                "start_time": 1701333334,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意7张立绘即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 1,
+                "redeem_item_id": "1165647",
+                "redeem_item_name": "【典藏】孤塔中的监视者·罗拉娜",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/02db91bb6a8e0343cc01388a2ca92022818efa3d.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 7,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": {
+                        "id": 1165647,
+                        "name": "孤塔中的监视者·罗拉娜",
+                        "overview_image": "https://i0.hdslb.com/bfs/baselabs/02db91bb6a8e0343cc01388a2ca92022818efa3d.png",
+                        "content": {
+                            "image": null,
+                            "animation": {
+                                "animation_video_urls": [
+                                    "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/db/bo/_00002djw29vp9wxrs26x5e3snp7bodb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654968&gen=playurlv2&os=08cbv&oi=0&trid=a2ad42e1e11e44138687f27ddc263ed0B&mid=0&platform=html5&upsig=c17d7d76c782b9b7ad1313e82bc2f33b&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                                    "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/db/bo/_00002djw29vp9wxrs26x5e3snp7bodb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654968&gen=playurlv2&os=08cbv&oi=0&trid=a2ad42e1e11e44138687f27ddc263ed0B&mid=0&platform=html5&upsig=c17d7d76c782b9b7ad1313e82bc2f33b&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                                    "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/db/bo/_00002djw29vp9wxrs26x5e3snp7bodb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654968&gen=playurlv2&os=hwbbv&oi=0&trid=a2ad42e1e11e44138687f27ddc263ed0B&mid=0&platform=html5&upsig=51cf097571818351ba9772e1ce7b4f66&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                                ],
+                                "animation_backup_image": "https://i0.hdslb.com/bfs/baselabs/02db91bb6a8e0343cc01388a2ca92022818efa3d.png",
+                                "animation_first_frame": "https://i0.hdslb.com/bfs/baselabs/02db91bb6a8e0343cc01388a2ca92022818efa3d.png",
+                                "is_mute": false,
+                                "animation_url": "upos://panguxcodeboss/db/bo/_00002djw29vp9wxrs26x5e3snp7bodb-1-152111110023.mp4",
+                                "subtitles_url": "",
+                                "duration": 10,
+                                "width": 0,
+                                "height": 0,
+                                "location": "",
+                                "compressed_w_h": ""
                             }
                         },
-                        "play": null,
-                        "tag": null
+                        "material_type": 2,
+                        "theme": "收集奖励-视频",
+                        "scarcity": 30,
+                        "layout": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "face_overflow": null,
+                        "material_sub_type": 0,
+                        "overview_image_watermarks": [
+                            {
+                                "scene": 1,
+                                "watermark_image": "https://i0.hdslb.com/bfs/garb/47df9d09c48a8307c8010c833f97b94140197b65.png"
+                            }
+                        ],
+                        "watermark_animations": [
+                            {
+                                "scene": 2,
+                                "watermark_animation": "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark/rb/bh/_00001veh6nvm4ntmz2v1574d0m7bhrb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654968&gen=playurlv2&os=alibv&oi=0&trid=a2ad42e1e11e44138687f27ddc263ed0B&mid=0&platform=html5&upsig=5e7d380d8ea130193f76b420d1782033&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0"
+                            },
+                            {
+                                "scene": 2,
+                                "watermark_animation": "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark/rb/bh/_00001veh6nvm4ntmz2v1574d0m7bhrb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654968&gen=playurlv2&os=alibv&oi=0&trid=a2ad42e1e11e44138687f27ddc263ed0B&mid=0&platform=html5&upsig=5e7d380d8ea130193f76b420d1782033&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0"
+                            },
+                            {
+                                "scene": 2,
+                                "watermark_animation": "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/digital_watermark/rb/bh/_00001veh6nvm4ntmz2v1574d0m7bhrb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654968&gen=playurlv2&os=alibbv&oi=0&trid=a2ad42e1e11e44138687f27ddc263ed0B&mid=0&platform=html5&upsig=6c1ff9595d635bfbd4db378eeba3c82c&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                            }
+                        ],
+                        "space_background": {
+                            "image": null,
+                            "animation": {
+                                "animation_video_urls": [
+                                    "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/db/bo/_00002djw29vp9wxrs26x5e3snp7bodb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654968&gen=playurlv2&os=08cbv&oi=0&trid=a2ad42e1e11e44138687f27ddc263ed0B&mid=0&platform=html5&upsig=c17d7d76c782b9b7ad1313e82bc2f33b&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                                    "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/db/bo/_00002djw29vp9wxrs26x5e3snp7bodb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654968&gen=playurlv2&os=08cbv&oi=0&trid=a2ad42e1e11e44138687f27ddc263ed0B&mid=0&platform=html5&upsig=c17d7d76c782b9b7ad1313e82bc2f33b&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                                    "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/db/bo/_00002djw29vp9wxrs26x5e3snp7bodb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654968&gen=playurlv2&os=hwbbv&oi=0&trid=a2ad42e1e11e44138687f27ddc263ed0B&mid=0&platform=html5&upsig=51cf097571818351ba9772e1ce7b4f66&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                                ],
+                                "animation_backup_image": "https://i0.hdslb.com/bfs/baselabs/02db91bb6a8e0343cc01388a2ca92022818efa3d.png@1080w_1618h",
+                                "animation_first_frame": "https://i0.hdslb.com/bfs/baselabs/02db91bb6a8e0343cc01388a2ca92022818efa3d.png@1080w_1618h",
+                                "is_mute": false,
+                                "animation_url": "upos://panguxcodeboss/db/bo/_00002djw29vp9wxrs26x5e3snp7bodb-1-152111110023.mp4",
+                                "subtitles_url": "",
+                                "duration": 10,
+                                "width": 0,
+                                "height": 0,
+                                "location": "0-23-1079-1079",
+                                "compressed_w_h": "1079-1618"
+                            }
+                        }
                     },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 611,
-                    "start_time": 1701252000,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "63761",
-                    "redeem_item_name": "《地下城堡3：魂之诗》头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/a64553802c7a5d44fd498b403d0d3a8d69773d96.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 613,
-                    "start_time": 1701252000,
-                    "end_time": 2114406245,
-                    "redeem_text": "任意1抽即可获得一个1个兑换码。每个UID仅可兑换1次，限量5000份。游戏CDK内含：本位之玉*66及游戏内bilibili限定活动头像。",
-                    "redeem_item_type": 8,
-                    "redeem_item_id": "2370042",
-                    "redeem_item_name": "游戏活动限定头像&游戏内道具-官服",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/6025beaf47ed8af3466ac885078c26054470c00d.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": 4216,
-                    "total_stock": 5000
-                },
-                {
-                    "collect_id": 614,
-                    "start_time": 1701252000,
-                    "end_time": 2114406245,
-                    "redeem_text": "任意1抽即可获得一个1个兑换码。每个UID仅可兑换1次，限量5000份。游戏CDK内含：本位之玉*66及游戏内bilibili限定活动头像。",
-                    "redeem_item_type": 8,
-                    "redeem_item_id": "2400032",
-                    "redeem_item_name": "游戏活动限定头像&游戏内道具-渠道服",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/80d46588e9a227e8c5164e1cf676fa78dda5fed8.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": 4328,
-                    "total_stock": 5000
-                },
-                {
-                    "collect_id": 610,
-                    "start_time": 1701252000,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成2抽即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "63763",
-                    "redeem_item_name": "《地下城堡3：魂之诗》表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/12310631bb4ccab0a6bdaa50cf901f2462294616.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 612,
-                    "start_time": 1701252000,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意4张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "63810&63809&63812&63808",
-                    "redeem_item_name": "个性主题&动态点赞&加载动画&进度条",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/3b36c7de227c0df489d9b270e4a207e95f349314.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 4,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 615,
-                    "start_time": 1701252000,
-                    "end_time": 1704038399,
-                    "redeem_text": "抽出编号为8、100、666、888、2023的任意卡牌，即可获得发放资格。",
-                    "redeem_item_type": 9,
-                    "redeem_item_id": "",
-                    "redeem_item_name": "《地下城堡3：魂之诗》限定周边",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/fe7d7013c957e5f5954e17077bb8656b7254d789.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "custom",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之礼",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "1024060189"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "尊敬的招魂师，《地下城堡3：魂之诗》携手游戏内各位美女武神为大家打造的系列收藏集-唤灵之典上线啦！一抽就能解锁游戏内的超值道具，特殊编号还送限定周边，每张卡牌都拥有超炫动态，快来召唤你最喜欢的小姐姐吧！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/6db2b4ac654ef05537c77234e5f8728a4e40c2d0.png",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/6db2b4ac654ef05537c77234e5f8728a4e40c2d0.png",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/ba3675be3ec4c14f0aaf0b2ba075c60103485e5b.png\",\"card_count\":1,\"num_color\":\"#8e8e8e\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/386f4ccf731d8a18da28002afc4eead5d7f7f1cc.png\",\"card_count\":5,\"num_color\":\"#3d769e\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/9101a620200d86cc27b85889ba0e7aecda755dc0.png\",\"card_count\":15,\"num_color\":\"#9771c4\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/ac29471e2de37ec5823f575840e64d6fd9dbeebd.png\",\"card_count\":30,\"num_color\":\"#f2ba46\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/388596d4d779064efd42185194a0b774d5b6a17d.png\",\"card_count\":60,\"num_color\":\"#83401e\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 611,
+                "start_time": 1701252000,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "63761",
+                "redeem_item_name": "《地下城堡3：魂之诗》头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/a64553802c7a5d44fd498b403d0d3a8d69773d96.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 613,
+                "start_time": 1701252000,
+                "end_time": 2114406245,
+                "redeem_text": "任意1抽即可获得一个1个兑换码。每个UID仅可兑换1次，限量5000份。游戏CDK内含：本位之玉*66及游戏内bilibili限定活动头像。",
+                "redeem_item_type": 8,
+                "redeem_item_id": "2370042",
+                "redeem_item_name": "游戏活动限定头像&游戏内道具-官服",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/6025beaf47ed8af3466ac885078c26054470c00d.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": 4216,
+                "total_stock": 5000
+            },
+            {
+                "collect_id": 614,
+                "start_time": 1701252000,
+                "end_time": 2114406245,
+                "redeem_text": "任意1抽即可获得一个1个兑换码。每个UID仅可兑换1次，限量5000份。游戏CDK内含：本位之玉*66及游戏内bilibili限定活动头像。",
+                "redeem_item_type": 8,
+                "redeem_item_id": "2400032",
+                "redeem_item_name": "游戏活动限定头像&游戏内道具-渠道服",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/80d46588e9a227e8c5164e1cf676fa78dda5fed8.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": 4328,
+                "total_stock": 5000
+            },
+            {
+                "collect_id": 610,
+                "start_time": 1701252000,
+                "end_time": 2114406245,
+                "redeem_text": "完成2抽即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "63763",
+                "redeem_item_name": "《地下城堡3：魂之诗》表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/12310631bb4ccab0a6bdaa50cf901f2462294616.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 612,
+                "start_time": 1701252000,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意4张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "63810&63809&63812&63808",
+                "redeem_item_name": "个性主题&动态点赞&加载动画&进度条",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/3b36c7de227c0df489d9b270e4a207e95f349314.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 4,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 615,
+                "start_time": 1701252000,
+                "end_time": 1704038399,
+                "redeem_text": "抽出编号为8、100、666、888、2023的任意卡牌，即可获得发放资格。",
+                "redeem_item_type": 9,
+                "redeem_item_id": "",
+                "redeem_item_name": "《地下城堡3：魂之诗》限定周边",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/fe7d7013c957e5f5954e17077bb8656b7254d789.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "custom",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之礼",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "1024060189"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "尊敬的招魂师，《地下城堡3：魂之诗》携手游戏内各位美女武神为大家打造的系列收藏集-唤灵之典上线啦！一抽就能解锁游戏内的超值道具，特殊编号还送限定周边，每张卡牌都拥有超炫动态，快来召唤你最喜欢的小姐姐吧！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/6db2b4ac654ef05537c77234e5f8728a4e40c2d0.png",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/6db2b4ac654ef05537c77234e5f8728a4e40c2d0.png",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/ba3675be3ec4c14f0aaf0b2ba075c60103485e5b.png\",\"card_count\":1,\"num_color\":\"#8e8e8e\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/386f4ccf731d8a18da28002afc4eead5d7f7f1cc.png\",\"card_count\":5,\"num_color\":\"#3d769e\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/9101a620200d86cc27b85889ba0e7aecda755dc0.png\",\"card_count\":15,\"num_color\":\"#9771c4\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/ac29471e2de37ec5823f575840e64d6fd9dbeebd.png\",\"card_count\":30,\"num_color\":\"#f2ba46\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/388596d4d779064efd42185194a0b774d5b6a17d.png\",\"card_count\":60,\"num_color\":\"#83401e\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/884eae3b4b435ee700679164f9c336abdde1953e.jpg",
@@ -975,5 +967,5 @@
                 }
             ]
         }
-    }
+    ]
 }

@@ -1,293 +1,285 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "《名侦探柯南：黑铁的鱼影》",
-            "cur_time": 1702647720,
-            "start_time": 1702699200,
-            "end_time": 2114406245,
-            "pre_start_time": 1702612800,
-            "pre_end_time": 1702699199,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 229,
-                    "lottery_name": "M26",
-                    "display_time": 1702612800,
-                    "start_time": 1702699200,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/28904029200d52bac2b921a9c181819da98d7f27.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 28634354053632,
-                    "price": 9900,
-                    "goods_name": "M26",
-                    "lottery_desc": "《名侦探柯南：黑铁的鱼影》收藏集共包含15张精美海报；\n普通款：波本·档案系列、琴酒·档案系列、赤井秀一·档案系列均分概率9%，其余均分概率86%；\n隐藏款：灰原哀·档案系列、江户川柯南·档案系列均分概率4.5%，工藤新一＆毛利兰、江户川柯南＆灰原哀均分概率0.5%",
-                    "item_total_cnt": 15,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 0,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+        "act_title": "《名侦探柯南：黑铁的鱼影》",
+        "cur_time": 1702647720,
+        "start_time": 1702699200,
+        "end_time": 2114406245,
+        "pre_start_time": 1702612800,
+        "pre_end_time": 1702699199,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 229,
+                "lottery_name": "M26",
+                "display_time": 1702612800,
+                "start_time": 1702699200,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/28904029200d52bac2b921a9c181819da98d7f27.jpg",
+                "draw_cnt": 0,
+                "goods_id": 28634354053632,
+                "price": 9900,
+                "goods_name": "M26",
+                "lottery_desc": "《名侦探柯南：黑铁的鱼影》收藏集共包含15张精美海报；\n普通款：波本·档案系列、琴酒·档案系列、赤井秀一·档案系列均分概率9%，其余均分概率86%；\n隐藏款：灰原哀·档案系列、江户川柯南·档案系列均分概率4.5%，工藤新一＆毛利兰、江户川柯南＆灰原哀均分概率0.5%",
+                "item_total_cnt": 15,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 0,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
+                },
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "解锁名侦探柯南M26专属画面！",
+            "sub_title": "《名侦探柯南：黑铁的鱼影》专属收藏集上线！精美表情包头像框等你开启",
+            "share_content": "《名侦探柯南：黑铁的鱼影》收藏集活动火热预约中，快点击锁定吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/c1b63cefc52a0043bb5efb0c3cacf2041949ea96.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            },
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 1438,
+        "total_buy_cnt": 0,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 648,
+                "start_time": 1702612800,
+                "end_time": 2114406245,
+                "redeem_text": "抽齐全部卡牌，即可兑换，单UID仅可领取一次",
+                "redeem_item_type": 1,
+                "redeem_item_id": "1165929",
+                "redeem_item_name": "兑换卡·青山刚昌手绘海报",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/063e9645c373ae6817012685a8a589399b0c6097.jpg",
+                "owned_item_amount": 0,
+                "require_item_amount": 15,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": {
+                        "id": 1165929,
+                        "name": "青山刚昌手绘海报",
+                        "overview_image": "https://i0.hdslb.com/bfs/baselabs/063e9645c373ae6817012685a8a589399b0c6097.jpg",
+                        "content": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/baselabs/063e9645c373ae6817012685a8a589399b0c6097.jpg",
+                                "gyroscope": null,
+                                "location": ""
+                            },
+                            "animation": null
+                        },
+                        "material_type": 1,
+                        "theme": "3.限定兑换卡",
+                        "scarcity": 40,
+                        "layout": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "face_overflow": null,
+                        "material_sub_type": 0,
+                        "overview_image_watermarks": [
+                            {
+                                "scene": 1,
+                                "watermark_image": "https://i0.hdslb.com/bfs/garb/2b82139c0eb59b013ef093ea9e358ec4c26947be.png"
+                            }
+                        ],
+                        "watermark_animations": null,
+                        "space_background": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/baselabs/063e9645c373ae6817012685a8a589399b0c6097.jpg",
+                                "gyroscope": null,
+                                "location": "0-356-1242-1242"
+                            },
+                            "animation": null
                         }
                     },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "解锁名侦探柯南M26专属画面！",
-                "sub_title": "《名侦探柯南：黑铁的鱼影》专属收藏集上线！精美表情包头像框等你开启",
-                "share_content": "《名侦探柯南：黑铁的鱼影》收藏集活动火热预约中，快点击锁定吧！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/c1b63cefc52a0043bb5efb0c3cacf2041949ea96.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+                    "play": null,
+                    "tag": null
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "total_book_cnt": 1438,
-            "total_buy_cnt": 0,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 648,
-                    "start_time": 1702612800,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽齐全部卡牌，即可兑换，单UID仅可领取一次",
-                    "redeem_item_type": 1,
-                    "redeem_item_id": "1165929",
-                    "redeem_item_name": "兑换卡·青山刚昌手绘海报",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/063e9645c373ae6817012685a8a589399b0c6097.jpg",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 15,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": {
-                            "id": 1165929,
-                            "name": "青山刚昌手绘海报",
-                            "overview_image": "https://i0.hdslb.com/bfs/baselabs/063e9645c373ae6817012685a8a589399b0c6097.jpg",
-                            "content": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/baselabs/063e9645c373ae6817012685a8a589399b0c6097.jpg",
-                                    "gyroscope": null,
-                                    "location": ""
-                                },
-                                "animation": null
+            {
+                "collect_id": 647,
+                "start_time": 1702612800,
+                "end_time": 2114406245,
+                "redeem_text": "抽齐全部普通卡牌，即可兑换，单UID仅可领取一次",
+                "redeem_item_type": 1,
+                "redeem_item_id": "1165928",
+                "redeem_item_name": "兑换卡·M26剧场海报",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/991887fe64a611576ff2dc83cec91b4e9982a49b.jpg",
+                "owned_item_amount": 0,
+                "require_item_amount": 11,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": {
+                        "id": 1165928,
+                        "name": "M26剧场海报",
+                        "overview_image": "https://i0.hdslb.com/bfs/baselabs/991887fe64a611576ff2dc83cec91b4e9982a49b.jpg",
+                        "content": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/baselabs/991887fe64a611576ff2dc83cec91b4e9982a49b.jpg",
+                                "gyroscope": null,
+                                "location": ""
                             },
-                            "material_type": 1,
-                            "theme": "3.限定兑换卡",
-                            "scarcity": 40,
-                            "layout": 0,
-                            "width": 1242,
-                            "height": 1863,
-                            "face_overflow": null,
-                            "material_sub_type": 0,
-                            "overview_image_watermarks": [
-                                {
-                                    "scene": 1,
-                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/2b82139c0eb59b013ef093ea9e358ec4c26947be.png"
-                                }
-                            ],
-                            "watermark_animations": null,
-                            "space_background": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/baselabs/063e9645c373ae6817012685a8a589399b0c6097.jpg",
-                                    "gyroscope": null,
-                                    "location": "0-356-1242-1242"
-                                },
-                                "animation": null
-                            }
+                            "animation": null
                         },
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 647,
-                    "start_time": 1702612800,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽齐全部普通卡牌，即可兑换，单UID仅可领取一次",
-                    "redeem_item_type": 1,
-                    "redeem_item_id": "1165928",
-                    "redeem_item_name": "兑换卡·M26剧场海报",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/991887fe64a611576ff2dc83cec91b4e9982a49b.jpg",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 11,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": {
-                            "id": 1165928,
-                            "name": "M26剧场海报",
-                            "overview_image": "https://i0.hdslb.com/bfs/baselabs/991887fe64a611576ff2dc83cec91b4e9982a49b.jpg",
-                            "content": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/baselabs/991887fe64a611576ff2dc83cec91b4e9982a49b.jpg",
-                                    "gyroscope": null,
-                                    "location": ""
-                                },
-                                "animation": null
+                        "material_type": 1,
+                        "theme": "3.限定兑换卡",
+                        "scarcity": 40,
+                        "layout": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "face_overflow": null,
+                        "material_sub_type": 0,
+                        "overview_image_watermarks": [
+                            {
+                                "scene": 1,
+                                "watermark_image": "https://i0.hdslb.com/bfs/garb/9d0bf88fd1b35a5e69666d993daf01f1a91978f1.png"
+                            }
+                        ],
+                        "watermark_animations": null,
+                        "space_background": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/baselabs/991887fe64a611576ff2dc83cec91b4e9982a49b.jpg",
+                                "gyroscope": null,
+                                "location": "0-241-1242-1242"
                             },
-                            "material_type": 1,
-                            "theme": "3.限定兑换卡",
-                            "scarcity": 40,
-                            "layout": 0,
-                            "width": 1242,
-                            "height": 1863,
-                            "face_overflow": null,
-                            "material_sub_type": 0,
-                            "overview_image_watermarks": [
-                                {
-                                    "scene": 1,
-                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/9d0bf88fd1b35a5e69666d993daf01f1a91978f1.png"
-                                }
-                            ],
-                            "watermark_animations": null,
-                            "space_background": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/baselabs/991887fe64a611576ff2dc83cec91b4e9982a49b.jpg",
-                                    "gyroscope": null,
-                                    "location": "0-241-1242-1242"
-                                },
-                                "animation": null
-                            }
-                        },
-                        "play": null,
-                        "tag": null
+                            "animation": null
+                        }
                     },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 646,
-                    "start_time": 1702612800,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成4抽，即可兑换，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "65102",
-                    "redeem_item_name": "M26个性主题",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/e48c55793ce8ad1c8cc48e22327f603c5a196eb6.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 4,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 645,
-                    "start_time": 1702612800,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成2抽，即可兑换，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "65087",
-                    "redeem_item_name": "M26表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/734abf647a5cd5be0550b227e084e4b4f9b1a31c.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 644,
-                    "start_time": 1702612800,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽到任意隐藏款卡牌，即可兑换，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "65099",
-                    "redeem_item_name": "M26头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/15b8e47973b3f87d36ddd047090d0d9916ec7dec.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之礼",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "686881111"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "《名侦探柯南：黑铁的鱼影》收藏集是哔哩哔哩与柯南联名打造的首款数字典藏，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁M26专属画面！\n",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/992cda97c5d3213a5bbfaad933214b196ef52469.png",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/992cda97c5d3213a5bbfaad933214b196ef52469.png",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/0c36e3e012a20339cc371d2bcb188a7f6d9fad88.png\",\"card_count\":1,\"num_color\":\"#a88573\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/cf79158b22032b39fa47c168346e4eaf1af546bd.png\",\"card_count\":5,\"num_color\":\"#7eb0ef\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/8e5ab10adf70736bd4e3fbd20a34d4e0b7294359.png\",\"card_count\":15,\"num_color\":\"#e8bc5c\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/17c311e3d759683cdf4c23baba5a4c5362686a96.png\",\"card_count\":30,\"num_color\":\"#ff888e\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/85b675f82bacb0132be09fa013b1502feb7e0633.png\",\"card_count\":60,\"num_color\":\"#9188ff\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 646,
+                "start_time": 1702612800,
+                "end_time": 2114406245,
+                "redeem_text": "完成4抽，即可兑换，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "65102",
+                "redeem_item_name": "M26个性主题",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/e48c55793ce8ad1c8cc48e22327f603c5a196eb6.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 4,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 645,
+                "start_time": 1702612800,
+                "end_time": 2114406245,
+                "redeem_text": "完成2抽，即可兑换，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "65087",
+                "redeem_item_name": "M26表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/734abf647a5cd5be0550b227e084e4b4f9b1a31c.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 644,
+                "start_time": 1702612800,
+                "end_time": 2114406245,
+                "redeem_text": "抽到任意隐藏款卡牌，即可兑换，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "65099",
+                "redeem_item_name": "M26头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/15b8e47973b3f87d36ddd047090d0d9916ec7dec.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之礼",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "686881111"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "《名侦探柯南：黑铁的鱼影》收藏集是哔哩哔哩与柯南联名打造的首款数字典藏，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁M26专属画面！\n",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/992cda97c5d3213a5bbfaad933214b196ef52469.png",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/992cda97c5d3213a5bbfaad933214b196ef52469.png",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/0c36e3e012a20339cc371d2bcb188a7f6d9fad88.png\",\"card_count\":1,\"num_color\":\"#a88573\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/cf79158b22032b39fa47c168346e4eaf1af546bd.png\",\"card_count\":5,\"num_color\":\"#7eb0ef\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/8e5ab10adf70736bd4e3fbd20a34d4e0b7294359.png\",\"card_count\":15,\"num_color\":\"#e8bc5c\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/17c311e3d759683cdf4c23baba5a4c5362686a96.png\",\"card_count\":30,\"num_color\":\"#ff888e\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/85b675f82bacb0132be09fa013b1502feb7e0633.png\",\"card_count\":60,\"num_color\":\"#9188ff\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/c1b63cefc52a0043bb5efb0c3cacf2041949ea96.jpg",
@@ -789,5 +781,5 @@
                 }
             ]
         }
-    }
+    ]
 }

@@ -1,142 +1,134 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "BLG信念干杯收藏集",
-            "cur_time": 1702648076,
-            "start_time": 1683788400,
-            "end_time": 2114406245,
-            "pre_start_time": 1683702000,
-            "pre_end_time": 1683788399,
-            "is_booked": 0,
-            "act_desc": "https://i0.hdslb.com/bfs/garb/3d5378cf4b287887476c9a25f8e3ef504e839220.png",
-            "lottery_list": [
-                {
-                    "lottery_id": 10,
-                    "lottery_name": "布噜噜奖池",
-                    "display_time": 1683702000,
-                    "start_time": 1683788400,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/8587245aeb57ae96a69a819871e6598ef35694f6.png",
-                    "draw_cnt": 0,
-                    "goods_id": 9481838682112,
-                    "price": 9900,
-                    "goods_name": "布噜噜奖池",
-                    "lottery_desc": "布噜噜奖池包含BLG.Bin、BLG.Xun、BLG.Yagao、BLG.Elk、BLG.ON、BLG.LvMao一6位选手的精美立绘，等你拥有！\n* 普通款：冰蓝系列，炫粉系列 共12张，均分概率77%；粉蓝系列共6张均分概率18%\n* 隐藏款：潮酷系列3张均分概率4.5%；炫彩系列3张均分概率0.5%",
-                    "item_total_cnt": 24,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 40677,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": null,
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "BLG 信念干杯收藏集",
-                "sub_title": "恭喜！你被欧气砸中！快来加入吧，一起为信念干杯！",
-                "share_content": "BLG 信念干杯收藏集上线啦！"
+        "act_title": "BLG信念干杯收藏集",
+        "cur_time": 1702648076,
+        "start_time": 1683788400,
+        "end_time": 2114406245,
+        "pre_start_time": 1683702000,
+        "pre_end_time": 1683788399,
+        "is_booked": 0,
+        "act_desc": "https://i0.hdslb.com/bfs/garb/3d5378cf4b287887476c9a25f8e3ef504e839220.png",
+        "lottery_list": [
+            {
+                "lottery_id": 10,
+                "lottery_name": "布噜噜奖池",
+                "display_time": 1683702000,
+                "start_time": 1683788400,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/8587245aeb57ae96a69a819871e6598ef35694f6.png",
+                "draw_cnt": 0,
+                "goods_id": 9481838682112,
+                "price": 9900,
+                "goods_name": "布噜噜奖池",
+                "lottery_desc": "布噜噜奖池包含BLG.Bin、BLG.Xun、BLG.Yagao、BLG.Elk、BLG.ON、BLG.LvMao一6位选手的精美立绘，等你拥有！\n* 普通款：冰蓝系列，炫粉系列 共12张，均分概率77%；粉蓝系列共6张均分概率18%\n* 隐藏款：潮酷系列3张均分概率4.5%；炫彩系列3张均分概率0.5%",
+                "item_total_cnt": 24,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 40677,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": null,
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "BLG 信念干杯收藏集",
+            "sub_title": "恭喜！你被欧气砸中！快来加入吧，一起为信念干杯！",
+            "share_content": "BLG 信念干杯收藏集上线啦！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/511013675bfdadfbd78f839aeaacc1510a15382c.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/511013675bfdadfbd78f839aeaacc1510a15382c.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 1321,
+        "total_buy_cnt": 40677,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 16,
+                "start_time": 1683702000,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "52528",
+                "redeem_item_name": "BLG信念干杯头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/7de35387499ad2c486689d21707aa1beb08d97de.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "total_book_cnt": 1321,
-            "total_buy_cnt": 40677,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 16,
-                    "start_time": 1683702000,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "52528",
-                    "redeem_item_name": "BLG信念干杯头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/7de35387499ad2c486689d21707aa1beb08d97de.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            {
+                "collect_id": 15,
+                "start_time": 1683702000,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "52550",
+                "redeem_item_name": "BLG表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/db5c4b3ca88cdf4dd9fb82bb29981b420c3c53bf.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 15,
-                    "start_time": 1683702000,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "52550",
-                    "redeem_item_name": "BLG表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/db5c4b3ca88cdf4dd9fb82bb29981b420c3c53bf.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "兑换福利",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
-            },
-            "is_can_donate": 1,
-            "is_up_chain": 1,
-            "related_mids": null,
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 0,
-            "product_introduce": "",
-            "app_head_show": "",
-            "app_space_show": "",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/f521614c20dcf9fa0ca182562afd65d50800fc43.png\",\"card_count\":1,\"num_color\":\"#9fb5cb\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/3d8077611bd0b4b41a1eab1253d9a1f519490b13.png\",\"card_count\":5,\"num_color\":\"#e6ecf2\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/ad0a9a506e81b0010600a72d15f4d2402f2945ff.png\",\"card_count\":15,\"num_color\":\"#fba9c7\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/d9e2e51160c9fc1707173019b6d36c611c94af67.png\",\"card_count\":30,\"num_color\":\"#24dbf7\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/3c1f64a3a078b9d3d6e3649fbc3235c9c02534f1.png\",\"card_count\":60,\"num_color\":\"#ff81aa\"}]",
-            "topic": null
-        }
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "兑换福利",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 1,
+        "related_mids": null,
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 0,
+        "product_introduce": "",
+        "app_head_show": "",
+        "app_space_show": "",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/f521614c20dcf9fa0ca182562afd65d50800fc43.png\",\"card_count\":1,\"num_color\":\"#9fb5cb\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/3d8077611bd0b4b41a1eab1253d9a1f519490b13.png\",\"card_count\":5,\"num_color\":\"#e6ecf2\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/ad0a9a506e81b0010600a72d15f4d2402f2945ff.png\",\"card_count\":15,\"num_color\":\"#fba9c7\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/d9e2e51160c9fc1707173019b6d36c611c94af67.png\",\"card_count\":30,\"num_color\":\"#24dbf7\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/3c1f64a3a078b9d3d6e3649fbc3235c9c02534f1.png\",\"card_count\":60,\"num_color\":\"#ff81aa\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/511013675bfdadfbd78f839aeaacc1510a15382c.png",
@@ -937,5 +929,5 @@
                 }
             ]
         }
-    }
+    ]
 }

@@ -1,151 +1,143 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "芋圆有点甜收藏集",
-            "cur_time": 1702647966,
-            "start_time": 1695182400,
-            "end_time": 2114406245,
-            "pre_start_time": 1695096000,
-            "pre_end_time": 1695182399,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 100006,
-                    "lottery_name": "百变芋圆",
-                    "display_time": 1695096000,
-                    "start_time": 1695182400,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/e3b5c764ac41cdd50cb21ae7cdf90371715791f6.png",
-                    "draw_cnt": 0,
-                    "goods_id": 12780954478592,
-                    "price": 9900,
-                    "goods_name": "百变芋圆",
-                    "lottery_desc": "【芋圆有点甜收藏集——百变芋圆】共包含16张精美立绘，感受甜美芋圆的独家魅力！\n* 隐藏款：异域风情圆和祷告修女圆2张，均分概率0.5%；成熟空姐圆和古风汉服圆2张，均分概率4.5%\n* 普通款：甜心宝贝圆和轻熟睡衣圆2张，均分概率9%；剩余卡牌共10张，均分概率86%",
-                    "item_total_cnt": 16,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 4777,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "芋圆有点甜收藏集——百变芋圆开售",
-                "sub_title": "超精美写真，趣味表情包、头像框等你抱回家！",
-                "share_content": "芋圆有点甜收藏集——百变芋圆火热开售中，性感舞蹈抢先看！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/f68fa774d8884a9ba1b57aa80dc24dc57726ea2a.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "芋圆有点甜收藏集",
+        "cur_time": 1702647966,
+        "start_time": 1695182400,
+        "end_time": 2114406245,
+        "pre_start_time": 1695096000,
+        "pre_end_time": 1695182399,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 100006,
+                "lottery_name": "百变芋圆",
+                "display_time": 1695096000,
+                "start_time": 1695182400,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/e3b5c764ac41cdd50cb21ae7cdf90371715791f6.png",
+                "draw_cnt": 0,
+                "goods_id": 12780954478592,
+                "price": 9900,
+                "goods_name": "百变芋圆",
+                "lottery_desc": "【芋圆有点甜收藏集——百变芋圆】共包含16张精美立绘，感受甜美芋圆的独家魅力！\n* 隐藏款：异域风情圆和祷告修女圆2张，均分概率0.5%；成熟空姐圆和古风汉服圆2张，均分概率4.5%\n* 普通款：甜心宝贝圆和轻熟睡衣圆2张，均分概率9%；剩余卡牌共10张，均分概率86%",
+                "item_total_cnt": 16,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 4777,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "芋圆有点甜收藏集——百变芋圆开售",
+            "sub_title": "超精美写真，趣味表情包、头像框等你抱回家！",
+            "share_content": "芋圆有点甜收藏集——百变芋圆火热开售中，性感舞蹈抢先看！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/f68fa774d8884a9ba1b57aa80dc24dc57726ea2a.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 334,
-            "total_buy_cnt": 4777,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 100012,
-                    "start_time": 1695096000,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "59540",
-                    "redeem_item_name": "百变芋圆表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/89e6110902d2449f00becdb7e1d6f052edead387.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 334,
+        "total_buy_cnt": 4777,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 100012,
+                "start_time": 1695096000,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "59540",
+                "redeem_item_name": "百变芋圆表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/89e6110902d2449f00becdb7e1d6f052edead387.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 100011,
-                    "start_time": 1695096000,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "59539",
-                    "redeem_item_name": "百变芋圆头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/2c24c3f5b38b381abbaa526bda3f1b612a7a1fc1.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之旅",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 1,
-            "related_mids": [
-                "1323218982"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 0,
-            "product_introduce": "【芋圆有点甜收藏集】是灵犀互娱公会携手芋圆有点甜-定制打造的个人数字收藏集，其中的每张数字卡片都将拥有独特编号，每张集卡均是精心挑选，期待粉丝们一起来解锁不一样的芋圆！见证闪亮时刻！\n芋圆有点甜-是B站舞蹈UP主，身高170的圆脸长腿妹~直播活跃于B站舞见区，运用激情舞蹈让每一个观众享受视觉盛宴狂欢！视频风格多样，舞蹈无论是竖屏提神版还是横屏精美版都深受观众们喜欢。更有劲爆专享腿精版内容赞叹不绝，粉丝们纷纷打call应援！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/d2463eedd2cb8c377766b905451e69f1cf16b845.png",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/d2463eedd2cb8c377766b905451e69f1cf16b845.png",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/0dfcf02d218b142d0e04d9ba10336f63e73ece49.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/b4d3a41a930a7737e867774330e75f9e910fb9bc.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/20f1483da2ebe1e9ba7ba401b83551d1460553fc.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/3e396b6fdd67de1a35061f54073c680ce8d873e3.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/706ebd4908abcb9e2813165ecac47020f64673b8.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 100011,
+                "start_time": 1695096000,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "59539",
+                "redeem_item_name": "百变芋圆头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/2c24c3f5b38b381abbaa526bda3f1b612a7a1fc1.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之旅",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 1,
+        "related_mids": [
+            "1323218982"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 0,
+        "product_introduce": "【芋圆有点甜收藏集】是灵犀互娱公会携手芋圆有点甜-定制打造的个人数字收藏集，其中的每张数字卡片都将拥有独特编号，每张集卡均是精心挑选，期待粉丝们一起来解锁不一样的芋圆！见证闪亮时刻！\n芋圆有点甜-是B站舞蹈UP主，身高170的圆脸长腿妹~直播活跃于B站舞见区，运用激情舞蹈让每一个观众享受视觉盛宴狂欢！视频风格多样，舞蹈无论是竖屏提神版还是横屏精美版都深受观众们喜欢。更有劲爆专享腿精版内容赞叹不绝，粉丝们纷纷打call应援！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/d2463eedd2cb8c377766b905451e69f1cf16b845.png",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/d2463eedd2cb8c377766b905451e69f1cf16b845.png",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/0dfcf02d218b142d0e04d9ba10336f63e73ece49.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/b4d3a41a930a7737e867774330e75f9e910fb9bc.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/20f1483da2ebe1e9ba7ba401b83551d1460553fc.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/3e396b6fdd67de1a35061f54073c680ce8d873e3.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/706ebd4908abcb9e2813165ecac47020f64673b8.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/f68fa774d8884a9ba1b57aa80dc24dc57726ea2a.png",
@@ -666,5 +658,5 @@
                 }
             ]
         }
-    }
+    ]
 }

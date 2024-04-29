@@ -1,313 +1,305 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "《胶囊计划 第二季》数字典藏",
-            "cur_time": 1702647777,
-            "start_time": 1701403200,
-            "end_time": 2114406245,
-            "pre_start_time": 1701316800,
-            "pre_end_time": 1701403199,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 217,
-                    "lottery_name": "《胶囊计划 第二季》",
-                    "display_time": 1701316800,
-                    "start_time": 1701403200,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/975c877c4154b28343084b49645a7968ab3a8880.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 25914251439616,
-                    "price": 9900,
-                    "goods_name": "《胶囊计划 第二季》",
-                    "lottery_desc": "《胶囊计划 第二季》第一弹卡池包含26张精美海报，整体卡池均分概率100%；\n签绘胶囊：13支中国动画作品签绘海报；\n彩蛋胶囊：13支中国动画作品动态海报。\n",
-                    "item_total_cnt": 26,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 3548,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 1900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
+        "act_title": "《胶囊计划 第二季》数字典藏",
+        "cur_time": 1702647777,
+        "start_time": 1701403200,
+        "end_time": 2114406245,
+        "pre_start_time": 1701316800,
+        "pre_end_time": 1701403199,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 217,
+                "lottery_name": "《胶囊计划 第二季》",
+                "display_time": 1701316800,
+                "start_time": 1701403200,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/975c877c4154b28343084b49645a7968ab3a8880.jpg",
+                "draw_cnt": 0,
+                "goods_id": 25914251439616,
+                "price": 9900,
+                "goods_name": "《胶囊计划 第二季》",
+                "lottery_desc": "《胶囊计划 第二季》第一弹卡池包含26张精美海报，整体卡池均分概率100%；\n签绘胶囊：13支中国动画作品签绘海报；\n彩蛋胶囊：13支中国动画作品动态海报。\n",
+                "item_total_cnt": 26,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 3548,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 1900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                {
-                    "lottery_id": 220,
-                    "lottery_name": "福利奖池",
-                    "display_time": 1701680400,
-                    "start_time": 1701748800,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/8c896a7594211c7bab2c30e5c46e05af8df2b2d7.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 26674445969921,
-                    "price": 0,
-                    "goods_name": "福利奖池",
-                    "lottery_desc": "《胶囊计划 第二季》数字典藏福利卡池共包含3张海报；\n23场景胶囊·GAME SHOW、23场景胶囊·水塘幻想、23场景胶囊·瓶装闪电均分概率100%\n获取抽数方式：凡是购买过2022胶囊计划第一弹数字典藏即可免费获得一次抽卡次数，更多福利释放中敬请期待",
-                    "item_total_cnt": 3,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 18773,
-                    "lottery_type": 2,
-                    "effective_forever": 1,
-                    "discount": null,
-                    "free": 1,
-                    "sale_mode": 1
-                },
-                {
-                    "lottery_id": 219,
-                    "lottery_name": "创作胶囊",
-                    "display_time": 1701676800,
-                    "start_time": 1701748800,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/27bf11eabffeb6944990690cbcc5ec3ef6f9be93.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 26674445969920,
-                    "price": 9900,
-                    "goods_name": "创作胶囊",
-                    "lottery_desc": "【创作胶囊】卡池为胶囊计划13支动画团队精美创作海报；\n本卡池共包含26张动态海报，均分概率100%",
-                    "item_total_cnt": 26,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 893,
-                    "lottery_type": 2,
-                    "effective_forever": 1,
-                    "discount": null,
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "开启专属彩蛋胶囊！感受中国原创动画的魅力",
-                "sub_title": "《胶囊计划 第二季》数字典藏集火热开启，领取你的专属彩蛋胶囊",
-                "share_content": "《胶囊计划 第二季》数字典藏集火热开售中，感受中国原创动画的魅力！"
+                "free": 0,
+                "sale_mode": 1
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/6b73c04d50f195ee6a0788e8237504be24e21b26.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
-                },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+            {
+                "lottery_id": 220,
+                "lottery_name": "福利奖池",
+                "display_time": 1701680400,
+                "start_time": 1701748800,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/8c896a7594211c7bab2c30e5c46e05af8df2b2d7.jpg",
+                "draw_cnt": 0,
+                "goods_id": 26674445969921,
+                "price": 0,
+                "goods_name": "福利奖池",
+                "lottery_desc": "《胶囊计划 第二季》数字典藏福利卡池共包含3张海报；\n23场景胶囊·GAME SHOW、23场景胶囊·水塘幻想、23场景胶囊·瓶装闪电均分概率100%\n获取抽数方式：凡是购买过2022胶囊计划第一弹数字典藏即可免费获得一次抽卡次数，更多福利释放中敬请期待",
+                "item_total_cnt": 3,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 18773,
+                "lottery_type": 2,
+                "effective_forever": 1,
+                "discount": null,
+                "free": 1,
+                "sale_mode": 1
             },
-            "total_book_cnt": 753,
-            "total_buy_cnt": 23214,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 621,
-                    "start_time": 1701745200,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽齐任意13张创作胶囊海报即可兑换，单UID仅可领取一次",
-                    "redeem_item_type": 1,
-                    "redeem_item_id": "1165684",
-                    "redeem_item_name": "兑换卡·23胶囊计划",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/6a4ef7f5ab83ddf77b9ff2064fa6a27f2a502c98.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 13,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": {
-                            "id": 1165684,
-                            "name": "23胶囊计划",
-                            "overview_image": "https://i0.hdslb.com/bfs/baselabs/6a4ef7f5ab83ddf77b9ff2064fa6a27f2a502c98.png",
-                            "content": {
-                                "image": null,
-                                "animation": {
-                                    "animation_video_urls": [
-                                        "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/tb/v4/_00001d69vi90tl2bo22yi4csjezv4tb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654977&gen=playurlv2&os=08cbv&oi=0&trid=2efd49939e854a81b09796d04ba3a9d0B&mid=0&platform=html5&upsig=e777ba5fb68b6dc4240c541708d3b40e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
-                                        "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/tb/v4/_00001d69vi90tl2bo22yi4csjezv4tb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654977&gen=playurlv2&os=08cbv&oi=0&trid=2efd49939e854a81b09796d04ba3a9d0B&mid=0&platform=html5&upsig=e777ba5fb68b6dc4240c541708d3b40e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
-                                        "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/tb/v4/_00001d69vi90tl2bo22yi4csjezv4tb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654977&gen=playurlv2&os=hwbbv&oi=0&trid=2efd49939e854a81b09796d04ba3a9d0B&mid=0&platform=html5&upsig=03ca1d10bbfd9401d81a9ee50e1c8994&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
-                                    ],
-                                    "animation_backup_image": "https://i0.hdslb.com/bfs/baselabs/6a4ef7f5ab83ddf77b9ff2064fa6a27f2a502c98.png",
-                                    "animation_first_frame": "https://i0.hdslb.com/bfs/baselabs/6a4ef7f5ab83ddf77b9ff2064fa6a27f2a502c98.png",
-                                    "is_mute": false,
-                                    "animation_url": "upos://panguxcodeboss/tb/v4/_00001d69vi90tl2bo22yi4csjezv4tb-1-152111110023.mp4",
-                                    "subtitles_url": "",
-                                    "duration": 6,
-                                    "width": 0,
-                                    "height": 0,
-                                    "location": "",
-                                    "compressed_w_h": ""
-                                }
-                            },
-                            "material_type": 2,
-                            "theme": "视频",
-                            "scarcity": 30,
-                            "layout": 0,
-                            "width": 1242,
-                            "height": 1862,
-                            "face_overflow": null,
-                            "material_sub_type": 0,
-                            "overview_image_watermarks": [
-                                {
-                                    "scene": 1,
-                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/632a0fb418a69345bd302b3bfe6512b0827f06b5.png"
-                                }
-                            ],
-                            "watermark_animations": [
-                                {
-                                    "scene": 2,
-                                    "watermark_animation": "https://upos-sz-mirrorcos.bilivideo.com/panguxcodeboss/digital_watermark/lb/ez/_00000mxqmtfefnfm123rhzqt4zrezlb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654977&gen=playurlv2&os=cosbv&oi=0&trid=2efd49939e854a81b09796d04ba3a9d0B&mid=0&platform=html5&upsig=2edbd7c82f4da1f8a21bf1e3557a72a4&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0"
-                                },
-                                {
-                                    "scene": 2,
-                                    "watermark_animation": "https://upos-sz-mirrorcos.bilivideo.com/panguxcodeboss/digital_watermark/lb/ez/_00000mxqmtfefnfm123rhzqt4zrezlb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654977&gen=playurlv2&os=cosbv&oi=0&trid=2efd49939e854a81b09796d04ba3a9d0B&mid=0&platform=html5&upsig=2edbd7c82f4da1f8a21bf1e3557a72a4&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0"
-                                },
-                                {
-                                    "scene": 2,
-                                    "watermark_animation": "https://upos-sz-mirrorcosb.bilivideo.com/panguxcodeboss/digital_watermark/lb/ez/_00000mxqmtfefnfm123rhzqt4zrezlb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654977&gen=playurlv2&os=cosbbv&oi=0&trid=2efd49939e854a81b09796d04ba3a9d0B&mid=0&platform=html5&upsig=2ebb364a94327d43a8a312121462216c&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
-                                }
-                            ],
-                            "space_background": {
-                                "image": null,
-                                "animation": {
-                                    "animation_video_urls": [
-                                        "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/tb/v4/_00001d69vi90tl2bo22yi4csjezv4tb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654977&gen=playurlv2&os=08cbv&oi=0&trid=2efd49939e854a81b09796d04ba3a9d0B&mid=0&platform=html5&upsig=e777ba5fb68b6dc4240c541708d3b40e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
-                                        "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/tb/v4/_00001d69vi90tl2bo22yi4csjezv4tb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654977&gen=playurlv2&os=08cbv&oi=0&trid=2efd49939e854a81b09796d04ba3a9d0B&mid=0&platform=html5&upsig=e777ba5fb68b6dc4240c541708d3b40e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
-                                        "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/tb/v4/_00001d69vi90tl2bo22yi4csjezv4tb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654977&gen=playurlv2&os=hwbbv&oi=0&trid=2efd49939e854a81b09796d04ba3a9d0B&mid=0&platform=html5&upsig=03ca1d10bbfd9401d81a9ee50e1c8994&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
-                                    ],
-                                    "animation_backup_image": "https://i0.hdslb.com/bfs/baselabs/6a4ef7f5ab83ddf77b9ff2064fa6a27f2a502c98.png@1080w_1618h",
-                                    "animation_first_frame": "https://i0.hdslb.com/bfs/baselabs/6a4ef7f5ab83ddf77b9ff2064fa6a27f2a502c98.png@1080w_1618h",
-                                    "is_mute": false,
-                                    "animation_url": "upos://panguxcodeboss/tb/v4/_00001d69vi90tl2bo22yi4csjezv4tb-1-152111110023.mp4",
-                                    "subtitles_url": "",
-                                    "duration": 6,
-                                    "width": 0,
-                                    "height": 0,
-                                    "location": "0-228-1079-1079",
-                                    "compressed_w_h": "1079-1618"
-                                }
+            {
+                "lottery_id": 219,
+                "lottery_name": "创作胶囊",
+                "display_time": 1701676800,
+                "start_time": 1701748800,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/27bf11eabffeb6944990690cbcc5ec3ef6f9be93.jpg",
+                "draw_cnt": 0,
+                "goods_id": 26674445969920,
+                "price": 9900,
+                "goods_name": "创作胶囊",
+                "lottery_desc": "【创作胶囊】卡池为胶囊计划13支动画团队精美创作海报；\n本卡池共包含26张动态海报，均分概率100%",
+                "item_total_cnt": 26,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 893,
+                "lottery_type": 2,
+                "effective_forever": 1,
+                "discount": null,
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "开启专属彩蛋胶囊！感受中国原创动画的魅力",
+            "sub_title": "《胶囊计划 第二季》数字典藏集火热开启，领取你的专属彩蛋胶囊",
+            "share_content": "《胶囊计划 第二季》数字典藏集火热开售中，感受中国原创动画的魅力！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/6b73c04d50f195ee6a0788e8237504be24e21b26.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            },
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 753,
+        "total_buy_cnt": 23214,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 621,
+                "start_time": 1701745200,
+                "end_time": 2114406245,
+                "redeem_text": "抽齐任意13张创作胶囊海报即可兑换，单UID仅可领取一次",
+                "redeem_item_type": 1,
+                "redeem_item_id": "1165684",
+                "redeem_item_name": "兑换卡·23胶囊计划",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/6a4ef7f5ab83ddf77b9ff2064fa6a27f2a502c98.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 13,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": {
+                        "id": 1165684,
+                        "name": "23胶囊计划",
+                        "overview_image": "https://i0.hdslb.com/bfs/baselabs/6a4ef7f5ab83ddf77b9ff2064fa6a27f2a502c98.png",
+                        "content": {
+                            "image": null,
+                            "animation": {
+                                "animation_video_urls": [
+                                    "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/tb/v4/_00001d69vi90tl2bo22yi4csjezv4tb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654977&gen=playurlv2&os=08cbv&oi=0&trid=2efd49939e854a81b09796d04ba3a9d0B&mid=0&platform=html5&upsig=e777ba5fb68b6dc4240c541708d3b40e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                                    "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/tb/v4/_00001d69vi90tl2bo22yi4csjezv4tb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654977&gen=playurlv2&os=08cbv&oi=0&trid=2efd49939e854a81b09796d04ba3a9d0B&mid=0&platform=html5&upsig=e777ba5fb68b6dc4240c541708d3b40e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                                    "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/tb/v4/_00001d69vi90tl2bo22yi4csjezv4tb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654977&gen=playurlv2&os=hwbbv&oi=0&trid=2efd49939e854a81b09796d04ba3a9d0B&mid=0&platform=html5&upsig=03ca1d10bbfd9401d81a9ee50e1c8994&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                                ],
+                                "animation_backup_image": "https://i0.hdslb.com/bfs/baselabs/6a4ef7f5ab83ddf77b9ff2064fa6a27f2a502c98.png",
+                                "animation_first_frame": "https://i0.hdslb.com/bfs/baselabs/6a4ef7f5ab83ddf77b9ff2064fa6a27f2a502c98.png",
+                                "is_mute": false,
+                                "animation_url": "upos://panguxcodeboss/tb/v4/_00001d69vi90tl2bo22yi4csjezv4tb-1-152111110023.mp4",
+                                "subtitles_url": "",
+                                "duration": 6,
+                                "width": 0,
+                                "height": 0,
+                                "location": "",
+                                "compressed_w_h": ""
                             }
                         },
-                        "play": null,
-                        "tag": null
+                        "material_type": 2,
+                        "theme": "视频",
+                        "scarcity": 30,
+                        "layout": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "face_overflow": null,
+                        "material_sub_type": 0,
+                        "overview_image_watermarks": [
+                            {
+                                "scene": 1,
+                                "watermark_image": "https://i0.hdslb.com/bfs/garb/632a0fb418a69345bd302b3bfe6512b0827f06b5.png"
+                            }
+                        ],
+                        "watermark_animations": [
+                            {
+                                "scene": 2,
+                                "watermark_animation": "https://upos-sz-mirrorcos.bilivideo.com/panguxcodeboss/digital_watermark/lb/ez/_00000mxqmtfefnfm123rhzqt4zrezlb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654977&gen=playurlv2&os=cosbv&oi=0&trid=2efd49939e854a81b09796d04ba3a9d0B&mid=0&platform=html5&upsig=2edbd7c82f4da1f8a21bf1e3557a72a4&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0"
+                            },
+                            {
+                                "scene": 2,
+                                "watermark_animation": "https://upos-sz-mirrorcos.bilivideo.com/panguxcodeboss/digital_watermark/lb/ez/_00000mxqmtfefnfm123rhzqt4zrezlb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654977&gen=playurlv2&os=cosbv&oi=0&trid=2efd49939e854a81b09796d04ba3a9d0B&mid=0&platform=html5&upsig=2edbd7c82f4da1f8a21bf1e3557a72a4&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0"
+                            },
+                            {
+                                "scene": 2,
+                                "watermark_animation": "https://upos-sz-mirrorcosb.bilivideo.com/panguxcodeboss/digital_watermark/lb/ez/_00000mxqmtfefnfm123rhzqt4zrezlb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654977&gen=playurlv2&os=cosbbv&oi=0&trid=2efd49939e854a81b09796d04ba3a9d0B&mid=0&platform=html5&upsig=2ebb364a94327d43a8a312121462216c&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                            }
+                        ],
+                        "space_background": {
+                            "image": null,
+                            "animation": {
+                                "animation_video_urls": [
+                                    "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/tb/v4/_00001d69vi90tl2bo22yi4csjezv4tb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654977&gen=playurlv2&os=08cbv&oi=0&trid=2efd49939e854a81b09796d04ba3a9d0B&mid=0&platform=html5&upsig=e777ba5fb68b6dc4240c541708d3b40e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                                    "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/tb/v4/_00001d69vi90tl2bo22yi4csjezv4tb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654977&gen=playurlv2&os=08cbv&oi=0&trid=2efd49939e854a81b09796d04ba3a9d0B&mid=0&platform=html5&upsig=e777ba5fb68b6dc4240c541708d3b40e&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                                    "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/tb/v4/_00001d69vi90tl2bo22yi4csjezv4tb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702654977&gen=playurlv2&os=hwbbv&oi=0&trid=2efd49939e854a81b09796d04ba3a9d0B&mid=0&platform=html5&upsig=03ca1d10bbfd9401d81a9ee50e1c8994&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                                ],
+                                "animation_backup_image": "https://i0.hdslb.com/bfs/baselabs/6a4ef7f5ab83ddf77b9ff2064fa6a27f2a502c98.png@1080w_1618h",
+                                "animation_first_frame": "https://i0.hdslb.com/bfs/baselabs/6a4ef7f5ab83ddf77b9ff2064fa6a27f2a502c98.png@1080w_1618h",
+                                "is_mute": false,
+                                "animation_url": "upos://panguxcodeboss/tb/v4/_00001d69vi90tl2bo22yi4csjezv4tb-1-152111110023.mp4",
+                                "subtitles_url": "",
+                                "duration": 6,
+                                "width": 0,
+                                "height": 0,
+                                "location": "0-228-1079-1079",
+                                "compressed_w_h": "1079-1618"
+                            }
+                        }
                     },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 609,
-                    "start_time": 1701316800,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成4抽，即可兑换，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "64314",
-                    "redeem_item_name": "《胶囊计划 第二季》个性主题",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/b22baa2aeeba601c182358203f175ab5ad04f385.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 4,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 608,
-                    "start_time": 1701316800,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成2抽，即可兑换，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "64288",
-                    "redeem_item_name": "《胶囊计划 第二季》表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/f53322ea4de23c395b1ee772e0c2ae0dfa25b0b4.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 607,
-                    "start_time": 1701316800,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成10抽，即可兑换，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "64286",
-                    "redeem_item_name": "《胶囊计划 第二季》头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/de8d4a5f8c6963b090db6e8b4add318abeb9b19d.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 10,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之礼",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "485154857"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【胶囊计划第二季数字典藏集】是哔哩哔哩携手13支中国动画创作团队，为2023届“胶囊计划”打造的数字周边，每张数字卡片都将拥有独特编号。寻光而至，希望大家可以边追作品边收藏！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/e2450b6cac6bdd651dde121ac137c462fe3867bf.png",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/e2450b6cac6bdd651dde121ac137c462fe3867bf.png",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/4536e305cca65fd86eeb887266578480cae023d2.png\",\"card_count\":1,\"num_color\":\"#c09d8a\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/77649811557f1273e55b50c3a7ec2f8e31787baa.png\",\"card_count\":5,\"num_color\":\"#7c8ece\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/698a01f92a173ae74e9de62e33adc1a6eeba3aa7.png\",\"card_count\":15,\"num_color\":\"#eec774\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/5090f45e3adfda79bb7e58221408c7db135e8935.png\",\"card_count\":30,\"num_color\":\"#ec95ab\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/b3502ded89a3b7fe69657ef503fad86b0b0763ab.png\",\"card_count\":60,\"num_color\":\"#a182e5\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 609,
+                "start_time": 1701316800,
+                "end_time": 2114406245,
+                "redeem_text": "完成4抽，即可兑换，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "64314",
+                "redeem_item_name": "《胶囊计划 第二季》个性主题",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/b22baa2aeeba601c182358203f175ab5ad04f385.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 4,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 608,
+                "start_time": 1701316800,
+                "end_time": 2114406245,
+                "redeem_text": "完成2抽，即可兑换，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "64288",
+                "redeem_item_name": "《胶囊计划 第二季》表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/f53322ea4de23c395b1ee772e0c2ae0dfa25b0b4.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 607,
+                "start_time": 1701316800,
+                "end_time": 2114406245,
+                "redeem_text": "完成10抽，即可兑换，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "64286",
+                "redeem_item_name": "《胶囊计划 第二季》头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/de8d4a5f8c6963b090db6e8b4add318abeb9b19d.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 10,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之礼",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "485154857"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【胶囊计划第二季数字典藏集】是哔哩哔哩携手13支中国动画创作团队，为2023届“胶囊计划”打造的数字周边，每张数字卡片都将拥有独特编号。寻光而至，希望大家可以边追作品边收藏！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/e2450b6cac6bdd651dde121ac137c462fe3867bf.png",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/e2450b6cac6bdd651dde121ac137c462fe3867bf.png",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/4536e305cca65fd86eeb887266578480cae023d2.png\",\"card_count\":1,\"num_color\":\"#c09d8a\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/77649811557f1273e55b50c3a7ec2f8e31787baa.png\",\"card_count\":5,\"num_color\":\"#7c8ece\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/698a01f92a173ae74e9de62e33adc1a6eeba3aa7.png\",\"card_count\":15,\"num_color\":\"#eec774\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/5090f45e3adfda79bb7e58221408c7db135e8935.png\",\"card_count\":30,\"num_color\":\"#ec95ab\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/b3502ded89a3b7fe69657ef503fad86b0b0763ab.png\",\"card_count\":60,\"num_color\":\"#a182e5\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/6b73c04d50f195ee6a0788e8237504be24e21b26.jpg",
@@ -2260,5 +2252,5 @@
                 }
             ]
         }
-    }
+    ]
 }

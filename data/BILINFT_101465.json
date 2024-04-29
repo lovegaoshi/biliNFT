@@ -1,241 +1,233 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "FPX·六翮如云收藏集",
-            "cur_time": 1711931962,
-            "start_time": 1711857600,
-            "end_time": 2114406245,
-            "pre_start_time": 1711771200,
-            "pre_end_time": 1711857599,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 101524,
-                    "lottery_name": "六翮如云",
-                    "display_time": 1711771200,
-                    "start_time": 1711857600,
-                    "end_time": 2114406245,
-                    "lottery_image": "https://i0.hdslb.com/bfs/garb/33508a0e0e2cc6f07ecabcf14bff37bafcdb2f91.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 47846659227648,
-                    "price": 9900,
-                    "goods_name": "六翮如云",
-                    "lottery_desc": "【隐藏款-大隐藏】：六翮如云·milkyway,六翮如云·deokdam,六翮如云·Life均分概率0.5%,若前399抽均未获得过任意大隐藏，则第400抽必得大隐藏;\n【隐藏款-小隐藏】：六翮如云·Moyan,六翮如云·Care,六翮如云·Xiaolaohu均分概率4.5%;\n【普通款】：砥砺霁月·milkyway,砥砺霁月·deokdam,砥砺霁月·Life均分概率9%，其余立绘均分概率86%;",
-                    "item_total_cnt": 24,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 1542,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+        "act_title": "FPX·六翮如云收藏集",
+        "cur_time": 1711931962,
+        "start_time": 1711857600,
+        "end_time": 2114406245,
+        "pre_start_time": 1711771200,
+        "pre_end_time": 1711857599,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 101524,
+                "lottery_name": "六翮如云",
+                "display_time": 1711771200,
+                "start_time": 1711857600,
+                "end_time": 2114406245,
+                "lottery_image": "https://i0.hdslb.com/bfs/garb/33508a0e0e2cc6f07ecabcf14bff37bafcdb2f91.jpg",
+                "draw_cnt": 0,
+                "goods_id": 47846659227648,
+                "price": 9900,
+                "goods_name": "六翮如云",
+                "lottery_desc": "【隐藏款-大隐藏】：六翮如云·milkyway,六翮如云·deokdam,六翮如云·Life均分概率0.5%,若前399抽均未获得过任意大隐藏，则第400抽必得大隐藏;\n【隐藏款-小隐藏】：六翮如云·Moyan,六翮如云·Care,六翮如云·Xiaolaohu均分概率4.5%;\n【普通款】：砥砺霁月·milkyway,砥砺霁月·deokdam,砥砺霁月·Life均分概率9%，其余立绘均分概率86%;",
+                "item_total_cnt": 24,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 1542,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
+                },
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "FPX·六翮如云收藏集",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/33fe29c534d1fbadbbaaeebd00f1e69ac844c5a1.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            },
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 69,
+        "total_buy_cnt": 1542,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 101570,
+                "start_time": 1711857600,
+                "end_time": 2114406245,
+                "redeem_text": "六翮如云卡池抽到任意20张不同卡牌即可领取",
+                "redeem_item_type": 9,
+                "redeem_item_id": "",
+                "redeem_item_name": "FPX超值典藏周边",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/2add009a6f7e7662c4d4bd190d03bf3fdb8636e8.jpg",
+                "owned_item_amount": 0,
+                "require_item_amount": 20,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": 38,
+                "total_stock": 50,
+                "redeem_items_optional": null
+            },
+            {
+                "collect_id": 101566,
+                "start_time": 1711857600,
+                "end_time": 2114406245,
+                "redeem_text": "六翮如云卡池完成24抽即可领取",
+                "redeem_item_type": 9,
+                "redeem_item_id": "",
+                "redeem_item_name": "FPX24春季赛限定周边",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/feadb662694c0f769f8fff95f9cc8676597932ab.jpg",
+                "owned_item_amount": 0,
+                "require_item_amount": 24,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": 7,
+                "total_stock": 24,
+                "redeem_items_optional": null
+            },
+            {
+                "collect_id": 101565,
+                "start_time": 1711857600,
+                "end_time": 2114406245,
+                "redeem_text": "六翮如云卡池抽到任意8张不同卡牌即可领取",
+                "redeem_item_type": 1,
+                "redeem_item_id": "1711439373002",
+                "redeem_item_name": "FPX·六翮如云典藏卡",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/48aac42fce86bf32c163438fc8c3f47ac2780988.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 8,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": {
+                        "id": 1711439373002,
+                        "name": "典藏卡",
+                        "overview_image": "https://i0.hdslb.com/bfs/garb/open/48aac42fce86bf32c163438fc8c3f47ac2780988.png",
+                        "content": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/garb/open/48aac42fce86bf32c163438fc8c3f47ac2780988.png",
+                                "gyroscope": null,
+                                "location": ""
+                            },
+                            "animation": null
+                        },
+                        "material_type": 1,
+                        "theme": "open",
+                        "scarcity": 0,
+                        "layout": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "face_overflow": null,
+                        "material_sub_type": 0,
+                        "overview_image_watermarks": [
+                            {
+                                "scene": 1,
+                                "watermark_image": "https://i0.hdslb.com/bfs/garb/watermark/fdfbc089f2de3a4edaee994a7885302c6a8aa78a.png"
+                            }
+                        ],
+                        "watermark_animations": null,
+                        "space_background": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/garb/open/48aac42fce86bf32c163438fc8c3f47ac2780988.png",
+                                "gyroscope": null,
+                                "location": "0-0-1242-1242"
+                            },
+                            "animation": null
                         }
                     },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "FPX·六翮如云收藏集",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热售卖中，快来开卡吧！"
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1,
+                "redeem_items_optional": null
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/33fe29c534d1fbadbbaaeebd00f1e69ac844c5a1.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            {
+                "collect_id": 101564,
+                "start_time": 1711857600,
+                "end_time": 2114406245,
+                "redeem_text": "六翮如云卡池抽到任意1张隐藏款立绘即可领取",
+                "redeem_item_type": 3,
+                "redeem_item_id": "1711092520001",
+                "redeem_item_name": "FPX·六翮如云头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/12b4eb0c7d787b1b29abcb7d6c55619d97b7bb83.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
-            },
-            "total_book_cnt": 69,
-            "total_buy_cnt": 1542,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 101570,
-                    "start_time": 1711857600,
-                    "end_time": 2114406245,
-                    "redeem_text": "六翮如云卡池抽到任意20张不同卡牌即可领取",
-                    "redeem_item_type": 9,
-                    "redeem_item_id": "",
-                    "redeem_item_name": "FPX超值典藏周边",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/2add009a6f7e7662c4d4bd190d03bf3fdb8636e8.jpg",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 20,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": 38,
-                    "total_stock": 50,
-                    "redeem_items_optional": null
-                },
-                {
-                    "collect_id": 101566,
-                    "start_time": 1711857600,
-                    "end_time": 2114406245,
-                    "redeem_text": "六翮如云卡池完成24抽即可领取",
-                    "redeem_item_type": 9,
-                    "redeem_item_id": "",
-                    "redeem_item_name": "FPX24春季赛限定周边",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/feadb662694c0f769f8fff95f9cc8676597932ab.jpg",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 24,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": 7,
-                    "total_stock": 24,
-                    "redeem_items_optional": null
-                },
-                {
-                    "collect_id": 101565,
-                    "start_time": 1711857600,
-                    "end_time": 2114406245,
-                    "redeem_text": "六翮如云卡池抽到任意8张不同卡牌即可领取",
-                    "redeem_item_type": 1,
-                    "redeem_item_id": "1711439373002",
-                    "redeem_item_name": "FPX·六翮如云典藏卡",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/48aac42fce86bf32c163438fc8c3f47ac2780988.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 8,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": {
-                            "id": 1711439373002,
-                            "name": "典藏卡",
-                            "overview_image": "https://i0.hdslb.com/bfs/garb/open/48aac42fce86bf32c163438fc8c3f47ac2780988.png",
-                            "content": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/garb/open/48aac42fce86bf32c163438fc8c3f47ac2780988.png",
-                                    "gyroscope": null,
-                                    "location": ""
-                                },
-                                "animation": null
-                            },
-                            "material_type": 1,
-                            "theme": "open",
-                            "scarcity": 0,
-                            "layout": 0,
-                            "width": 1242,
-                            "height": 1863,
-                            "face_overflow": null,
-                            "material_sub_type": 0,
-                            "overview_image_watermarks": [
-                                {
-                                    "scene": 1,
-                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/watermark/fdfbc089f2de3a4edaee994a7885302c6a8aa78a.png"
-                                }
-                            ],
-                            "watermark_animations": null,
-                            "space_background": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/garb/open/48aac42fce86bf32c163438fc8c3f47ac2780988.png",
-                                    "gyroscope": null,
-                                    "location": "0-0-1242-1242"
-                                },
-                                "animation": null
-                            }
-                        },
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1,
-                    "redeem_items_optional": null
-                },
-                {
-                    "collect_id": 101564,
-                    "start_time": 1711857600,
-                    "end_time": 2114406245,
-                    "redeem_text": "六翮如云卡池抽到任意1张隐藏款立绘即可领取",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "1711092520001",
-                    "redeem_item_name": "FPX·六翮如云头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/12b4eb0c7d787b1b29abcb7d6c55619d97b7bb83.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1,
-                    "redeem_items_optional": null
-                }
-            ],
-            "display_title": "任务奖励",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
-            },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "299609985"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【FPX六翮如云收藏集】是FPX电子竞技俱乐部为英雄联盟分部选手们定制打造的全新系列数字周边，整体的设计融合了FPX专属电竞元素，符合当下电竞潮流审美。每张数字卡片皆有独特编号烙印，签名款稀有卡面亮眼呈现FPX电子竞技俱乐部英雄联盟分部选手英姿！我们相信，二零二四年当是凤凰重振羽翼，继续出发的一年。感谢大家一路走来的支持与陪伴，又一年路途启程，提笔执书，骅骝飞骤，亦如故事开始那样，逐光而行。",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/open/0a4fd316eda12ab0dcfa6566654632061eaedf74.png@0-0-1126-1126a",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/open/0a4fd316eda12ab0dcfa6566654632061eaedf74.png@0-0-1126-1126a",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/015382338cd59afe325224ccedd4c56889056f33.png\",\"num_color\":\"#FF9D00\",\"card_count\":1,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/f2bce6912d1ec0f114d7e7f8bed8c6d03303c722.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/015382338cd59afe325224ccedd4c56889056f33.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/015382338cd59afe325224ccedd4c56889056f33.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/b4a1de4ff0bbf1978179676a6719dd14591f4106.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/d971b5980621b8437593d9fc64b297f430d4e412\"}},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/af5355cb5aa3cb2a943d2de4f289acf3db2335f6.png\",\"num_color\":\"#51A3FB\",\"card_count\":5,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/3af62156376266feea09ba9dd6d96847874cd9b9.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/af5355cb5aa3cb2a943d2de4f289acf3db2335f6.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/af5355cb5aa3cb2a943d2de4f289acf3db2335f6.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/8aa1f7b340129f137eb75d66f2ee801e29238337.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/8ac5bd29af278241bfb3b5a08f21944da6770326\"}},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/b966f9151dc20b810de0b10202d7856b2a653896.png\",\"num_color\":\"#8A19FB\",\"card_count\":15,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/c306742315e4d3dd973842b690602a11f0dd1ac5.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/b966f9151dc20b810de0b10202d7856b2a653896.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/b966f9151dc20b810de0b10202d7856b2a653896.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/878ae2348f1c36adb0a773d85d079e603f9f404a.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/605753914ca4cb669b7dc8d9edd4edbc730a54ba\"}},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/1acc49df400a68114cd5cf23ea0320f09717b2dd.png\",\"num_color\":\"#F440C1\",\"card_count\":30,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/7d45fe00859801697efcc6e0bb931d420cdb0eaf.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/1acc49df400a68114cd5cf23ea0320f09717b2dd.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/1acc49df400a68114cd5cf23ea0320f09717b2dd.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/12381b580df4b27ac2888486a0d13e6e57d06aa3.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/d17030ba0c9cf701189f39d1896864d5fd31dfa6\"}},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/c98da10abb7c235ba4a39c10333ab6f63d65b033.png\",\"num_color\":\"#FC1717\",\"card_count\":60,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/a3e01152f7a01e30c0c74ba10d9e3dd9124122c3.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/c98da10abb7c235ba4a39c10333ab6f63d65b033.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/c98da10abb7c235ba4a39c10333ab6f63d65b033.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/012e777aafbe74c84646ec7617ca9bf59deca3fb.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/a30b0b7bae29443224e9f00ecfda298659fb6d16\"}}]",
-            "topic": null,
-            "physical_exchange": false,
-            "act_square_img": "https://i0.hdslb.com/bfs/garb/afd5c74d89646935b5074d6f4c718e8ef104ae08.jpg",
-            "tab_lottery_id": 101524
-        }
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1,
+                "redeem_items_optional": null
+            }
+        ],
+        "display_title": "任务奖励",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "299609985"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【FPX六翮如云收藏集】是FPX电子竞技俱乐部为英雄联盟分部选手们定制打造的全新系列数字周边，整体的设计融合了FPX专属电竞元素，符合当下电竞潮流审美。每张数字卡片皆有独特编号烙印，签名款稀有卡面亮眼呈现FPX电子竞技俱乐部英雄联盟分部选手英姿！我们相信，二零二四年当是凤凰重振羽翼，继续出发的一年。感谢大家一路走来的支持与陪伴，又一年路途启程，提笔执书，骅骝飞骤，亦如故事开始那样，逐光而行。",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/open/0a4fd316eda12ab0dcfa6566654632061eaedf74.png@0-0-1126-1126a",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/open/0a4fd316eda12ab0dcfa6566654632061eaedf74.png@0-0-1126-1126a",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/015382338cd59afe325224ccedd4c56889056f33.png\",\"num_color\":\"#FF9D00\",\"card_count\":1,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/f2bce6912d1ec0f114d7e7f8bed8c6d03303c722.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/015382338cd59afe325224ccedd4c56889056f33.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/015382338cd59afe325224ccedd4c56889056f33.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/b4a1de4ff0bbf1978179676a6719dd14591f4106.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/d971b5980621b8437593d9fc64b297f430d4e412\"}},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/af5355cb5aa3cb2a943d2de4f289acf3db2335f6.png\",\"num_color\":\"#51A3FB\",\"card_count\":5,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/3af62156376266feea09ba9dd6d96847874cd9b9.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/af5355cb5aa3cb2a943d2de4f289acf3db2335f6.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/af5355cb5aa3cb2a943d2de4f289acf3db2335f6.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/8aa1f7b340129f137eb75d66f2ee801e29238337.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/8ac5bd29af278241bfb3b5a08f21944da6770326\"}},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/b966f9151dc20b810de0b10202d7856b2a653896.png\",\"num_color\":\"#8A19FB\",\"card_count\":15,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/c306742315e4d3dd973842b690602a11f0dd1ac5.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/b966f9151dc20b810de0b10202d7856b2a653896.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/b966f9151dc20b810de0b10202d7856b2a653896.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/878ae2348f1c36adb0a773d85d079e603f9f404a.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/605753914ca4cb669b7dc8d9edd4edbc730a54ba\"}},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/1acc49df400a68114cd5cf23ea0320f09717b2dd.png\",\"num_color\":\"#F440C1\",\"card_count\":30,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/7d45fe00859801697efcc6e0bb931d420cdb0eaf.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/1acc49df400a68114cd5cf23ea0320f09717b2dd.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/1acc49df400a68114cd5cf23ea0320f09717b2dd.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/12381b580df4b27ac2888486a0d13e6e57d06aa3.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/d17030ba0c9cf701189f39d1896864d5fd31dfa6\"}},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/c98da10abb7c235ba4a39c10333ab6f63d65b033.png\",\"num_color\":\"#FC1717\",\"card_count\":60,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/a3e01152f7a01e30c0c74ba10d9e3dd9124122c3.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/c98da10abb7c235ba4a39c10333ab6f63d65b033.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/c98da10abb7c235ba4a39c10333ab6f63d65b033.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/012e777aafbe74c84646ec7617ca9bf59deca3fb.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/a30b0b7bae29443224e9f00ecfda298659fb6d16\"}}]",
+        "topic": null,
+        "physical_exchange": false,
+        "act_square_img": "https://i0.hdslb.com/bfs/garb/afd5c74d89646935b5074d6f4c718e8ef104ae08.jpg",
+        "tab_lottery_id": 101524
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/33fe29c534d1fbadbbaaeebd00f1e69ac844c5a1.jpg",
@@ -969,5 +961,5 @@
                 }
             ]
         }
-    }
+    ]
 }

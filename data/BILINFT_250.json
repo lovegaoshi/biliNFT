@@ -1,95 +1,87 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "收藏集活动限定卡合集",
-            "cur_time": 1701045415,
-            "start_time": 1700044200,
-            "end_time": 2114406245,
-            "pre_start_time": 0,
-            "pre_end_time": 0,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 203,
-                    "lottery_name": "愚者游戏",
-                    "display_time": 1700044200,
-                    "start_time": 1700044201,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/a92540fdec602567884bd3017cea659e3fb95cdb.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 23253301097984,
-                    "price": 0,
-                    "goods_name": "愚者游戏",
-                    "lottery_desc": "愚者游戏活动限定奖池，Last奖限定：装扮小姐姐King；A奖限定：2233愚者游戏；B奖限定：装扮小姐姐Queen；典藏卡可通过累抽活动、卡牌分解获得。",
-                    "item_total_cnt": 6,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 0,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": null,
-                    "free": 1,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "首抽6元赢限定收藏卡，端盒必得两张隐藏卡",
-                "sub_title": "多余卡牌可分解再利用！快来参加活动吧！",
-                "share_content": "首抽6元赢限定收藏卡，端盒必得两张隐藏卡，多余卡牌可分解再利用！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/225f8a8676acfd1af09c677d3bf9d66cbf602902.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
-                },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
-            },
-            "total_book_cnt": 0,
-            "total_buy_cnt": 0,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 0,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": null,
-            "display_title": "",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "全新收藏集活动，快来参与吧",
-                "guide_content": "首抽6元，赢限定卡牌",
-                "jump_url": "https://www.bilibili.com/blackboard/redpack/activity-8SpuZq4Qsw.html?navhide=1&f_source=shop&from=ad.list"
-            },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": null,
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【收藏集活动】是个性装扮全新活动形态，丰富奖励等你赢！\n●首次单抽5折；抽1盒共可获得51张卡，保底两张小隐藏卡+Last赏卡，更有概率获得大隐藏卡！\n●多余的卡牌可以再次利用，通过分解魔法获得额外抽数，还有机会获得仅可由分解获得的活动限定奖励！需要注意这是限时福利，活动结束后将不可分解！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/c572aee60de27cb04d13b4a1136192634ea1de7c.png",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/c572aee60de27cb04d13b4a1136192634ea1de7c.png",
-            "collector_medal_info": "",
-            "topic": {
-                "id": 1074419
+        "act_title": "收藏集活动限定卡合集",
+        "cur_time": 1701045415,
+        "start_time": 1700044200,
+        "end_time": 2114406245,
+        "pre_start_time": 0,
+        "pre_end_time": 0,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 203,
+                "lottery_name": "愚者游戏",
+                "display_time": 1700044200,
+                "start_time": 1700044201,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/a92540fdec602567884bd3017cea659e3fb95cdb.jpg",
+                "draw_cnt": 0,
+                "goods_id": 23253301097984,
+                "price": 0,
+                "goods_name": "愚者游戏",
+                "lottery_desc": "愚者游戏活动限定奖池，Last奖限定：装扮小姐姐King；A奖限定：2233愚者游戏；B奖限定：装扮小姐姐Queen；典藏卡可通过累抽活动、卡牌分解获得。",
+                "item_total_cnt": 6,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 0,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": null,
+                "free": 1,
+                "sale_mode": 1
             }
+        ],
+        "share_info": {
+            "main_title": "首抽6元赢限定收藏卡，端盒必得两张隐藏卡",
+            "sub_title": "多余卡牌可分解再利用！快来参加活动吧！",
+            "share_content": "首抽6元赢限定收藏卡，端盒必得两张隐藏卡，多余卡牌可分解再利用！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/225f8a8676acfd1af09c677d3bf9d66cbf602902.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            },
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 0,
+        "total_buy_cnt": 0,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 0,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": null,
+        "display_title": "",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "全新收藏集活动，快来参与吧",
+            "guide_content": "首抽6元，赢限定卡牌",
+            "jump_url": "https://www.bilibili.com/blackboard/redpack/activity-8SpuZq4Qsw.html?navhide=1&f_source=shop&from=ad.list"
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": null,
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【收藏集活动】是个性装扮全新活动形态，丰富奖励等你赢！\n●首次单抽5折；抽1盒共可获得51张卡，保底两张小隐藏卡+Last赏卡，更有概率获得大隐藏卡！\n●多余的卡牌可以再次利用，通过分解魔法获得额外抽数，还有机会获得仅可由分解获得的活动限定奖励！需要注意这是限时福利，活动结束后将不可分解！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/c572aee60de27cb04d13b4a1136192634ea1de7c.png",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/c572aee60de27cb04d13b4a1136192634ea1de7c.png",
+        "collector_medal_info": "",
+        "topic": {
+            "id": 1074419
         }
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/225f8a8676acfd1af09c677d3bf9d66cbf602902.jpg",
@@ -320,5 +312,5 @@
                 }
             ]
         }
-    }
+    ]
 }

@@ -1,192 +1,184 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "眞白花音收藏集",
-            "cur_time": 1702648070,
-            "start_time": 1685534400,
-            "end_time": 2114406245,
-            "pre_start_time": 1685372400,
-            "pre_end_time": 1685534399,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 15,
-                    "lottery_name": "夏日萌菜",
-                    "display_time": 1685372400,
-                    "start_time": 1685534400,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/bca458e3d8a3cc46592a862b083f2507c2e55b2c.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 9481876431872,
-                    "price": 9900,
-                    "goods_name": "夏日萌菜",
-                    "lottery_desc": "【眞白花音收藏集—夏日萌菜】共包含8张精美立绘，快和萌菜一起清凉入夏吧！\n* 普通款：夏日小憩、微风校园、空中环游、约会憧憬和萌宠幻想均分概率86%，甜心女仆概率9%；\n* 隐藏款：轻纱花语·隐藏概率4.5%，水中嬉戏·隐藏概率0.5%。",
-                    "item_total_cnt": 8,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 238145,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": null,
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "眞白花音收藏集—夏日萌菜开售",
-                "sub_title": "全新夏日精美立绘、表情包、头像框等你抱回家！",
-                "share_content": "眞白花音收藏集—夏日萌菜萌萌开售中，独家音声抢先听！"
+        "act_title": "眞白花音收藏集",
+        "cur_time": 1702648070,
+        "start_time": 1685534400,
+        "end_time": 2114406245,
+        "pre_start_time": 1685372400,
+        "pre_end_time": 1685534399,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 15,
+                "lottery_name": "夏日萌菜",
+                "display_time": 1685372400,
+                "start_time": 1685534400,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/bca458e3d8a3cc46592a862b083f2507c2e55b2c.jpg",
+                "draw_cnt": 0,
+                "goods_id": 9481876431872,
+                "price": 9900,
+                "goods_name": "夏日萌菜",
+                "lottery_desc": "【眞白花音收藏集—夏日萌菜】共包含8张精美立绘，快和萌菜一起清凉入夏吧！\n* 普通款：夏日小憩、微风校园、空中环游、约会憧憬和萌宠幻想均分概率86%，甜心女仆概率9%；\n* 隐藏款：轻纱花语·隐藏概率4.5%，水中嬉戏·隐藏概率0.5%。",
+                "item_total_cnt": 8,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 238145,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": null,
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "眞白花音收藏集—夏日萌菜开售",
+            "sub_title": "全新夏日精美立绘、表情包、头像框等你抱回家！",
+            "share_content": "眞白花音收藏集—夏日萌菜萌萌开售中，独家音声抢先听！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/6b829c2739cb373b7e364f6e1bbb3c820dfe3439.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/6b829c2739cb373b7e364f6e1bbb3c820dfe3439.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 13074,
+        "total_buy_cnt": 238155,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 172,
+                "start_time": 1691640000,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意5张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "56658",
+                "redeem_item_name": "夏日萌菜个性主题",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/48f755d6d08d96bfebcadee0be4bc34ce42421de.jpg",
+                "owned_item_amount": 0,
+                "require_item_amount": 5,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "total_book_cnt": 13074,
-            "total_buy_cnt": 238155,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 172,
-                    "start_time": 1691640000,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意5张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "56658",
-                    "redeem_item_name": "夏日萌菜个性主题",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/48f755d6d08d96bfebcadee0be4bc34ce42421de.jpg",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            {
+                "collect_id": 51,
+                "start_time": 1685372400,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "53199",
+                "redeem_item_name": "夏日萌菜头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/9fcb99ccfd057c5eac165832d71fb63f07f26097.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 51,
-                    "start_time": 1685372400,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "53199",
-                    "redeem_item_name": "夏日萌菜头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/9fcb99ccfd057c5eac165832d71fb63f07f26097.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 50,
-                    "start_time": 1685372400,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "53178",
-                    "redeem_item_name": "夏日萌菜表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/462ae9b5735fef4bb9ed87a6d6467a4768b06006.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 366,
-                    "start_time": 1694768400,
-                    "end_time": 1696953600,
-                    "redeem_text": "抽齐全部8张卡牌领取，直接获得全图鉴进度条标记，10月28日前人工发放头像",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "59374",
-                    "redeem_item_name": "水中嬉戏·隐藏出框头像",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/ff981dbdca5c6b539e22596674265ef1cb110c9c.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 8,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之礼",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 1,
-            "related_mids": [
-                "401480763"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 0,
-            "product_introduce": "【眞白花音收藏集】是哔哩哔哩携手眞白花音_Official定制打造的全新个人数字收藏集，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁眞白花音_Official的夏日绝美画面！\n眞白花音_Official日常通过直播，视频等方式活跃在bilibili等平台，为用户提供丰富的文化娱乐内容。",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/77269f6389dec8fc25999e0e4236503845bcf290.png",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/77269f6389dec8fc25999e0e4236503845bcf290.png",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/b3d915c6ad88609fb658393585f018459a7e620d.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/7458694bde2a9fcf713239604e8eaef73651b5ec.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/64c6a796cf0a71f703932558950b057e152f7a9a.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/0a58a59d5f41ecb136fef9bf7e4cd398377cea8f.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/07debb22904ccb2dbc61030ae92cad12a0609aa8.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 50,
+                "start_time": 1685372400,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "53178",
+                "redeem_item_name": "夏日萌菜表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/462ae9b5735fef4bb9ed87a6d6467a4768b06006.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 366,
+                "start_time": 1694768400,
+                "end_time": 1696953600,
+                "redeem_text": "抽齐全部8张卡牌领取，直接获得全图鉴进度条标记，10月28日前人工发放头像",
+                "redeem_item_type": 5,
+                "redeem_item_id": "59374",
+                "redeem_item_name": "水中嬉戏·隐藏出框头像",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/ff981dbdca5c6b539e22596674265ef1cb110c9c.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 8,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之礼",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 1,
+        "related_mids": [
+            "401480763"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 0,
+        "product_introduce": "【眞白花音收藏集】是哔哩哔哩携手眞白花音_Official定制打造的全新个人数字收藏集，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁眞白花音_Official的夏日绝美画面！\n眞白花音_Official日常通过直播，视频等方式活跃在bilibili等平台，为用户提供丰富的文化娱乐内容。",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/77269f6389dec8fc25999e0e4236503845bcf290.png",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/77269f6389dec8fc25999e0e4236503845bcf290.png",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/b3d915c6ad88609fb658393585f018459a7e620d.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/7458694bde2a9fcf713239604e8eaef73651b5ec.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/64c6a796cf0a71f703932558950b057e152f7a9a.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/0a58a59d5f41ecb136fef9bf7e4cd398377cea8f.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/07debb22904ccb2dbc61030ae92cad12a0609aa8.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/6b829c2739cb373b7e364f6e1bbb3c820dfe3439.jpg",
@@ -451,5 +443,5 @@
                 }
             ]
         }
-    }
+    ]
 }

@@ -1,223 +1,215 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "小黄人收藏集",
-            "cur_time": 1702648026,
-            "start_time": 1691733600,
-            "end_time": 2114406245,
-            "pre_start_time": 1691647200,
-            "pre_end_time": 1691733599,
-            "is_booked": 0,
-            "act_desc": "https://i0.hdslb.com/bfs/garb/466da874c5154709b6978be30935228763b4dfe1.png",
-            "lottery_list": [
-                {
-                    "lottery_id": 70,
-                    "lottery_name": "小黄人",
-                    "display_time": 1691647200,
-                    "start_time": 1691733600,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/ad9e9e0fc5aab05fffb4f7aaed997951fc321dc7.png",
-                    "draw_cnt": 0,
-                    "goods_id": 5627667558912,
-                    "price": 9900,
-                    "goods_name": "小黄人",
-                    "lottery_desc": "小黄人收藏集共包含22张精美海报；\n普通款：萌趣系列、奇妙系列、心动系列均分概率95%；\n隐藏款：Ⅰ、Ⅱ、Ⅲ均分概率4.5%、Ⅳ、Ⅴ、Ⅵ均分概率0.5%",
-                    "item_total_cnt": 22,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 11293,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "小黄人收藏集开售中！萌趣海报等你解锁~",
-                "sub_title": "小黄人专属羁绊之礼上线！",
-                "share_content": "小黄人收藏集活动火热售卖中，全新海报登场，大会员首抽专享4.9元！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/558ad5af31bf8c058170d0b8c9a8967a53f70d4b.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
-                },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
-            },
-            "total_book_cnt": 1982,
-            "total_buy_cnt": 11293,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 240,
-                    "start_time": 1692957600,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意4张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "58655",
-                    "redeem_item_name": "小黄人个性主题",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/e96064dbf65cb71affccc89f4e41a8214e7396e4.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 4,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 167,
-                    "start_time": 1691647200,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "56651",
-                    "redeem_item_name": "小黄人表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/59801e06cd4e44ed1da366fe2befc67f5ab03d57.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 165,
-                    "start_time": 1691647200,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "56652",
-                    "redeem_item_name": "小黄人头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/7680b633b86a203fb353d22ae27bf3a653f83629.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之礼",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
-            },
-            "is_can_donate": 1,
-            "is_up_chain": 1,
-            "related_mids": [
-                "494915529"
-            ],
-            "is_vip": false,
-            "task_list": {
-                "item": [
-                    {
-                        "id": 3300233,
-                        "title": "每购买1次年度大会员",
-                        "desc": "小黄人卡池抽卡机会",
-                        "process": {
-                            "totalDetailCount": 1,
-                            "completeDetailCount": 0,
-                            "totalCompleteCount": 1,
-                            "completeCount": 0,
-                            "awardCount": 0,
-                            "awardRemindCount": 0,
-                            "state": 1,
-                            "remainingTask": {
-                                "id": null
-                            }
-                        },
-                        "task_code": "vip",
-                        "finish_url": "bilibili://user_center/vip/buy/167?pay_tips_id=39298&valid_channel=direct",
-                        "task_status": 0,
-                        "start_time": {},
-                        "end_time": {},
-                        "need_pre_task_list": null,
-                        "incomplete_pre_task_list": null,
-                        "jump_url": "bilibili://user_center/vip/buy/167?pay_tips_id=39298&valid_channel=direct",
-                        "prop_info": [
-                            {
-                                "prop_id": 1320113,
-                                "prop_num": 2,
-                                "prop_type": "GARB_DLC_CARD"
-                            }
-                        ],
-                        "Config": {
-                            "customize_config": {}
-                        }
+        "act_title": "小黄人收藏集",
+        "cur_time": 1702648026,
+        "start_time": 1691733600,
+        "end_time": 2114406245,
+        "pre_start_time": 1691647200,
+        "pre_end_time": 1691733599,
+        "is_booked": 0,
+        "act_desc": "https://i0.hdslb.com/bfs/garb/466da874c5154709b6978be30935228763b4dfe1.png",
+        "lottery_list": [
+            {
+                "lottery_id": 70,
+                "lottery_name": "小黄人",
+                "display_time": 1691647200,
+                "start_time": 1691733600,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/ad9e9e0fc5aab05fffb4f7aaed997951fc321dc7.png",
+                "draw_cnt": 0,
+                "goods_id": 5627667558912,
+                "price": 9900,
+                "goods_name": "小黄人",
+                "lottery_desc": "小黄人收藏集共包含22张精美海报；\n普通款：萌趣系列、奇妙系列、心动系列均分概率95%；\n隐藏款：Ⅰ、Ⅱ、Ⅲ均分概率4.5%、Ⅳ、Ⅴ、Ⅵ均分概率0.5%",
+                "item_total_cnt": 22,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 11293,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
                     }
-                ],
-                "task_name": "大会员专属福利",
-                "task_jump_url": "bilibili://user_center/vip/buy/167?pay_tips_id=39298&valid_channel=direct",
-                "task_jump_text": "去开通 >",
-                "task_activity_id": 956,
-                "task_type": "vip"
+                },
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "小黄人收藏集开售中！萌趣海报等你解锁~",
+            "sub_title": "小黄人专属羁绊之礼上线！",
+            "share_content": "小黄人收藏集活动火热售卖中，全新海报登场，大会员首抽专享4.9元！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/558ad5af31bf8c058170d0b8c9a8967a53f70d4b.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "popup_info": {
-                "popup_type": 1,
-                "popup_content": "https://i0.hdslb.com/bfs/activity-plat/static/20230724/4cefecc6742f8995a6bd22402a6d0b8b/E658Kdv4jy.png",
-                "button_text": "我知道了",
-                "button_jump_url": ""
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 1982,
+        "total_buy_cnt": 11293,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 240,
+                "start_time": 1692957600,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意4张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "58655",
+                "redeem_item_name": "小黄人个性主题",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/e96064dbf65cb71affccc89f4e41a8214e7396e4.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 4,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "act_desc_light": "",
-            "not_need_realname": 0,
-            "product_introduce": "",
-            "app_head_show": "",
-            "app_space_show": "",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/99fcbcd461b7b9551a45f197eaad623e84d32f1e.png\",\"card_count\":1,\"num_color\":\"#c49561\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/3fe501bf16a6b35db4a858b56c3ffa4e5088cc97.png\",\"card_count\":5,\"num_color\":\"#739bcd\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/5f4594f74175b907b6ebf588c4c0360645f8879b.png\",\"card_count\":15,\"num_color\":\"#f3dc6e\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/734a9923b044de0b11c1e40621242a35e2c6535d.png\",\"card_count\":30,\"num_color\":\"#f597bc\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/512c33c648d23498c646aaebc5a39580ebba3d93.png\",\"card_count\":60,\"num_color\":\"#b98cca\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 167,
+                "start_time": 1691647200,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "56651",
+                "redeem_item_name": "小黄人表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/59801e06cd4e44ed1da366fe2befc67f5ab03d57.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 165,
+                "start_time": 1691647200,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "56652",
+                "redeem_item_name": "小黄人头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/7680b633b86a203fb353d22ae27bf3a653f83629.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之礼",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 1,
+        "related_mids": [
+            "494915529"
+        ],
+        "is_vip": false,
+        "task_list": {
+            "item": [
+                {
+                    "id": 3300233,
+                    "title": "每购买1次年度大会员",
+                    "desc": "小黄人卡池抽卡机会",
+                    "process": {
+                        "totalDetailCount": 1,
+                        "completeDetailCount": 0,
+                        "totalCompleteCount": 1,
+                        "completeCount": 0,
+                        "awardCount": 0,
+                        "awardRemindCount": 0,
+                        "state": 1,
+                        "remainingTask": {
+                            "id": null
+                        }
+                    },
+                    "task_code": "vip",
+                    "finish_url": "bilibili://user_center/vip/buy/167?pay_tips_id=39298&valid_channel=direct",
+                    "task_status": 0,
+                    "start_time": {},
+                    "end_time": {},
+                    "need_pre_task_list": null,
+                    "incomplete_pre_task_list": null,
+                    "jump_url": "bilibili://user_center/vip/buy/167?pay_tips_id=39298&valid_channel=direct",
+                    "prop_info": [
+                        {
+                            "prop_id": 1320113,
+                            "prop_num": 2,
+                            "prop_type": "GARB_DLC_CARD"
+                        }
+                    ],
+                    "Config": {
+                        "customize_config": {}
+                    }
+                }
+            ],
+            "task_name": "大会员专属福利",
+            "task_jump_url": "bilibili://user_center/vip/buy/167?pay_tips_id=39298&valid_channel=direct",
+            "task_jump_text": "去开通 >",
+            "task_activity_id": 956,
+            "task_type": "vip"
+        },
+        "popup_info": {
+            "popup_type": 1,
+            "popup_content": "https://i0.hdslb.com/bfs/activity-plat/static/20230724/4cefecc6742f8995a6bd22402a6d0b8b/E658Kdv4jy.png",
+            "button_text": "我知道了",
+            "button_jump_url": ""
+        },
+        "act_desc_light": "",
+        "not_need_realname": 0,
+        "product_introduce": "",
+        "app_head_show": "",
+        "app_space_show": "",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/99fcbcd461b7b9551a45f197eaad623e84d32f1e.png\",\"card_count\":1,\"num_color\":\"#c49561\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/3fe501bf16a6b35db4a858b56c3ffa4e5088cc97.png\",\"card_count\":5,\"num_color\":\"#739bcd\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/5f4594f74175b907b6ebf588c4c0360645f8879b.png\",\"card_count\":15,\"num_color\":\"#f3dc6e\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/734a9923b044de0b11c1e40621242a35e2c6535d.png\",\"card_count\":30,\"num_color\":\"#f597bc\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/512c33c648d23498c646aaebc5a39580ebba3d93.png\",\"card_count\":60,\"num_color\":\"#b98cca\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/558ad5af31bf8c058170d0b8c9a8967a53f70d4b.png",
@@ -864,5 +856,5 @@
                 }
             ]
         }
-    }
+    ]
 }

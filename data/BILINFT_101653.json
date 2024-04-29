@@ -1,181 +1,173 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "鹰之魅影",
-            "cur_time": 1713150300,
-            "start_time": 1712577600,
-            "end_time": 2114406245,
-            "pre_start_time": 1712491200,
-            "pre_end_time": 1712577599,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 101654,
-                    "lottery_name": "鹰之魅影",
-                    "display_time": 1712491200,
-                    "start_time": 1712577600,
-                    "end_time": 2114406245,
-                    "lottery_image": "https://i0.hdslb.com/bfs/garb/bd690af56a5868c199009ff6b33052a946d5c3a6.png",
-                    "draw_cnt": 0,
-                    "goods_id": 49476901306880,
-                    "price": 9900,
-                    "goods_name": "鹰之魅影",
-                    "lottery_desc": "【隐藏款-大隐藏】：不乖夹你,慵懒假日均分概率0.5%,若前399抽均未获得过任意大隐藏，则第400抽必得大隐藏;\n【隐藏款-小隐藏】：休闲时光,45度明媚均分概率4.5%;\n【普通款】：南瓜劫匪,鹰娜丽莎均分概率9%，其余立绘均分概率86%;",
-                    "item_total_cnt": 16,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 10430,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "鹰之魅影",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热售卖中，快来开卡吧！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/870473646aba42d38ccde652cdeea713b618841b.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "鹰之魅影",
+        "cur_time": 1713150300,
+        "start_time": 1712577600,
+        "end_time": 2114406245,
+        "pre_start_time": 1712491200,
+        "pre_end_time": 1712577599,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 101654,
+                "lottery_name": "鹰之魅影",
+                "display_time": 1712491200,
+                "start_time": 1712577600,
+                "end_time": 2114406245,
+                "lottery_image": "https://i0.hdslb.com/bfs/garb/bd690af56a5868c199009ff6b33052a946d5c3a6.png",
+                "draw_cnt": 0,
+                "goods_id": 49476901306880,
+                "price": 9900,
+                "goods_name": "鹰之魅影",
+                "lottery_desc": "【隐藏款-大隐藏】：不乖夹你,慵懒假日均分概率0.5%,若前399抽均未获得过任意大隐藏，则第400抽必得大隐藏;\n【隐藏款-小隐藏】：休闲时光,45度明媚均分概率4.5%;\n【普通款】：南瓜劫匪,鹰娜丽莎均分概率9%，其余立绘均分概率86%;",
+                "item_total_cnt": 16,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 10430,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "鹰之魅影",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/870473646aba42d38ccde652cdeea713b618841b.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 1847,
-            "total_buy_cnt": 10430,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 101657,
-                    "start_time": 1712548800,
-                    "end_time": 2114406245,
-                    "redeem_text": "鹰之魅影卡池完成5抽即可领取",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "1712492203001&1712480862001&1712492021001&1712480772001",
-                    "redeem_item_name": "战鹰动态主题套装",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/9c9410560a4722a42b6e715ceae66e73ea6f35d2.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1,
-                    "redeem_items_optional": null
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 1847,
+        "total_buy_cnt": 10430,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 101657,
+                "start_time": 1712548800,
+                "end_time": 2114406245,
+                "redeem_text": "鹰之魅影卡池完成5抽即可领取",
+                "redeem_item_type": 5,
+                "redeem_item_id": "1712492203001&1712480862001&1712492021001&1712480772001",
+                "redeem_item_name": "战鹰动态主题套装",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/9c9410560a4722a42b6e715ceae66e73ea6f35d2.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 5,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 101656,
-                    "start_time": 1712548800,
-                    "end_time": 2114406245,
-                    "redeem_text": "鹰之魅影卡池抽到任意1张隐藏款立绘即可领取",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "1712476718001",
-                    "redeem_item_name": "战鹰头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/40f42ecdffb23fdd7ce6d52f641d61d7b7023e3f.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1,
-                    "redeem_items_optional": null
-                },
-                {
-                    "collect_id": 101655,
-                    "start_time": 1712548800,
-                    "end_time": 2114406245,
-                    "redeem_text": "鹰之魅影卡池完成2抽即可领取",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "1712477000001",
-                    "redeem_item_name": "战鹰表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/8a2550aff4ecab93612bab9cc1b9e6c96a8f8974.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1,
-                    "redeem_items_optional": null
-                }
-            ],
-            "display_title": "任务奖励",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1,
+                "redeem_items_optional": null
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "2051617240"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【鹰之魅影收藏集】是哔哩哔哩携手棋手战鹰定制打造的个人数字集卡，每张卡牌都拥有独特编号，期待大家一起来解锁战鹰的直播名场面！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/open/73466deebdaf8f131bda71a97a5cbd9bce18b080.png@0-0-1126-1126a",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/open/73466deebdaf8f131bda71a97a5cbd9bce18b080.png@0-0-1126-1126a",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/ddcf9c81cd75fe13da2fb3fd48032e8a52da9caa.png\",\"num_color\":\"#EACEB8\",\"card_count\":1,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/71ff82823064579d75f6f193db08a5f2aae62699.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/ddcf9c81cd75fe13da2fb3fd48032e8a52da9caa.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/ddcf9c81cd75fe13da2fb3fd48032e8a52da9caa.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/7174ebd96674228e880415662170ffc073a480a6.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/1be2ce06b6d4644c1c0f6c59c82b0a6912b46074\"}},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/8ca8e8fc7f394017facd2baa2c65200a1aed5dad.png\",\"num_color\":\"#9FBAE7\",\"card_count\":5,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/1c77eabbddd78b5715ad483f40d3ed2758ab17cc.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/8ca8e8fc7f394017facd2baa2c65200a1aed5dad.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/8ca8e8fc7f394017facd2baa2c65200a1aed5dad.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/fd71b9f48d60de658cb09a85c0bb53c9791d5760.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/2bf2d4fc51b15cf0d0b554e9dc9ae8ddad479222\"}},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/4661516fcf784bb41c43742bbe24871c6babc38a.png\",\"num_color\":\"#F4AC6B\",\"card_count\":15,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/7e71e1e1e46dc4bca3d0e08a422eb7d65d980939.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/4661516fcf784bb41c43742bbe24871c6babc38a.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/4661516fcf784bb41c43742bbe24871c6babc38a.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/2ec98230143a84f34ff84b759bd579a9afd7d183.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/ca7ed3f79ef7b91d152bb07456fc0036c9142d39\"}},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/b695b5064807022727d8f33a935803211c5b9381.png\",\"num_color\":\"#E6B8C3\",\"card_count\":30,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/e332cdb68f89f4c6f7d769d70d43c6af49988f25.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/b695b5064807022727d8f33a935803211c5b9381.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/b695b5064807022727d8f33a935803211c5b9381.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/0977bcba454c28500be10535db9e31ee6fc68718.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/195f5169bd7988283f721bdfb6c25d8a1af7efde\"}},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/7368b4103d1c68a4d6f186994fa090cd5926b882.png\",\"num_color\":\"#BFB0EA\",\"card_count\":60,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/5e6595696d1d8d22790a5cc9050b3e6724e7c6bd.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/7368b4103d1c68a4d6f186994fa090cd5926b882.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/7368b4103d1c68a4d6f186994fa090cd5926b882.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/1e9965bb3f9705c5b28a0e11880bd09cf0a0287f.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/9bdd28e3fc6dff3bc249f4e04fa86826912628d3\"}}]",
-            "topic": null,
-            "physical_exchange": false,
-            "act_square_img": "https://i0.hdslb.com/bfs/garb/77a810b0a67947cf24bba587048e9c0fc9e3fbcf.png",
-            "tab_lottery_id": 101654
-        }
+            {
+                "collect_id": 101656,
+                "start_time": 1712548800,
+                "end_time": 2114406245,
+                "redeem_text": "鹰之魅影卡池抽到任意1张隐藏款立绘即可领取",
+                "redeem_item_type": 3,
+                "redeem_item_id": "1712476718001",
+                "redeem_item_name": "战鹰头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/40f42ecdffb23fdd7ce6d52f641d61d7b7023e3f.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1,
+                "redeem_items_optional": null
+            },
+            {
+                "collect_id": 101655,
+                "start_time": 1712548800,
+                "end_time": 2114406245,
+                "redeem_text": "鹰之魅影卡池完成2抽即可领取",
+                "redeem_item_type": 2,
+                "redeem_item_id": "1712477000001",
+                "redeem_item_name": "战鹰表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/8a2550aff4ecab93612bab9cc1b9e6c96a8f8974.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1,
+                "redeem_items_optional": null
+            }
+        ],
+        "display_title": "任务奖励",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "2051617240"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【鹰之魅影收藏集】是哔哩哔哩携手棋手战鹰定制打造的个人数字集卡，每张卡牌都拥有独特编号，期待大家一起来解锁战鹰的直播名场面！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/open/73466deebdaf8f131bda71a97a5cbd9bce18b080.png@0-0-1126-1126a",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/open/73466deebdaf8f131bda71a97a5cbd9bce18b080.png@0-0-1126-1126a",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/ddcf9c81cd75fe13da2fb3fd48032e8a52da9caa.png\",\"num_color\":\"#EACEB8\",\"card_count\":1,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/71ff82823064579d75f6f193db08a5f2aae62699.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/ddcf9c81cd75fe13da2fb3fd48032e8a52da9caa.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/ddcf9c81cd75fe13da2fb3fd48032e8a52da9caa.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/7174ebd96674228e880415662170ffc073a480a6.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/1be2ce06b6d4644c1c0f6c59c82b0a6912b46074\"}},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/8ca8e8fc7f394017facd2baa2c65200a1aed5dad.png\",\"num_color\":\"#9FBAE7\",\"card_count\":5,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/1c77eabbddd78b5715ad483f40d3ed2758ab17cc.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/8ca8e8fc7f394017facd2baa2c65200a1aed5dad.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/8ca8e8fc7f394017facd2baa2c65200a1aed5dad.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/fd71b9f48d60de658cb09a85c0bb53c9791d5760.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/2bf2d4fc51b15cf0d0b554e9dc9ae8ddad479222\"}},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/4661516fcf784bb41c43742bbe24871c6babc38a.png\",\"num_color\":\"#F4AC6B\",\"card_count\":15,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/7e71e1e1e46dc4bca3d0e08a422eb7d65d980939.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/4661516fcf784bb41c43742bbe24871c6babc38a.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/4661516fcf784bb41c43742bbe24871c6babc38a.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/2ec98230143a84f34ff84b759bd579a9afd7d183.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/ca7ed3f79ef7b91d152bb07456fc0036c9142d39\"}},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/b695b5064807022727d8f33a935803211c5b9381.png\",\"num_color\":\"#E6B8C3\",\"card_count\":30,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/e332cdb68f89f4c6f7d769d70d43c6af49988f25.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/b695b5064807022727d8f33a935803211c5b9381.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/b695b5064807022727d8f33a935803211c5b9381.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/0977bcba454c28500be10535db9e31ee6fc68718.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/195f5169bd7988283f721bdfb6c25d8a1af7efde\"}},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/7368b4103d1c68a4d6f186994fa090cd5926b882.png\",\"num_color\":\"#BFB0EA\",\"card_count\":60,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/5e6595696d1d8d22790a5cc9050b3e6724e7c6bd.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/7368b4103d1c68a4d6f186994fa090cd5926b882.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/7368b4103d1c68a4d6f186994fa090cd5926b882.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/1e9965bb3f9705c5b28a0e11880bd09cf0a0287f.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/9bdd28e3fc6dff3bc249f4e04fa86826912628d3\"}}]",
+        "topic": null,
+        "physical_exchange": false,
+        "act_square_img": "https://i0.hdslb.com/bfs/garb/77a810b0a67947cf24bba587048e9c0fc9e3fbcf.png",
+        "tab_lottery_id": 101654
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/870473646aba42d38ccde652cdeea713b618841b.png",
@@ -712,5 +704,5 @@
                 }
             ]
         }
-    }
+    ]
 }

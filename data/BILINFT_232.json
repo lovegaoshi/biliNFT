@@ -1,180 +1,172 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "OPL选手COS特辑收藏集",
-            "cur_time": 1702647880,
-            "start_time": 1698120000,
-            "end_time": 2114406245,
-            "pre_start_time": 1698033600,
-            "pre_end_time": 1698119999,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 165,
-                    "lottery_name": "OPL选手COS特辑",
-                    "display_time": 1698033600,
-                    "start_time": 1698120000,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/1790b746c115f479d59283aca45e96d157fc52d2.png",
-                    "draw_cnt": 0,
-                    "goods_id": 19034590443008,
-                    "price": 9900,
-                    "goods_name": "OPL选手COS特辑",
-                    "lottery_desc": "【OPL选手COS特辑】收藏集共包含16张精美海报；\n普通款：共12张均分概率86%；\n隐藏款：小隐藏共2张均分概率4.5%，大隐藏共2张概率0.5%。",
-                    "item_total_cnt": 16,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 5111,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
+        "act_title": "OPL选手COS特辑收藏集",
+        "cur_time": 1702647880,
+        "start_time": 1698120000,
+        "end_time": 2114406245,
+        "pre_start_time": 1698033600,
+        "pre_end_time": 1698119999,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 165,
+                "lottery_name": "OPL选手COS特辑",
+                "display_time": 1698033600,
+                "start_time": 1698120000,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/1790b746c115f479d59283aca45e96d157fc52d2.png",
+                "draw_cnt": 0,
+                "goods_id": 19034590443008,
+                "price": 9900,
+                "goods_name": "OPL选手COS特辑",
+                "lottery_desc": "【OPL选手COS特辑】收藏集共包含16张精美海报；\n普通款：共12张均分概率86%；\n隐藏款：小隐藏共2张均分概率4.5%，大隐藏共2张概率0.5%。",
+                "item_total_cnt": 16,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 5111,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                {
-                    "lottery_id": 183,
-                    "lottery_name": "OPL福利卡池",
-                    "display_time": 1698667200,
-                    "start_time": 1698667201,
-                    "end_time": 1704038400,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/1790b746c115f479d59283aca45e96d157fc52d2.png",
-                    "draw_cnt": 0,
-                    "goods_id": 20342145839104,
-                    "price": 0,
-                    "goods_name": "OPL福利卡池",
-                    "lottery_desc": "OPL福利卡池目前共包含1张海报；\n通过直播活动获取\n（注：免费奖池抽取的卡牌不参与收集度奖励兑换哦~）",
-                    "item_total_cnt": 1,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 6,
-                    "lottery_type": 2,
-                    "effective_forever": 0,
-                    "discount": null,
-                    "free": 1,
-                    "sale_mode": 2
-                }
-            ],
-            "share_info": {
-                "main_title": "OPL选手COS特辑收藏集",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "OPL选手COS特辑收藏集火热售卖中，快来开卡吧！"
+                "free": 0,
+                "sale_mode": 1
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/9e9974b10865c09317b2e4f15e46644108f76cbe.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
-                },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
-            },
-            "total_book_cnt": 193,
-            "total_buy_cnt": 5117,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 503,
-                    "start_time": 1698033600,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "60250",
-                    "redeem_item_name": "OPL选手COS特辑·表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/7000b6ab0b7d0b0cb34e8f4e605c9379093f9726.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 499,
-                    "start_time": 1698033600,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "60227",
-                    "redeem_item_name": "OPL选手COS特辑·头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/237b4087ff813f13b0da282eec05cdfc5378dc7b.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之礼",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
-            },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "267637532",
-                "370634614",
-                "487331757",
-                "431403089",
-                "1430104115",
-                "79186374",
-                "8560508"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【OPL选手COS特辑收藏集】是决战!平安京职业联赛(简称OPL)为6名选手Avenger，cold，Forest，J，Phoenix和2in定制打造的数字周边，每张数字卡片皆拥有独特编号，均是精心拍摄、挑选和命名的，每张稀有卡片更有独有卡面惊喜和语音哦~期待和粉丝们一起解锁不一样的选手们！\n\n决战平安京职业联赛(简称OPL)，是《决战!平安京》手游最高规格的专业竞技赛事，也是网易电竞体系内首个职业联赛，全年由春季赛和秋季赛2个赛季组成，2023年是OPL创办的第五年。经历五年的发展，OPL已经成长为更精彩、更专业的职业联赛，并完成了联盟体系的搭建，从选手注册、转会制度、工资帽、三方经济、商业运营和职业培训六大方面进行制度化管理，确保各方权益得到保障，也为高端玩家提供职业赛输送渠道。\n\n未来，OPL将致力于做最贴近玩家、最有温度的职业赛事，为更多玩家带来更精彩的赛事体验。",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/8ada31d3b273ff28062b80d5030a39d803cf2898.jpg",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/8ada31d3b273ff28062b80d5030a39d803cf2898.jpg",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/a9e77cde6043826e56ed16786b5eb51c2d69941a.png\",\"card_count\":1,\"num_color\":\"#a36c59\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/f934e592537a727c28155482f1015cfee69fd371.png\",\"card_count\":5,\"num_color\":\"#6298cf\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/99a6081770dc4f203d6558b1d9f8331175b33002.png\",\"card_count\":15,\"num_color\":\"#d5b071\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/343e5e8a2cd59e393b9a6efef34823365b7f8307.png\",\"card_count\":30,\"num_color\":\"#a76bb4\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/5b8f5260b8005c201eb1e2a607eb0d4772fabc98.png\",\"card_count\":60,\"num_color\":\"#6b56ea\"}]",
-            "topic": {
-                "id": 1116244
+            {
+                "lottery_id": 183,
+                "lottery_name": "OPL福利卡池",
+                "display_time": 1698667200,
+                "start_time": 1698667201,
+                "end_time": 1704038400,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/1790b746c115f479d59283aca45e96d157fc52d2.png",
+                "draw_cnt": 0,
+                "goods_id": 20342145839104,
+                "price": 0,
+                "goods_name": "OPL福利卡池",
+                "lottery_desc": "OPL福利卡池目前共包含1张海报；\n通过直播活动获取\n（注：免费奖池抽取的卡牌不参与收集度奖励兑换哦~）",
+                "item_total_cnt": 1,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 6,
+                "lottery_type": 2,
+                "effective_forever": 0,
+                "discount": null,
+                "free": 1,
+                "sale_mode": 2
             }
+        ],
+        "share_info": {
+            "main_title": "OPL选手COS特辑收藏集",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "OPL选手COS特辑收藏集火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/9e9974b10865c09317b2e4f15e46644108f76cbe.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            },
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 193,
+        "total_buy_cnt": 5117,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 503,
+                "start_time": 1698033600,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "60250",
+                "redeem_item_name": "OPL选手COS特辑·表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/7000b6ab0b7d0b0cb34e8f4e605c9379093f9726.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 499,
+                "start_time": 1698033600,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "60227",
+                "redeem_item_name": "OPL选手COS特辑·头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/237b4087ff813f13b0da282eec05cdfc5378dc7b.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之礼",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "267637532",
+            "370634614",
+            "487331757",
+            "431403089",
+            "1430104115",
+            "79186374",
+            "8560508"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【OPL选手COS特辑收藏集】是决战!平安京职业联赛(简称OPL)为6名选手Avenger，cold，Forest，J，Phoenix和2in定制打造的数字周边，每张数字卡片皆拥有独特编号，均是精心拍摄、挑选和命名的，每张稀有卡片更有独有卡面惊喜和语音哦~期待和粉丝们一起解锁不一样的选手们！\n\n决战平安京职业联赛(简称OPL)，是《决战!平安京》手游最高规格的专业竞技赛事，也是网易电竞体系内首个职业联赛，全年由春季赛和秋季赛2个赛季组成，2023年是OPL创办的第五年。经历五年的发展，OPL已经成长为更精彩、更专业的职业联赛，并完成了联盟体系的搭建，从选手注册、转会制度、工资帽、三方经济、商业运营和职业培训六大方面进行制度化管理，确保各方权益得到保障，也为高端玩家提供职业赛输送渠道。\n\n未来，OPL将致力于做最贴近玩家、最有温度的职业赛事，为更多玩家带来更精彩的赛事体验。",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/8ada31d3b273ff28062b80d5030a39d803cf2898.jpg",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/8ada31d3b273ff28062b80d5030a39d803cf2898.jpg",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/a9e77cde6043826e56ed16786b5eb51c2d69941a.png\",\"card_count\":1,\"num_color\":\"#a36c59\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/f934e592537a727c28155482f1015cfee69fd371.png\",\"card_count\":5,\"num_color\":\"#6298cf\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/99a6081770dc4f203d6558b1d9f8331175b33002.png\",\"card_count\":15,\"num_color\":\"#d5b071\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/343e5e8a2cd59e393b9a6efef34823365b7f8307.png\",\"card_count\":30,\"num_color\":\"#a76bb4\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/5b8f5260b8005c201eb1e2a607eb0d4772fabc98.png\",\"card_count\":60,\"num_color\":\"#6b56ea\"}]",
+        "topic": {
+            "id": 1116244
         }
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/9e9974b10865c09317b2e4f15e46644108f76cbe.png",
@@ -708,5 +700,5 @@
                 }
             ]
         }
-    }
+    ]
 }

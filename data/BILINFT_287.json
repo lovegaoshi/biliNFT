@@ -1,234 +1,226 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "功夫熊猫收藏集",
-            "cur_time": 1707698178,
-            "start_time": 1707278400,
-            "end_time": 1735660799,
-            "pre_start_time": 1707192000,
-            "pre_end_time": 1707278399,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 279,
-                    "lottery_name": "双龙献瑞",
-                    "display_time": 1707192000,
-                    "start_time": 1707278400,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/de5dc40bf1a907cda1add88908febda2d4c46b03.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 38238393762304,
-                    "price": 9900,
-                    "goods_name": "双龙献瑞",
-                    "lottery_desc": "功夫熊猫·双龙献瑞卡池共包含8张海报；\n普通款：功夫熊猫·木雕、功夫熊猫·皮影戏、功夫熊猫·面食、功夫熊猫·夜光杯、功夫熊猫·吹糖人均分概率86%、功夫熊猫·龙年大吉概率9%；\n隐藏款：祥龙福虎过新年概率4.5%、双龙献瑞概率0.5%。",
-                    "item_total_cnt": 8,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 636,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+        "act_title": "功夫熊猫收藏集",
+        "cur_time": 1707698178,
+        "start_time": 1707278400,
+        "end_time": 1735660799,
+        "pre_start_time": 1707192000,
+        "pre_end_time": 1707278399,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 279,
+                "lottery_name": "双龙献瑞",
+                "display_time": 1707192000,
+                "start_time": 1707278400,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/de5dc40bf1a907cda1add88908febda2d4c46b03.jpg",
+                "draw_cnt": 0,
+                "goods_id": 38238393762304,
+                "price": 9900,
+                "goods_name": "双龙献瑞",
+                "lottery_desc": "功夫熊猫·双龙献瑞卡池共包含8张海报；\n普通款：功夫熊猫·木雕、功夫熊猫·皮影戏、功夫熊猫·面食、功夫熊猫·夜光杯、功夫熊猫·吹糖人均分概率86%、功夫熊猫·龙年大吉概率9%；\n隐藏款：祥龙福虎过新年概率4.5%、双龙献瑞概率0.5%。",
+                "item_total_cnt": 8,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 636,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
+                },
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "功夫熊猫收藏集",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "功夫熊猫收藏集活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/9651c970711e8165f0fa6fff96538b0ccab416b3.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            },
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 156,
+        "total_buy_cnt": 636,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 775,
+                "start_time": 1707192000,
+                "end_time": 1735660799,
+                "redeem_text": "完成6抽，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 1,
+                "redeem_item_id": "1166787",
+                "redeem_item_name": "兑换卡·神龙大侠",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/c5f41c81eb8df7f43acb49abd356d6b883b21b0a.jpg",
+                "owned_item_amount": 0,
+                "require_item_amount": 6,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": {
+                        "id": 1166787,
+                        "name": "神龙大侠",
+                        "overview_image": "https://i0.hdslb.com/bfs/baselabs/c5f41c81eb8df7f43acb49abd356d6b883b21b0a.jpg",
+                        "content": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/baselabs/c5f41c81eb8df7f43acb49abd356d6b883b21b0a.jpg",
+                                "gyroscope": null,
+                                "location": ""
+                            },
+                            "animation": null
+                        },
+                        "material_type": 1,
+                        "theme": "功夫熊猫 隐藏",
+                        "scarcity": 50,
+                        "layout": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "face_overflow": null,
+                        "material_sub_type": 0,
+                        "overview_image_watermarks": [
+                            {
+                                "scene": 1,
+                                "watermark_image": "https://i0.hdslb.com/bfs/garb/48b065f5ccb4aa34a8370ab58190201bc7da52c9.png"
+                            }
+                        ],
+                        "watermark_animations": null,
+                        "space_background": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/baselabs/c5f41c81eb8df7f43acb49abd356d6b883b21b0a.jpg",
+                                "gyroscope": null,
+                                "location": "0-341-1242-1242"
+                            },
+                            "animation": null
                         }
                     },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "功夫熊猫收藏集",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "功夫熊猫收藏集活动火热售卖中，快来开卡吧！"
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/9651c970711e8165f0fa6fff96538b0ccab416b3.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            {
+                "collect_id": 768,
+                "start_time": 1707192000,
+                "end_time": 1735660799,
+                "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "66661",
+                "redeem_item_name": "功夫熊猫头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/407bc8f570c23f1704e57d0b0223ec187a11d0f7.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "total_book_cnt": 156,
-            "total_buy_cnt": 636,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 775,
-                    "start_time": 1707192000,
-                    "end_time": 1735660799,
-                    "redeem_text": "完成6抽，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 1,
-                    "redeem_item_id": "1166787",
-                    "redeem_item_name": "兑换卡·神龙大侠",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/c5f41c81eb8df7f43acb49abd356d6b883b21b0a.jpg",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 6,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": {
-                            "id": 1166787,
-                            "name": "神龙大侠",
-                            "overview_image": "https://i0.hdslb.com/bfs/baselabs/c5f41c81eb8df7f43acb49abd356d6b883b21b0a.jpg",
-                            "content": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/baselabs/c5f41c81eb8df7f43acb49abd356d6b883b21b0a.jpg",
-                                    "gyroscope": null,
-                                    "location": ""
-                                },
-                                "animation": null
-                            },
-                            "material_type": 1,
-                            "theme": "功夫熊猫 隐藏",
-                            "scarcity": 50,
-                            "layout": 0,
-                            "width": 1242,
-                            "height": 1863,
-                            "face_overflow": null,
-                            "material_sub_type": 0,
-                            "overview_image_watermarks": [
-                                {
-                                    "scene": 1,
-                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/48b065f5ccb4aa34a8370ab58190201bc7da52c9.png"
-                                }
-                            ],
-                            "watermark_animations": null,
-                            "space_background": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/baselabs/c5f41c81eb8df7f43acb49abd356d6b883b21b0a.jpg",
-                                    "gyroscope": null,
-                                    "location": "0-341-1242-1242"
-                                },
-                                "animation": null
-                            }
-                        },
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            {
+                "collect_id": 770,
+                "start_time": 1707192000,
+                "end_time": 1735660799,
+                "redeem_text": "完成4抽，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "66675",
+                "redeem_item_name": "功夫熊猫个性主题",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/c662385d52293538d6441716248d14280fdb8367.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 4,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 768,
-                    "start_time": 1707192000,
-                    "end_time": 1735660799,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "66661",
-                    "redeem_item_name": "功夫熊猫头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/407bc8f570c23f1704e57d0b0223ec187a11d0f7.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 770,
-                    "start_time": 1707192000,
-                    "end_time": 1735660799,
-                    "redeem_text": "完成4抽，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "66675",
-                    "redeem_item_name": "功夫熊猫个性主题",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/c662385d52293538d6441716248d14280fdb8367.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 4,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 769,
-                    "start_time": 1707192000,
-                    "end_time": 1735660799,
-                    "redeem_text": "完成2抽，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "66668",
-                    "redeem_item_name": "功夫熊猫表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/ea936b33613805ec8fae62c6b54f807ac67f5401.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之礼",
-            "effective_forever": 0,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": null,
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "功夫熊猫收藏集是哔哩哔哩携手《功夫熊猫》，以庆祝龙年为主题，特打造首款定制数字收藏集，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁独家绝美画面！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/0f63b527d6469e4167667b4795943ba86b619768.png",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/0f63b527d6469e4167667b4795943ba86b619768.png",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/025290cb80ac0297064cc207f56e398b09dd1e82.png\",\"card_count\":1,\"num_color\":\"#cab6af\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/110e50ae6da6a4130b2866973c92e5e6749486ef.png\",\"card_count\":5,\"num_color\":\"#8fcffb\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/dc247eb86a1ae28624fda78ba040d930ef505eeb.png\",\"card_count\":15,\"num_color\":\"#c1a76c\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/2eadd9c45d44f88bb403a621680fcc23a42a8c14.png\",\"card_count\":30,\"num_color\":\"#cf9cbb\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/5f6b769a53ed9b0f4a9b73866234f5b7350a6628.png\",\"card_count\":60,\"num_color\":\"#ada6ff\"}]",
-            "topic": null,
-            "physical_exchange": false,
-            "act_square_img": "https://i0.hdslb.com/bfs/garb/9ce6e8ebad0edbcb2beed1bb92c3445bf2d6730e.jpg"
-        }
+            {
+                "collect_id": 769,
+                "start_time": 1707192000,
+                "end_time": 1735660799,
+                "redeem_text": "完成2抽，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "66668",
+                "redeem_item_name": "功夫熊猫表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/ea936b33613805ec8fae62c6b54f807ac67f5401.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之礼",
+        "effective_forever": 0,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": null,
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "功夫熊猫收藏集是哔哩哔哩携手《功夫熊猫》，以庆祝龙年为主题，特打造首款定制数字收藏集，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁独家绝美画面！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/0f63b527d6469e4167667b4795943ba86b619768.png",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/0f63b527d6469e4167667b4795943ba86b619768.png",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/025290cb80ac0297064cc207f56e398b09dd1e82.png\",\"card_count\":1,\"num_color\":\"#cab6af\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/110e50ae6da6a4130b2866973c92e5e6749486ef.png\",\"card_count\":5,\"num_color\":\"#8fcffb\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/dc247eb86a1ae28624fda78ba040d930ef505eeb.png\",\"card_count\":15,\"num_color\":\"#c1a76c\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/2eadd9c45d44f88bb403a621680fcc23a42a8c14.png\",\"card_count\":30,\"num_color\":\"#cf9cbb\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/5f6b769a53ed9b0f4a9b73866234f5b7350a6628.png\",\"card_count\":60,\"num_color\":\"#ada6ff\"}]",
+        "topic": null,
+        "physical_exchange": false,
+        "act_square_img": "https://i0.hdslb.com/bfs/garb/9ce6e8ebad0edbcb2beed1bb92c3445bf2d6730e.jpg"
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/9651c970711e8165f0fa6fff96538b0ccab416b3.jpg",
@@ -498,5 +490,5 @@
                 }
             ]
         }
-    }
+    ]
 }

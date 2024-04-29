@@ -1,181 +1,173 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "雨中Neo收藏集",
-            "cur_time": 1713150293,
-            "start_time": 1712838600,
-            "end_time": 2114406245,
-            "pre_start_time": 1712752200,
-            "pre_end_time": 1712838599,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 101598,
-                    "lottery_name": "预见Neo",
-                    "display_time": 1712752200,
-                    "start_time": 1712838600,
-                    "end_time": 2114406245,
-                    "lottery_image": "https://i0.hdslb.com/bfs/garb/3ecd168e14677ca0a45966ba150137f54e1fcacf.png",
-                    "draw_cnt": 0,
-                    "goods_id": 49903965340160,
-                    "price": 9900,
-                    "goods_name": "预见Neo",
-                    "lottery_desc": "【隐藏款-大隐藏】：雨中neo概率0.5%,若前399抽均未获得过任意大隐藏，则第400抽必得大隐藏;\n【隐藏款-小隐藏】：心碎neo概率4.5%;\n【普通款】：ENDneo概率9%，其余立绘均分概率86%;",
-                    "item_total_cnt": 8,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 14823,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "雨中Neo收藏集",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热售卖中，快来开卡吧！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/79342f01fcc1601c488ac18204b9d98a81f68a4f.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "雨中Neo收藏集",
+        "cur_time": 1713150293,
+        "start_time": 1712838600,
+        "end_time": 2114406245,
+        "pre_start_time": 1712752200,
+        "pre_end_time": 1712838599,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 101598,
+                "lottery_name": "预见Neo",
+                "display_time": 1712752200,
+                "start_time": 1712838600,
+                "end_time": 2114406245,
+                "lottery_image": "https://i0.hdslb.com/bfs/garb/3ecd168e14677ca0a45966ba150137f54e1fcacf.png",
+                "draw_cnt": 0,
+                "goods_id": 49903965340160,
+                "price": 9900,
+                "goods_name": "预见Neo",
+                "lottery_desc": "【隐藏款-大隐藏】：雨中neo概率0.5%,若前399抽均未获得过任意大隐藏，则第400抽必得大隐藏;\n【隐藏款-小隐藏】：心碎neo概率4.5%;\n【普通款】：ENDneo概率9%，其余立绘均分概率86%;",
+                "item_total_cnt": 8,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 14823,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "雨中Neo收藏集",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/79342f01fcc1601c488ac18204b9d98a81f68a4f.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 725,
-            "total_buy_cnt": 14823,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 101646,
-                    "start_time": 1712752200,
-                    "end_time": 2114406245,
-                    "redeem_text": "预见Neo卡池完成5抽即可领取",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "1711696072001&1711694125001&1711695575001&1711696260001",
-                    "redeem_item_name": "雨中Neo-动态主题",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/293548161a76327d83f2a789de93ade39a6bfcff.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1,
-                    "redeem_items_optional": null
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 725,
+        "total_buy_cnt": 14823,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 101646,
+                "start_time": 1712752200,
+                "end_time": 2114406245,
+                "redeem_text": "预见Neo卡池完成5抽即可领取",
+                "redeem_item_type": 5,
+                "redeem_item_id": "1711696072001&1711694125001&1711695575001&1711696260001",
+                "redeem_item_name": "雨中Neo-动态主题",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/293548161a76327d83f2a789de93ade39a6bfcff.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 5,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 101645,
-                    "start_time": 1712752200,
-                    "end_time": 2114406245,
-                    "redeem_text": "预见Neo卡池抽到任意1张隐藏款立绘即可领取",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "1711693847001",
-                    "redeem_item_name": "雨中Neo-头像挂件",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/f63d230197204342425411145ad4e54c1b450f0b.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1,
-                    "redeem_items_optional": null
-                },
-                {
-                    "collect_id": 101644,
-                    "start_time": 1712752200,
-                    "end_time": 2114406245,
-                    "redeem_text": "预见Neo卡池完成2抽即可领取",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "1711693965001",
-                    "redeem_item_name": "雨中Neo-表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/759785042aa20ab70decae4af3caa34997692fb3.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1,
-                    "redeem_items_optional": null
-                }
-            ],
-            "display_title": "任务奖励",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1,
+                "redeem_items_optional": null
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "9404404"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【雨中neo收藏集】是赋生计划社团推出的首套数字收藏集，由多名创作者共同努力精心制作每张卡片都由知名画师绘制，另有多种数字奖励等你解锁。",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/open/f3a45ae97c01ea585c9ab006fe7a15cdca929a9a.png@0-0-1126-1126a",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/open/f3a45ae97c01ea585c9ab006fe7a15cdca929a9a.png@0-0-1126-1126a",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/673ae9023b56d9296cdf46697a6336f6e49abf5e.png\",\"num_color\":\"#C79085\",\"card_count\":1,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/19503fbcca9886f3179b42518f50cffcd67e64f6.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/673ae9023b56d9296cdf46697a6336f6e49abf5e.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/673ae9023b56d9296cdf46697a6336f6e49abf5e.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/566152d87c67847d3cb500f400af324bb78fec81.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/68c5eaba64d6fc8250bec1b9e09b51167ca245f4\"}},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/fbd9509515614640659fe673b72d96a9d11eaeec.png\",\"num_color\":\"#78A6F6\",\"card_count\":5,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/85d2626f7634b271dbe4980ead7fd6504c9d6376.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/fbd9509515614640659fe673b72d96a9d11eaeec.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/fbd9509515614640659fe673b72d96a9d11eaeec.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/3e766a099932edb83467b7152fb551cee4f70792.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/7e3bbe2b718a32b1be7d0195391ce6d85cb89c1d\"}},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/e8d2a0ffe4f61f33515b68fe77f30e8b304a4889.png\",\"num_color\":\"#FB9906\",\"card_count\":15,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/314cbaf9b5a7d84c2f3095c6e6f08d8f4eccdc55.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/e8d2a0ffe4f61f33515b68fe77f30e8b304a4889.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/e8d2a0ffe4f61f33515b68fe77f30e8b304a4889.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/2e5cc619fe35f0c7d14c264fc132bb7d21d61162.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/d08b4271166cc3641bc0cda97feacf1f60872beb\"}},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/ec62ba6bb68bedc7b4325a475f864015504218c1.png\",\"num_color\":\"#D170BE\",\"card_count\":30,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/e40d7ca5a44f0ab2e9226c25a9ba98cbed830c0e.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/ec62ba6bb68bedc7b4325a475f864015504218c1.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/ec62ba6bb68bedc7b4325a475f864015504218c1.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/8d266f128489e5cbc0bac4206be078d783b8039e.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/80ade8b36bbfcfee84fa17c3073e756937306156\"}},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/57bac22e2cafd2ed04c8bb5b3f9eb45d7394ff1b.png\",\"num_color\":\"#765CFE\",\"card_count\":60,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/d33da830d2361a13d6824ffef90dda7204fca983.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/57bac22e2cafd2ed04c8bb5b3f9eb45d7394ff1b.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/57bac22e2cafd2ed04c8bb5b3f9eb45d7394ff1b.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/c0935f4cdbd9ee6c8fc249e90cedba122b9a9140.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/98119eb1b89452343070cd205c8c9986397e88bf\"}}]",
-            "topic": null,
-            "physical_exchange": false,
-            "act_square_img": "https://i0.hdslb.com/bfs/garb/4827af0c830dc456770c7298ab31ac934434a38b.jpg",
-            "tab_lottery_id": 101598
-        }
+            {
+                "collect_id": 101645,
+                "start_time": 1712752200,
+                "end_time": 2114406245,
+                "redeem_text": "预见Neo卡池抽到任意1张隐藏款立绘即可领取",
+                "redeem_item_type": 3,
+                "redeem_item_id": "1711693847001",
+                "redeem_item_name": "雨中Neo-头像挂件",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/f63d230197204342425411145ad4e54c1b450f0b.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1,
+                "redeem_items_optional": null
+            },
+            {
+                "collect_id": 101644,
+                "start_time": 1712752200,
+                "end_time": 2114406245,
+                "redeem_text": "预见Neo卡池完成2抽即可领取",
+                "redeem_item_type": 2,
+                "redeem_item_id": "1711693965001",
+                "redeem_item_name": "雨中Neo-表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/759785042aa20ab70decae4af3caa34997692fb3.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1,
+                "redeem_items_optional": null
+            }
+        ],
+        "display_title": "任务奖励",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "9404404"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【雨中neo收藏集】是赋生计划社团推出的首套数字收藏集，由多名创作者共同努力精心制作每张卡片都由知名画师绘制，另有多种数字奖励等你解锁。",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/open/f3a45ae97c01ea585c9ab006fe7a15cdca929a9a.png@0-0-1126-1126a",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/open/f3a45ae97c01ea585c9ab006fe7a15cdca929a9a.png@0-0-1126-1126a",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/673ae9023b56d9296cdf46697a6336f6e49abf5e.png\",\"num_color\":\"#C79085\",\"card_count\":1,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/19503fbcca9886f3179b42518f50cffcd67e64f6.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/673ae9023b56d9296cdf46697a6336f6e49abf5e.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/673ae9023b56d9296cdf46697a6336f6e49abf5e.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/566152d87c67847d3cb500f400af324bb78fec81.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/68c5eaba64d6fc8250bec1b9e09b51167ca245f4\"}},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/fbd9509515614640659fe673b72d96a9d11eaeec.png\",\"num_color\":\"#78A6F6\",\"card_count\":5,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/85d2626f7634b271dbe4980ead7fd6504c9d6376.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/fbd9509515614640659fe673b72d96a9d11eaeec.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/fbd9509515614640659fe673b72d96a9d11eaeec.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/3e766a099932edb83467b7152fb551cee4f70792.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/7e3bbe2b718a32b1be7d0195391ce6d85cb89c1d\"}},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/e8d2a0ffe4f61f33515b68fe77f30e8b304a4889.png\",\"num_color\":\"#FB9906\",\"card_count\":15,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/314cbaf9b5a7d84c2f3095c6e6f08d8f4eccdc55.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/e8d2a0ffe4f61f33515b68fe77f30e8b304a4889.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/e8d2a0ffe4f61f33515b68fe77f30e8b304a4889.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/2e5cc619fe35f0c7d14c264fc132bb7d21d61162.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/d08b4271166cc3641bc0cda97feacf1f60872beb\"}},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/ec62ba6bb68bedc7b4325a475f864015504218c1.png\",\"num_color\":\"#D170BE\",\"card_count\":30,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/e40d7ca5a44f0ab2e9226c25a9ba98cbed830c0e.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/ec62ba6bb68bedc7b4325a475f864015504218c1.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/ec62ba6bb68bedc7b4325a475f864015504218c1.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/8d266f128489e5cbc0bac4206be078d783b8039e.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/80ade8b36bbfcfee84fa17c3073e756937306156\"}},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/57bac22e2cafd2ed04c8bb5b3f9eb45d7394ff1b.png\",\"num_color\":\"#765CFE\",\"card_count\":60,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/d33da830d2361a13d6824ffef90dda7204fca983.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/57bac22e2cafd2ed04c8bb5b3f9eb45d7394ff1b.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/57bac22e2cafd2ed04c8bb5b3f9eb45d7394ff1b.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/c0935f4cdbd9ee6c8fc249e90cedba122b9a9140.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/98119eb1b89452343070cd205c8c9986397e88bf\"}}]",
+        "topic": null,
+        "physical_exchange": false,
+        "act_square_img": "https://i0.hdslb.com/bfs/garb/4827af0c830dc456770c7298ab31ac934434a38b.jpg",
+        "tab_lottery_id": 101598
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/79342f01fcc1601c488ac18204b9d98a81f68a4f.png",
@@ -440,5 +432,5 @@
                 }
             ]
         }
-    }
+    ]
 }

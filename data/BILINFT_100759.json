@@ -1,154 +1,146 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "荧幕内外收藏集",
-            "cur_time": 1704070677,
-            "start_time": 1703908800,
-            "end_time": 2114406245,
-            "pre_start_time": 1703822400,
-            "pre_end_time": 1703908799,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 100773,
-                    "lottery_name": "荧幕内外",
-                    "display_time": 1703822400,
-                    "start_time": 1703908800,
-                    "end_time": 2114406245,
-                    "lottery_image": "https://i0.hdslb.com/bfs/garb/057d622d677ec258d870055dfe07bd0d4464d808.png",
-                    "draw_cnt": 0,
-                    "goods_id": 31176817414144,
-                    "price": 9900,
-                    "goods_name": "荧幕内外",
-                    "lottery_desc": "【隐藏款】阿久·冬日黄昏,眠特·暖咖呢喃,塔克·旺达施舍均分概率4.5%;眠特·向阳弥望,阿久·西城狂徒,塔克·红石谜案均分概率0.5%;\n【普通款】塔克·渡灵静舟,阿久·圣诞追忆,眠特·昔往流光均分概率9%;其余立绘均分概率86%;",
-                    "item_total_cnt": 24,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 21579,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "荧幕内外收藏集",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热售卖中，快来开卡吧！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/0eb4df29261588512c53a776464e991cc5083b56.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "荧幕内外收藏集",
+        "cur_time": 1704070677,
+        "start_time": 1703908800,
+        "end_time": 2114406245,
+        "pre_start_time": 1703822400,
+        "pre_end_time": 1703908799,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 100773,
+                "lottery_name": "荧幕内外",
+                "display_time": 1703822400,
+                "start_time": 1703908800,
+                "end_time": 2114406245,
+                "lottery_image": "https://i0.hdslb.com/bfs/garb/057d622d677ec258d870055dfe07bd0d4464d808.png",
+                "draw_cnt": 0,
+                "goods_id": 31176817414144,
+                "price": 9900,
+                "goods_name": "荧幕内外",
+                "lottery_desc": "【隐藏款】阿久·冬日黄昏,眠特·暖咖呢喃,塔克·旺达施舍均分概率4.5%;眠特·向阳弥望,阿久·西城狂徒,塔克·红石谜案均分概率0.5%;\n【普通款】塔克·渡灵静舟,阿久·圣诞追忆,眠特·昔往流光均分概率9%;其余立绘均分概率86%;",
+                "item_total_cnt": 24,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 21579,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "荧幕内外收藏集",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/0eb4df29261588512c53a776464e991cc5083b56.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 1178,
-            "total_buy_cnt": 21579,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 100781,
-                    "start_time": 1703822400,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽到任意1张隐藏款立绘即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "1703484243001",
-                    "redeem_item_name": "荧幕内外-头像挂件",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/b8d98d83f74b8f51787c904017d87cfb78a8bd34.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 1178,
+        "total_buy_cnt": 21579,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 100781,
+                "start_time": 1703822400,
+                "end_time": 2114406245,
+                "redeem_text": "抽到任意1张隐藏款立绘即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 3,
+                "redeem_item_id": "1703484243001",
+                "redeem_item_name": "荧幕内外-头像挂件",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/b8d98d83f74b8f51787c904017d87cfb78a8bd34.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 100780,
-                    "start_time": 1703822400,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成2抽即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "1702899933001",
-                    "redeem_item_name": "荧幕内外-表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/f6e6fd3faa3acc626add1ee173853029c638a837.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "任务奖励",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "9066351",
-                "1202416628",
-                "3494351384611564"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【荧幕内外收藏集】是哔哩哔哩携手虚拟偶像塔克Tako，眠特Mint，阿久_Aku定制打造的团体数字集卡，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁荧幕内外成员的绝美画面！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/open/2657de5cc9b0ea3e7d5137cb75503ba8d35271a8.jpg@0-0-1126-1126a",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/open/2657de5cc9b0ea3e7d5137cb75503ba8d35271a8.jpg@0-0-1126-1126a",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/f0eeb46f38e63a2998559fd7e5c755c315bcc62f.png\",\"card_count\":1,\"num_color\":\"#EBB2B2\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/204febf2f3daf40c225fe36104531f0c6a346fc1.png\",\"card_count\":5,\"num_color\":\"#6CAEE8\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/6c598320f150b52f30c0ea5c7934877ec6555559.png\",\"card_count\":15,\"num_color\":\"#EAB765\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/9b0ea39c65c3de38a358f6cc561a1ecc6b53612f.png\",\"card_count\":30,\"num_color\":\"#EEA8CC\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/9d481201e8c3ed56c2d0258f3e01fbbd82e28030.png\",\"card_count\":60,\"num_color\":\"#BB9EEC\"}]",
-            "topic": null,
-            "physical_exchange": false
-        }
+            {
+                "collect_id": 100780,
+                "start_time": 1703822400,
+                "end_time": 2114406245,
+                "redeem_text": "完成2抽即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 2,
+                "redeem_item_id": "1702899933001",
+                "redeem_item_name": "荧幕内外-表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/f6e6fd3faa3acc626add1ee173853029c638a837.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "任务奖励",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "9066351",
+            "1202416628",
+            "3494351384611564"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【荧幕内外收藏集】是哔哩哔哩携手虚拟偶像塔克Tako，眠特Mint，阿久_Aku定制打造的团体数字集卡，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁荧幕内外成员的绝美画面！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/open/2657de5cc9b0ea3e7d5137cb75503ba8d35271a8.jpg@0-0-1126-1126a",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/open/2657de5cc9b0ea3e7d5137cb75503ba8d35271a8.jpg@0-0-1126-1126a",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/f0eeb46f38e63a2998559fd7e5c755c315bcc62f.png\",\"card_count\":1,\"num_color\":\"#EBB2B2\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/204febf2f3daf40c225fe36104531f0c6a346fc1.png\",\"card_count\":5,\"num_color\":\"#6CAEE8\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/6c598320f150b52f30c0ea5c7934877ec6555559.png\",\"card_count\":15,\"num_color\":\"#EAB765\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/9b0ea39c65c3de38a358f6cc561a1ecc6b53612f.png\",\"card_count\":30,\"num_color\":\"#EEA8CC\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/9d481201e8c3ed56c2d0258f3e01fbbd82e28030.png\",\"card_count\":60,\"num_color\":\"#BB9EEC\"}]",
+        "topic": null,
+        "physical_exchange": false
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/0eb4df29261588512c53a776464e991cc5083b56.png",
@@ -901,5 +893,5 @@
                 }
             ]
         }
-    }
+    ]
 }

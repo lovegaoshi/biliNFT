@@ -1,244 +1,236 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "初音未来收藏集",
-            "cur_time": 1702647914,
-            "start_time": 1695189600,
-            "end_time": 2114406245,
-            "pre_start_time": 1695103200,
-            "pre_end_time": 1695189599,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 100007,
-                    "lottery_name": "16岁生贺",
-                    "display_time": 1695103200,
-                    "start_time": 1695189600,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/35624b88a1a9a344aacc699bbcf773f3b07c92db.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 12881651330560,
-                    "price": 9900,
-                    "goods_name": "16岁生贺",
-                    "lottery_desc": "【初音未来收藏集——16岁生贺】共包含8张精美立绘，MIKU开启16岁之旅！\n* 隐藏款：16生贺·初音未来，概率0.5%；镜遇，概率4.5%\n* 普通款：巡游乐队·初音未来，概率9%；巡游乐队·KAITO，巡游乐队·MEIKO，巡游乐队·巡音流歌，巡游乐队·镜音连和巡游乐队·镜音铃共5张，均分概率86%\n400抽保底必出大隐藏款，若1-399抽中已获得大隐藏，则重置重新计数",
-                    "item_total_cnt": 8,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 16405,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": null,
-                    "free": 0,
-                    "sale_mode": 1
-                },
-                {
-                    "lottery_id": 100008,
-                    "lottery_name": "创作之翼",
-                    "display_time": 1695103201,
-                    "start_time": 1695189601,
-                    "end_time": 1704038399,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/f9bd18b24764591f1ad99073ee10f5ab2ef8a117.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 12881651330561,
-                    "price": 9900,
-                    "goods_name": "创作之翼",
-                    "lottery_desc": "【初音未来收藏集——16岁生贺】共包含8张精美立绘，MIKU开启16岁之旅！\n* 隐藏款：新增创作之翼·初音未来，概率0.35%，永久卡限时售卖；16生贺·初音未来，概率0.15%；镜遇，概率4.5%\n* 普通款：新增创作之翼·MIKU，概率14.3%，永久卡限时售卖；巡游乐队·初音未来，概率9%；巡游乐队·KAITO，巡游乐队·MEIKO，巡游乐队·巡音流歌，巡游乐队·镜音连和巡游乐队·镜音铃共5张，均分概率71.7%\n400抽保底必出大隐藏款，若1-399抽中已获得大隐藏，则重置重新计数",
-                    "item_total_cnt": 10,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 146024,
-                    "lottery_type": 2,
-                    "effective_forever": 0,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 2
-                }
-            ],
-            "share_info": {
-                "main_title": "初音未来收藏集——16岁生贺开售",
-                "sub_title": "超精美立绘，趣味表情包、头像框等你抱回家！",
-                "share_content": "初音未来收藏集——16岁生贺火热开售中，甜美音声抢先听！"
+        "act_title": "初音未来收藏集",
+        "cur_time": 1702647914,
+        "start_time": 1695189600,
+        "end_time": 2114406245,
+        "pre_start_time": 1695103200,
+        "pre_end_time": 1695189599,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 100007,
+                "lottery_name": "16岁生贺",
+                "display_time": 1695103200,
+                "start_time": 1695189600,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/35624b88a1a9a344aacc699bbcf773f3b07c92db.jpg",
+                "draw_cnt": 0,
+                "goods_id": 12881651330560,
+                "price": 9900,
+                "goods_name": "16岁生贺",
+                "lottery_desc": "【初音未来收藏集——16岁生贺】共包含8张精美立绘，MIKU开启16岁之旅！\n* 隐藏款：16生贺·初音未来，概率0.5%；镜遇，概率4.5%\n* 普通款：巡游乐队·初音未来，概率9%；巡游乐队·KAITO，巡游乐队·MEIKO，巡游乐队·巡音流歌，巡游乐队·镜音连和巡游乐队·镜音铃共5张，均分概率86%\n400抽保底必出大隐藏款，若1-399抽中已获得大隐藏，则重置重新计数",
+                "item_total_cnt": 8,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 16405,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": null,
+                "free": 0,
+                "sale_mode": 1
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/62587e00a61320294a31726e61cc674ac2f245ce.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            {
+                "lottery_id": 100008,
+                "lottery_name": "创作之翼",
+                "display_time": 1695103201,
+                "start_time": 1695189601,
+                "end_time": 1704038399,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/f9bd18b24764591f1ad99073ee10f5ab2ef8a117.jpg",
+                "draw_cnt": 0,
+                "goods_id": 12881651330561,
+                "price": 9900,
+                "goods_name": "创作之翼",
+                "lottery_desc": "【初音未来收藏集——16岁生贺】共包含8张精美立绘，MIKU开启16岁之旅！\n* 隐藏款：新增创作之翼·初音未来，概率0.35%，永久卡限时售卖；16生贺·初音未来，概率0.15%；镜遇，概率4.5%\n* 普通款：新增创作之翼·MIKU，概率14.3%，永久卡限时售卖；巡游乐队·初音未来，概率9%；巡游乐队·KAITO，巡游乐队·MEIKO，巡游乐队·巡音流歌，巡游乐队·镜音连和巡游乐队·镜音铃共5张，均分概率71.7%\n400抽保底必出大隐藏款，若1-399抽中已获得大隐藏，则重置重新计数",
+                "item_total_cnt": 10,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 146024,
+                "lottery_type": 2,
+                "effective_forever": 0,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 2
+            }
+        ],
+        "share_info": {
+            "main_title": "初音未来收藏集——16岁生贺开售",
+            "sub_title": "超精美立绘，趣味表情包、头像框等你抱回家！",
+            "share_content": "初音未来收藏集——16岁生贺火热开售中，甜美音声抢先听！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/62587e00a61320294a31726e61cc674ac2f245ce.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 4159,
-            "total_buy_cnt": 162429,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 464,
-                    "start_time": 1697169600,
-                    "end_time": 1704038399,
-                    "redeem_text": "抽出【镜遇】的指定编号卡牌，即可领取\n限量39个指定编号如下：\n1，16，39，116，160，233，\n399，616，666，831，939，999\n1016，1233，1399，1600，1831，1939，2016，2233，2399，2616，2831，2939，3016，3233，3399，3616，3831，3900，3939，4016，4233，4399，4616，4831，4939，5016，5039",
-                    "redeem_item_type": 9,
-                    "redeem_item_id": "",
-                    "redeem_item_name": "BEMOE 初音未来 可爱体系列 软乎乎笑容 4ways收纳",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/31a6a9976a533edc2eb968b7147616bc4bc53e76.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "custom",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 4159,
+        "total_buy_cnt": 162429,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 464,
+                "start_time": 1697169600,
+                "end_time": 1704038399,
+                "redeem_text": "抽出【镜遇】的指定编号卡牌，即可领取\n限量39个指定编号如下：\n1，16，39，116，160，233，\n399，616，666，831，939，999\n1016，1233，1399，1600，1831，1939，2016，2233，2399，2616，2831，2939，3016，3233，3399，3616，3831，3900，3939，4016，4233，4399，4616，4831，4939，5016，5039",
+                "redeem_item_type": 9,
+                "redeem_item_id": "",
+                "redeem_item_name": "BEMOE 初音未来 可爱体系列 软乎乎笑容 4ways收纳",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/31a6a9976a533edc2eb968b7147616bc4bc53e76.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 100016,
-                    "start_time": 1695103201,
-                    "end_time": 1704038399,
-                    "redeem_text": "抽出【创作之翼·初音未来】卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "59580",
-                    "redeem_item_name": "【初音未来·创作之翼】动态主题",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/a521003249e543d975508db8c830f321776d3b8e.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 100015,
-                    "start_time": 1695103200,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意5张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "59579&59578&59577&59576",
-                    "redeem_item_name": "镜遇动态个性主题&点赞&加载&进度条",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/10b58a523216a1f388ea861b98f86040ce52139f.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 100014,
-                    "start_time": 1695103200,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "59582",
-                    "redeem_item_name": "初音未来16生贺表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/efaf246e15113e5b9e116f38284c15db26a42ac6.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 100013,
-                    "start_time": 1695103200,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "59575",
-                    "redeem_item_name": "初音未来16岁生贺头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/d0e40ff636793a60174117bdae2ba103d09a277a.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之旅",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "custom",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "399918500"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【初音未来收藏集】是哔哩哔哩携手初音未来定制打造的数字集卡，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁MIKU的绝美画面！\n“初音未来”是一款由Crypton Future Media公司研发出的“软件”，通过这款软件输入歌词和旋律后任何人都可以让她唱歌。由于为数众多的创作者们都使用“初音未来”制作音乐并发布到网上而一跃成为一种潮流。她也作为一位“角色”举世瞩目，如今身为一位虚拟歌手推出周边产品、举办演唱会等，活跃于多个方面，她的名气在全世界广为流传。 ※“镜音铃”“镜音连”“巡音流歌”“MEIKO”“KAITO”也是Crypton Future Media公司开发的虚拟歌手。",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/c0047dde28c3ef312155792d38db22166778580c.png",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/c0047dde28c3ef312155792d38db22166778580c.png",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/607f9894c6e59809f65e824aeaefd127b4975c6e.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/341c37c470468dadd11871cf5e8ae31cddc57910.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/e9f12ccba84380df3a010d84212b6b8d7fccac2f.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/a96f098f4c094291294bc1f3e921f1d9f9df5e98.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/16c8fd4ae1fed4a7cac3bbfbf7ea37eb8e862efb.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 100016,
+                "start_time": 1695103201,
+                "end_time": 1704038399,
+                "redeem_text": "抽出【创作之翼·初音未来】卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "59580",
+                "redeem_item_name": "【初音未来·创作之翼】动态主题",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/a521003249e543d975508db8c830f321776d3b8e.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 100015,
+                "start_time": 1695103200,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意5张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "59579&59578&59577&59576",
+                "redeem_item_name": "镜遇动态个性主题&点赞&加载&进度条",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/10b58a523216a1f388ea861b98f86040ce52139f.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 5,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 100014,
+                "start_time": 1695103200,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "59582",
+                "redeem_item_name": "初音未来16生贺表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/efaf246e15113e5b9e116f38284c15db26a42ac6.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 100013,
+                "start_time": 1695103200,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "59575",
+                "redeem_item_name": "初音未来16岁生贺头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/d0e40ff636793a60174117bdae2ba103d09a277a.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之旅",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "399918500"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【初音未来收藏集】是哔哩哔哩携手初音未来定制打造的数字集卡，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁MIKU的绝美画面！\n“初音未来”是一款由Crypton Future Media公司研发出的“软件”，通过这款软件输入歌词和旋律后任何人都可以让她唱歌。由于为数众多的创作者们都使用“初音未来”制作音乐并发布到网上而一跃成为一种潮流。她也作为一位“角色”举世瞩目，如今身为一位虚拟歌手推出周边产品、举办演唱会等，活跃于多个方面，她的名气在全世界广为流传。 ※“镜音铃”“镜音连”“巡音流歌”“MEIKO”“KAITO”也是Crypton Future Media公司开发的虚拟歌手。",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/c0047dde28c3ef312155792d38db22166778580c.png",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/c0047dde28c3ef312155792d38db22166778580c.png",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/607f9894c6e59809f65e824aeaefd127b4975c6e.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/341c37c470468dadd11871cf5e8ae31cddc57910.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/e9f12ccba84380df3a010d84212b6b8d7fccac2f.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/a96f098f4c094291294bc1f3e921f1d9f9df5e98.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/16c8fd4ae1fed4a7cac3bbfbf7ea37eb8e862efb.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/62587e00a61320294a31726e61cc674ac2f245ce.jpg",
@@ -561,5 +553,5 @@
                 }
             ]
         }
-    }
+    ]
 }

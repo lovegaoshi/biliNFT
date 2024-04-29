@@ -1,109 +1,101 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "国创动画作品发布会",
-            "cur_time": 1694997259,
-            "start_time": 1694689200,
-            "end_time": 2114406245,
-            "pre_start_time": 0,
-            "pre_end_time": 0,
-            "is_booked": 0,
-            "act_desc": "https://i0.hdslb.com/bfs/garb/d5304435c7093b3f389170b504e388e4fdecac25.png",
-            "lottery_list": [
-                {
-                    "lottery_id": 115,
-                    "lottery_name": "2023签绘贺图（上）",
-                    "display_time": 1694689200,
-                    "start_time": 1694689201,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/750779b06580367ee0d584d65135433954e1811b.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 12022764828672,
-                    "price": 0,
-                    "goods_name": "2023签绘贺图（上）",
-                    "lottery_desc": "【2023签绘贺图（上）】卡池包含2023-2024国创动画作品发布会导演签绘海报33张，均分概率100%，可通过活动获取抽卡次数。",
-                    "item_total_cnt": 33,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 2751220,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": null,
-                    "free": 1
-                },
-                {
-                    "lottery_id": 112,
-                    "lottery_name": "2023纪念票根",
-                    "display_time": 1694689200,
-                    "start_time": 1694689201,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/750779b06580367ee0d584d65135433954e1811b.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 12022764828673,
-                    "price": 0,
-                    "goods_name": "2023纪念票根",
-                    "lottery_desc": "【2023纪念票根】卡池包含2023-2024国创动画作品发布会纪念票根四张海报，均分概率100%，可通过活动获取抽卡次数",
-                    "item_total_cnt": 4,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 0,
-                    "lottery_type": 2,
-                    "effective_forever": 1,
-                    "discount": null,
-                    "free": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "一键开启国创纪念签绘海报！",
-                "sub_title": "2023-2024国创动画作品发布会特别企划开启，参与活动获取纪念票根、独家签绘！",
-                "share_content": "2023-2024国创动画作品发布会纪念收藏集开启，参与活动获取纪念票根、独家签绘！"
+        "act_title": "国创动画作品发布会",
+        "cur_time": 1694997259,
+        "start_time": 1694689200,
+        "end_time": 2114406245,
+        "pre_start_time": 0,
+        "pre_end_time": 0,
+        "is_booked": 0,
+        "act_desc": "https://i0.hdslb.com/bfs/garb/d5304435c7093b3f389170b504e388e4fdecac25.png",
+        "lottery_list": [
+            {
+                "lottery_id": 115,
+                "lottery_name": "2023签绘贺图（上）",
+                "display_time": 1694689200,
+                "start_time": 1694689201,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/750779b06580367ee0d584d65135433954e1811b.jpg",
+                "draw_cnt": 0,
+                "goods_id": 12022764828672,
+                "price": 0,
+                "goods_name": "2023签绘贺图（上）",
+                "lottery_desc": "【2023签绘贺图（上）】卡池包含2023-2024国创动画作品发布会导演签绘海报33张，均分概率100%，可通过活动获取抽卡次数。",
+                "item_total_cnt": 33,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 2751220,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": null,
+                "free": 1
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/eec009758ca3e2acd18f62e8bbd2bb5486dd7355.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
-                },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+            {
+                "lottery_id": 112,
+                "lottery_name": "2023纪念票根",
+                "display_time": 1694689200,
+                "start_time": 1694689201,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/750779b06580367ee0d584d65135433954e1811b.jpg",
+                "draw_cnt": 0,
+                "goods_id": 12022764828673,
+                "price": 0,
+                "goods_name": "2023纪念票根",
+                "lottery_desc": "【2023纪念票根】卡池包含2023-2024国创动画作品发布会纪念票根四张海报，均分概率100%，可通过活动获取抽卡次数",
+                "item_total_cnt": 4,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 0,
+                "lottery_type": 2,
+                "effective_forever": 1,
+                "discount": null,
+                "free": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "一键开启国创纪念签绘海报！",
+            "sub_title": "2023-2024国创动画作品发布会特别企划开启，参与活动获取纪念票根、独家签绘！",
+            "share_content": "2023-2024国创动画作品发布会纪念收藏集开启，参与活动获取纪念票根、独家签绘！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/eec009758ca3e2acd18f62e8bbd2bb5486dd7355.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 0,
-            "total_buy_cnt": 2751220,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 0,
-            "is_pre_risk": 0,
-            "is_collector_rank": 0,
-            "collect_list": null,
-            "display_title": "",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "2023国产动画作品发布会",
-                "guide_content": "参与活动获得纪念票根、独家签绘",
-                "jump_url": "https://www.bilibili.com/blackboard/activity-2023mbbh.html"
-            },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                ""
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1
-        }
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 0,
+        "total_buy_cnt": 2751220,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 0,
+        "is_pre_risk": 0,
+        "is_collector_rank": 0,
+        "collect_list": null,
+        "display_title": "",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "2023国产动画作品发布会",
+            "guide_content": "参与活动获得纪念票根、独家签绘",
+            "jump_url": "https://www.bilibili.com/blackboard/activity-2023mbbh.html"
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            ""
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/eec009758ca3e2acd18f62e8bbd2bb5486dd7355.jpg",
@@ -1111,5 +1103,5 @@
                 }
             ]
         }
-    }
+    ]
 }

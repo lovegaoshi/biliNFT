@@ -1,105 +1,97 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "粉扑扑收藏集",
-            "cur_time": 1714067772,
-            "start_time": 1713848400,
-            "end_time": 2114406245,
-            "pre_start_time": 1713762000,
-            "pre_end_time": 1713848399,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 101728,
-                    "lottery_name": "春日私语",
-                    "display_time": 1713762000,
-                    "start_time": 1713848400,
-                    "end_time": 2114406245,
-                    "lottery_image": "https://i0.hdslb.com/bfs/garb/13fe69d7eb101f7e1570f4f80c139d4e8e186426.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 52021669431296,
-                    "price": 9900,
-                    "goods_name": "春日私语",
-                    "lottery_desc": "【隐藏款-大隐藏】：惬意午后,魔女密令,笨蛋厨娘均分概率0.5%,若前399抽均未获得过任意大隐藏，则第400抽必得大隐藏;\n【隐藏款-小隐藏】：甜蜜代价,生日派对,秘密恋人均分概率4.5%;\n【普通款】：俏皮师妹,傍晚时分,嗔态可人均分概率9%，其余立绘均分概率86%;",
-                    "item_total_cnt": 24,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 2463,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "粉扑扑收藏集",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热售卖中，快来开卡吧！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/212ca95acb97fd72d272d06367a1f16e6d41d790.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "粉扑扑收藏集",
+        "cur_time": 1714067772,
+        "start_time": 1713848400,
+        "end_time": 2114406245,
+        "pre_start_time": 1713762000,
+        "pre_end_time": 1713848399,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 101728,
+                "lottery_name": "春日私语",
+                "display_time": 1713762000,
+                "start_time": 1713848400,
+                "end_time": 2114406245,
+                "lottery_image": "https://i0.hdslb.com/bfs/garb/13fe69d7eb101f7e1570f4f80c139d4e8e186426.jpg",
+                "draw_cnt": 0,
+                "goods_id": 52021669431296,
+                "price": 9900,
+                "goods_name": "春日私语",
+                "lottery_desc": "【隐藏款-大隐藏】：惬意午后,魔女密令,笨蛋厨娘均分概率0.5%,若前399抽均未获得过任意大隐藏，则第400抽必得大隐藏;\n【隐藏款-小隐藏】：甜蜜代价,生日派对,秘密恋人均分概率4.5%;\n【普通款】：俏皮师妹,傍晚时分,嗔态可人均分概率9%，其余立绘均分概率86%;",
+                "item_total_cnt": 24,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 2463,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "粉扑扑收藏集",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/212ca95acb97fd72d272d06367a1f16e6d41d790.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 111,
-            "total_buy_cnt": 2463,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": null,
-            "display_title": "任务奖励",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
-            },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "433715"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【粉扑扑收藏集】是由UP主 Oo粉扑扑oO 定制打造的个人数字集卡，其中每张卡片都拥有独特编号，更有精美视频卡，期待大家一起来解锁与扑扑的超赞写真吧！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/open/45c6c7b7d71005ecf56bf58acf335f24be137332.jpg@0-0-1126-1126a",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/open/45c6c7b7d71005ecf56bf58acf335f24be137332.jpg@0-0-1126-1126a",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/182bd452495aa44742898ce84672e2517f60b5f7.png\",\"num_color\":\"#EA9C99\",\"card_count\":1,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/9773b001879c0e11836c302db171be1d123e4ac0.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/182bd452495aa44742898ce84672e2517f60b5f7.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/182bd452495aa44742898ce84672e2517f60b5f7.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/a6f0bbfe7d8cc9777665a108d1a7fc6d8a7821cd.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/c7ec4cb3743e6bfb779ea02053857847cf3c1b16\"}},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/58e162b809998017277710d111a857914c034070.png\",\"num_color\":\"#7FCDEA\",\"card_count\":5,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/d7e5d31ae2729e7d3c40bc8845d413c0cb699315.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/58e162b809998017277710d111a857914c034070.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/58e162b809998017277710d111a857914c034070.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/1ed9e9fa0c3f1bba1763022bb1fa060eabf26c39.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/45672f713f4311e05be6fc2797eebedf027a2083\"}},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/21e29c37119e2e894bcfa9c4a6cb7655964a459f.png\",\"num_color\":\"#EEC578\",\"card_count\":15,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/13ded7718c2ca22b37d8025b792ed49ec9d64826.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/21e29c37119e2e894bcfa9c4a6cb7655964a459f.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/21e29c37119e2e894bcfa9c4a6cb7655964a459f.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/0bd9dcef6be3386f093df3ed702069b65f7ab294.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/cd3d6a21a7c8972e2942e138299b3b6dbbf333cb\"}},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/6c23bc7b62ab7b28ef5b5204826c15ab50deda58.png\",\"num_color\":\"#D26AE0\",\"card_count\":30,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/09fa1c38fa8132c1d6dbc99a03a9f6aa4f1b21fa.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/6c23bc7b62ab7b28ef5b5204826c15ab50deda58.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/6c23bc7b62ab7b28ef5b5204826c15ab50deda58.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/c14f0b0e33118ebe6ccfe625cfe83ec09e989461.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/f7814090099e8fd38c591cddc565ed243d7f7eb7\"}},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/498dfebda08ab715d550dca153761f2071216b29.png\",\"num_color\":\"#D66B6B\",\"card_count\":60,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/b35aafa18aa4f570149414511e80310371675c0f.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/498dfebda08ab715d550dca153761f2071216b29.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/498dfebda08ab715d550dca153761f2071216b29.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/47fc0f0e0229d5d17418e63b4bc16d79a1302e68.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/4bafcc89f2a4b346f77fa9adb53af27650d011f5\"}}]",
-            "topic": null,
-            "physical_exchange": false,
-            "act_square_img": "https://i0.hdslb.com/bfs/garb/88dc67cc6fdc4cb4a9c54e03f2ac985a6a1c92a0.jpg",
-            "tab_lottery_id": 101728
-        }
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 111,
+        "total_buy_cnt": 2463,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": null,
+        "display_title": "任务奖励",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "433715"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【粉扑扑收藏集】是由UP主 Oo粉扑扑oO 定制打造的个人数字集卡，其中每张卡片都拥有独特编号，更有精美视频卡，期待大家一起来解锁与扑扑的超赞写真吧！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/open/45c6c7b7d71005ecf56bf58acf335f24be137332.jpg@0-0-1126-1126a",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/open/45c6c7b7d71005ecf56bf58acf335f24be137332.jpg@0-0-1126-1126a",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/182bd452495aa44742898ce84672e2517f60b5f7.png\",\"num_color\":\"#EA9C99\",\"card_count\":1,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/9773b001879c0e11836c302db171be1d123e4ac0.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/182bd452495aa44742898ce84672e2517f60b5f7.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/182bd452495aa44742898ce84672e2517f60b5f7.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/a6f0bbfe7d8cc9777665a108d1a7fc6d8a7821cd.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/c7ec4cb3743e6bfb779ea02053857847cf3c1b16\"}},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/58e162b809998017277710d111a857914c034070.png\",\"num_color\":\"#7FCDEA\",\"card_count\":5,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/d7e5d31ae2729e7d3c40bc8845d413c0cb699315.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/58e162b809998017277710d111a857914c034070.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/58e162b809998017277710d111a857914c034070.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/1ed9e9fa0c3f1bba1763022bb1fa060eabf26c39.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/45672f713f4311e05be6fc2797eebedf027a2083\"}},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/21e29c37119e2e894bcfa9c4a6cb7655964a459f.png\",\"num_color\":\"#EEC578\",\"card_count\":15,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/13ded7718c2ca22b37d8025b792ed49ec9d64826.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/21e29c37119e2e894bcfa9c4a6cb7655964a459f.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/21e29c37119e2e894bcfa9c4a6cb7655964a459f.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/0bd9dcef6be3386f093df3ed702069b65f7ab294.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/cd3d6a21a7c8972e2942e138299b3b6dbbf333cb\"}},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/6c23bc7b62ab7b28ef5b5204826c15ab50deda58.png\",\"num_color\":\"#D26AE0\",\"card_count\":30,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/09fa1c38fa8132c1d6dbc99a03a9f6aa4f1b21fa.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/6c23bc7b62ab7b28ef5b5204826c15ab50deda58.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/6c23bc7b62ab7b28ef5b5204826c15ab50deda58.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/c14f0b0e33118ebe6ccfe625cfe83ec09e989461.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/f7814090099e8fd38c591cddc565ed243d7f7eb7\"}},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/498dfebda08ab715d550dca153761f2071216b29.png\",\"num_color\":\"#D66B6B\",\"card_count\":60,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/b35aafa18aa4f570149414511e80310371675c0f.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/498dfebda08ab715d550dca153761f2071216b29.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/498dfebda08ab715d550dca153761f2071216b29.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/47fc0f0e0229d5d17418e63b4bc16d79a1302e68.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/4bafcc89f2a4b346f77fa9adb53af27650d011f5\"}}]",
+        "topic": null,
+        "physical_exchange": false,
+        "act_square_img": "https://i0.hdslb.com/bfs/garb/88dc67cc6fdc4cb4a9c54e03f2ac985a6a1c92a0.jpg",
+        "tab_lottery_id": 101728
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/212ca95acb97fd72d272d06367a1f16e6d41d790.jpg",
@@ -905,5 +897,5 @@
                 }
             ]
         }
-    }
+    ]
 }

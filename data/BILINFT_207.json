@@ -1,175 +1,167 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "大话西游收藏集",
-            "cur_time": 1702647945,
-            "start_time": 1695891600,
-            "end_time": 2114406245,
-            "pre_start_time": 1695805200,
-            "pre_end_time": 1695891599,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 136,
-                    "lottery_name": "大话西游",
-                    "display_time": 1695805200,
-                    "start_time": 1695891600,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/5467bf289a4d71e937d2cca64b5b2f67f0ec22c3.png",
-                    "draw_cnt": 0,
-                    "goods_id": 14346069504512,
-                    "price": 9900,
-                    "goods_name": "大话西游",
-                    "lottery_desc": "大话西游收藏集共包含16张精美海报；\n普通款：萌萌白晶晶、萌萌铁扇公主、萌萌二当家、萌萌孙悟空、萌萌牛魔王、萌萌唐僧、铁扇公主、紫霞仙子、孙悟空、至尊宝、白晶晶、春十三娘均分概率95%\n隐藏款：红衣宝剑、大圣娶亲、意中人均分概率4.5%、一生所爱0.5%\n",
-                    "item_total_cnt": 16,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 2171,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "大话西游收藏集",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "大话西游收藏集活动火热售卖中，快来开卡吧！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/6971e2971536578241836fa1d82f1bdc48e9d142.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "大话西游收藏集",
+        "cur_time": 1702647945,
+        "start_time": 1695891600,
+        "end_time": 2114406245,
+        "pre_start_time": 1695805200,
+        "pre_end_time": 1695891599,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 136,
+                "lottery_name": "大话西游",
+                "display_time": 1695805200,
+                "start_time": 1695891600,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/5467bf289a4d71e937d2cca64b5b2f67f0ec22c3.png",
+                "draw_cnt": 0,
+                "goods_id": 14346069504512,
+                "price": 9900,
+                "goods_name": "大话西游",
+                "lottery_desc": "大话西游收藏集共包含16张精美海报；\n普通款：萌萌白晶晶、萌萌铁扇公主、萌萌二当家、萌萌孙悟空、萌萌牛魔王、萌萌唐僧、铁扇公主、紫霞仙子、孙悟空、至尊宝、白晶晶、春十三娘均分概率95%\n隐藏款：红衣宝剑、大圣娶亲、意中人均分概率4.5%、一生所爱0.5%\n",
+                "item_total_cnt": 16,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 2171,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "大话西游收藏集",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "大话西游收藏集活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/6971e2971536578241836fa1d82f1bdc48e9d142.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 222,
-            "total_buy_cnt": 2171,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 411,
-                    "start_time": 1695805200,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意5张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "59867&59866&59745&60034",
-                    "redeem_item_name": "点赞＆加载＆进度条＆主题",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/b79ad590faee06f4634450ea5edf40596c47c378.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 222,
+        "total_buy_cnt": 2171,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 411,
+                "start_time": 1695805200,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意5张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "59867&59866&59745&60034",
+                "redeem_item_name": "点赞＆加载＆进度条＆主题",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/b79ad590faee06f4634450ea5edf40596c47c378.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 5,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 410,
-                    "start_time": 1695805200,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意2张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "59784",
-                    "redeem_item_name": "大话西游表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/a0c81ad7ebd581e88365e82398223bea968f7306.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 409,
-                    "start_time": 1695805200,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "59744",
-                    "redeem_item_name": "大话西游头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/45822d1e4b87d98bb33369649faa54f4740af3ca.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之礼",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "260645654"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【大话西游收藏集】经典电影《大话西游》专属收藏集上线，每张数字卡都将拥有独特编号，期待大家来解锁不同的角色卡牌，一起回顾那段浪漫美妙的故事！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/a2e8d099052b2ef89c95040bca17df613ff8e055.jpg",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/277c0160492bbe2c22956630c9ef1cdeb1337d85.jpg",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/37097db469b7118b02ec5b60f0b792eccc263a14.png\",\"card_count\":1,\"num_color\":\"#b4c493\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/726958779b07b6aabf77921e45984a1f540f474f.png\",\"card_count\":5,\"num_color\":\"#efcc7f\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/c18e8243cf1e7a8d30e71510d0c222f4b8095194.png\",\"card_count\":15,\"num_color\":\"#a9efee\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/b07c712ff901b711b45917b276b74e15ab292329.png\",\"card_count\":30,\"num_color\":\"#852725\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/841ba62cd0b104761d3edbdf8c6b2635dff85b3c.png\",\"card_count\":60,\"num_color\":\"#aca6f6\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 410,
+                "start_time": 1695805200,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意2张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "59784",
+                "redeem_item_name": "大话西游表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/a0c81ad7ebd581e88365e82398223bea968f7306.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 409,
+                "start_time": 1695805200,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "59744",
+                "redeem_item_name": "大话西游头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/45822d1e4b87d98bb33369649faa54f4740af3ca.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之礼",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "260645654"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【大话西游收藏集】经典电影《大话西游》专属收藏集上线，每张数字卡都将拥有独特编号，期待大家来解锁不同的角色卡牌，一起回顾那段浪漫美妙的故事！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/a2e8d099052b2ef89c95040bca17df613ff8e055.jpg",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/277c0160492bbe2c22956630c9ef1cdeb1337d85.jpg",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/37097db469b7118b02ec5b60f0b792eccc263a14.png\",\"card_count\":1,\"num_color\":\"#b4c493\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/726958779b07b6aabf77921e45984a1f540f474f.png\",\"card_count\":5,\"num_color\":\"#efcc7f\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/c18e8243cf1e7a8d30e71510d0c222f4b8095194.png\",\"card_count\":15,\"num_color\":\"#a9efee\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/b07c712ff901b711b45917b276b74e15ab292329.png\",\"card_count\":30,\"num_color\":\"#852725\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/841ba62cd0b104761d3edbdf8c6b2635dff85b3c.png\",\"card_count\":60,\"num_color\":\"#aca6f6\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/6971e2971536578241836fa1d82f1bdc48e9d142.png",
@@ -642,5 +634,5 @@
                 }
             ]
         }
-    }
+    ]
 }

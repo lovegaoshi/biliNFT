@@ -1,151 +1,143 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "早凉收藏集",
-            "cur_time": 1702648016,
-            "start_time": 1692442800,
-            "end_time": 2114406245,
-            "pre_start_time": 1692270000,
-            "pre_end_time": 1692442799,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 76,
-                    "lottery_name": "天才猫猫早凉",
-                    "display_time": 1692270000,
-                    "start_time": 1692442800,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/81386694cc6aa3fac24b91518b15051b8b6cb088.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 6947545828352,
-                    "price": 9900,
-                    "goods_name": "天才猫猫早凉",
-                    "lottery_desc": "【早凉收藏集—天才猫猫早凉】共包含8张精美立绘，早凉邀你共赴绚丽多彩的奇幻世界！\n* 隐藏款：纯白誓约，概率0.5%；游园童稚，概率4.5%\n* 普通款：悠闲日常，概率9%；春日樱花、国风旗袍、英伦侦探、月夜恶魔和舞台偶像5张，均分概率86%",
-                    "item_total_cnt": 8,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 16041,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "早凉收藏集—天才猫猫早凉开售",
-                "sub_title": "早凉独家美照、表情包、头像框等你抱回家！",
-                "share_content": "早凉收藏集—天才猫猫早凉火热开售中，甜美音声抢先听！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/cb2262d30e0e9d80f386b73a0623b73e190a99a6.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "早凉收藏集",
+        "cur_time": 1702648016,
+        "start_time": 1692442800,
+        "end_time": 2114406245,
+        "pre_start_time": 1692270000,
+        "pre_end_time": 1692442799,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 76,
+                "lottery_name": "天才猫猫早凉",
+                "display_time": 1692270000,
+                "start_time": 1692442800,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/81386694cc6aa3fac24b91518b15051b8b6cb088.jpg",
+                "draw_cnt": 0,
+                "goods_id": 6947545828352,
+                "price": 9900,
+                "goods_name": "天才猫猫早凉",
+                "lottery_desc": "【早凉收藏集—天才猫猫早凉】共包含8张精美立绘，早凉邀你共赴绚丽多彩的奇幻世界！\n* 隐藏款：纯白誓约，概率0.5%；游园童稚，概率4.5%\n* 普通款：悠闲日常，概率9%；春日樱花、国风旗袍、英伦侦探、月夜恶魔和舞台偶像5张，均分概率86%",
+                "item_total_cnt": 8,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 16041,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "早凉收藏集—天才猫猫早凉开售",
+            "sub_title": "早凉独家美照、表情包、头像框等你抱回家！",
+            "share_content": "早凉收藏集—天才猫猫早凉火热开售中，甜美音声抢先听！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/cb2262d30e0e9d80f386b73a0623b73e190a99a6.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 1188,
-            "total_buy_cnt": 16041,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 214,
-                    "start_time": 1692270000,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "57050",
-                    "redeem_item_name": "天才猫猫早凉·表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/6fd221f4d215765a925662b1102a8855aa8f4b07.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 1188,
+        "total_buy_cnt": 16041,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 214,
+                "start_time": 1692270000,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "57050",
+                "redeem_item_name": "天才猫猫早凉·表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/6fd221f4d215765a925662b1102a8855aa8f4b07.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 213,
-                    "start_time": 1692270000,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "57049",
-                    "redeem_item_name": "天才猫猫早凉·头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/13b1b56ea6115228153f70ebe964ea769652c4de.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之礼",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 1,
-            "related_mids": [
-                "518817"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 0,
-            "product_introduce": "【早凉收藏集】是哔哩哔哩携手早凉定制打造的个人数字收藏集，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁早凉的绝美画面！\n早凉是一只出生在异世界，误入人类世界的小猫妖，被抓去实验室后心脏移植进了机器里。因为种族强大的再生能力从而幻化成猫娘的样子。\n直播内容以杂谈唱歌为主，梦想是用歌声给大家带来快乐。\n",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/003b5e30460cc4397bab389a814ccb7641506adc.png",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/003b5e30460cc4397bab389a814ccb7641506adc.png",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/49d70d42a81ba43b2454b218230042a093b81bfc.png\",\"card_count\":1,\"num_color\":\"#e8a7a6\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/6c6c24cda508646a7409d89a784fe7602cd4bff9.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/dbe9f47de7cf8faa84ee9c261e1625754a4b3a91.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/dbe2d5429316b304ba766897e50eabfa940721db.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/f4c9f96c84bb1f89b5d5acb9c0f8c76bb875c42c.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 213,
+                "start_time": 1692270000,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "57049",
+                "redeem_item_name": "天才猫猫早凉·头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/13b1b56ea6115228153f70ebe964ea769652c4de.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之礼",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 1,
+        "related_mids": [
+            "518817"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 0,
+        "product_introduce": "【早凉收藏集】是哔哩哔哩携手早凉定制打造的个人数字收藏集，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁早凉的绝美画面！\n早凉是一只出生在异世界，误入人类世界的小猫妖，被抓去实验室后心脏移植进了机器里。因为种族强大的再生能力从而幻化成猫娘的样子。\n直播内容以杂谈唱歌为主，梦想是用歌声给大家带来快乐。\n",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/003b5e30460cc4397bab389a814ccb7641506adc.png",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/003b5e30460cc4397bab389a814ccb7641506adc.png",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/49d70d42a81ba43b2454b218230042a093b81bfc.png\",\"card_count\":1,\"num_color\":\"#e8a7a6\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/6c6c24cda508646a7409d89a784fe7602cd4bff9.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/dbe9f47de7cf8faa84ee9c261e1625754a4b3a91.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/dbe2d5429316b304ba766897e50eabfa940721db.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/f4c9f96c84bb1f89b5d5acb9c0f8c76bb875c42c.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/cb2262d30e0e9d80f386b73a0623b73e190a99a6.png",
@@ -410,5 +402,5 @@
                 }
             ]
         }
-    }
+    ]
 }

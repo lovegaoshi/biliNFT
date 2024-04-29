@@ -1,156 +1,148 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "万圣学院收藏集",
-            "cur_time": 1702647869,
-            "start_time": 1698487200,
-            "end_time": 2114406245,
-            "pre_start_time": 1698400800,
-            "pre_end_time": 1698487199,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 169,
-                    "lottery_name": "万圣派对夜",
-                    "display_time": 1698400800,
-                    "start_time": 1698487200,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/6a9af97393d9a56b63337d7c2a19e0c120847802.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 19803794339840,
-                    "price": 9900,
-                    "goods_name": "万圣派对夜",
-                    "lottery_desc": "【万圣学院收藏集——万圣派对夜】共包含32张精美立绘，与6位小魔女共度奇妙万圣夜\n* 隐藏款：Sandy睡醒了·万圣派对、喵田弥夜Miya·女巫、摩亞Moi·僵尸怪兽、韶华依依·魔女，共4张，均分概率0.5%；泛晓akarui·魔法龙族、桃井最中·魔法修女、喵田弥夜Miya·学习魔法、韶华依依·鞋子掉了，共4张，均分概率4.5%\n* 普通款：Sandy睡醒了·看书睡着了、泛晓akarui·不良、喵田弥夜Miya·魔法猫咪、摩亞Moi·课间休息、韶华依依·风休住、桃井最中Monoka·绘画课，共6张，均分概率9%；Sandy睡醒了·Q版、Sandy睡醒了·睡颜、Sandy睡醒了·舔盘子、泛晓akarui·Q版、泛晓akarui·拔枪、泛晓akarui·小鬼、喵田弥夜Miya·Q版、喵田弥夜Miya·大姐姐\n喵田弥夜Miya·小妹妹、摩亞Moi·Q版、摩亞Moi·电子新娘、摩亞Moi·偶像、韶华依依·Q版、韶华依依·云端、韶华依依·降临、桃井最中Monoka·Q版、桃井最中Monoka·常服、桃井最中Monoka·制服，共18张，均分概率86%",
-                    "item_total_cnt": 32,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 15169,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "万圣学院收藏集——万圣派对夜开售",
-                "sub_title": "万圣节晚上一起过吧？有个小鬼喜欢你~",
-                "share_content": "要来试试魔女的新魔法吗"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/ed0781bfa5b488f68333e1454a662c08333e95b4.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "万圣学院收藏集",
+        "cur_time": 1702647869,
+        "start_time": 1698487200,
+        "end_time": 2114406245,
+        "pre_start_time": 1698400800,
+        "pre_end_time": 1698487199,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 169,
+                "lottery_name": "万圣派对夜",
+                "display_time": 1698400800,
+                "start_time": 1698487200,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/6a9af97393d9a56b63337d7c2a19e0c120847802.jpg",
+                "draw_cnt": 0,
+                "goods_id": 19803794339840,
+                "price": 9900,
+                "goods_name": "万圣派对夜",
+                "lottery_desc": "【万圣学院收藏集——万圣派对夜】共包含32张精美立绘，与6位小魔女共度奇妙万圣夜\n* 隐藏款：Sandy睡醒了·万圣派对、喵田弥夜Miya·女巫、摩亞Moi·僵尸怪兽、韶华依依·魔女，共4张，均分概率0.5%；泛晓akarui·魔法龙族、桃井最中·魔法修女、喵田弥夜Miya·学习魔法、韶华依依·鞋子掉了，共4张，均分概率4.5%\n* 普通款：Sandy睡醒了·看书睡着了、泛晓akarui·不良、喵田弥夜Miya·魔法猫咪、摩亞Moi·课间休息、韶华依依·风休住、桃井最中Monoka·绘画课，共6张，均分概率9%；Sandy睡醒了·Q版、Sandy睡醒了·睡颜、Sandy睡醒了·舔盘子、泛晓akarui·Q版、泛晓akarui·拔枪、泛晓akarui·小鬼、喵田弥夜Miya·Q版、喵田弥夜Miya·大姐姐\n喵田弥夜Miya·小妹妹、摩亞Moi·Q版、摩亞Moi·电子新娘、摩亞Moi·偶像、韶华依依·Q版、韶华依依·云端、韶华依依·降临、桃井最中Monoka·Q版、桃井最中Monoka·常服、桃井最中Monoka·制服，共18张，均分概率86%",
+                "item_total_cnt": 32,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 15169,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "万圣学院收藏集——万圣派对夜开售",
+            "sub_title": "万圣节晚上一起过吧？有个小鬼喜欢你~",
+            "share_content": "要来试试魔女的新魔法吗"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/ed0781bfa5b488f68333e1454a662c08333e95b4.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 564,
-            "total_buy_cnt": 15169,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 512,
-                    "start_time": 1698400800,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "60962",
-                    "redeem_item_name": "万圣学院收藏集头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/75a830c93780db1ea0d27edabe568e479363d73a.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 564,
+        "total_buy_cnt": 15169,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 512,
+                "start_time": 1698400800,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "60962",
+                "redeem_item_name": "万圣学院收藏集头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/75a830c93780db1ea0d27edabe568e479363d73a.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 511,
-                    "start_time": 1698400800,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意2张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "61047",
-                    "redeem_item_name": "万圣学院收藏集表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/84038c4aefdd347f6965b9e91e12ea98f3e563d4.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之旅",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "1678686361",
-                "25691069",
-                "1809810330",
-                "692437895",
-                "846180",
-                "1813542185"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "是由猫邮社Owlpost发起定制打造的多人数字集卡，其中每张数字卡片都将拥有独特编号，期待大家一起来解锁绝美画面！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/a5d2be7f421fcaa70b7f54f7c548a5be49639f70.png",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/a5d2be7f421fcaa70b7f54f7c548a5be49639f70.png",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/b374f424ec5fac09571f861aaa0950cde8d6b5fc.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/d8a1986ba7cb4f2b77f5b6c543b410aff7aae84d.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/838793ec8122fe819497caa77d9b28fe63b44e83.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/7ca1538152b0926f3ffd596b1bc1e897208ebe30.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/a1c95747b2a0cb809b52d81d0880cce3ca9c0e21.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 511,
+                "start_time": 1698400800,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意2张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "61047",
+                "redeem_item_name": "万圣学院收藏集表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/84038c4aefdd347f6965b9e91e12ea98f3e563d4.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之旅",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "1678686361",
+            "25691069",
+            "1809810330",
+            "692437895",
+            "846180",
+            "1813542185"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "是由猫邮社Owlpost发起定制打造的多人数字集卡，其中每张数字卡片都将拥有独特编号，期待大家一起来解锁绝美画面！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/a5d2be7f421fcaa70b7f54f7c548a5be49639f70.png",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/a5d2be7f421fcaa70b7f54f7c548a5be49639f70.png",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/b374f424ec5fac09571f861aaa0950cde8d6b5fc.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/d8a1986ba7cb4f2b77f5b6c543b410aff7aae84d.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/838793ec8122fe819497caa77d9b28fe63b44e83.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/7ca1538152b0926f3ffd596b1bc1e897208ebe30.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/a1c95747b2a0cb809b52d81d0880cce3ca9c0e21.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/ed0781bfa5b488f68333e1454a662c08333e95b4.jpg",
@@ -1167,5 +1159,5 @@
                 }
             ]
         }
-    }
+    ]
 }

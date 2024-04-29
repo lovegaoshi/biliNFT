@@ -1,152 +1,144 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "雪糍个人收藏集",
-            "cur_time": 1704070693,
-            "start_time": 1703653200,
-            "end_time": 2114406245,
-            "pre_start_time": 1703566800,
-            "pre_end_time": 1703653199,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 100747,
-                    "lottery_name": "可爱甜妹",
-                    "display_time": 1703566800,
-                    "start_time": 1703653200,
-                    "end_time": 2114406245,
-                    "lottery_image": "https://i0.hdslb.com/bfs/garb/7cde56af0fe5dd0b74b742fd3cec60a39fac98d6.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 30640909084160,
-                    "price": 9900,
-                    "goods_name": "可爱甜妹",
-                    "lottery_desc": "【隐藏款】猫耳厨娘,乖巧小熊均分概率4.5%;蜜桃盛夏,白日甜梦均分概率0.5%;\n【普通款】皎洁月光,奶油蛋糕均分概率9%;其余立绘均分概率86%;",
-                    "item_total_cnt": 16,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 4318,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "雪糍个人收藏集",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热售卖中，快来开卡吧！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/1249da077eb97427b02d1bbc78c0e7ef34d47800.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "雪糍个人收藏集",
+        "cur_time": 1704070693,
+        "start_time": 1703653200,
+        "end_time": 2114406245,
+        "pre_start_time": 1703566800,
+        "pre_end_time": 1703653199,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 100747,
+                "lottery_name": "可爱甜妹",
+                "display_time": 1703566800,
+                "start_time": 1703653200,
+                "end_time": 2114406245,
+                "lottery_image": "https://i0.hdslb.com/bfs/garb/7cde56af0fe5dd0b74b742fd3cec60a39fac98d6.jpg",
+                "draw_cnt": 0,
+                "goods_id": 30640909084160,
+                "price": 9900,
+                "goods_name": "可爱甜妹",
+                "lottery_desc": "【隐藏款】猫耳厨娘,乖巧小熊均分概率4.5%;蜜桃盛夏,白日甜梦均分概率0.5%;\n【普通款】皎洁月光,奶油蛋糕均分概率9%;其余立绘均分概率86%;",
+                "item_total_cnt": 16,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 4318,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "雪糍个人收藏集",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/1249da077eb97427b02d1bbc78c0e7ef34d47800.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 325,
-            "total_buy_cnt": 4318,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 100766,
-                    "start_time": 1703566800,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成2抽即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "1703239737001",
-                    "redeem_item_name": "雪糍收藏集表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/0150cae5e4df3b37adf4d7595045d53638ccc445.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 325,
+        "total_buy_cnt": 4318,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 100766,
+                "start_time": 1703566800,
+                "end_time": 2114406245,
+                "redeem_text": "完成2抽即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 2,
+                "redeem_item_id": "1703239737001",
+                "redeem_item_name": "雪糍收藏集表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/0150cae5e4df3b37adf4d7595045d53638ccc445.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 100765,
-                    "start_time": 1703566800,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽到任意1张隐藏款立绘即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "1703295881001",
-                    "redeem_item_name": "雪糍收藏集头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/8395b51e5830a8c068f993a7d5df6191eb1ac572.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "任务奖励",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "12473905"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【雪糍收藏集】是哔哩哔哩携手雪糍定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁奶酪芝士味雪糍的甜美画面！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/open/2c3155c070d5c4891945075c7cb62a1ac0c2ae74.png@0-0-1126-1126a",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/open/2c3155c070d5c4891945075c7cb62a1ac0c2ae74.png@0-0-1126-1126a",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/69c423f70391c6ffa8c89dc452739f7735600d85.png\",\"card_count\":1,\"num_color\":\"#FFD6AD\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/2f7504eb398ca58d3ef342f404a6f4192af54f9f.png\",\"card_count\":5,\"num_color\":\"#8AABF2\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/523422d8cf7e142584b7a77f2bab893871fed799.png\",\"card_count\":15,\"num_color\":\"#EDB664\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/e1ba50de4d03db47db3a2352878bcddf65535327.png\",\"card_count\":30,\"num_color\":\"#FFB1F5\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/bbeb2af185d9b9e531185c7b1db207940ac9363a.png\",\"card_count\":60,\"num_color\":\"#D08BF0\"}]",
-            "topic": null,
-            "physical_exchange": false
-        }
+            {
+                "collect_id": 100765,
+                "start_time": 1703566800,
+                "end_time": 2114406245,
+                "redeem_text": "抽到任意1张隐藏款立绘即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 3,
+                "redeem_item_id": "1703295881001",
+                "redeem_item_name": "雪糍收藏集头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/8395b51e5830a8c068f993a7d5df6191eb1ac572.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "任务奖励",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "12473905"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【雪糍收藏集】是哔哩哔哩携手雪糍定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁奶酪芝士味雪糍的甜美画面！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/open/2c3155c070d5c4891945075c7cb62a1ac0c2ae74.png@0-0-1126-1126a",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/open/2c3155c070d5c4891945075c7cb62a1ac0c2ae74.png@0-0-1126-1126a",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/69c423f70391c6ffa8c89dc452739f7735600d85.png\",\"card_count\":1,\"num_color\":\"#FFD6AD\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/2f7504eb398ca58d3ef342f404a6f4192af54f9f.png\",\"card_count\":5,\"num_color\":\"#8AABF2\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/523422d8cf7e142584b7a77f2bab893871fed799.png\",\"card_count\":15,\"num_color\":\"#EDB664\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/e1ba50de4d03db47db3a2352878bcddf65535327.png\",\"card_count\":30,\"num_color\":\"#FFB1F5\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/bbeb2af185d9b9e531185c7b1db207940ac9363a.png\",\"card_count\":60,\"num_color\":\"#D08BF0\"}]",
+        "topic": null,
+        "physical_exchange": false
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/1249da077eb97427b02d1bbc78c0e7ef34d47800.jpg",
@@ -667,5 +659,5 @@
                 }
             ]
         }
-    }
+    ]
 }

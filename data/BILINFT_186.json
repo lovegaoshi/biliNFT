@@ -1,151 +1,143 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "猫大人个人收藏集",
-            "cur_time": 1702647986,
-            "start_time": 1694145600,
-            "end_time": 2114406245,
-            "pre_start_time": 1694059200,
-            "pre_end_time": 1694145599,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 105,
-                    "lottery_name": "绵甜夏恋",
-                    "display_time": 1694059200,
-                    "start_time": 1694145600,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/136900f44e8ae73afdf37d5f15679f4110fe6fbe.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 10700701327360,
-                    "price": 9900,
-                    "goods_name": "绵甜夏恋",
-                    "lottery_desc": "【猫大人个人收藏集—绵甜夏恋】共包含24张精美立绘，与-猫大人-的甜蜜热恋就在此刻！\n* 隐藏款：纯挚之约、甜心警铃和惺忪清晨3张，均分概率0.5%；青春初夏、课后邀约和小恶魔猫3张，均分概率4.5%\n* 普通款：心动莓语、星光偶像和萌心蕾蕾3张，均分概率9%；星光舞台、星光璀璨、星辰莓语、梦幻莓语、天使蕾蕾、迷梦蕾蕾、萌御夜语、萌御猫咪、林间童话、林间梦笺、狸猫小姐、狸猫物语、纯真夏日、纯真时光、纯真梦境共15张，均分概率86%",
-                    "item_total_cnt": 24,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 50521,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "猫大人个人收藏集—绵甜夏恋开售",
-                "sub_title": "清新靓丽美图，更有可爱表情包、萌猫头像框等你抱回家！",
-                "share_content": "猫大人个人收藏集—绵甜夏恋火热开售中，动人音声抢先听！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/22ef2186b1af4b64ed5558b6f6ee2b28da93bfa3.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "猫大人个人收藏集",
+        "cur_time": 1702647986,
+        "start_time": 1694145600,
+        "end_time": 2114406245,
+        "pre_start_time": 1694059200,
+        "pre_end_time": 1694145599,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 105,
+                "lottery_name": "绵甜夏恋",
+                "display_time": 1694059200,
+                "start_time": 1694145600,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/136900f44e8ae73afdf37d5f15679f4110fe6fbe.jpg",
+                "draw_cnt": 0,
+                "goods_id": 10700701327360,
+                "price": 9900,
+                "goods_name": "绵甜夏恋",
+                "lottery_desc": "【猫大人个人收藏集—绵甜夏恋】共包含24张精美立绘，与-猫大人-的甜蜜热恋就在此刻！\n* 隐藏款：纯挚之约、甜心警铃和惺忪清晨3张，均分概率0.5%；青春初夏、课后邀约和小恶魔猫3张，均分概率4.5%\n* 普通款：心动莓语、星光偶像和萌心蕾蕾3张，均分概率9%；星光舞台、星光璀璨、星辰莓语、梦幻莓语、天使蕾蕾、迷梦蕾蕾、萌御夜语、萌御猫咪、林间童话、林间梦笺、狸猫小姐、狸猫物语、纯真夏日、纯真时光、纯真梦境共15张，均分概率86%",
+                "item_total_cnt": 24,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 50521,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "猫大人个人收藏集—绵甜夏恋开售",
+            "sub_title": "清新靓丽美图，更有可爱表情包、萌猫头像框等你抱回家！",
+            "share_content": "猫大人个人收藏集—绵甜夏恋火热开售中，动人音声抢先听！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/22ef2186b1af4b64ed5558b6f6ee2b28da93bfa3.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 1441,
-            "total_buy_cnt": 50521,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 311,
-                    "start_time": 1694059200,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "59004",
-                    "redeem_item_name": "绵甜夏恋·表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/8096ed9f134e51e4e7508c1869f895fb39badb7c.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 1441,
+        "total_buy_cnt": 50521,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 311,
+                "start_time": 1694059200,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "59004",
+                "redeem_item_name": "绵甜夏恋·表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/8096ed9f134e51e4e7508c1869f895fb39badb7c.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 310,
-                    "start_time": 1694059200,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "58982",
-                    "redeem_item_name": "绵甜夏恋·头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/c9197bd98f2b117567355311d16f5211499f8aff.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之礼",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 1,
-            "related_mids": [
-                "270317383"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 0,
-            "product_introduce": "【猫大人个人收藏集-绵甜夏恋】是哔哩哔哩携手-猫大人-定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，更有从未披露过的超稀有造型！期待大家一起来解锁超绝可爱猫大人的不同风格！\n-猫大人-是活跃在bilibili平台的人气舞见。日常通过视频投稿、直播等方式活跃在bilibili等平台，以软萌的形象和治愈元气的视频风格深入人心，为观众用户带来高质量的文化娱乐内容。",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/da4443c2e081b8d86aef9cf37fef82e1942a3ae4.png",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/da4443c2e081b8d86aef9cf37fef82e1942a3ae4.png",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/cba5e8cf4e5582dcf1942eccd70e2cc0edd9e646.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/4ef93eed82572cd19651aeff183efba3a26924e0.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/9744d76f5b2dc5f1112db761ea955391c9088bf0.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/83c4fb19ca4acf81223ab696fea945ee79c50b3b.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/b635783c544b39a86a5c0e8d70328e9715dfcceb.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 310,
+                "start_time": 1694059200,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "58982",
+                "redeem_item_name": "绵甜夏恋·头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/c9197bd98f2b117567355311d16f5211499f8aff.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之礼",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 1,
+        "related_mids": [
+            "270317383"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 0,
+        "product_introduce": "【猫大人个人收藏集-绵甜夏恋】是哔哩哔哩携手-猫大人-定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，更有从未披露过的超稀有造型！期待大家一起来解锁超绝可爱猫大人的不同风格！\n-猫大人-是活跃在bilibili平台的人气舞见。日常通过视频投稿、直播等方式活跃在bilibili等平台，以软萌的形象和治愈元气的视频风格深入人心，为观众用户带来高质量的文化娱乐内容。",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/da4443c2e081b8d86aef9cf37fef82e1942a3ae4.png",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/da4443c2e081b8d86aef9cf37fef82e1942a3ae4.png",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/cba5e8cf4e5582dcf1942eccd70e2cc0edd9e646.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/4ef93eed82572cd19651aeff183efba3a26924e0.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/9744d76f5b2dc5f1112db761ea955391c9088bf0.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/83c4fb19ca4acf81223ab696fea945ee79c50b3b.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/b635783c544b39a86a5c0e8d70328e9715dfcceb.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/22ef2186b1af4b64ed5558b6f6ee2b28da93bfa3.jpg",
@@ -922,5 +914,5 @@
                 }
             ]
         }
-    }
+    ]
 }

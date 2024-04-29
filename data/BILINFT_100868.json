@@ -1,176 +1,168 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "装扮小姐姐·生日庆典",
-            "cur_time": 1705597037,
-            "start_time": 1705460400,
-            "end_time": 2114406245,
-            "pre_start_time": 1705374000,
-            "pre_end_time": 1705460399,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 100869,
-                    "lottery_name": "生日庆典",
-                    "display_time": 1705374000,
-                    "start_time": 1705460400,
-                    "end_time": 2114406245,
-                    "lottery_image": "https://i0.hdslb.com/bfs/garb/7bce427b2ef1f502237ed3e698dc907aed0bee0e.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 34496189595136,
-                    "price": 9900,
-                    "goods_name": "生日庆典",
-                    "lottery_desc": "【隐藏款】不渝今生概率4.5%;甜蜜邀约概率0.5%;\n【普通款】魔法萤星概率9%;其余立绘均分概率86%;",
-                    "item_total_cnt": 8,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 12435,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "装扮小姐姐·生日庆典",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热售卖中，快来开卡吧！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/46bd5415f82612f9c3b8e515b982f48384177e73.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "装扮小姐姐·生日庆典",
+        "cur_time": 1705597037,
+        "start_time": 1705460400,
+        "end_time": 2114406245,
+        "pre_start_time": 1705374000,
+        "pre_end_time": 1705460399,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 100869,
+                "lottery_name": "生日庆典",
+                "display_time": 1705374000,
+                "start_time": 1705460400,
+                "end_time": 2114406245,
+                "lottery_image": "https://i0.hdslb.com/bfs/garb/7bce427b2ef1f502237ed3e698dc907aed0bee0e.jpg",
+                "draw_cnt": 0,
+                "goods_id": 34496189595136,
+                "price": 9900,
+                "goods_name": "生日庆典",
+                "lottery_desc": "【隐藏款】不渝今生概率4.5%;甜蜜邀约概率0.5%;\n【普通款】魔法萤星概率9%;其余立绘均分概率86%;",
+                "item_total_cnt": 8,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 12435,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "装扮小姐姐·生日庆典",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/46bd5415f82612f9c3b8e515b982f48384177e73.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 979,
-            "total_buy_cnt": 12435,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 100872,
-                    "start_time": 1705406400,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成5抽即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "1705402822001",
-                    "redeem_item_name": "装扮小姐姐·生日庆典个性主题",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/8154e6d10e906a63b4e64f3f525ed78dba5488e7.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 979,
+        "total_buy_cnt": 12435,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 100872,
+                "start_time": 1705406400,
+                "end_time": 2114406245,
+                "redeem_text": "完成5抽即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 5,
+                "redeem_item_id": "1705402822001",
+                "redeem_item_name": "装扮小姐姐·生日庆典个性主题",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/8154e6d10e906a63b4e64f3f525ed78dba5488e7.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 5,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 100871,
-                    "start_time": 1705406400,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽到任意1张隐藏款立绘即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "1705318409001",
-                    "redeem_item_name": "装扮小姐姐·生日庆典头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/a20e0f753b6eba9765c5ee6c63158bb40b859262.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 100870,
-                    "start_time": 1705406400,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意2张立绘即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "1705377127001",
-                    "redeem_item_name": "装扮小姐姐·生日庆典表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/f148034d14746b6116ff4055118b57a4757f7bf9.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "任务奖励",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "647193094"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【装扮小姐姐·生日庆典】是装扮小姐姐的最新数字收藏集！本次的8张立绘收录了8位画师的精致画作，由装扮小姐姐倾情演绎，其中每张数字卡片都拥有独特的编号，更有稀有可爱动态隐藏款等你来解锁！\n感谢以下画师老师们的倾情创作：铭音、舞小仙、翔腿颓、兔扎特、今羽岁羽、依枕云屏、千夜、玄栎。",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/open/55f20b47cd25551c17b69e59b9cb516c39a6af8d.png@0-0-1126-1126a",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/open/55f20b47cd25551c17b69e59b9cb516c39a6af8d.png@0-0-1126-1126a",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/2f31bdf390db6a857af150d68523daff19327225.png\",\"card_count\":1,\"num_color\":\"#D68A71\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/80ff251cdee64b3c9d646f8496428119b2af1bec.png\",\"card_count\":5,\"num_color\":\"#65AFF8\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/42f586116e04284b699c12a6abed8661460ccef7.png\",\"card_count\":15,\"num_color\":\"#F9C056\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/5022832ba44ba05f65c3eee48222ae50a535a859.png\",\"card_count\":30,\"num_color\":\"#E46ADE\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/b33944074c0b3caea50ef4b87ba72bedb7676b1f.png\",\"card_count\":60,\"num_color\":\"#7465DC\"}]",
-            "topic": null,
-            "physical_exchange": false
-        }
+            {
+                "collect_id": 100871,
+                "start_time": 1705406400,
+                "end_time": 2114406245,
+                "redeem_text": "抽到任意1张隐藏款立绘即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 3,
+                "redeem_item_id": "1705318409001",
+                "redeem_item_name": "装扮小姐姐·生日庆典头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/a20e0f753b6eba9765c5ee6c63158bb40b859262.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 100870,
+                "start_time": 1705406400,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意2张立绘即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 2,
+                "redeem_item_id": "1705377127001",
+                "redeem_item_name": "装扮小姐姐·生日庆典表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/f148034d14746b6116ff4055118b57a4757f7bf9.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "任务奖励",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "647193094"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【装扮小姐姐·生日庆典】是装扮小姐姐的最新数字收藏集！本次的8张立绘收录了8位画师的精致画作，由装扮小姐姐倾情演绎，其中每张数字卡片都拥有独特的编号，更有稀有可爱动态隐藏款等你来解锁！\n感谢以下画师老师们的倾情创作：铭音、舞小仙、翔腿颓、兔扎特、今羽岁羽、依枕云屏、千夜、玄栎。",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/open/55f20b47cd25551c17b69e59b9cb516c39a6af8d.png@0-0-1126-1126a",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/open/55f20b47cd25551c17b69e59b9cb516c39a6af8d.png@0-0-1126-1126a",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/2f31bdf390db6a857af150d68523daff19327225.png\",\"card_count\":1,\"num_color\":\"#D68A71\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/80ff251cdee64b3c9d646f8496428119b2af1bec.png\",\"card_count\":5,\"num_color\":\"#65AFF8\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/42f586116e04284b699c12a6abed8661460ccef7.png\",\"card_count\":15,\"num_color\":\"#F9C056\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/5022832ba44ba05f65c3eee48222ae50a535a859.png\",\"card_count\":30,\"num_color\":\"#E46ADE\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/b33944074c0b3caea50ef4b87ba72bedb7676b1f.png\",\"card_count\":60,\"num_color\":\"#7465DC\"}]",
+        "topic": null,
+        "physical_exchange": false
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/46bd5415f82612f9c3b8e515b982f48384177e73.png",
@@ -435,5 +427,5 @@
                 }
             ]
         }
-    }
+    ]
 }

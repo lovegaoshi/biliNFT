@@ -1,118 +1,110 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "元梦之星收藏集",
-            "cur_time": 1702644830,
-            "start_time": 1702549800,
-            "end_time": 1709222399,
-            "pre_start_time": 0,
-            "pre_end_time": 0,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 234,
-                    "lottery_name": "元梦之星-福利卡池",
-                    "display_time": 1702549740,
-                    "start_time": 1702549800,
-                    "end_time": 1709222399,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/9e7f5e8bcf1aa1106d36e697ba852e2bdcbdeb75.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 28504678758400,
-                    "price": 0,
-                    "goods_name": "元梦之星-福利卡池",
-                    "lottery_desc": "元梦之星-福利卡池目前共包含6张海报；\n普通款：金榜题名、开挂人生、桃花朵朵、提钱退休、紫定能行均分概率95%；\n隐藏款：星选之子，获取概率5%。",
-                    "item_total_cnt": 6,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 9549,
-                    "lottery_type": 2,
-                    "effective_forever": 0,
-                    "discount": null,
-                    "free": 1,
-                    "sale_mode": 2
-                }
-            ],
-            "share_info": {
-                "main_title": "元梦之星收藏集",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热售卖中，快来开卡吧！"
+        "act_title": "元梦之星收藏集",
+        "cur_time": 1702644830,
+        "start_time": 1702549800,
+        "end_time": 1709222399,
+        "pre_start_time": 0,
+        "pre_end_time": 0,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 234,
+                "lottery_name": "元梦之星-福利卡池",
+                "display_time": 1702549740,
+                "start_time": 1702549800,
+                "end_time": 1709222399,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/9e7f5e8bcf1aa1106d36e697ba852e2bdcbdeb75.jpg",
+                "draw_cnt": 0,
+                "goods_id": 28504678758400,
+                "price": 0,
+                "goods_name": "元梦之星-福利卡池",
+                "lottery_desc": "元梦之星-福利卡池目前共包含6张海报；\n普通款：金榜题名、开挂人生、桃花朵朵、提钱退休、紫定能行均分概率95%；\n隐藏款：星选之子，获取概率5%。",
+                "item_total_cnt": 6,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 9549,
+                "lottery_type": 2,
+                "effective_forever": 0,
+                "discount": null,
+                "free": 1,
+                "sale_mode": 2
+            }
+        ],
+        "share_info": {
+            "main_title": "元梦之星收藏集",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/ce76480d41c9323725ccaddaccf315f0263ed75e.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/ce76480d41c9323725ccaddaccf315f0263ed75e.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 0,
+        "total_buy_cnt": 9549,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 0,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 660,
+                "start_time": 1702553400,
+                "end_time": 1709218799,
+                "redeem_text": "抽到1张隐藏款卡牌，即可兑换，单UID仅可领取一次。",
+                "redeem_item_type": 10,
+                "redeem_item_id": "65197",
+                "redeem_item_name": "元梦之星个性主题",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/20d834e108ba837221ea25b688869820e447fa60.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
-            },
-            "total_book_cnt": 0,
-            "total_buy_cnt": 9549,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 0,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 660,
-                    "start_time": 1702553400,
-                    "end_time": 1709218799,
-                    "redeem_text": "抽到1张隐藏款卡牌，即可兑换，单UID仅可领取一次。",
-                    "redeem_item_type": 10,
-                    "redeem_item_id": "65197",
-                    "redeem_item_name": "元梦之星个性主题",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/20d834e108ba837221ea25b688869820e447fa60.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "任务奖励",
-            "effective_forever": 0,
-            "guide_info": {
-                "title": "点击前往活动，获取免费抽数",
-                "guide_content": "哔哩哔哩跨年季&元梦之星",
-                "jump_url": "https://www.bilibili.com/blackboard/activity-ndSGgCXuAF.html"
-            },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": null,
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【元梦之星收藏集】是哔哩哔哩携手元梦之星定制打造的活动数字集卡，融合游戏元素，设计精美。其中每张数字卡牌都将拥有独特编号，期待大家一起来解锁！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/c75114bd2936b6f3e0b868a45852ebc0fc160bcd.png",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/c75114bd2936b6f3e0b868a45852ebc0fc160bcd.png",
-            "collector_medal_info": "",
-            "topic": null
-        }
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "任务奖励",
+        "effective_forever": 0,
+        "guide_info": {
+            "title": "点击前往活动，获取免费抽数",
+            "guide_content": "哔哩哔哩跨年季&元梦之星",
+            "jump_url": "https://www.bilibili.com/blackboard/activity-ndSGgCXuAF.html"
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": null,
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【元梦之星收藏集】是哔哩哔哩携手元梦之星定制打造的活动数字集卡，融合游戏元素，设计精美。其中每张数字卡牌都将拥有独特编号，期待大家一起来解锁！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/c75114bd2936b6f3e0b868a45852ebc0fc160bcd.png",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/c75114bd2936b6f3e0b868a45852ebc0fc160bcd.png",
+        "collector_medal_info": "",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/ce76480d41c9323725ccaddaccf315f0263ed75e.png",
@@ -343,5 +335,5 @@
                 }
             ]
         }
-    }
+    ]
 }

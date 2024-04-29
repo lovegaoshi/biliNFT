@@ -1,224 +1,216 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "2024拜年纪",
-            "cur_time": 1707698154,
-            "start_time": 1705287600,
-            "end_time": 2114406245,
-            "pre_start_time": 1705222800,
-            "pre_end_time": 1705287599,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 256,
-                    "lottery_name": "2233拜年画册",
-                    "display_time": 1705287600,
-                    "start_time": 1707458400,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/f96a8cf6866ccef8f54de4773acf0cb07b915ac6.png",
-                    "draw_cnt": 0,
-                    "goods_id": 34250256583680,
-                    "price": 9900,
-                    "goods_name": "2233拜年画册",
-                    "lottery_desc": "和2233一起红红火火迎接龙年啦～\n【隐藏款-大隐藏】：2024拜年纪·天灯祈愿、2024拜年纪·夜幕灯火均分概率0.5%,若前399抽均未获得过任意大隐藏，则第400抽必得大隐藏;\n【隐藏款-小隐藏】：2024拜年纪·好运连年、2024拜年纪·喜闹今宵均分概率4.5%;\n【普通款】：鸿运当头概率5%，其余立绘均分概率90%;",
-                    "item_total_cnt": 16,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 84815,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
+        "act_title": "2024拜年纪",
+        "cur_time": 1707698154,
+        "start_time": 1705287600,
+        "end_time": 2114406245,
+        "pre_start_time": 1705222800,
+        "pre_end_time": 1705287599,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 256,
+                "lottery_name": "2233拜年画册",
+                "display_time": 1705287600,
+                "start_time": 1707458400,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/f96a8cf6866ccef8f54de4773acf0cb07b915ac6.png",
+                "draw_cnt": 0,
+                "goods_id": 34250256583680,
+                "price": 9900,
+                "goods_name": "2233拜年画册",
+                "lottery_desc": "和2233一起红红火火迎接龙年啦～\n【隐藏款-大隐藏】：2024拜年纪·天灯祈愿、2024拜年纪·夜幕灯火均分概率0.5%,若前399抽均未获得过任意大隐藏，则第400抽必得大隐藏;\n【隐藏款-小隐藏】：2024拜年纪·好运连年、2024拜年纪·喜闹今宵均分概率4.5%;\n【普通款】：鸿运当头概率5%，其余立绘均分概率90%;",
+                "item_total_cnt": 16,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 84815,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                {
-                    "lottery_id": 283,
-                    "lottery_name": "八珍玉食",
-                    "display_time": 1707393600,
-                    "start_time": 1707480000,
-                    "end_time": 1723219199,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/025fffa00c84f4d8e8ef42fd32a5f2a0fa4728f2.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 38604562793984,
-                    "price": 9900,
-                    "goods_name": "八珍玉食",
-                    "lottery_desc": "【八珍玉食】共包含9张海报；\n八珍玉食，概率5%，其余卡牌均分概率95%",
-                    "item_total_cnt": 9,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 28617,
-                    "lottery_type": 2,
-                    "effective_forever": 0,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 2
-                },
-                {
-                    "lottery_id": 257,
-                    "lottery_name": "福利卡池",
-                    "display_time": 1705287599,
-                    "start_time": 1705287600,
-                    "end_time": 1736910000,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/fa2b098db1156378c98ed4b89db4409126d6522e.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 34250256583681,
-                    "price": 0,
-                    "goods_name": "福利卡池",
-                    "lottery_desc": "【福利卡池】共包含4张海报；\n春节快乐、锦鲤转运、新年暴富、更进一步，每张海报均分概率100%",
-                    "item_total_cnt": 4,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 905046,
-                    "lottery_type": 2,
-                    "effective_forever": 0,
-                    "discount": null,
-                    "free": 1,
-                    "sale_mode": 2
-                }
-            ],
-            "share_info": {
-                "main_title": "2024拜年纪",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热售卖中，快来开卡吧！"
+                "free": 0,
+                "sale_mode": 1
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/86168ea1417697d781fc143024106e40e3fa5ecd.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            {
+                "lottery_id": 283,
+                "lottery_name": "八珍玉食",
+                "display_time": 1707393600,
+                "start_time": 1707480000,
+                "end_time": 1723219199,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/025fffa00c84f4d8e8ef42fd32a5f2a0fa4728f2.jpg",
+                "draw_cnt": 0,
+                "goods_id": 38604562793984,
+                "price": 9900,
+                "goods_name": "八珍玉食",
+                "lottery_desc": "【八珍玉食】共包含9张海报；\n八珍玉食，概率5%，其余卡牌均分概率95%",
+                "item_total_cnt": 9,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 28617,
+                "lottery_type": 2,
+                "effective_forever": 0,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 2
             },
-            "total_book_cnt": 0,
-            "total_buy_cnt": 1018478,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 800,
-                    "start_time": 1707455249,
-                    "end_time": 2114406245,
-                    "redeem_text": "2233拜年画册卡池完成4抽即可领取",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "66321&66320&66318&66319",
-                    "redeem_item_name": "2024拜年纪点赞＆加载＆进度条＆个性主题",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/b7cfb947aa285bad0a926fbc58d6733b56716c84.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 4,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 799,
-                    "start_time": 1707454911,
-                    "end_time": 2114406245,
-                    "redeem_text": "收集2233拜年画册1张隐藏款海报即可领取",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "66219",
-                    "redeem_item_name": "2024拜年纪头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/6272fa05892b294d164db0ceb03419a376f1977c.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 798,
-                    "start_time": 1707454800,
-                    "end_time": 2114406245,
-                    "redeem_text": "2233拜年画册卡池完成2抽即可领取",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "66202",
-                    "redeem_item_name": "2024拜年纪表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/8c370563b7976ee855cf968ddbb85ee7c3694d8d.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "2024拜年纪",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "2024福气满满，龙年大吉～",
-                "guide_content": "完成任务，赢取福利卡牌",
-                "jump_url": "https://www.bilibili.com/blackboard/bnj2024.html?msource=ssjgxk&spm_id_from=333.337.0.0&auto_media_playback=1"
+            {
+                "lottery_id": 257,
+                "lottery_name": "福利卡池",
+                "display_time": 1705287599,
+                "start_time": 1705287600,
+                "end_time": 1736910000,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/fa2b098db1156378c98ed4b89db4409126d6522e.jpg",
+                "draw_cnt": 0,
+                "goods_id": 34250256583681,
+                "price": 0,
+                "goods_name": "福利卡池",
+                "lottery_desc": "【福利卡池】共包含4张海报；\n春节快乐、锦鲤转运、新年暴富、更进一步，每张海报均分概率100%",
+                "item_total_cnt": 4,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 905046,
+                "lottery_type": 2,
+                "effective_forever": 0,
+                "discount": null,
+                "free": 1,
+                "sale_mode": 2
+            }
+        ],
+        "share_info": {
+            "main_title": "2024拜年纪",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/86168ea1417697d781fc143024106e40e3fa5ecd.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": null,
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【2024拜年纪收藏集】是哔哩哔哩拜年纪定制打造的活动数字集卡，融合产品元素，设计精美。其中每张数字卡牌都将拥有独特编号，期待大家一起来解锁！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/afde569dd6168f288665f9e8f9badd8e41f2b8f3.png",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/afde569dd6168f288665f9e8f9badd8e41f2b8f3.png",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/159bc5509246201389ba39b65eb0fc0aa27262a2.png\",\"card_count\":1,\"num_color\":\"#ddb49d\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/260b6949554d280ba4eb261023a73d480a656900.png\",\"card_count\":5,\"num_color\":\"#93d2f7\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/3369cbad73aebc743e095d6d3ffee3509307e96f.png\",\"card_count\":15,\"num_color\":\"#f4da82\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/a626612b9da32af258136d20ce39f83b9618fc17.png\",\"card_count\":30,\"num_color\":\"#f482b2\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/596329ef4b1bd46c6db8f05f31317c7dc5d818a3.png\",\"card_count\":60,\"num_color\":\"#9c8df7\"}]",
-            "topic": null,
-            "physical_exchange": false,
-            "act_square_img": "https://i0.hdslb.com/bfs/garb/76d63a1c3ba3a3af4ee362ea87d6b785dbea970a.png"
-        }
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 0,
+        "total_buy_cnt": 1018478,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 800,
+                "start_time": 1707455249,
+                "end_time": 2114406245,
+                "redeem_text": "2233拜年画册卡池完成4抽即可领取",
+                "redeem_item_type": 5,
+                "redeem_item_id": "66321&66320&66318&66319",
+                "redeem_item_name": "2024拜年纪点赞＆加载＆进度条＆个性主题",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/b7cfb947aa285bad0a926fbc58d6733b56716c84.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 4,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 799,
+                "start_time": 1707454911,
+                "end_time": 2114406245,
+                "redeem_text": "收集2233拜年画册1张隐藏款海报即可领取",
+                "redeem_item_type": 3,
+                "redeem_item_id": "66219",
+                "redeem_item_name": "2024拜年纪头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/6272fa05892b294d164db0ceb03419a376f1977c.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 798,
+                "start_time": 1707454800,
+                "end_time": 2114406245,
+                "redeem_text": "2233拜年画册卡池完成2抽即可领取",
+                "redeem_item_type": 2,
+                "redeem_item_id": "66202",
+                "redeem_item_name": "2024拜年纪表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/8c370563b7976ee855cf968ddbb85ee7c3694d8d.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "2024拜年纪",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "2024福气满满，龙年大吉～",
+            "guide_content": "完成任务，赢取福利卡牌",
+            "jump_url": "https://www.bilibili.com/blackboard/bnj2024.html?msource=ssjgxk&spm_id_from=333.337.0.0&auto_media_playback=1"
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": null,
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【2024拜年纪收藏集】是哔哩哔哩拜年纪定制打造的活动数字集卡，融合产品元素，设计精美。其中每张数字卡牌都将拥有独特编号，期待大家一起来解锁！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/afde569dd6168f288665f9e8f9badd8e41f2b8f3.png",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/afde569dd6168f288665f9e8f9badd8e41f2b8f3.png",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/159bc5509246201389ba39b65eb0fc0aa27262a2.png\",\"card_count\":1,\"num_color\":\"#ddb49d\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/260b6949554d280ba4eb261023a73d480a656900.png\",\"card_count\":5,\"num_color\":\"#93d2f7\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/3369cbad73aebc743e095d6d3ffee3509307e96f.png\",\"card_count\":15,\"num_color\":\"#f4da82\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/a626612b9da32af258136d20ce39f83b9618fc17.png\",\"card_count\":30,\"num_color\":\"#f482b2\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/596329ef4b1bd46c6db8f05f31317c7dc5d818a3.png\",\"card_count\":60,\"num_color\":\"#9c8df7\"}]",
+        "topic": null,
+        "physical_exchange": false,
+        "act_square_img": "https://i0.hdslb.com/bfs/garb/76d63a1c3ba3a3af4ee362ea87d6b785dbea970a.png"
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/86168ea1417697d781fc143024106e40e3fa5ecd.png",
@@ -1180,5 +1172,5 @@
                 }
             ]
         }
-    }
+    ]
 }

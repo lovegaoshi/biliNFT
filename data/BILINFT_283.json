@@ -1,201 +1,193 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "把新年的喜事炫嘴里",
-            "cur_time": 1707093373,
-            "start_time": 1706846400,
-            "end_time": 1750867199,
-            "pre_start_time": 1706760000,
-            "pre_end_time": 1706846399,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 269,
-                    "lottery_name": "心年开炫",
-                    "display_time": 1706760000,
-                    "start_time": 1706846400,
-                    "end_time": 1750867199,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/660ed7287980bf01166adaeea2c5ebb41633b52b.png",
-                    "draw_cnt": 0,
-                    "goods_id": 37332308756480,
-                    "price": 9900,
-                    "goods_name": "心年开炫",
-                    "lottery_desc": "喜羊羊与灰太狼·把新年的喜事炫嘴里收藏集共包含8张海报；\n普通款：嗷呜盘龙饼、沸腾龙抄手、懒厨龙须面、美味龙眼酥、喜乐火龙果、暖暖乌龙茶均分概率95%；\n隐藏款：齐乐龙龙概率4.5%、坠落心谷概率0.5%。",
-                    "item_total_cnt": 8,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 3791,
-                    "lottery_type": 1,
-                    "effective_forever": 0,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 2
-                }
-            ],
-            "share_info": {
-                "main_title": "把新年的喜事炫嘴里",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热售卖中，快来开卡吧！"
+        "act_title": "把新年的喜事炫嘴里",
+        "cur_time": 1707093373,
+        "start_time": 1706846400,
+        "end_time": 1750867199,
+        "pre_start_time": 1706760000,
+        "pre_end_time": 1706846399,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 269,
+                "lottery_name": "心年开炫",
+                "display_time": 1706760000,
+                "start_time": 1706846400,
+                "end_time": 1750867199,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/660ed7287980bf01166adaeea2c5ebb41633b52b.png",
+                "draw_cnt": 0,
+                "goods_id": 37332308756480,
+                "price": 9900,
+                "goods_name": "心年开炫",
+                "lottery_desc": "喜羊羊与灰太狼·把新年的喜事炫嘴里收藏集共包含8张海报；\n普通款：嗷呜盘龙饼、沸腾龙抄手、懒厨龙须面、美味龙眼酥、喜乐火龙果、暖暖乌龙茶均分概率95%；\n隐藏款：齐乐龙龙概率4.5%、坠落心谷概率0.5%。",
+                "item_total_cnt": 8,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 3791,
+                "lottery_type": 1,
+                "effective_forever": 0,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
+                },
+                "free": 0,
+                "sale_mode": 2
+            }
+        ],
+        "share_info": {
+            "main_title": "把新年的喜事炫嘴里",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/58af5dc8169c1b729c95e7de221da2300790f540.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/58af5dc8169c1b729c95e7de221da2300790f540.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 1224,
+        "total_buy_cnt": 3791,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 756,
+                "start_time": 1706760000,
+                "end_time": 1709276400,
+                "redeem_text": "截至3月1日15：00，收藏家榜单前5名获得【羊羊大嘴巴礼包】；收藏家榜单6-20名获得【羊羊新春礼包】",
+                "redeem_item_type": 9,
+                "redeem_item_id": "",
+                "redeem_item_name": "收藏家排行榜实物礼包奖励",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/d3be9a3faaeef8b4bc7a850e9bd4916721d043a0.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "jump_url": "",
+                "redeem_cond_type": "custom",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "total_book_cnt": 1224,
-            "total_buy_cnt": 3791,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 756,
-                    "start_time": 1706760000,
-                    "end_time": 1709276400,
-                    "redeem_text": "截至3月1日15：00，收藏家榜单前5名获得【羊羊大嘴巴礼包】；收藏家榜单6-20名获得【羊羊新春礼包】",
-                    "redeem_item_type": 9,
-                    "redeem_item_id": "",
-                    "redeem_item_name": "收藏家排行榜实物礼包奖励",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/d3be9a3faaeef8b4bc7a850e9bd4916721d043a0.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "custom",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            {
+                "collect_id": 755,
+                "start_time": 1706760000,
+                "end_time": 1750867199,
+                "redeem_text": "完成5抽，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "66479&66456&66489&66454",
+                "redeem_item_name": "进度条&加载动画&皮肤&动态点赞",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/03e78203b9d5e9a853ef87b30f68ff59d6fcebb5.jpg",
+                "owned_item_amount": 0,
+                "require_item_amount": 5,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 755,
-                    "start_time": 1706760000,
-                    "end_time": 1750867199,
-                    "redeem_text": "完成5抽，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "66479&66456&66489&66454",
-                    "redeem_item_name": "进度条&加载动画&皮肤&动态点赞",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/03e78203b9d5e9a853ef87b30f68ff59d6fcebb5.jpg",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 754,
-                    "start_time": 1706760000,
-                    "end_time": 1750867199,
-                    "redeem_text": "完成2抽，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "66477",
-                    "redeem_item_name": "把新年的喜事炫嘴里表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/c9dbf41550769f8590c99208debcf15c929c6f2d.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 753,
-                    "start_time": 1706760000,
-                    "end_time": 1750867199,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "66453",
-                    "redeem_item_name": "把新年的喜事炫嘴里·头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/f36111b03fc485e1b3afd0fc77ec3f4f2506cc42.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之礼",
-            "effective_forever": 0,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "31832612"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【把新年的喜事炫嘴里】是国民动漫IP《喜羊羊与灰太狼》在哔哩哔哩弹幕网首款定制数字收藏集，每张数字卡片都将拥有独特编号，代表着不同的新年美好寓意。在新的一年到来之际，羊狼们已经准备好张大嘴巴，为你接住龙年的喜气，一起把新年的喜事炫嘴里啦！期待大家一起来解锁这一份来自青青草原的独家好运哦~",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/1e791124724c00d5cdaa45aa0ee2de23a5422fca.jpg",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/1e791124724c00d5cdaa45aa0ee2de23a5422fca.jpg",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/158e212394b67487e6dcc5647be3855cdfa83e4a.png\",\"card_count\":1,\"num_color\":\"#f73d64\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/6c5f30d29987c24ad7baec98f47f3b6e8af1448c.png\",\"card_count\":5,\"num_color\":\"#ac45ee\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/a9cb2258d4d7662f4145244d376212cd31b18891.png\",\"card_count\":15,\"num_color\":\"#dd6516\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/1a922a5570bc3202b45392e9e581bfb0c260c875.png\",\"card_count\":30,\"num_color\":\"#ffb70b\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/cea9c71d4f6c82d477aa721a0d9d8666563790cd.png\",\"card_count\":60,\"num_color\":\"#0095a7\"}]",
-            "topic": null,
-            "physical_exchange": false,
-            "act_square_img": "http://i0.hdslb.com/bfs/archive/660ed7287980bf01166adaeea2c5ebb41633b52b.png"
-        }
+            {
+                "collect_id": 754,
+                "start_time": 1706760000,
+                "end_time": 1750867199,
+                "redeem_text": "完成2抽，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "66477",
+                "redeem_item_name": "把新年的喜事炫嘴里表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/c9dbf41550769f8590c99208debcf15c929c6f2d.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 753,
+                "start_time": 1706760000,
+                "end_time": 1750867199,
+                "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "66453",
+                "redeem_item_name": "把新年的喜事炫嘴里·头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/f36111b03fc485e1b3afd0fc77ec3f4f2506cc42.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之礼",
+        "effective_forever": 0,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "31832612"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【把新年的喜事炫嘴里】是国民动漫IP《喜羊羊与灰太狼》在哔哩哔哩弹幕网首款定制数字收藏集，每张数字卡片都将拥有独特编号，代表着不同的新年美好寓意。在新的一年到来之际，羊狼们已经准备好张大嘴巴，为你接住龙年的喜气，一起把新年的喜事炫嘴里啦！期待大家一起来解锁这一份来自青青草原的独家好运哦~",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/1e791124724c00d5cdaa45aa0ee2de23a5422fca.jpg",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/1e791124724c00d5cdaa45aa0ee2de23a5422fca.jpg",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/158e212394b67487e6dcc5647be3855cdfa83e4a.png\",\"card_count\":1,\"num_color\":\"#f73d64\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/6c5f30d29987c24ad7baec98f47f3b6e8af1448c.png\",\"card_count\":5,\"num_color\":\"#ac45ee\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/a9cb2258d4d7662f4145244d376212cd31b18891.png\",\"card_count\":15,\"num_color\":\"#dd6516\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/1a922a5570bc3202b45392e9e581bfb0c260c875.png\",\"card_count\":30,\"num_color\":\"#ffb70b\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/cea9c71d4f6c82d477aa721a0d9d8666563790cd.png\",\"card_count\":60,\"num_color\":\"#0095a7\"}]",
+        "topic": null,
+        "physical_exchange": false,
+        "act_square_img": "http://i0.hdslb.com/bfs/archive/660ed7287980bf01166adaeea2c5ebb41633b52b.png"
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/58af5dc8169c1b729c95e7de221da2300790f540.jpg",
@@ -452,5 +444,5 @@
                 }
             ]
         }
-    }
+    ]
 }

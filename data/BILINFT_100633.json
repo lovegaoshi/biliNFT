@@ -1,200 +1,192 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "夏露露Ruru收藏集",
-            "cur_time": 1703464634,
-            "start_time": 1703390400,
-            "end_time": 2114406245,
-            "pre_start_time": 1703304000,
-            "pre_end_time": 1703390399,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 100634,
-                    "lottery_name": "可爱夏露露",
-                    "display_time": 1703304000,
-                    "start_time": 1703390400,
-                    "end_time": 2114406245,
-                    "lottery_image": "https://i0.hdslb.com/bfs/garb/d90833a796401c0f4464a029635e895d6b2685d3.png",
-                    "draw_cnt": 0,
-                    "goods_id": 30089779638272,
-                    "price": 9900,
-                    "goods_name": "可爱夏露露",
-                    "lottery_desc": "【隐藏款】战败露露概率4.5%; 父与子概率0.5%;\n【普通款】僵尸王的女儿概率9%;其余立绘均分概率86%;",
-                    "item_total_cnt": 8,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 7409,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "夏露露Ruru收藏集",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热售卖中，快来开卡吧！"
+        "act_title": "夏露露Ruru收藏集",
+        "cur_time": 1703464634,
+        "start_time": 1703390400,
+        "end_time": 2114406245,
+        "pre_start_time": 1703304000,
+        "pre_end_time": 1703390399,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 100634,
+                "lottery_name": "可爱夏露露",
+                "display_time": 1703304000,
+                "start_time": 1703390400,
+                "end_time": 2114406245,
+                "lottery_image": "https://i0.hdslb.com/bfs/garb/d90833a796401c0f4464a029635e895d6b2685d3.png",
+                "draw_cnt": 0,
+                "goods_id": 30089779638272,
+                "price": 9900,
+                "goods_name": "可爱夏露露",
+                "lottery_desc": "【隐藏款】战败露露概率4.5%; 父与子概率0.5%;\n【普通款】僵尸王的女儿概率9%;其余立绘均分概率86%;",
+                "item_total_cnt": 8,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 7409,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
+                },
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "夏露露Ruru收藏集",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/ff9fcc2bf78b273d80c5adf96d35adaf58bffd80.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/ff9fcc2bf78b273d80c5adf96d35adaf58bffd80.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 496,
+        "total_buy_cnt": 7409,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 100638,
+                "start_time": 1703304000,
+                "end_time": 1706068800,
+                "redeem_text": "抽出任意8张立绘即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 9,
+                "redeem_item_id": "",
+                "redeem_item_name": "夏露露Ruru叫叫球",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/58344031134c70d7a57137f61faa64fec410f597.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 8,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "total_book_cnt": 496,
-            "total_buy_cnt": 7409,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 100638,
-                    "start_time": 1703304000,
-                    "end_time": 1706068800,
-                    "redeem_text": "抽出任意8张立绘即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 9,
-                    "redeem_item_id": "",
-                    "redeem_item_name": "夏露露Ruru叫叫球",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/58344031134c70d7a57137f61faa64fec410f597.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 8,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            {
+                "collect_id": 100637,
+                "start_time": 1703304000,
+                "end_time": 2114406245,
+                "redeem_text": "完成5抽即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 5,
+                "redeem_item_id": "1702540786001&1702649531001&1702649498001&1702389857001",
+                "redeem_item_name": "主题四件套",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/3c442ddadfa2c1a12f834a94caaed4ddd03e5168.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 5,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 100637,
-                    "start_time": 1703304000,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成5抽即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "1702540786001&1702649531001&1702649498001&1702389857001",
-                    "redeem_item_name": "主题四件套",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/3c442ddadfa2c1a12f834a94caaed4ddd03e5168.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 100636,
-                    "start_time": 1703304000,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成2抽即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "1702450566001",
-                    "redeem_item_name": "夏露露Ruru表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/52728ff908b97a424c3459064499469f968beb55.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 100635,
-                    "start_time": 1703304000,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽到任意1张隐藏款立绘即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "1702389822001",
-                    "redeem_item_name": "夏露露Ruru头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/581ca6d5725452159adae760bbf196355c46b0b9.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "任务奖励",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "1486340861"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【夏露露Ruru收藏集】是哔哩哔哩携手夏露露Ruru定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁夏露露Ruru的绝美画面！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/open/3e6eb91ea0ca4ec1a6c97a0fd805754754e0508f.png@0-0-1126-1126a",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/open/3e6eb91ea0ca4ec1a6c97a0fd805754754e0508f.png@0-0-1126-1126a",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/ee989a7a9af4abab4422c1a8a371e802f07f461d.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/59cf7eebc650fdf5e4c919b99707cf5cade6bb42.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/c31efad3e1fb1272051b8c45c66b53fb63b641fd.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/866efdd13849632d0e79131945155ca13b9d2c8f.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/b98703b2f060d4e043667220bad792040a30fa33.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
-            "topic": null,
-            "physical_exchange": false
-        }
+            {
+                "collect_id": 100636,
+                "start_time": 1703304000,
+                "end_time": 2114406245,
+                "redeem_text": "完成2抽即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 2,
+                "redeem_item_id": "1702450566001",
+                "redeem_item_name": "夏露露Ruru表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/52728ff908b97a424c3459064499469f968beb55.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 100635,
+                "start_time": 1703304000,
+                "end_time": 2114406245,
+                "redeem_text": "抽到任意1张隐藏款立绘即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 3,
+                "redeem_item_id": "1702389822001",
+                "redeem_item_name": "夏露露Ruru头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/581ca6d5725452159adae760bbf196355c46b0b9.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "任务奖励",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "1486340861"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【夏露露Ruru收藏集】是哔哩哔哩携手夏露露Ruru定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁夏露露Ruru的绝美画面！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/open/3e6eb91ea0ca4ec1a6c97a0fd805754754e0508f.png@0-0-1126-1126a",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/open/3e6eb91ea0ca4ec1a6c97a0fd805754754e0508f.png@0-0-1126-1126a",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/ee989a7a9af4abab4422c1a8a371e802f07f461d.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/59cf7eebc650fdf5e4c919b99707cf5cade6bb42.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/c31efad3e1fb1272051b8c45c66b53fb63b641fd.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/866efdd13849632d0e79131945155ca13b9d2c8f.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/b98703b2f060d4e043667220bad792040a30fa33.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
+        "topic": null,
+        "physical_exchange": false
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/ff9fcc2bf78b273d80c5adf96d35adaf58bffd80.png",
@@ -459,5 +451,5 @@
                 }
             ]
         }
-    }
+    ]
 }

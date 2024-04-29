@@ -1,184 +1,176 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "LEX收藏集",
-            "cur_time": 1702648072,
-            "start_time": 1685599200,
-            "end_time": 2114406245,
-            "pre_start_time": 1685512800,
-            "pre_end_time": 1685599199,
-            "is_booked": 0,
-            "act_desc": "https://i0.hdslb.com/bfs/garb/8c2a41fe09ea8d08466272c86ddc373ef932ea4e.png",
-            "lottery_list": [
-                {
-                    "lottery_id": 14,
-                    "lottery_name": "LEX常驻奖池",
-                    "display_time": 1685512800,
-                    "start_time": 1685599200,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/696fa4434ded34f36872c9d9f4d83ae3b7389188.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 9481895306240,
-                    "price": 9900,
-                    "goods_name": "LEX常驻奖池",
-                    "lottery_desc": "LEX常驻奖池包含黑白-蕾、礼物-蕾、玫瑰-蕾、天空-蕾、柠檬小蕾、温暖小蕾、阳光小蕾、审判-蕾8张绝美立绘，等你拥有！\n* 普通款：黑白-蕾、礼物-蕾、玫瑰-蕾、天空-蕾、柠檬小蕾、温暖小蕾，均分概率95%；\n* 隐藏款：阳光小蕾概率4.5%、审判-蕾概率0.5%",
-                    "item_total_cnt": 8,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 8366,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 1900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+        "act_title": "LEX收藏集",
+        "cur_time": 1702648072,
+        "start_time": 1685599200,
+        "end_time": 2114406245,
+        "pre_start_time": 1685512800,
+        "pre_end_time": 1685599199,
+        "is_booked": 0,
+        "act_desc": "https://i0.hdslb.com/bfs/garb/8c2a41fe09ea8d08466272c86ddc373ef932ea4e.png",
+        "lottery_list": [
+            {
+                "lottery_id": 14,
+                "lottery_name": "LEX常驻奖池",
+                "display_time": 1685512800,
+                "start_time": 1685599200,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/696fa4434ded34f36872c9d9f4d83ae3b7389188.jpg",
+                "draw_cnt": 0,
+                "goods_id": 9481895306240,
+                "price": 9900,
+                "goods_name": "LEX常驻奖池",
+                "lottery_desc": "LEX常驻奖池包含黑白-蕾、礼物-蕾、玫瑰-蕾、天空-蕾、柠檬小蕾、温暖小蕾、阳光小蕾、审判-蕾8张绝美立绘，等你拥有！\n* 普通款：黑白-蕾、礼物-蕾、玫瑰-蕾、天空-蕾、柠檬小蕾、温暖小蕾，均分概率95%；\n* 隐藏款：阳光小蕾概率4.5%、审判-蕾概率0.5%",
+                "item_total_cnt": 8,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 8366,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 1900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
+                },
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "LeXBurner首套真人收藏集上线啦！",
+            "sub_title": "恭喜！你被欧气砸中！快来领取小蕾收藏集吧！",
+            "share_content": "LeXBurner收藏集上线啦！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/f5c9e99e3be44a838b4fc07277574952592742ea.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            },
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 1217,
+        "total_buy_cnt": 8366,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 52,
+                "start_time": 1685512800,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意5张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 1,
+                "redeem_item_id": "701306",
+                "redeem_item_name": "黑土豆豆",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/e9cc05d1a51d9c0cfcff1181d4f3307f5062cc8e.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 5,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": {
+                        "id": 701306,
+                        "name": "黑土豆豆",
+                        "overview_image": "https://i0.hdslb.com/bfs/baselabs/e9cc05d1a51d9c0cfcff1181d4f3307f5062cc8e.png",
+                        "content": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/baselabs/e9cc05d1a51d9c0cfcff1181d4f3307f5062cc8e.png",
+                                "gyroscope": null,
+                                "location": ""
+                            },
+                            "animation": null
+                        },
+                        "material_type": 1,
+                        "theme": "新建文件夹",
+                        "scarcity": 50,
+                        "layout": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "face_overflow": null,
+                        "material_sub_type": 0,
+                        "overview_image_watermarks": [
+                            {
+                                "scene": 1,
+                                "watermark_image": "https://i0.hdslb.com/bfs/garb/90b16280b105d90fe281902e3db2bcc11bf40309.png"
+                            }
+                        ],
+                        "watermark_animations": null,
+                        "space_background": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/baselabs/e9cc05d1a51d9c0cfcff1181d4f3307f5062cc8e.png",
+                                "gyroscope": null,
+                                "location": ""
+                            },
+                            "animation": null
                         }
                     },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "LeXBurner首套真人收藏集上线啦！",
-                "sub_title": "恭喜！你被欧气砸中！快来领取小蕾收藏集吧！",
-                "share_content": "LeXBurner收藏集上线啦！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/f5c9e99e3be44a838b4fc07277574952592742ea.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+                    "play": null,
+                    "tag": null
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "total_book_cnt": 1217,
-            "total_buy_cnt": 8366,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 52,
-                    "start_time": 1685512800,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意5张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 1,
-                    "redeem_item_id": "701306",
-                    "redeem_item_name": "黑土豆豆",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/e9cc05d1a51d9c0cfcff1181d4f3307f5062cc8e.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": {
-                            "id": 701306,
-                            "name": "黑土豆豆",
-                            "overview_image": "https://i0.hdslb.com/bfs/baselabs/e9cc05d1a51d9c0cfcff1181d4f3307f5062cc8e.png",
-                            "content": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/baselabs/e9cc05d1a51d9c0cfcff1181d4f3307f5062cc8e.png",
-                                    "gyroscope": null,
-                                    "location": ""
-                                },
-                                "animation": null
-                            },
-                            "material_type": 1,
-                            "theme": "新建文件夹",
-                            "scarcity": 50,
-                            "layout": 0,
-                            "width": 1242,
-                            "height": 1863,
-                            "face_overflow": null,
-                            "material_sub_type": 0,
-                            "overview_image_watermarks": [
-                                {
-                                    "scene": 1,
-                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/90b16280b105d90fe281902e3db2bcc11bf40309.png"
-                                }
-                            ],
-                            "watermark_animations": null,
-                            "space_background": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/baselabs/e9cc05d1a51d9c0cfcff1181d4f3307f5062cc8e.png",
-                                    "gyroscope": null,
-                                    "location": ""
-                                },
-                                "animation": null
-                            }
-                        },
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            {
+                "collect_id": 49,
+                "start_time": 1685512800,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "53049",
+                "redeem_item_name": "LeXBurner头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/648c416dcaede850d4e6ada8a15dec842f372fbc.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 49,
-                    "start_time": 1685512800,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "53049",
-                    "redeem_item_name": "LeXBurner头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/648c416dcaede850d4e6ada8a15dec842f372fbc.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "兑换福利",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
-            },
-            "is_can_donate": 1,
-            "is_up_chain": 1,
-            "related_mids": null,
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 0,
-            "product_introduce": "",
-            "app_head_show": "",
-            "app_space_show": "",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/ec56e7c522670574f5516519fd43779357ee9604.png\",\"card_count\":1,\"num_color\":\"#6be9a7\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/54f6b2f3832b857ad553df73dace0b4cbb1047eb.png\",\"card_count\":5,\"num_color\":\"#53baff\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/d6c310bb78acb53ea011ee5b96ccebca96a30d62.png\",\"card_count\":15,\"num_color\":\"#bf86ff\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/78872c70cb84c79df5dd042e2db505dea9d63b05.png\",\"card_count\":30,\"num_color\":\"#ff6a7a\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/a38f28d435756c9ccada80b253a2f570b9e05f9a.png\",\"card_count\":60,\"num_color\":\"#ff9517\"}]",
-            "topic": null
-        }
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "兑换福利",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 1,
+        "related_mids": null,
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 0,
+        "product_introduce": "",
+        "app_head_show": "",
+        "app_space_show": "",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/ec56e7c522670574f5516519fd43779357ee9604.png\",\"card_count\":1,\"num_color\":\"#6be9a7\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/54f6b2f3832b857ad553df73dace0b4cbb1047eb.png\",\"card_count\":5,\"num_color\":\"#53baff\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/d6c310bb78acb53ea011ee5b96ccebca96a30d62.png\",\"card_count\":15,\"num_color\":\"#bf86ff\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/78872c70cb84c79df5dd042e2db505dea9d63b05.png\",\"card_count\":30,\"num_color\":\"#ff6a7a\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/a38f28d435756c9ccada80b253a2f570b9e05f9a.png\",\"card_count\":60,\"num_color\":\"#ff9517\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/f5c9e99e3be44a838b4fc07277574952592742ea.jpg",
@@ -464,5 +456,5 @@
                 }
             ]
         }
-    }
+    ]
 }

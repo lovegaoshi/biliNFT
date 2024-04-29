@@ -1,105 +1,97 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "旅行日记",
-            "cur_time": 1714151121,
-            "start_time": 1708596000,
-            "end_time": 1708704089,
-            "pre_start_time": 1708509600,
-            "pre_end_time": 1708595999,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 101210,
-                    "lottery_name": "旅途风花",
-                    "display_time": 1708509600,
-                    "start_time": 1708596000,
-                    "end_time": 1708704089,
-                    "lottery_image": "https://i0.hdslb.com/bfs/garb/8f72c7f2c7f7560f18cc6f8a67a7979c15d9c248.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 41006588267008,
-                    "price": 9900,
-                    "goods_name": "旅途风花",
-                    "lottery_desc": "【隐藏款-大隐藏】：旅途风花,倾海之约均分概率0.5%,若前399抽均未获得过任意大隐藏，则第400抽必得大隐藏;\n【隐藏款-小隐藏】：千雪长街,夏日花火均分概率4.5%;\n【普通款】：爱琴海风,北境千风,帝君远征,绿茵幽草均分概率9%，其余立绘均分概率86%;",
-                    "item_total_cnt": 21,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 81193,
-                    "lottery_type": 1,
-                    "effective_forever": 0,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 2
-                }
-            ],
-            "share_info": {
-                "main_title": "旅行日记",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热售卖中，快来开卡吧！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/e139410f96743234a5581cda6815471df1cdbc1a.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "旅行日记",
+        "cur_time": 1714151121,
+        "start_time": 1708596000,
+        "end_time": 1708704089,
+        "pre_start_time": 1708509600,
+        "pre_end_time": 1708595999,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 101210,
+                "lottery_name": "旅途风花",
+                "display_time": 1708509600,
+                "start_time": 1708596000,
+                "end_time": 1708704089,
+                "lottery_image": "https://i0.hdslb.com/bfs/garb/8f72c7f2c7f7560f18cc6f8a67a7979c15d9c248.jpg",
+                "draw_cnt": 0,
+                "goods_id": 41006588267008,
+                "price": 9900,
+                "goods_name": "旅途风花",
+                "lottery_desc": "【隐藏款-大隐藏】：旅途风花,倾海之约均分概率0.5%,若前399抽均未获得过任意大隐藏，则第400抽必得大隐藏;\n【隐藏款-小隐藏】：千雪长街,夏日花火均分概率4.5%;\n【普通款】：爱琴海风,北境千风,帝君远征,绿茵幽草均分概率9%，其余立绘均分概率86%;",
+                "item_total_cnt": 21,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 81193,
+                "lottery_type": 1,
+                "effective_forever": 0,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 2
+            }
+        ],
+        "share_info": {
+            "main_title": "旅行日记",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/e139410f96743234a5581cda6815471df1cdbc1a.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 5623,
-            "total_buy_cnt": 81193,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": null,
-            "display_title": "任务奖励",
-            "effective_forever": 0,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
-            },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "7907806"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【旅行日记·胡桃幽幽收藏集】 “大幽幽病了，二幽幽瞧。三幽幽采药，四幽幽熬”——胡桃。\n哔哩哔哩携手万老板原创打造，正版授权-原神同人精美收藏集【旅行日记·胡桃幽幽】，不仅有专属定制版的主题、头像框、表情包、加载动画等兑换权益，还有更多角色收藏卡！其中每张卡片都将拥有独一无二的编号，更有稀有动态隐藏款等你解锁!",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/open/7bffddfb0bb57b441abcaab64804835ca713ec9a.png@0-0-1126-1126a",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/open/7bffddfb0bb57b441abcaab64804835ca713ec9a.png@0-0-1126-1126a",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/30e26a42a167deb2d5ec7f3f0bdc6f8e39cf7868.png\",\"num_color\":\"#EDB48B\",\"card_count\":1,\"scene_image\":{\"1\":\"http://i0.hdslb.com/bfs/archive/938551f914785ad645eb78e7e119226f4b4f2a91.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/30e26a42a167deb2d5ec7f3f0bdc6f8e39cf7868.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/30e26a42a167deb2d5ec7f3f0bdc6f8e39cf7868.png\",\"4\":\"http://i0.hdslb.com/bfs/archive/7518651923c3a9932174014e48fd24340c7c3bc5.png\",\"6\":\"https://i0.hdslb.com/bfs/archive/07de3ffde53a063c4b7fa3d2e2f159277f10025c.png\"}},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/9de2f07109f0f7abc026a628540f38713d74c4ef.png\",\"num_color\":\"#78AFFE\",\"card_count\":5,\"scene_image\":{\"1\":\"http://i0.hdslb.com/bfs/archive/1709123a4bda4986ed09f3dd4c596dc49888796c.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/9de2f07109f0f7abc026a628540f38713d74c4ef.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/9de2f07109f0f7abc026a628540f38713d74c4ef.png\",\"4\":\"http://i0.hdslb.com/bfs/archive/ab8c6fdb318c0b0e2b13e234b938c51a8f10982e.png\",\"6\":\"https://i0.hdslb.com/bfs/archive/9f62332903a79d67d69dba02140d007792787c58.png\"}},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/ac51d506f5f102f385079f407b5113b1c72570a3.png\",\"num_color\":\"#E0ADAD\",\"card_count\":15,\"scene_image\":{\"1\":\"http://i0.hdslb.com/bfs/archive/abdd27290ae2c9eee11f47ead1add536d4fb1741.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/ac51d506f5f102f385079f407b5113b1c72570a3.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/ac51d506f5f102f385079f407b5113b1c72570a3.png\",\"4\":\"http://i0.hdslb.com/bfs/archive/38fbeef60415c540564e13135c2c6145b6e1a07c.png\",\"6\":\"https://i0.hdslb.com/bfs/archive/b32a4373fdb9ef4b5b7f84922b5f24c76789392a.png\"}},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/3fbf2c84943349eccd1d24ec12b095e508eae603.png\",\"num_color\":\"#EB55E4\",\"card_count\":30,\"scene_image\":{\"1\":\"http://i0.hdslb.com/bfs/archive/ea0b5ad7c6baf27c59a11aeba78af170129bc266.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/3fbf2c84943349eccd1d24ec12b095e508eae603.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/3fbf2c84943349eccd1d24ec12b095e508eae603.png\",\"4\":\"http://i0.hdslb.com/bfs/archive/03c32bed76322fbbe56aa28f32cf541b301ccca2.png\",\"6\":\"https://i0.hdslb.com/bfs/archive/6c374a2d104c2a678a8f5b93db1a739983056beb.png\"}},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/017b28b638a7f33d859a9586c2f061c0ef1bd099.png\",\"num_color\":\"#7D63E4\",\"card_count\":60,\"scene_image\":{\"1\":\"http://i0.hdslb.com/bfs/archive/da1b89f18f6f77c82d938098e4a76236a3a3f230.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/017b28b638a7f33d859a9586c2f061c0ef1bd099.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/017b28b638a7f33d859a9586c2f061c0ef1bd099.png\",\"4\":\"http://i0.hdslb.com/bfs/archive/aa25b59037187929a8924807e7bef2bc50ebd9a0.png\",\"6\":\"https://i0.hdslb.com/bfs/archive/21996831eab9e4f423ee3ebd9d567582f3cb3db4.png\"}}]",
-            "topic": null,
-            "physical_exchange": false,
-            "act_square_img": "https://i0.hdslb.com/bfs/garb/7e60618736a75af3e3c4fd57fc2e0e4d4c67d7e2.jpg",
-            "tab_lottery_id": 101210
-        }
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 5623,
+        "total_buy_cnt": 81193,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": null,
+        "display_title": "任务奖励",
+        "effective_forever": 0,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "7907806"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【旅行日记·胡桃幽幽收藏集】 “大幽幽病了，二幽幽瞧。三幽幽采药，四幽幽熬”——胡桃。\n哔哩哔哩携手万老板原创打造，正版授权-原神同人精美收藏集【旅行日记·胡桃幽幽】，不仅有专属定制版的主题、头像框、表情包、加载动画等兑换权益，还有更多角色收藏卡！其中每张卡片都将拥有独一无二的编号，更有稀有动态隐藏款等你解锁!",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/open/7bffddfb0bb57b441abcaab64804835ca713ec9a.png@0-0-1126-1126a",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/open/7bffddfb0bb57b441abcaab64804835ca713ec9a.png@0-0-1126-1126a",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/30e26a42a167deb2d5ec7f3f0bdc6f8e39cf7868.png\",\"num_color\":\"#EDB48B\",\"card_count\":1,\"scene_image\":{\"1\":\"http://i0.hdslb.com/bfs/archive/938551f914785ad645eb78e7e119226f4b4f2a91.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/30e26a42a167deb2d5ec7f3f0bdc6f8e39cf7868.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/30e26a42a167deb2d5ec7f3f0bdc6f8e39cf7868.png\",\"4\":\"http://i0.hdslb.com/bfs/archive/7518651923c3a9932174014e48fd24340c7c3bc5.png\",\"6\":\"https://i0.hdslb.com/bfs/archive/07de3ffde53a063c4b7fa3d2e2f159277f10025c.png\"}},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/9de2f07109f0f7abc026a628540f38713d74c4ef.png\",\"num_color\":\"#78AFFE\",\"card_count\":5,\"scene_image\":{\"1\":\"http://i0.hdslb.com/bfs/archive/1709123a4bda4986ed09f3dd4c596dc49888796c.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/9de2f07109f0f7abc026a628540f38713d74c4ef.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/9de2f07109f0f7abc026a628540f38713d74c4ef.png\",\"4\":\"http://i0.hdslb.com/bfs/archive/ab8c6fdb318c0b0e2b13e234b938c51a8f10982e.png\",\"6\":\"https://i0.hdslb.com/bfs/archive/9f62332903a79d67d69dba02140d007792787c58.png\"}},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/ac51d506f5f102f385079f407b5113b1c72570a3.png\",\"num_color\":\"#E0ADAD\",\"card_count\":15,\"scene_image\":{\"1\":\"http://i0.hdslb.com/bfs/archive/abdd27290ae2c9eee11f47ead1add536d4fb1741.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/ac51d506f5f102f385079f407b5113b1c72570a3.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/ac51d506f5f102f385079f407b5113b1c72570a3.png\",\"4\":\"http://i0.hdslb.com/bfs/archive/38fbeef60415c540564e13135c2c6145b6e1a07c.png\",\"6\":\"https://i0.hdslb.com/bfs/archive/b32a4373fdb9ef4b5b7f84922b5f24c76789392a.png\"}},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/3fbf2c84943349eccd1d24ec12b095e508eae603.png\",\"num_color\":\"#EB55E4\",\"card_count\":30,\"scene_image\":{\"1\":\"http://i0.hdslb.com/bfs/archive/ea0b5ad7c6baf27c59a11aeba78af170129bc266.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/3fbf2c84943349eccd1d24ec12b095e508eae603.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/3fbf2c84943349eccd1d24ec12b095e508eae603.png\",\"4\":\"http://i0.hdslb.com/bfs/archive/03c32bed76322fbbe56aa28f32cf541b301ccca2.png\",\"6\":\"https://i0.hdslb.com/bfs/archive/6c374a2d104c2a678a8f5b93db1a739983056beb.png\"}},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/017b28b638a7f33d859a9586c2f061c0ef1bd099.png\",\"num_color\":\"#7D63E4\",\"card_count\":60,\"scene_image\":{\"1\":\"http://i0.hdslb.com/bfs/archive/da1b89f18f6f77c82d938098e4a76236a3a3f230.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/017b28b638a7f33d859a9586c2f061c0ef1bd099.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/017b28b638a7f33d859a9586c2f061c0ef1bd099.png\",\"4\":\"http://i0.hdslb.com/bfs/archive/aa25b59037187929a8924807e7bef2bc50ebd9a0.png\",\"6\":\"https://i0.hdslb.com/bfs/archive/21996831eab9e4f423ee3ebd9d567582f3cb3db4.png\"}}]",
+        "topic": null,
+        "physical_exchange": false,
+        "act_square_img": "https://i0.hdslb.com/bfs/garb/7e60618736a75af3e3c4fd57fc2e0e4d4c67d7e2.jpg",
+        "tab_lottery_id": 101210
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/e139410f96743234a5581cda6815471df1cdbc1a.jpg",
@@ -781,5 +773,5 @@
                 }
             ]
         }
-    }
+    ]
 }

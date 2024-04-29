@@ -1,151 +1,143 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "孙无力系列插画收藏集",
-            "cur_time": 1702647850,
-            "start_time": 1698912000,
-            "end_time": 1998439200,
-            "pre_start_time": 1698825600,
-            "pre_end_time": 1698911999,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 100288,
-                    "lottery_name": "少年世界",
-                    "display_time": 1698825600,
-                    "start_time": 1698912000,
-                    "end_time": 1998439200,
-                    "lottery_image": "https://i0.hdslb.com/bfs/garb/1375005186df9f5ea8b6260f389bd6d1686629fc.png",
-                    "draw_cnt": 0,
-                    "goods_id": 20697892025344,
-                    "price": 9900,
-                    "goods_name": "少年世界",
-                    "lottery_desc": "【隐藏款】霓虹灯概率4.5%;树上的少年概率0.5%;\n【普通款】森林少年概率9%;其余立绘均分概率86%;",
-                    "item_total_cnt": 12,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 678,
-                    "lottery_type": 1,
-                    "effective_forever": 0,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 2
-                }
-            ],
-            "share_info": {
-                "main_title": "孙无力系列插画收藏集",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热售卖中，快来开卡吧！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/a413f9e7c703c8190ef3e9323ec2968e404b2d98.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "孙无力系列插画收藏集",
+        "cur_time": 1702647850,
+        "start_time": 1698912000,
+        "end_time": 1998439200,
+        "pre_start_time": 1698825600,
+        "pre_end_time": 1698911999,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 100288,
+                "lottery_name": "少年世界",
+                "display_time": 1698825600,
+                "start_time": 1698912000,
+                "end_time": 1998439200,
+                "lottery_image": "https://i0.hdslb.com/bfs/garb/1375005186df9f5ea8b6260f389bd6d1686629fc.png",
+                "draw_cnt": 0,
+                "goods_id": 20697892025344,
+                "price": 9900,
+                "goods_name": "少年世界",
+                "lottery_desc": "【隐藏款】霓虹灯概率4.5%;树上的少年概率0.5%;\n【普通款】森林少年概率9%;其余立绘均分概率86%;",
+                "item_total_cnt": 12,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 678,
+                "lottery_type": 1,
+                "effective_forever": 0,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 2
+            }
+        ],
+        "share_info": {
+            "main_title": "孙无力系列插画收藏集",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/a413f9e7c703c8190ef3e9323ec2968e404b2d98.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 159,
-            "total_buy_cnt": 678,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 100294,
-                    "start_time": 1698825600,
-                    "end_time": 1998439200,
-                    "redeem_text": "在海底,田野少年,荷花,梦幻泡沫,清凉夏日,宅的日常,冬日雪地,万花灯,故乡的秋,森林少年,霓虹灯,树上的少年中抽出任意2张立绘即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "1698820152001",
-                    "redeem_item_name": "孙无力-表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/70f2c2dca2a425f71933441ed701a789a9ca3279.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 159,
+        "total_buy_cnt": 678,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 100294,
+                "start_time": 1698825600,
+                "end_time": 1998439200,
+                "redeem_text": "在海底,田野少年,荷花,梦幻泡沫,清凉夏日,宅的日常,冬日雪地,万花灯,故乡的秋,森林少年,霓虹灯,树上的少年中抽出任意2张立绘即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 2,
+                "redeem_item_id": "1698820152001",
+                "redeem_item_name": "孙无力-表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/70f2c2dca2a425f71933441ed701a789a9ca3279.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 100291,
-                    "start_time": 1698825600,
-                    "end_time": 1998439200,
-                    "redeem_text": "抽到任意1张隐藏卡即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "1698739950001",
-                    "redeem_item_name": "孙无力-头像挂件",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/92a0faf3396bfbab8d8dee83ab3eeea4cd7b7546.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "任务奖励",
-            "effective_forever": 0,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "3493275023444234"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【孙无力系列插画收藏集】是人气新锐插画师孙无力X卡牌形式首次登陆B站！少年畅游在世界的各个角落，探索与遨游。每张数字卡片都拥有独特编号，期待大家一起来解锁精彩世界!",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/34e69b77c6f3170aed654cec863c6b450a4575fe.png",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/34e69b77c6f3170aed654cec863c6b450a4575fe.png",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/66832b886a572fddc851ae5d75838a7ff85f039a.png\",\"card_count\":1,\"num_color\":\"#FFC7C7\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/224a292ba097cdf124140d2ec5db354ad13e8385.png\",\"card_count\":5,\"num_color\":\"#79CDF3\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/8ac017353175a85110c0d34e097fec30a03f3e76.png\",\"card_count\":15,\"num_color\":\"#FFD39D\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/b787158a0a4e99059ebc775c6f1f732ad6718b44.png\",\"card_count\":30,\"num_color\":\"#F5A7FF\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/7ca6aaf7cc6f7de9f69da9ab4b12b2e38bbba0ab.png\",\"card_count\":60,\"num_color\":\"#5F75FF\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 100291,
+                "start_time": 1698825600,
+                "end_time": 1998439200,
+                "redeem_text": "抽到任意1张隐藏卡即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 3,
+                "redeem_item_id": "1698739950001",
+                "redeem_item_name": "孙无力-头像挂件",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/92a0faf3396bfbab8d8dee83ab3eeea4cd7b7546.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "任务奖励",
+        "effective_forever": 0,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "3493275023444234"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【孙无力系列插画收藏集】是人气新锐插画师孙无力X卡牌形式首次登陆B站！少年畅游在世界的各个角落，探索与遨游。每张数字卡片都拥有独特编号，期待大家一起来解锁精彩世界!",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/34e69b77c6f3170aed654cec863c6b450a4575fe.png",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/34e69b77c6f3170aed654cec863c6b450a4575fe.png",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/66832b886a572fddc851ae5d75838a7ff85f039a.png\",\"card_count\":1,\"num_color\":\"#FFC7C7\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/224a292ba097cdf124140d2ec5db354ad13e8385.png\",\"card_count\":5,\"num_color\":\"#79CDF3\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/8ac017353175a85110c0d34e097fec30a03f3e76.png\",\"card_count\":15,\"num_color\":\"#FFD39D\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/b787158a0a4e99059ebc775c6f1f732ad6718b44.png\",\"card_count\":30,\"num_color\":\"#F5A7FF\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/7ca6aaf7cc6f7de9f69da9ab4b12b2e38bbba0ab.png\",\"card_count\":60,\"num_color\":\"#5F75FF\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/a413f9e7c703c8190ef3e9323ec2968e404b2d98.png",
@@ -518,5 +510,5 @@
                 }
             ]
         }
-    }
+    ]
 }

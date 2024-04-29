@@ -1,275 +1,267 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "鎏金之夜收藏集",
-            "cur_time": 1702647932,
-            "start_time": 1696219200,
-            "end_time": 2114406245,
-            "pre_start_time": 1696132800,
-            "pre_end_time": 1696219199,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 140,
-                    "lottery_name": "光之少女",
-                    "display_time": 1696132800,
-                    "start_time": 1696219200,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/4e5f15f392cddcdfba8cbb0f8c448796d0becf4d.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 15043940870144,
-                    "price": 9900,
-                    "goods_name": "光之少女",
-                    "lottery_desc": "【鎏金之夜收藏集—光之少女】共包含26张精美立绘，一起解锁绝美画面吧！\n【隐藏款】甜心女仆、早稻叽·调皮女王、艾露露·宴会3张，均分概率0.5%；小柔·宴会、牧牧白·蔷薇甜心、杜松子·Gin酒宴会3张，均分概率4.5%\n【普通款】早稻叽·蹦蹦跳跳、艾露露·心动魔法、小柔·after party、牧牧白·亲上来咯、杜松子·悄悄话5张，均分概率9%；剩余立绘共15张，均分概率86%",
-                    "item_total_cnt": 26,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 36383,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "鎏金之夜收藏集-光之少女开售",
-                "sub_title": "精致立绘，趣味表情包、头像框等你抱回家！",
-                "share_content": "鎏金之夜收藏集-光之少女火热售卖中，与5位美女主播一起共舞吧！"
+        "act_title": "鎏金之夜收藏集",
+        "cur_time": 1702647932,
+        "start_time": 1696219200,
+        "end_time": 2114406245,
+        "pre_start_time": 1696132800,
+        "pre_end_time": 1696219199,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 140,
+                "lottery_name": "光之少女",
+                "display_time": 1696132800,
+                "start_time": 1696219200,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/4e5f15f392cddcdfba8cbb0f8c448796d0becf4d.jpg",
+                "draw_cnt": 0,
+                "goods_id": 15043940870144,
+                "price": 9900,
+                "goods_name": "光之少女",
+                "lottery_desc": "【鎏金之夜收藏集—光之少女】共包含26张精美立绘，一起解锁绝美画面吧！\n【隐藏款】甜心女仆、早稻叽·调皮女王、艾露露·宴会3张，均分概率0.5%；小柔·宴会、牧牧白·蔷薇甜心、杜松子·Gin酒宴会3张，均分概率4.5%\n【普通款】早稻叽·蹦蹦跳跳、艾露露·心动魔法、小柔·after party、牧牧白·亲上来咯、杜松子·悄悄话5张，均分概率9%；剩余立绘共15张，均分概率86%",
+                "item_total_cnt": 26,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 36383,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
+                },
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "鎏金之夜收藏集-光之少女开售",
+            "sub_title": "精致立绘，趣味表情包、头像框等你抱回家！",
+            "share_content": "鎏金之夜收藏集-光之少女火热售卖中，与5位美女主播一起共舞吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/a1290d9bdef3a7b4be09851d2cd726b962007b93.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/a1290d9bdef3a7b4be09851d2cd726b962007b93.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 1685,
+        "total_buy_cnt": 36383,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 438,
+                "start_time": 1696132800,
+                "end_time": 2114406245,
+                "redeem_text": "完成任意2抽即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "60106",
+                "redeem_item_name": "光之少女表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/f39543c70c4eac8fb244e7c8e58d93635bd1679b.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "total_book_cnt": 1685,
-            "total_buy_cnt": 36383,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 438,
-                    "start_time": 1696132800,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成任意2抽即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "60106",
-                    "redeem_item_name": "光之少女表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/f39543c70c4eac8fb244e7c8e58d93635bd1679b.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            {
+                "collect_id": 439,
+                "start_time": 1696132800,
+                "end_time": 2114406245,
+                "redeem_text": "抽取任意1张隐藏款即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "60129",
+                "redeem_item_name": "光之少女头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/5e78a02469b0ca0571a582db1c255d4e010717d1.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 439,
-                    "start_time": 1696132800,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽取任意1张隐藏款即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "60129",
-                    "redeem_item_name": "光之少女头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/5e78a02469b0ca0571a582db1c255d4e010717d1.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 445,
-                    "start_time": 1696132800,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽取杜松子_Gin任意3张单人不同卡牌即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "60192&60193&60194",
-                    "redeem_item_name": "杜松子_Gin点赞&加载&进度条",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/321a14d960baf11d91d21dddfd0dd4ca8e3f1650.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 444,
-                    "start_time": 1696132800,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽取牧牧白miiu任意3张单人不同卡牌即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "60133&60136&60138",
-                    "redeem_item_name": "牧牧白点赞&加载&进度条",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/2b54c0c7e8da34bdf474ddcd64199285ce6c91f2.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 443,
-                    "start_time": 1696132810,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽取小柔Channel任意3张单人不同卡牌即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "60134&60137&60139",
-                    "redeem_item_name": "小柔Channel点赞&加载&进度条",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/25d6704efcdddebb9bdb2aba931dccb803fc7662.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 442,
-                    "start_time": 1696132800,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽取艾露露Ailurus任意3张单人不同卡牌即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "60131&60130&60132",
-                    "redeem_item_name": "艾露露Ailurus点赞&加载&进度条",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/0830c94992ff762870f78febdd22b0199dfc66fa.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 441,
-                    "start_time": 1696132800,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽取早稻叽任意3张单人不同卡牌即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "60135&60141&60140",
-                    "redeem_item_name": "早稻叽点赞&加载&进度条",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/fa56b9a7f278110b461651f60872b20c4c1bcee3.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之旅",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "1950658",
-                "1501380958",
-                "1734978373",
-                "592150173",
-                "471460273"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【鎏金之夜收藏集】是哔哩哔哩携早稻叽、小柔、艾露露、杜松子、牧牧白定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁鎏金之夜收藏集的绝美画面！ \n早稻叽——是一只因为不会做坏事而被贬到人类世界，结果喜欢上了人类，并想给人类带来幸福的光之恶魔！最喜欢的事情是唱歌！\n艾露露——大家好，我是虚研社二期生是一只充满音乐梦想传奇大脑的小熊猫，想用歌声表达我所看见的世界，代表作：凹凸世界第四季主题曲 \n小柔——柔光灯，Switch ON！大家好，我是虚研社二期生，三语歌唱AI。愿歌声治愈你的心～ \n杜松子——下岗偶像杜松子！也是最强的虚拟声优哦（自称）\n牧牧白——大家好，我是想要带给大家快乐的搞笑艺人，希望大家天天都有好心情，KeepSmile~！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/d7c35723279f0f5c41c4ca0302b873ba0c89e194.jpg",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/18261ac07d35b9d748ef70944c278fc017fb1e0e.jpg",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/05b64e8ff255fd121e4619567d098d813c02a980.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/fbc657ec6825cfd36c212ac9c45c768ae829d2d9.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/649bbc6ed2df5be0e2c25d4587462d8f39965064.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/bf6a646876dcb0bb530d89e786cb9a0a7128a1ca.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/f18ae86d99a85f46ce4d9745098a6f5a1a5608c7.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 445,
+                "start_time": 1696132800,
+                "end_time": 2114406245,
+                "redeem_text": "抽取杜松子_Gin任意3张单人不同卡牌即可领取，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "60192&60193&60194",
+                "redeem_item_name": "杜松子_Gin点赞&加载&进度条",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/321a14d960baf11d91d21dddfd0dd4ca8e3f1650.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 444,
+                "start_time": 1696132800,
+                "end_time": 2114406245,
+                "redeem_text": "抽取牧牧白miiu任意3张单人不同卡牌即可领取，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "60133&60136&60138",
+                "redeem_item_name": "牧牧白点赞&加载&进度条",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/2b54c0c7e8da34bdf474ddcd64199285ce6c91f2.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 443,
+                "start_time": 1696132810,
+                "end_time": 2114406245,
+                "redeem_text": "抽取小柔Channel任意3张单人不同卡牌即可领取，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "60134&60137&60139",
+                "redeem_item_name": "小柔Channel点赞&加载&进度条",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/25d6704efcdddebb9bdb2aba931dccb803fc7662.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 442,
+                "start_time": 1696132800,
+                "end_time": 2114406245,
+                "redeem_text": "抽取艾露露Ailurus任意3张单人不同卡牌即可领取，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "60131&60130&60132",
+                "redeem_item_name": "艾露露Ailurus点赞&加载&进度条",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/0830c94992ff762870f78febdd22b0199dfc66fa.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 441,
+                "start_time": 1696132800,
+                "end_time": 2114406245,
+                "redeem_text": "抽取早稻叽任意3张单人不同卡牌即可领取，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "60135&60141&60140",
+                "redeem_item_name": "早稻叽点赞&加载&进度条",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/fa56b9a7f278110b461651f60872b20c4c1bcee3.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之旅",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "1950658",
+            "1501380958",
+            "1734978373",
+            "592150173",
+            "471460273"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【鎏金之夜收藏集】是哔哩哔哩携早稻叽、小柔、艾露露、杜松子、牧牧白定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁鎏金之夜收藏集的绝美画面！ \n早稻叽——是一只因为不会做坏事而被贬到人类世界，结果喜欢上了人类，并想给人类带来幸福的光之恶魔！最喜欢的事情是唱歌！\n艾露露——大家好，我是虚研社二期生是一只充满音乐梦想传奇大脑的小熊猫，想用歌声表达我所看见的世界，代表作：凹凸世界第四季主题曲 \n小柔——柔光灯，Switch ON！大家好，我是虚研社二期生，三语歌唱AI。愿歌声治愈你的心～ \n杜松子——下岗偶像杜松子！也是最强的虚拟声优哦（自称）\n牧牧白——大家好，我是想要带给大家快乐的搞笑艺人，希望大家天天都有好心情，KeepSmile~！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/d7c35723279f0f5c41c4ca0302b873ba0c89e194.jpg",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/18261ac07d35b9d748ef70944c278fc017fb1e0e.jpg",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/05b64e8ff255fd121e4619567d098d813c02a980.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/fbc657ec6825cfd36c212ac9c45c768ae829d2d9.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/649bbc6ed2df5be0e2c25d4587462d8f39965064.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/bf6a646876dcb0bb530d89e786cb9a0a7128a1ca.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/f18ae86d99a85f46ce4d9745098a6f5a1a5608c7.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/a1290d9bdef3a7b4be09851d2cd726b962007b93.jpg",
@@ -1120,5 +1112,5 @@
                 }
             ]
         }
-    }
+    ]
 }

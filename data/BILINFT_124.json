@@ -1,96 +1,88 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "白夜极光收藏集",
-            "cur_time": 1688823860,
-            "start_time": 1687775400,
-            "end_time": 1698724800,
-            "pre_start_time": 0,
-            "pre_end_time": 0,
-            "is_booked": 0,
-            "act_desc": "https://i0.hdslb.com/bfs/garb/4b18d05197d6a25a924f6f87d60d1fceea8b6058.png",
-            "lottery_list": [
-                {
-                    "lottery_id": 25,
-                    "lottery_name": "开服福利",
-                    "display_time": 1687775400,
-                    "start_time": 1687775401,
-                    "end_time": 1698724800,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/5f29632085f9b10305b58c4f7f577ccc99fcaf36.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 0,
-                    "price": 0,
-                    "goods_name": "开服福利",
-                    "lottery_desc": "【白夜极光】共包含32张精美立绘，快来一起成为引导世界的光吧！！\n* 普通款24张：爱丽丝、比比比约恩、黑潮、卡夫卡、康斯坦丁、克萝伊、库玛&佩吉、尼尔斯、帕蒂&帕西、钱德拉、泰莎、西尔瓦、尤拉、奥斐娜、白矮星、多孚、狡木、锯里克、恐尔贡、莉亚、塞留古、索克&贝克、尤尼梅特、卓娅均分概率95%；\n* 隐藏款8张：巴顿、菲莉诗、克莱肯、薇丝均分概率4.5%，卡莲、卡戎、醒山、尤丽均分概率0.5%。",
-                    "item_total_cnt": 32,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 0,
-                    "lottery_type": 1,
-                    "effective_forever": 0,
-                    "discount": null,
-                    "free": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "白夜极光收藏集开服活动",
-                "sub_title": "快来一起成为引导世界的光吧！",
-                "share_content": "白夜极光收藏集开服活动进行中，快来开卡吧！"
+        "act_title": "白夜极光收藏集",
+        "cur_time": 1688823860,
+        "start_time": 1687775400,
+        "end_time": 1698724800,
+        "pre_start_time": 0,
+        "pre_end_time": 0,
+        "is_booked": 0,
+        "act_desc": "https://i0.hdslb.com/bfs/garb/4b18d05197d6a25a924f6f87d60d1fceea8b6058.png",
+        "lottery_list": [
+            {
+                "lottery_id": 25,
+                "lottery_name": "开服福利",
+                "display_time": 1687775400,
+                "start_time": 1687775401,
+                "end_time": 1698724800,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/5f29632085f9b10305b58c4f7f577ccc99fcaf36.jpg",
+                "draw_cnt": 0,
+                "goods_id": 0,
+                "price": 0,
+                "goods_name": "开服福利",
+                "lottery_desc": "【白夜极光】共包含32张精美立绘，快来一起成为引导世界的光吧！！\n* 普通款24张：爱丽丝、比比比约恩、黑潮、卡夫卡、康斯坦丁、克萝伊、库玛&佩吉、尼尔斯、帕蒂&帕西、钱德拉、泰莎、西尔瓦、尤拉、奥斐娜、白矮星、多孚、狡木、锯里克、恐尔贡、莉亚、塞留古、索克&贝克、尤尼梅特、卓娅均分概率95%；\n* 隐藏款8张：巴顿、菲莉诗、克莱肯、薇丝均分概率4.5%，卡莲、卡戎、醒山、尤丽均分概率0.5%。",
+                "item_total_cnt": 32,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 0,
+                "lottery_type": 1,
+                "effective_forever": 0,
+                "discount": null,
+                "free": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "白夜极光收藏集开服活动",
+            "sub_title": "快来一起成为引导世界的光吧！",
+            "share_content": "白夜极光收藏集开服活动进行中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/22b8cc5091adb74417de2b8a090125471d18a46a.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/22b8cc5091adb74417de2b8a090125471d18a46a.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
-                },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
-            },
-            "total_book_cnt": 0,
-            "total_buy_cnt": 0,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 0,
-            "is_pre_risk": 0,
-            "is_collector_rank": 0,
-            "collect_list": [
-                {
-                    "collect_id": 69,
-                    "start_time": 1687776023,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "54381",
-                    "redeem_item_name": "白夜极光表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/9c479caf8c64af3f02de16cfb5ef394a53341129.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1
-                }
-            ],
-            "display_title": "",
-            "effective_forever": 0,
-            "guide_info": {
-                "title": "如何获取抽数？",
-                "guide_content": "前往开服活动绑定账号获取",
-                "jump_url": "https://byjg.biligame.com/sfxzfl"
-            },
-            "is_can_donate": 1,
-            "is_up_chain": 1
-        }
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 0,
+        "total_buy_cnt": 0,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 0,
+        "is_pre_risk": 0,
+        "is_collector_rank": 0,
+        "collect_list": [
+            {
+                "collect_id": 69,
+                "start_time": 1687776023,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "54381",
+                "redeem_item_name": "白夜极光表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/9c479caf8c64af3f02de16cfb5ef394a53341129.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1
+            }
+        ],
+        "display_title": "",
+        "effective_forever": 0,
+        "guide_info": {
+            "title": "如何获取抽数？",
+            "guide_content": "前往开服活动绑定账号获取",
+            "jump_url": "https://byjg.biligame.com/sfxzfl"
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 1
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/22b8cc5091adb74417de2b8a090125471d18a46a.png",
@@ -803,5 +795,5 @@
                 }
             ]
         }
-    }
+    ]
 }

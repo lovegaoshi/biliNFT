@@ -1,151 +1,143 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "菌子宝宝丶收藏集",
-            "cur_time": 1702648043,
-            "start_time": 1690430401,
-            "end_time": 2114406245,
-            "pre_start_time": 1690344000,
-            "pre_end_time": 1690430400,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 50,
-                    "lottery_name": "百变菌宝",
-                    "display_time": 1690344000,
-                    "start_time": 1690430400,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/4acfbfd3465fdf355ad7341eabdfda2e19edcdf7.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 2908307334656,
-                    "price": 9900,
-                    "goods_name": "百变菌宝",
-                    "lottery_desc": "【菌子宝宝丶收藏集—百变菌宝】共包含16张靓丽美图，和菌子宝宝丶一起共舞一支玫瑰恋曲吧！\n* 普通款：地雷童话菌宝、粉色幻想菌宝、静谧时光菌宝、惬意小屋菌宝、青春洋溢菌宝、学院青春菌宝、樱花烂漫菌宝、慵懒午后菌宝、悠闲夏日菌宝、元气满满菌宝共10张，均分概率86%；糖果甜心菌宝、兽耳软萌菌宝2张，均分概率9%\n* 隐藏款：女仆舞动菌宝、傲然时刻菌宝2张均分概率4.5%；玫瑰恋曲菌宝、纯白梦境菌宝2张均分概率0.5%",
-                    "item_total_cnt": 16,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 12423,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "菌子宝宝丶收藏集—百变菌宝开售",
-                "sub_title": "全新青春时尚美图、表情包、头像框等你抱回家！",
-                "share_content": "菌子宝宝丶收藏集—百变菌宝火热开售中，舞动少女申请出战！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/01031ce2d1e7633bfa1a081a8b863cd055909904.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "菌子宝宝丶收藏集",
+        "cur_time": 1702648043,
+        "start_time": 1690430401,
+        "end_time": 2114406245,
+        "pre_start_time": 1690344000,
+        "pre_end_time": 1690430400,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 50,
+                "lottery_name": "百变菌宝",
+                "display_time": 1690344000,
+                "start_time": 1690430400,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/4acfbfd3465fdf355ad7341eabdfda2e19edcdf7.jpg",
+                "draw_cnt": 0,
+                "goods_id": 2908307334656,
+                "price": 9900,
+                "goods_name": "百变菌宝",
+                "lottery_desc": "【菌子宝宝丶收藏集—百变菌宝】共包含16张靓丽美图，和菌子宝宝丶一起共舞一支玫瑰恋曲吧！\n* 普通款：地雷童话菌宝、粉色幻想菌宝、静谧时光菌宝、惬意小屋菌宝、青春洋溢菌宝、学院青春菌宝、樱花烂漫菌宝、慵懒午后菌宝、悠闲夏日菌宝、元气满满菌宝共10张，均分概率86%；糖果甜心菌宝、兽耳软萌菌宝2张，均分概率9%\n* 隐藏款：女仆舞动菌宝、傲然时刻菌宝2张均分概率4.5%；玫瑰恋曲菌宝、纯白梦境菌宝2张均分概率0.5%",
+                "item_total_cnt": 16,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 12423,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "菌子宝宝丶收藏集—百变菌宝开售",
+            "sub_title": "全新青春时尚美图、表情包、头像框等你抱回家！",
+            "share_content": "菌子宝宝丶收藏集—百变菌宝火热开售中，舞动少女申请出战！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/01031ce2d1e7633bfa1a081a8b863cd055909904.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 805,
-            "total_buy_cnt": 12423,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 136,
-                    "start_time": 1690344000,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "55809",
-                    "redeem_item_name": "百变菌宝·表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/86c5deb15f075c41a11b62bfb7b11f14e8c9e3fa.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 805,
+        "total_buy_cnt": 12423,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 136,
+                "start_time": 1690344000,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "55809",
+                "redeem_item_name": "百变菌宝·表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/86c5deb15f075c41a11b62bfb7b11f14e8c9e3fa.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 135,
-                    "start_time": 1690344000,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "55772",
-                    "redeem_item_name": "百变菌宝·头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/3ecf7d332a6f9555a4fc274bd35ce658b17db236.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之礼",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "8581342"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【菌子宝宝丶收藏集】是哔哩哔哩携手菌子宝宝丶定制打造的个人数字收藏集，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁菌子宝宝丶的绝美画面！\n菌子宝宝丶是全职UP主兼主播，喜欢唱跳及cosplay，日常通过直播及视频投稿活跃在bilibili等平台。",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/b062f21d2501b1f78b405cde4781f3960e298402.png",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/b062f21d2501b1f78b405cde4781f3960e298402.png",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/5cafe6ef763214210552cc02230b1efb7b8389fb.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/bf37b0fa150950253ca88cf41061ec9f38a21334.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/5980f9935ddc188c5ecb1cc4f18b0d31f5ddc445.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/7fdfb15f47e6c350f528a35da8b13afb4aec9d42.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/6332b9c22b4c1fe8542a4874adcec17e37d0ebfa.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 135,
+                "start_time": 1690344000,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "55772",
+                "redeem_item_name": "百变菌宝·头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/3ecf7d332a6f9555a4fc274bd35ce658b17db236.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之礼",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "8581342"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【菌子宝宝丶收藏集】是哔哩哔哩携手菌子宝宝丶定制打造的个人数字收藏集，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁菌子宝宝丶的绝美画面！\n菌子宝宝丶是全职UP主兼主播，喜欢唱跳及cosplay，日常通过直播及视频投稿活跃在bilibili等平台。",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/b062f21d2501b1f78b405cde4781f3960e298402.png",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/b062f21d2501b1f78b405cde4781f3960e298402.png",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/5cafe6ef763214210552cc02230b1efb7b8389fb.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/bf37b0fa150950253ca88cf41061ec9f38a21334.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/5980f9935ddc188c5ecb1cc4f18b0d31f5ddc445.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/7fdfb15f47e6c350f528a35da8b13afb4aec9d42.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/6332b9c22b4c1fe8542a4874adcec17e37d0ebfa.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/01031ce2d1e7633bfa1a081a8b863cd055909904.jpg",
@@ -666,5 +658,5 @@
                 }
             ]
         }
-    }
+    ]
 }

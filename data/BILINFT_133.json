@@ -1,385 +1,377 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "BML十周年收藏集",
-            "cur_time": 1702648055,
-            "start_time": 1689307201,
-            "end_time": 2114406245,
-            "pre_start_time": 1689238800,
-            "pre_end_time": 1689307200,
-            "is_booked": 0,
-            "act_desc": "https://i0.hdslb.com/bfs/garb/4f784428f73ba17e9a4aadc0109fb57784b1caf7.png",
-            "lottery_list": [
-                {
-                    "lottery_id": 39,
-                    "lottery_name": "BML十周年",
-                    "display_time": 1689238800,
-                    "start_time": 1689307201,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/242f29cfa1a4594a9deee4675d162e2611cd0df5.png",
-                    "draw_cnt": 0,
-                    "goods_id": 9482121796608,
-                    "price": 9900,
-                    "goods_name": "BML十周年",
-                    "lottery_desc": "【BML十周年收藏集】共包含8张精美立绘，一起踏上BML银河列车！\n* 普通款：BML2015、BML2016、BML2017、BML2018、BML2019、BML2020均分概率95%；\n* 隐藏款：BML2023·十年相伴概率4.5%、BML2023·星际启航概率0.5%。",
-                    "item_total_cnt": 8,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 42820,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+        "act_title": "BML十周年收藏集",
+        "cur_time": 1702648055,
+        "start_time": 1689307201,
+        "end_time": 2114406245,
+        "pre_start_time": 1689238800,
+        "pre_end_time": 1689307200,
+        "is_booked": 0,
+        "act_desc": "https://i0.hdslb.com/bfs/garb/4f784428f73ba17e9a4aadc0109fb57784b1caf7.png",
+        "lottery_list": [
+            {
+                "lottery_id": 39,
+                "lottery_name": "BML十周年",
+                "display_time": 1689238800,
+                "start_time": 1689307201,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/242f29cfa1a4594a9deee4675d162e2611cd0df5.png",
+                "draw_cnt": 0,
+                "goods_id": 9482121796608,
+                "price": 9900,
+                "goods_name": "BML十周年",
+                "lottery_desc": "【BML十周年收藏集】共包含8张精美立绘，一起踏上BML银河列车！\n* 普通款：BML2015、BML2016、BML2017、BML2018、BML2019、BML2020均分概率95%；\n* 隐藏款：BML2023·十年相伴概率4.5%、BML2023·星际启航概率0.5%。",
+                "item_total_cnt": 8,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 42820,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
+                },
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "BML十周年收藏集开售",
+            "sub_title": "精美立绘、表情包、头像框等你抱回家！",
+            "share_content": "《BML十周年收藏集》开售中～感谢你们相伴的每一趟旅途，我们并不孤独！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/e3fd5083ca0aa53b52bb01626a9885f7b75923e8.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            },
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 3221,
+        "total_buy_cnt": 42820,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 111,
+                "start_time": 1689238800,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "55428",
+                "redeem_item_name": "BML十周年头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/d85450ea23c0773d2e5652a47db0235566d2e8da.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 110,
+                "start_time": 1689238800,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "55430",
+                "redeem_item_name": "BML十周年表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/f62781c266db3ebf526550272e4acdb5f38bd521.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 109,
+                "start_time": 1689238800,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意6张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 1,
+                "redeem_item_id": "729648",
+                "redeem_item_name": "BML2022",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/c382e23413bf11475a2a20e3c6b9985d1fde81ac.jpg",
+                "owned_item_amount": 0,
+                "require_item_amount": 6,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": {
+                        "id": 729648,
+                        "name": "BML2022",
+                        "overview_image": "https://i0.hdslb.com/bfs/baselabs/c382e23413bf11475a2a20e3c6b9985d1fde81ac.jpg",
+                        "content": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/baselabs/c382e23413bf11475a2a20e3c6b9985d1fde81ac.jpg",
+                                "gyroscope": null,
+                                "location": ""
+                            },
+                            "animation": null
+                        },
+                        "material_type": 1,
+                        "theme": "BML兑换",
+                        "scarcity": 10,
+                        "layout": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "face_overflow": null,
+                        "material_sub_type": 0,
+                        "overview_image_watermarks": [
+                            {
+                                "scene": 1,
+                                "watermark_image": "https://i0.hdslb.com/bfs/garb/aaa47a16ad11fb6a5a98c0588a4c334425e88fb2.png"
+                            }
+                        ],
+                        "watermark_animations": null,
+                        "space_background": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/baselabs/c382e23413bf11475a2a20e3c6b9985d1fde81ac.jpg",
+                                "gyroscope": null,
+                                "location": ""
+                            },
+                            "animation": null
                         }
                     },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "BML十周年收藏集开售",
-                "sub_title": "精美立绘、表情包、头像框等你抱回家！",
-                "share_content": "《BML十周年收藏集》开售中～感谢你们相伴的每一趟旅途，我们并不孤独！"
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/e3fd5083ca0aa53b52bb01626a9885f7b75923e8.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            {
+                "collect_id": 108,
+                "start_time": 1689238800,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意5张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 1,
+                "redeem_item_id": "729647",
+                "redeem_item_name": "BML2021",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/4ee053ddf4e51241703e66d877b28399c381bde7.jpg",
+                "owned_item_amount": 0,
+                "require_item_amount": 5,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": {
+                        "id": 729647,
+                        "name": "BML2021",
+                        "overview_image": "https://i0.hdslb.com/bfs/baselabs/4ee053ddf4e51241703e66d877b28399c381bde7.jpg",
+                        "content": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/baselabs/4ee053ddf4e51241703e66d877b28399c381bde7.jpg",
+                                "gyroscope": null,
+                                "location": ""
+                            },
+                            "animation": null
+                        },
+                        "material_type": 1,
+                        "theme": "BML兑换",
+                        "scarcity": 10,
+                        "layout": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "face_overflow": null,
+                        "material_sub_type": 0,
+                        "overview_image_watermarks": [
+                            {
+                                "scene": 1,
+                                "watermark_image": "https://i0.hdslb.com/bfs/garb/4b49e93f646b472188cf0821cf4176105c40ffb7.png"
+                            }
+                        ],
+                        "watermark_animations": null,
+                        "space_background": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/baselabs/4ee053ddf4e51241703e66d877b28399c381bde7.jpg",
+                                "gyroscope": null,
+                                "location": ""
+                            },
+                            "animation": null
+                        }
+                    },
+                    "play": null,
+                    "tag": null
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "total_book_cnt": 3221,
-            "total_buy_cnt": 42820,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 111,
-                    "start_time": 1689238800,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "55428",
-                    "redeem_item_name": "BML十周年头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/d85450ea23c0773d2e5652a47db0235566d2e8da.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 110,
-                    "start_time": 1689238800,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "55430",
-                    "redeem_item_name": "BML十周年表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/f62781c266db3ebf526550272e4acdb5f38bd521.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 109,
-                    "start_time": 1689238800,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意6张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 1,
-                    "redeem_item_id": "729648",
-                    "redeem_item_name": "BML2022",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/c382e23413bf11475a2a20e3c6b9985d1fde81ac.jpg",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 6,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": {
-                            "id": 729648,
-                            "name": "BML2022",
-                            "overview_image": "https://i0.hdslb.com/bfs/baselabs/c382e23413bf11475a2a20e3c6b9985d1fde81ac.jpg",
-                            "content": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/baselabs/c382e23413bf11475a2a20e3c6b9985d1fde81ac.jpg",
-                                    "gyroscope": null,
-                                    "location": ""
-                                },
-                                "animation": null
+            {
+                "collect_id": 107,
+                "start_time": 1689238800,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意4张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 1,
+                "redeem_item_id": "729449",
+                "redeem_item_name": "BML2014",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/0d0363de16848079cdb6e3039d8a11fb20841ba8.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 4,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": {
+                        "id": 729449,
+                        "name": "BML2014",
+                        "overview_image": "https://i0.hdslb.com/bfs/baselabs/0d0363de16848079cdb6e3039d8a11fb20841ba8.png",
+                        "content": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/baselabs/0d0363de16848079cdb6e3039d8a11fb20841ba8.png",
+                                "gyroscope": null,
+                                "location": ""
                             },
-                            "material_type": 1,
-                            "theme": "BML兑换",
-                            "scarcity": 10,
-                            "layout": 0,
-                            "width": 1242,
-                            "height": 1863,
-                            "face_overflow": null,
-                            "material_sub_type": 0,
-                            "overview_image_watermarks": [
-                                {
-                                    "scene": 1,
-                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/aaa47a16ad11fb6a5a98c0588a4c334425e88fb2.png"
-                                }
-                            ],
-                            "watermark_animations": null,
-                            "space_background": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/baselabs/c382e23413bf11475a2a20e3c6b9985d1fde81ac.jpg",
-                                    "gyroscope": null,
-                                    "location": ""
-                                },
-                                "animation": null
-                            }
+                            "animation": null
                         },
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 108,
-                    "start_time": 1689238800,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意5张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 1,
-                    "redeem_item_id": "729647",
-                    "redeem_item_name": "BML2021",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/4ee053ddf4e51241703e66d877b28399c381bde7.jpg",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": {
-                            "id": 729647,
-                            "name": "BML2021",
-                            "overview_image": "https://i0.hdslb.com/bfs/baselabs/4ee053ddf4e51241703e66d877b28399c381bde7.jpg",
-                            "content": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/baselabs/4ee053ddf4e51241703e66d877b28399c381bde7.jpg",
-                                    "gyroscope": null,
-                                    "location": ""
-                                },
-                                "animation": null
+                        "material_type": 1,
+                        "theme": "BML兑换",
+                        "scarcity": 10,
+                        "layout": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "face_overflow": null,
+                        "material_sub_type": 0,
+                        "overview_image_watermarks": [
+                            {
+                                "scene": 1,
+                                "watermark_image": "https://i0.hdslb.com/bfs/garb/cabff5702de9844e0325e0ec86aaf8d8b4f38676.png"
+                            }
+                        ],
+                        "watermark_animations": null,
+                        "space_background": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/baselabs/0d0363de16848079cdb6e3039d8a11fb20841ba8.png",
+                                "gyroscope": null,
+                                "location": ""
                             },
-                            "material_type": 1,
-                            "theme": "BML兑换",
-                            "scarcity": 10,
-                            "layout": 0,
-                            "width": 1242,
-                            "height": 1863,
-                            "face_overflow": null,
-                            "material_sub_type": 0,
-                            "overview_image_watermarks": [
-                                {
-                                    "scene": 1,
-                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/4b49e93f646b472188cf0821cf4176105c40ffb7.png"
-                                }
-                            ],
-                            "watermark_animations": null,
-                            "space_background": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/baselabs/4ee053ddf4e51241703e66d877b28399c381bde7.jpg",
-                                    "gyroscope": null,
-                                    "location": ""
-                                },
-                                "animation": null
-                            }
-                        },
-                        "play": null,
-                        "tag": null
+                            "animation": null
+                        }
                     },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 107,
-                    "start_time": 1689238800,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意4张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 1,
-                    "redeem_item_id": "729449",
-                    "redeem_item_name": "BML2014",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/0d0363de16848079cdb6e3039d8a11fb20841ba8.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 4,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": {
-                            "id": 729449,
-                            "name": "BML2014",
-                            "overview_image": "https://i0.hdslb.com/bfs/baselabs/0d0363de16848079cdb6e3039d8a11fb20841ba8.png",
-                            "content": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/baselabs/0d0363de16848079cdb6e3039d8a11fb20841ba8.png",
-                                    "gyroscope": null,
-                                    "location": ""
-                                },
-                                "animation": null
-                            },
-                            "material_type": 1,
-                            "theme": "BML兑换",
-                            "scarcity": 10,
-                            "layout": 0,
-                            "width": 1242,
-                            "height": 1863,
-                            "face_overflow": null,
-                            "material_sub_type": 0,
-                            "overview_image_watermarks": [
-                                {
-                                    "scene": 1,
-                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/cabff5702de9844e0325e0ec86aaf8d8b4f38676.png"
-                                }
-                            ],
-                            "watermark_animations": null,
-                            "space_background": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/baselabs/0d0363de16848079cdb6e3039d8a11fb20841ba8.png",
-                                    "gyroscope": null,
-                                    "location": ""
-                                },
-                                "animation": null
-                            }
-                        },
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 106,
-                    "start_time": 1689238800,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意2张卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 1,
-                    "redeem_item_id": "729448",
-                    "redeem_item_name": "BML2013",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/211b2f938b816ece92425505228d5f5c20def9b7.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": {
-                            "id": 729448,
-                            "name": "BML2013",
-                            "overview_image": "https://i0.hdslb.com/bfs/baselabs/211b2f938b816ece92425505228d5f5c20def9b7.png",
-                            "content": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/baselabs/211b2f938b816ece92425505228d5f5c20def9b7.png",
-                                    "gyroscope": null,
-                                    "location": ""
-                                },
-                                "animation": null
-                            },
-                            "material_type": 1,
-                            "theme": "BML兑换",
-                            "scarcity": 10,
-                            "layout": 0,
-                            "width": 1242,
-                            "height": 1863,
-                            "face_overflow": null,
-                            "material_sub_type": 0,
-                            "overview_image_watermarks": [
-                                {
-                                    "scene": 1,
-                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/58e0cddef696820189ac788077cbb3b468e387de.png"
-                                }
-                            ],
-                            "watermark_animations": null,
-                            "space_background": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/baselabs/211b2f938b816ece92425505228d5f5c20def9b7.png",
-                                    "gyroscope": null,
-                                    "location": ""
-                                },
-                                "animation": null
-                            }
-                        },
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之礼",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 1,
-            "related_mids": null,
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 0,
-            "product_introduce": "",
-            "app_head_show": "",
-            "app_space_show": "",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/cf69822a73e5f6ce74b2ac4cfc84c68823e8375e.png\",\"card_count\":1,\"num_color\":\"#c68d6f\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/24246e54c8539c16a4e861d13366ff037b1c2a74.png\",\"card_count\":5,\"num_color\":\"#6bb5dc\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/335b512ae9d3e9965b09e3200f4e9509131dbc7f.png\",\"card_count\":15,\"num_color\":\"#e2b56e\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/0a113bee5f9a185753cc70fd676c6b3b6faae8aa.png\",\"card_count\":30,\"num_color\":\"#ec93bd\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/82b22c0387b2dc331f78d2cd8bb8f62b589c3286.png\",\"card_count\":60,\"num_color\":\"#a970d2\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 106,
+                "start_time": 1689238800,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意2张卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 1,
+                "redeem_item_id": "729448",
+                "redeem_item_name": "BML2013",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/211b2f938b816ece92425505228d5f5c20def9b7.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": {
+                        "id": 729448,
+                        "name": "BML2013",
+                        "overview_image": "https://i0.hdslb.com/bfs/baselabs/211b2f938b816ece92425505228d5f5c20def9b7.png",
+                        "content": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/baselabs/211b2f938b816ece92425505228d5f5c20def9b7.png",
+                                "gyroscope": null,
+                                "location": ""
+                            },
+                            "animation": null
+                        },
+                        "material_type": 1,
+                        "theme": "BML兑换",
+                        "scarcity": 10,
+                        "layout": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "face_overflow": null,
+                        "material_sub_type": 0,
+                        "overview_image_watermarks": [
+                            {
+                                "scene": 1,
+                                "watermark_image": "https://i0.hdslb.com/bfs/garb/58e0cddef696820189ac788077cbb3b468e387de.png"
+                            }
+                        ],
+                        "watermark_animations": null,
+                        "space_background": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/baselabs/211b2f938b816ece92425505228d5f5c20def9b7.png",
+                                "gyroscope": null,
+                                "location": ""
+                            },
+                            "animation": null
+                        }
+                    },
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之礼",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 1,
+        "related_mids": null,
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 0,
+        "product_introduce": "",
+        "app_head_show": "",
+        "app_space_show": "",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/cf69822a73e5f6ce74b2ac4cfc84c68823e8375e.png\",\"card_count\":1,\"num_color\":\"#c68d6f\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/24246e54c8539c16a4e861d13366ff037b1c2a74.png\",\"card_count\":5,\"num_color\":\"#6bb5dc\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/335b512ae9d3e9965b09e3200f4e9509131dbc7f.png\",\"card_count\":15,\"num_color\":\"#e2b56e\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/0a113bee5f9a185753cc70fd676c6b3b6faae8aa.png\",\"card_count\":30,\"num_color\":\"#ec93bd\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/82b22c0387b2dc331f78d2cd8bb8f62b589c3286.png\",\"card_count\":60,\"num_color\":\"#a970d2\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/e3fd5083ca0aa53b52bb01626a9885f7b75923e8.png",
@@ -752,5 +744,5 @@
                 }
             ]
         }
-    }
+    ]
 }

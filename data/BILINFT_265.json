@@ -1,173 +1,165 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "驯龙高手收藏集",
-            "cur_time": 1702647718,
-            "start_time": 1702706400,
-            "end_time": 2114406245,
-            "pre_start_time": 1702620000,
-            "pre_end_time": 1702706399,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 236,
-                    "lottery_name": "驯龙高手",
-                    "display_time": 1702620000,
-                    "start_time": 1702706400,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/89ff07855b1c4a4c78ad4915a81e4cee5a12ef97.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 28637256513024,
-                    "price": 9900,
-                    "goods_name": "驯龙高手",
-                    "lottery_desc": "驯龙高手收藏集共包含13张海报；\n普通款：没牙仔、致命纳德、烈焰狂魔、双头龙、葛伦科10张海报均分概率95%；\n隐藏款：光煞、夜煞均分概率4.5%、驯龙高手概率0.5%。",
-                    "item_total_cnt": 13,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 0,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "驯龙高手收藏集惊喜开启！",
-                "sub_title": "一起踏上充满勇气与梦想的冒险之旅！解锁驯龙高手专属收藏集~",
-                "share_content": "驯龙高手收藏集活动火热预约中，快点击锁定吧！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/2cf42e8c70d3f2d42bf97cf1b547022cc0137cbd.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "驯龙高手收藏集",
+        "cur_time": 1702647718,
+        "start_time": 1702706400,
+        "end_time": 2114406245,
+        "pre_start_time": 1702620000,
+        "pre_end_time": 1702706399,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 236,
+                "lottery_name": "驯龙高手",
+                "display_time": 1702620000,
+                "start_time": 1702706400,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/89ff07855b1c4a4c78ad4915a81e4cee5a12ef97.jpg",
+                "draw_cnt": 0,
+                "goods_id": 28637256513024,
+                "price": 9900,
+                "goods_name": "驯龙高手",
+                "lottery_desc": "驯龙高手收藏集共包含13张海报；\n普通款：没牙仔、致命纳德、烈焰狂魔、双头龙、葛伦科10张海报均分概率95%；\n隐藏款：光煞、夜煞均分概率4.5%、驯龙高手概率0.5%。",
+                "item_total_cnt": 13,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 0,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "驯龙高手收藏集惊喜开启！",
+            "sub_title": "一起踏上充满勇气与梦想的冒险之旅！解锁驯龙高手专属收藏集~",
+            "share_content": "驯龙高手收藏集活动火热预约中，快点击锁定吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/2cf42e8c70d3f2d42bf97cf1b547022cc0137cbd.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 156,
-            "total_buy_cnt": 0,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 659,
-                    "start_time": 1702620000,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成4抽，即可兑换，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "65196",
-                    "redeem_item_name": "驯龙高手个性主题",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/e8077ade9f4c7e02a49e0a50aa46a605e49e8327.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 4,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 156,
+        "total_buy_cnt": 0,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 659,
+                "start_time": 1702620000,
+                "end_time": 2114406245,
+                "redeem_text": "完成4抽，即可兑换，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "65196",
+                "redeem_item_name": "驯龙高手个性主题",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/e8077ade9f4c7e02a49e0a50aa46a605e49e8327.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 4,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 656,
-                    "start_time": 1702620000,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成2抽，即可兑换，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "65165",
-                    "redeem_item_name": "驯龙高手表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/98ce1ea75fce8e17eacd75b342a162eb893995d6.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 655,
-                    "start_time": 1702620000,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽到任意隐藏款卡牌，即可兑换，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "65160",
-                    "redeem_item_name": "驯龙高手头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/b89b9c966e63424b79f969596ccc3bd7bd77feee.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之礼",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": null,
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "《驯龙高手》收藏集是哔哩哔哩与驯龙高手联名打造的首款数字典藏，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁驯龙高手专属画面！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/6a903a4f393d40c201ac1bdaaf8784bd14e13302.png",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/6a903a4f393d40c201ac1bdaaf8784bd14e13302.png",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/85edff8960d463d414b3be18d4500a0125d30f02.png\",\"card_count\":1,\"num_color\":\"#d68a34\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/b4ca1da8e7f425b38e42b7a282f12ae9a531ce8f.png\",\"card_count\":5,\"num_color\":\"#edd343\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/61e050fcf8652bcd29abc274138cece560dd0f31.png\",\"card_count\":15,\"num_color\":\"#6a1224\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/617ef4c7b6b5a96c78044a637f274af51630c2ee.png\",\"card_count\":30,\"num_color\":\"#236b62\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/38ecbab2de848f5d181ffd5c375fa7be49536c9d.png\",\"card_count\":60,\"num_color\":\"#142e52\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 656,
+                "start_time": 1702620000,
+                "end_time": 2114406245,
+                "redeem_text": "完成2抽，即可兑换，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "65165",
+                "redeem_item_name": "驯龙高手表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/98ce1ea75fce8e17eacd75b342a162eb893995d6.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 655,
+                "start_time": 1702620000,
+                "end_time": 2114406245,
+                "redeem_text": "抽到任意隐藏款卡牌，即可兑换，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "65160",
+                "redeem_item_name": "驯龙高手头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/b89b9c966e63424b79f969596ccc3bd7bd77feee.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之礼",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": null,
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "《驯龙高手》收藏集是哔哩哔哩与驯龙高手联名打造的首款数字典藏，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁驯龙高手专属画面！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/6a903a4f393d40c201ac1bdaaf8784bd14e13302.png",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/6a903a4f393d40c201ac1bdaaf8784bd14e13302.png",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/85edff8960d463d414b3be18d4500a0125d30f02.png\",\"card_count\":1,\"num_color\":\"#d68a34\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/b4ca1da8e7f425b38e42b7a282f12ae9a531ce8f.png\",\"card_count\":5,\"num_color\":\"#edd343\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/61e050fcf8652bcd29abc274138cece560dd0f31.png\",\"card_count\":15,\"num_color\":\"#6a1224\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/617ef4c7b6b5a96c78044a637f274af51630c2ee.png\",\"card_count\":30,\"num_color\":\"#236b62\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/38ecbab2de848f5d181ffd5c375fa7be49536c9d.png\",\"card_count\":60,\"num_color\":\"#142e52\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/2cf42e8c70d3f2d42bf97cf1b547022cc0137cbd.jpg",
@@ -577,5 +569,5 @@
                 }
             ]
         }
-    }
+    ]
 }

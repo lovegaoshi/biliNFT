@@ -1,178 +1,170 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "P+收藏集",
-            "cur_time": 1702647900,
-            "start_time": 1697688000,
-            "end_time": 2114406245,
-            "pre_start_time": 1697601600,
-            "pre_end_time": 1697687999,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 152,
-                    "lottery_name": "魔法少女",
-                    "display_time": 1697601600,
-                    "start_time": 1697688000,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/b702dc8a30a8b8c784b4734ba885e1fea953f82c.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 18126955640320,
-                    "price": 9900,
-                    "goods_name": "魔法少女",
-                    "lottery_desc": "【P+收藏集—魔法少女】共包含20张精美立绘，一起开启魔法之旅吧！\n* 隐藏款：醉予幻梦・古守血遊、暗夜邀约・椎名菜羽2张，均分概率0.5%；夜空梦者・鈴宮鈴、星虹之使・星熊uru2张，均分概率4.5%\n* 普通款：学园・古守血遊、学园・椎名菜羽、学园・鈴宮鈴和学园・星熊uru4张，均分概率9%；剩余卡牌共12张，均分概率86%",
-                    "item_total_cnt": 20,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 49206,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "P+收藏集-魔法少女开售",
-                "sub_title": "精致立绘，可爱音声，趣味表情包、头像框等你抱回家！",
-                "share_content": "P+收藏集-魔法少女火热售卖中，和以魔法少女为目标的少女们一起踏上旅程！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/e263af797a089549a46fe724187c254b8bfbbe60.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "P+收藏集",
+        "cur_time": 1702647900,
+        "start_time": 1697688000,
+        "end_time": 2114406245,
+        "pre_start_time": 1697601600,
+        "pre_end_time": 1697687999,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 152,
+                "lottery_name": "魔法少女",
+                "display_time": 1697601600,
+                "start_time": 1697688000,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/b702dc8a30a8b8c784b4734ba885e1fea953f82c.jpg",
+                "draw_cnt": 0,
+                "goods_id": 18126955640320,
+                "price": 9900,
+                "goods_name": "魔法少女",
+                "lottery_desc": "【P+收藏集—魔法少女】共包含20张精美立绘，一起开启魔法之旅吧！\n* 隐藏款：醉予幻梦・古守血遊、暗夜邀约・椎名菜羽2张，均分概率0.5%；夜空梦者・鈴宮鈴、星虹之使・星熊uru2张，均分概率4.5%\n* 普通款：学园・古守血遊、学园・椎名菜羽、学园・鈴宮鈴和学园・星熊uru4张，均分概率9%；剩余卡牌共12张，均分概率86%",
+                "item_total_cnt": 20,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 49206,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "P+收藏集-魔法少女开售",
+            "sub_title": "精致立绘，可爱音声，趣味表情包、头像框等你抱回家！",
+            "share_content": "P+收藏集-魔法少女火热售卖中，和以魔法少女为目标的少女们一起踏上旅程！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/e263af797a089549a46fe724187c254b8bfbbe60.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 1799,
-            "total_buy_cnt": 49206,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 479,
-                    "start_time": 1697601600,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽取任意1张隐藏款即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "60453",
-                    "redeem_item_name": "P+魔法少女头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/b8a9a0e9a870b7fa78f3a19f68e03e9cb23a6c1c.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 1799,
+        "total_buy_cnt": 49206,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 479,
+                "start_time": 1697601600,
+                "end_time": 2114406245,
+                "redeem_text": "抽取任意1张隐藏款即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "60453",
+                "redeem_item_name": "P+魔法少女头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/b8a9a0e9a870b7fa78f3a19f68e03e9cb23a6c1c.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 478,
-                    "start_time": 1697601600,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成任意4抽，即可兑换，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "60454&60455&60456",
-                    "redeem_item_name": "P+魔法少女点赞&加载&进度条",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/353e9bcb2704eba7a771e752d319aa4f30dc0841.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 4,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 477,
-                    "start_time": 1697601600,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成任意2抽，即可兑换，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "60478",
-                    "redeem_item_name": "P+魔法少女表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/d4e3648da3dc5928740452e08fca3b596e719a3e.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之旅",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "2299184",
-                "623441612",
-                "480432362",
-                "3493105972021270"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "有一天，P家的古守血游、鈴宫鈴、椎名菜羽、星熊uru收到了美妙的邀请函！说是要为即将魔法少女！大家一起朝闪闪发光的魔法世界出发♪哇～真是热情闪耀～！ 以魔法少女为目标的少女们开始了旅程......\n家里蹲吸血鬼古守血遊是登山家，梦想是攀遍世间的所有高峰！\n鈴宮鈴是从天界降临而来的清纯天使鈴！最喜欢抽卡和打游戏\n椎名菜羽是喜欢弹钢琴和唱歌的虚拟吸血姬♪想和大家一起愉快地享受音乐～\n星熊uru是来自熊熊星的超“清楚”银河级美少女，正以哔哩哔哩为据点开展熊熊星扩张计划  gaugau！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/2bb469a31ef6a7d9d823462d2f2a26004b35162f.png",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/e558b92b8cf07ad6aad160eea3203e21a725c5bf.png",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/7b112c4059e021bf3987d429ebb1438198f8cfef.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/4bc4295a04c66f32ac52afe6847b2e17d6d344a3.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/80d2555b930e28fa0201dc62c054e13d841406e2.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/65decb951ec8677ad86181c440228ba7e357f711.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/372c5c5075707df408192983d323cd2a08cb2757.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 478,
+                "start_time": 1697601600,
+                "end_time": 2114406245,
+                "redeem_text": "完成任意4抽，即可兑换，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "60454&60455&60456",
+                "redeem_item_name": "P+魔法少女点赞&加载&进度条",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/353e9bcb2704eba7a771e752d319aa4f30dc0841.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 4,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 477,
+                "start_time": 1697601600,
+                "end_time": 2114406245,
+                "redeem_text": "完成任意2抽，即可兑换，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "60478",
+                "redeem_item_name": "P+魔法少女表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/d4e3648da3dc5928740452e08fca3b596e719a3e.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之旅",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "2299184",
+            "623441612",
+            "480432362",
+            "3493105972021270"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "有一天，P家的古守血游、鈴宫鈴、椎名菜羽、星熊uru收到了美妙的邀请函！说是要为即将魔法少女！大家一起朝闪闪发光的魔法世界出发♪哇～真是热情闪耀～！ 以魔法少女为目标的少女们开始了旅程......\n家里蹲吸血鬼古守血遊是登山家，梦想是攀遍世间的所有高峰！\n鈴宮鈴是从天界降临而来的清纯天使鈴！最喜欢抽卡和打游戏\n椎名菜羽是喜欢弹钢琴和唱歌的虚拟吸血姬♪想和大家一起愉快地享受音乐～\n星熊uru是来自熊熊星的超“清楚”银河级美少女，正以哔哩哔哩为据点开展熊熊星扩张计划  gaugau！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/2bb469a31ef6a7d9d823462d2f2a26004b35162f.png",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/e558b92b8cf07ad6aad160eea3203e21a725c5bf.png",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/7b112c4059e021bf3987d429ebb1438198f8cfef.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/4bc4295a04c66f32ac52afe6847b2e17d6d344a3.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/80d2555b930e28fa0201dc62c054e13d841406e2.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/65decb951ec8677ad86181c440228ba7e357f711.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/372c5c5075707df408192983d323cd2a08cb2757.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/e263af797a089549a46fe724187c254b8bfbbe60.jpg",
@@ -921,5 +913,5 @@
                 }
             ]
         }
-    }
+    ]
 }

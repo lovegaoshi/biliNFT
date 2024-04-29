@@ -1,201 +1,193 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "玛萨咪Ovo收藏集",
-            "cur_time": 1708302957,
-            "start_time": 1707890400,
-            "end_time": 2114406245,
-            "pre_start_time": 1707804000,
-            "pre_end_time": 1707890399,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 101145,
-                    "lottery_name": "初次相遇",
-                    "display_time": 1707804000,
-                    "start_time": 1707890400,
-                    "end_time": 2114406245,
-                    "lottery_image": "https://i0.hdslb.com/bfs/garb/2be358b8802f066b357dc74c07446298eea328dd.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 39047967836160,
-                    "price": 9900,
-                    "goods_name": "初次相遇",
-                    "lottery_desc": "【隐藏款-大隐藏】：碎钻黑天鹅,慵懒情调均分概率0.5%,若前399抽均未获得过任意大隐藏，则第400抽必得大隐藏;\n【隐藏款-小隐藏】：白晶花嫁,粉色约会均分概率4.5%;\n【普通款】：纯白邀约,温柔学姐均分概率9%，其余立绘均分概率86%;",
-                    "item_total_cnt": 16,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 4067,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "玛萨咪Ovo收藏集",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热售卖中，快来开卡吧！"
+        "act_title": "玛萨咪Ovo收藏集",
+        "cur_time": 1708302957,
+        "start_time": 1707890400,
+        "end_time": 2114406245,
+        "pre_start_time": 1707804000,
+        "pre_end_time": 1707890399,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 101145,
+                "lottery_name": "初次相遇",
+                "display_time": 1707804000,
+                "start_time": 1707890400,
+                "end_time": 2114406245,
+                "lottery_image": "https://i0.hdslb.com/bfs/garb/2be358b8802f066b357dc74c07446298eea328dd.jpg",
+                "draw_cnt": 0,
+                "goods_id": 39047967836160,
+                "price": 9900,
+                "goods_name": "初次相遇",
+                "lottery_desc": "【隐藏款-大隐藏】：碎钻黑天鹅,慵懒情调均分概率0.5%,若前399抽均未获得过任意大隐藏，则第400抽必得大隐藏;\n【隐藏款-小隐藏】：白晶花嫁,粉色约会均分概率4.5%;\n【普通款】：纯白邀约,温柔学姐均分概率9%，其余立绘均分概率86%;",
+                "item_total_cnt": 16,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 4067,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
+                },
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "玛萨咪Ovo收藏集",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/3abd06b415abacc31b52766e1b02132df71cbbbf.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/3abd06b415abacc31b52766e1b02132df71cbbbf.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 371,
+        "total_buy_cnt": 4067,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 101157,
+                "start_time": 1708063200,
+                "end_time": 1710345600,
+                "redeem_text": "初次相遇卡池抽到任意16张不同卡牌即可领取",
+                "redeem_item_type": 9,
+                "redeem_item_id": "",
+                "redeem_item_name": "玛萨咪定制精美签名海报3张",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/62e83feac5710cccce19de22fe701934245cd275.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 16,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "total_book_cnt": 371,
-            "total_buy_cnt": 4067,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 101157,
-                    "start_time": 1708063200,
-                    "end_time": 1710345600,
-                    "redeem_text": "初次相遇卡池抽到任意16张不同卡牌即可领取",
-                    "redeem_item_type": 9,
-                    "redeem_item_id": "",
-                    "redeem_item_name": "玛萨咪定制精美签名海报3张",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/62e83feac5710cccce19de22fe701934245cd275.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 16,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            {
+                "collect_id": 101148,
+                "start_time": 1707804000,
+                "end_time": 2114406245,
+                "redeem_text": "初次相遇卡池完成4抽即可领取",
+                "redeem_item_type": 5,
+                "redeem_item_id": "1707113112001",
+                "redeem_item_name": "玛萨咪Ovo个性主题",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/abac948889d381ccde9c9c6799c0c26128090089.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 4,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 101148,
-                    "start_time": 1707804000,
-                    "end_time": 2114406245,
-                    "redeem_text": "初次相遇卡池完成4抽即可领取",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "1707113112001",
-                    "redeem_item_name": "玛萨咪Ovo个性主题",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/abac948889d381ccde9c9c6799c0c26128090089.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 4,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 101147,
-                    "start_time": 1707804000,
-                    "end_time": 2114406245,
-                    "redeem_text": "初次相遇卡池抽到任意1张隐藏款立绘即可领取",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "1707114183001",
-                    "redeem_item_name": "玛萨咪Ovo头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/7b14639d4347b983f0f6aca452dac23c5346d738.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 101146,
-                    "start_time": 1707804000,
-                    "end_time": 2114406245,
-                    "redeem_text": "初次相遇卡池完成2抽即可领取",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "1707113123001",
-                    "redeem_item_name": "玛萨咪Ovo表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/b480f3e60a3b5996f73e15caab95bbe062accc04.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "任务奖励",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "10941893"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【玛萨咪Ovo收藏集】是哔哩哔哩携手玛萨咪Ovo定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁玛萨咪Ovo的绝美画面！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/open/ab509ac87e9a246272e2593cd5bbcb08cb9d939a.png@0-0-1126-1126a",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/open/ab509ac87e9a246272e2593cd5bbcb08cb9d939a.png@0-0-1126-1126a",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/5db7fc83843883cf5b4e1e3fa0001daee349c5c4.png\",\"card_count\":1,\"num_color\":\"#F8D2D2\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/636ec1eb4e5d2308067b5e3951a24e2a5c13b2b1.png\",\"card_count\":5,\"num_color\":\"#E695C8\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/7cf3b13266e7be156c66bad2d2cc69d0cd633ac9.png\",\"card_count\":15,\"num_color\":\"#7C3879\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/cee125b4ef481552132dfe642dccbfd8749e1442.png\",\"card_count\":30,\"num_color\":\"#AE86D2\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/8a6a22310b2b7b5fae326ffbc8f098aec2ef8a22.png\",\"card_count\":60,\"num_color\":\"#6200FF\"}]",
-            "topic": null,
-            "physical_exchange": false,
-            "act_square_img": "https://i0.hdslb.com/bfs/garb/33afec170d01d5786a5577014193bc3207e27ac3.png"
-        }
+            {
+                "collect_id": 101147,
+                "start_time": 1707804000,
+                "end_time": 2114406245,
+                "redeem_text": "初次相遇卡池抽到任意1张隐藏款立绘即可领取",
+                "redeem_item_type": 3,
+                "redeem_item_id": "1707114183001",
+                "redeem_item_name": "玛萨咪Ovo头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/7b14639d4347b983f0f6aca452dac23c5346d738.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 101146,
+                "start_time": 1707804000,
+                "end_time": 2114406245,
+                "redeem_text": "初次相遇卡池完成2抽即可领取",
+                "redeem_item_type": 2,
+                "redeem_item_id": "1707113123001",
+                "redeem_item_name": "玛萨咪Ovo表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/b480f3e60a3b5996f73e15caab95bbe062accc04.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "任务奖励",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "10941893"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【玛萨咪Ovo收藏集】是哔哩哔哩携手玛萨咪Ovo定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁玛萨咪Ovo的绝美画面！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/open/ab509ac87e9a246272e2593cd5bbcb08cb9d939a.png@0-0-1126-1126a",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/open/ab509ac87e9a246272e2593cd5bbcb08cb9d939a.png@0-0-1126-1126a",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/5db7fc83843883cf5b4e1e3fa0001daee349c5c4.png\",\"card_count\":1,\"num_color\":\"#F8D2D2\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/636ec1eb4e5d2308067b5e3951a24e2a5c13b2b1.png\",\"card_count\":5,\"num_color\":\"#E695C8\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/7cf3b13266e7be156c66bad2d2cc69d0cd633ac9.png\",\"card_count\":15,\"num_color\":\"#7C3879\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/cee125b4ef481552132dfe642dccbfd8749e1442.png\",\"card_count\":30,\"num_color\":\"#AE86D2\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/8a6a22310b2b7b5fae326ffbc8f098aec2ef8a22.png\",\"card_count\":60,\"num_color\":\"#6200FF\"}]",
+        "topic": null,
+        "physical_exchange": false,
+        "act_square_img": "https://i0.hdslb.com/bfs/garb/33afec170d01d5786a5577014193bc3207e27ac3.png"
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/3abd06b415abacc31b52766e1b02132df71cbbbf.png",
@@ -716,5 +708,5 @@
                 }
             ]
         }
-    }
+    ]
 }

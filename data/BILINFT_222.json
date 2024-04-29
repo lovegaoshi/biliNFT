@@ -1,153 +1,145 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "花园花玲收藏集",
-            "cur_time": 1702647895,
-            "start_time": 1697781600,
-            "end_time": 2114406245,
-            "pre_start_time": 1697695200,
-            "pre_end_time": 1697781599,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 151,
-                    "lottery_name": "一个人的冒险",
-                    "display_time": 1697695200,
-                    "start_time": 1697781600,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/cd0e5cf48e6d4a04cc3e226142f4d56a17b039c6.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 18306195026432,
-                    "price": 9900,
-                    "goods_name": "一个人的冒险",
-                    "lottery_desc": "【花园花铃收藏集—一个人的冒险】共包含8张精美立绘，享受花园花铃的治愈冒险之旅！\n* 隐藏款：总会雨过天晴，概率0.5%；世界没我不行 ，概率4.5%\n* 普通款：明天再加油嘛，概率9%；等你回窝、大睡特睡、暖暖清晨、泡沫涟漪、咔嗒一刻共5张，均分概率86%",
-                    "item_total_cnt": 8,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 32725,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "花园花铃收藏集—一个人的冒险开售",
-                "sub_title": "精致立绘，治愈音声，趣味表情包、头像框等你抱回家！",
-                "share_content": "花园花铃收藏集—一个人的冒险火热售卖中，花铃的音声温暖而治愈！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/270ba92cf87d9471f21bc149aca1c72406f07dca.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "花园花玲收藏集",
+        "cur_time": 1702647895,
+        "start_time": 1697781600,
+        "end_time": 2114406245,
+        "pre_start_time": 1697695200,
+        "pre_end_time": 1697781599,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 151,
+                "lottery_name": "一个人的冒险",
+                "display_time": 1697695200,
+                "start_time": 1697781600,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/cd0e5cf48e6d4a04cc3e226142f4d56a17b039c6.jpg",
+                "draw_cnt": 0,
+                "goods_id": 18306195026432,
+                "price": 9900,
+                "goods_name": "一个人的冒险",
+                "lottery_desc": "【花园花铃收藏集—一个人的冒险】共包含8张精美立绘，享受花园花铃的治愈冒险之旅！\n* 隐藏款：总会雨过天晴，概率0.5%；世界没我不行 ，概率4.5%\n* 普通款：明天再加油嘛，概率9%；等你回窝、大睡特睡、暖暖清晨、泡沫涟漪、咔嗒一刻共5张，均分概率86%",
+                "item_total_cnt": 8,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 32725,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
-            },
-            "total_book_cnt": 1730,
-            "total_buy_cnt": 32725,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 476,
-                    "start_time": 1697695200,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成任意2抽，即可兑换，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "60429",
-                    "redeem_item_name": "一个人的冒险表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/d1575b2bcf5125ff6fc0614694d02d46b41a0ddb.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 475,
-                    "start_time": 1697695200,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽取任意1张隐藏款即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "60450",
-                    "redeem_item_name": "一个人的冒险头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/416f0d2fb9b36e1103ae11b534d39663debf3f06.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之旅",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
-            },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "7966"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【花园花玲收藏集】是哔哩哔哩携手花园花玲定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁花园花玲的可爱治愈画面！\n花园花玲是配音演员。日常通过直播、视频等当时活跃在bilibili等平台，为用户提供丰富的文化娱乐内容。",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/0c9a46da5c525c82514b3b0b2ac396c56ec8760b.png",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/0c9a46da5c525c82514b3b0b2ac396c56ec8760b.png",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/17dff25083e98cd31ba4e23c9b27031b325542d9.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/dfa75fe47310bf1c8510af5bf403ffa59eded59a.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/cad9006fc6ab3b01e7a9cb78b6eab4678b4e0484.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/54f7c3c70c23d93b35938fd5d2c1ac949f73f657.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/30a15fba6014da3382ee5aed6490c1af17d51b50.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
-            "topic": {
-                "id": 1114495
+                "free": 0,
+                "sale_mode": 1
             }
+        ],
+        "share_info": {
+            "main_title": "花园花铃收藏集—一个人的冒险开售",
+            "sub_title": "精致立绘，治愈音声，趣味表情包、头像框等你抱回家！",
+            "share_content": "花园花铃收藏集—一个人的冒险火热售卖中，花铃的音声温暖而治愈！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/270ba92cf87d9471f21bc149aca1c72406f07dca.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            },
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 1730,
+        "total_buy_cnt": 32725,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 476,
+                "start_time": 1697695200,
+                "end_time": 2114406245,
+                "redeem_text": "完成任意2抽，即可兑换，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "60429",
+                "redeem_item_name": "一个人的冒险表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/d1575b2bcf5125ff6fc0614694d02d46b41a0ddb.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 475,
+                "start_time": 1697695200,
+                "end_time": 2114406245,
+                "redeem_text": "抽取任意1张隐藏款即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "60450",
+                "redeem_item_name": "一个人的冒险头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/416f0d2fb9b36e1103ae11b534d39663debf3f06.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之旅",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "7966"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【花园花玲收藏集】是哔哩哔哩携手花园花玲定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁花园花玲的可爱治愈画面！\n花园花玲是配音演员。日常通过直播、视频等当时活跃在bilibili等平台，为用户提供丰富的文化娱乐内容。",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/0c9a46da5c525c82514b3b0b2ac396c56ec8760b.png",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/0c9a46da5c525c82514b3b0b2ac396c56ec8760b.png",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/17dff25083e98cd31ba4e23c9b27031b325542d9.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/dfa75fe47310bf1c8510af5bf403ffa59eded59a.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/cad9006fc6ab3b01e7a9cb78b6eab4678b4e0484.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/54f7c3c70c23d93b35938fd5d2c1ac949f73f657.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/30a15fba6014da3382ee5aed6490c1af17d51b50.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
+        "topic": {
+            "id": 1114495
         }
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/270ba92cf87d9471f21bc149aca1c72406f07dca.png",
@@ -412,5 +404,5 @@
                 }
             ]
         }
-    }
+    ]
 }

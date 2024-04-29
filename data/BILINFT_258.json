@@ -1,151 +1,143 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "小野收藏集",
-            "cur_time": 1702647792,
-            "start_time": 1700989200,
-            "end_time": 2114406245,
-            "pre_start_time": 1700902800,
-            "pre_end_time": 1700989199,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 214,
-                    "lottery_name": "少女秘密",
-                    "display_time": 1700901000,
-                    "start_time": 1700996400,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/3d07d842eea7f1e627b0704c89e4e96dfdbc3ae1.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 24896218360832,
-                    "price": 9900,
-                    "goods_name": "少女秘密",
-                    "lottery_desc": "【小野-w-个人收藏集—少女秘密】共包含26张精美立绘，与小野的甜蜜热恋就在此刻！\n* 隐藏款：春色满园、少女秘密、贪睡软猫3张，均分概率0.5%；春光明媚、呆萌少女、氧气野宝3张，均分概率4.5%\n* 普通款：自拍小野3张，概率3%；傲娇的猫、草莓布丁、草莓汽水、草莓阳光、过分着迷、蓝色的海、落日礼服、旅行小野、魔女小野、鸟语花香、青袂婉约、晴天娃娃、生日快乐、守护甜心、贪嘴的猫、兔子水手、婉若花襄、夏日小野燕语莺声共19张，均分概率92%",
-                    "item_total_cnt": 26,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 7748,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "小野收藏集",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热售卖中，快来开卡吧！"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/4876c5e3f212bc89f934fc61fa97f3774b4830ce.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "小野收藏集",
+        "cur_time": 1702647792,
+        "start_time": 1700989200,
+        "end_time": 2114406245,
+        "pre_start_time": 1700902800,
+        "pre_end_time": 1700989199,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 214,
+                "lottery_name": "少女秘密",
+                "display_time": 1700901000,
+                "start_time": 1700996400,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/3d07d842eea7f1e627b0704c89e4e96dfdbc3ae1.jpg",
+                "draw_cnt": 0,
+                "goods_id": 24896218360832,
+                "price": 9900,
+                "goods_name": "少女秘密",
+                "lottery_desc": "【小野-w-个人收藏集—少女秘密】共包含26张精美立绘，与小野的甜蜜热恋就在此刻！\n* 隐藏款：春色满园、少女秘密、贪睡软猫3张，均分概率0.5%；春光明媚、呆萌少女、氧气野宝3张，均分概率4.5%\n* 普通款：自拍小野3张，概率3%；傲娇的猫、草莓布丁、草莓汽水、草莓阳光、过分着迷、蓝色的海、落日礼服、旅行小野、魔女小野、鸟语花香、青袂婉约、晴天娃娃、生日快乐、守护甜心、贪嘴的猫、兔子水手、婉若花襄、夏日小野燕语莺声共19张，均分概率92%",
+                "item_total_cnt": 26,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 7748,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "小野收藏集",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/4876c5e3f212bc89f934fc61fa97f3774b4830ce.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 655,
-            "total_buy_cnt": 7748,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 600,
-                    "start_time": 1700902800,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽到任意1张隐藏卡即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "64054",
-                    "redeem_item_name": "小野-w-头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/c4938075a0ed8a3c45c05eb17557e44994af004a.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 655,
+        "total_buy_cnt": 7748,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 600,
+                "start_time": 1700902800,
+                "end_time": 2114406245,
+                "redeem_text": "抽到任意1张隐藏卡即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 3,
+                "redeem_item_id": "64054",
+                "redeem_item_name": "小野-w-头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/c4938075a0ed8a3c45c05eb17557e44994af004a.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 599,
-                    "start_time": 1700902800,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成2抽即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "64075",
-                    "redeem_item_name": "小野表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/0863d2f678643c8fdc9a6aab9587d1af266776f1.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "9153331"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "小野收藏集是哔哩哔哩数字周边携手UP主小野-w-一起打造的专属数字收藏集，每张卡片都有独一无二的编号，期待大家一起来解锁小野-w-的绝美画面！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/caecafdf04e7097104f2d5a5a7644f88d7c37667.png",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/caecafdf04e7097104f2d5a5a7644f88d7c37667.png",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/6512b3ac1bd7df146137a812ab77d413237d5939.png\",\"card_count\":1,\"num_color\":\"#d5817f\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/bb932b8c36d1f2df691f42c92423ee04171ab8b4.png\",\"card_count\":5,\"num_color\":\"#92abd8\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/b3e514fc5fa4812e4353e76f15f681688c6ed342.png\",\"card_count\":15,\"num_color\":\"#ecc27e\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/004245bef85de0f3b6622c770ae1318cfdcb9043.png\",\"card_count\":30,\"num_color\":\"#da84a2\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/a6c5af16ac1b8276402628acc3c067070e689bb6.png\",\"card_count\":60,\"num_color\":\"#b588b1\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 599,
+                "start_time": 1700902800,
+                "end_time": 2114406245,
+                "redeem_text": "完成2抽即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "64075",
+                "redeem_item_name": "小野表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/0863d2f678643c8fdc9a6aab9587d1af266776f1.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "9153331"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "小野收藏集是哔哩哔哩数字周边携手UP主小野-w-一起打造的专属数字收藏集，每张卡片都有独一无二的编号，期待大家一起来解锁小野-w-的绝美画面！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/caecafdf04e7097104f2d5a5a7644f88d7c37667.png",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/caecafdf04e7097104f2d5a5a7644f88d7c37667.png",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/6512b3ac1bd7df146137a812ab77d413237d5939.png\",\"card_count\":1,\"num_color\":\"#d5817f\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/bb932b8c36d1f2df691f42c92423ee04171ab8b4.png\",\"card_count\":5,\"num_color\":\"#92abd8\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/b3e514fc5fa4812e4353e76f15f681688c6ed342.png\",\"card_count\":15,\"num_color\":\"#ecc27e\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/004245bef85de0f3b6622c770ae1318cfdcb9043.png\",\"card_count\":30,\"num_color\":\"#da84a2\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/a6c5af16ac1b8276402628acc3c067070e689bb6.png\",\"card_count\":60,\"num_color\":\"#b588b1\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/4876c5e3f212bc89f934fc61fa97f3774b4830ce.jpg",
@@ -964,5 +956,5 @@
                 }
             ]
         }
-    }
+    ]
 }

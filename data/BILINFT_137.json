@@ -1,462 +1,454 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "2233·异世集",
-            "cur_time": 1702647904,
-            "start_time": 1689652801,
-            "end_time": 2114406245,
-            "pre_start_time": 1689584400,
-            "pre_end_time": 1689652800,
-            "is_booked": 0,
-            "act_desc": "https://i0.hdslb.com/bfs/garb/1a626aa8d5c98db766680e0a57977d98bc979b7b.png",
-            "lottery_list": [
-                {
-                    "lottery_id": 44,
-                    "lottery_name": "山海异志",
-                    "display_time": 1689584400,
-                    "start_time": 1689652801,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/34b00d539ae0eb0f83a5fbec7bdbf1f7b5ee4fb4.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 9482153254400,
-                    "price": 9900,
-                    "goods_name": "山海异志",
-                    "lottery_desc": "【2233·奇书异闻录-山海异志】共包含16张精美立绘，奇闻异志尽在不言中～\n* 普通款均分概率95%；\n* 隐藏款：山海异志·女娲补天、山海秘闻·青丘之狐均分概率4.5%，山海异志·嫦娥奔月、山海秘闻·狐女百相均分概率0.5%。",
-                    "item_total_cnt": 16,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 178058,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
+        "act_title": "2233·异世集",
+        "cur_time": 1702647904,
+        "start_time": 1689652801,
+        "end_time": 2114406245,
+        "pre_start_time": 1689584400,
+        "pre_end_time": 1689652800,
+        "is_booked": 0,
+        "act_desc": "https://i0.hdslb.com/bfs/garb/1a626aa8d5c98db766680e0a57977d98bc979b7b.png",
+        "lottery_list": [
+            {
+                "lottery_id": 44,
+                "lottery_name": "山海异志",
+                "display_time": 1689584400,
+                "start_time": 1689652801,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/34b00d539ae0eb0f83a5fbec7bdbf1f7b5ee4fb4.jpg",
+                "draw_cnt": 0,
+                "goods_id": 9482153254400,
+                "price": 9900,
+                "goods_name": "山海异志",
+                "lottery_desc": "【2233·奇书异闻录-山海异志】共包含16张精美立绘，奇闻异志尽在不言中～\n* 普通款均分概率95%；\n* 隐藏款：山海异志·女娲补天、山海秘闻·青丘之狐均分概率4.5%，山海异志·嫦娥奔月、山海秘闻·狐女百相均分概率0.5%。",
+                "item_total_cnt": 16,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 178058,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                {
-                    "lottery_id": 158,
-                    "lottery_name": "S13福利卡池",
-                    "display_time": 1697631840,
-                    "start_time": 1697631841,
-                    "end_time": 1702958400,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/50d2cd2e0ed1150abecd752a12902e05720c9a79.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 18194460865024,
-                    "price": 0,
-                    "goods_name": "S13福利卡池",
-                    "lottery_desc": "S13福利卡池目前共包含1张海报；\nS13观赛纪念概率100%\n（注：免费奖池抽取的卡牌不参与收集度奖励兑换哦~）",
-                    "item_total_cnt": 1,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 4035,
-                    "lottery_type": 2,
-                    "effective_forever": 0,
-                    "discount": null,
-                    "free": 1,
-                    "sale_mode": 2
-                },
-                {
-                    "lottery_id": 153,
-                    "lottery_name": "致竞巅峰",
-                    "display_time": 1697619600,
-                    "start_time": 1697688000,
-                    "end_time": 1702958400,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/afc76370ad2c050d5bf983cf8b0d95f0afd7bc38.png",
-                    "draw_cnt": 0,
-                    "goods_id": 18169020314112,
-                    "price": 9900,
-                    "goods_name": "致竞巅峰",
-                    "lottery_desc": "【2233·异世集-致竞巅峰】共包含8张精美立绘，守望初心，无惧无畏！2233为s赛干杯～\n* 普通款：决胜·上路、决胜·中路、决胜·下路、决胜·辅助、决胜·打野、决胜·应援均分概率95%；\n* 隐藏款：致竞巅峰·电竞少女概率4.5%，致竞巅峰·荣耀加冕概率0.5%;\n400抽保底必出致竞巅峰·荣耀加冕，若1-399抽中已获得致竞巅峰·荣耀加冕，则重置计数。",
-                    "item_total_cnt": 8,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 20696,
-                    "lottery_type": 2,
-                    "effective_forever": 0,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 2
-                }
-            ],
-            "share_info": {
-                "main_title": "《2233·异世集》开售",
-                "sub_title": "精美立绘、表情包、头像框、独家祝福音声等你抱回家！",
-                "share_content": "《2233·异世集》收藏集开售中！奇闻异志尽在不言中～"
+                "free": 0,
+                "sale_mode": 1
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/e757bc547a99919c2611eb82c0612c090ca338b7.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
-                },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+            {
+                "lottery_id": 158,
+                "lottery_name": "S13福利卡池",
+                "display_time": 1697631840,
+                "start_time": 1697631841,
+                "end_time": 1702958400,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/50d2cd2e0ed1150abecd752a12902e05720c9a79.jpg",
+                "draw_cnt": 0,
+                "goods_id": 18194460865024,
+                "price": 0,
+                "goods_name": "S13福利卡池",
+                "lottery_desc": "S13福利卡池目前共包含1张海报；\nS13观赛纪念概率100%\n（注：免费奖池抽取的卡牌不参与收集度奖励兑换哦~）",
+                "item_total_cnt": 1,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 4035,
+                "lottery_type": 2,
+                "effective_forever": 0,
+                "discount": null,
+                "free": 1,
+                "sale_mode": 2
             },
-            "total_book_cnt": 2506,
-            "total_buy_cnt": 222400,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 482,
-                    "start_time": 1697619600,
-                    "end_time": 1702958400,
-                    "redeem_text": "抽出任意5张致竞巅峰不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "60383",
-                    "redeem_item_name": "致竞巅峰动态主题",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/7766e1edaade5c54d3fe2a3495861b2becfbbb95.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            {
+                "lottery_id": 153,
+                "lottery_name": "致竞巅峰",
+                "display_time": 1697619600,
+                "start_time": 1697688000,
+                "end_time": 1702958400,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/afc76370ad2c050d5bf983cf8b0d95f0afd7bc38.png",
+                "draw_cnt": 0,
+                "goods_id": 18169020314112,
+                "price": 9900,
+                "goods_name": "致竞巅峰",
+                "lottery_desc": "【2233·异世集-致竞巅峰】共包含8张精美立绘，守望初心，无惧无畏！2233为s赛干杯～\n* 普通款：决胜·上路、决胜·中路、决胜·下路、决胜·辅助、决胜·打野、决胜·应援均分概率95%；\n* 隐藏款：致竞巅峰·电竞少女概率4.5%，致竞巅峰·荣耀加冕概率0.5%;\n400抽保底必出致竞巅峰·荣耀加冕，若1-399抽中已获得致竞巅峰·荣耀加冕，则重置计数。",
+                "item_total_cnt": 8,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 20696,
+                "lottery_type": 2,
+                "effective_forever": 0,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                {
-                    "collect_id": 481,
-                    "start_time": 1697619600,
-                    "end_time": 1702958400,
-                    "redeem_text": "抽出任意1张致竞巅峰隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "60382",
-                    "redeem_item_name": "致竞巅峰头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/c1a7838c24db4176bc9ab83d65e6fe5257e89922.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
+                "free": 0,
+                "sale_mode": 2
+            }
+        ],
+        "share_info": {
+            "main_title": "《2233·异世集》开售",
+            "sub_title": "精美立绘、表情包、头像框、独家祝福音声等你抱回家！",
+            "share_content": "《2233·异世集》收藏集开售中！奇闻异志尽在不言中～"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/e757bc547a99919c2611eb82c0612c090ca338b7.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            },
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 2506,
+        "total_buy_cnt": 222400,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 482,
+                "start_time": 1697619600,
+                "end_time": 1702958400,
+                "redeem_text": "抽出任意5张致竞巅峰不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "60383",
+                "redeem_item_name": "致竞巅峰动态主题",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/7766e1edaade5c54d3fe2a3495861b2becfbbb95.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 5,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 480,
-                    "start_time": 1697619600,
-                    "end_time": 1702958400,
-                    "redeem_text": "抽出任意3张致竞巅峰不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "60390",
-                    "redeem_item_name": "致竞巅峰表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/482bb939424e7d36a7676d3bdc24276a5000e8d9.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 481,
+                "start_time": 1697619600,
+                "end_time": 1702958400,
+                "redeem_text": "抽出任意1张致竞巅峰隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "60382",
+                "redeem_item_name": "致竞巅峰头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/c1a7838c24db4176bc9ab83d65e6fe5257e89922.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 321,
-                    "start_time": 1694422800,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张山海秘闻隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "59197",
-                    "redeem_item_name": "山海秘闻头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/884195a22b156d920d798c72efcc02532cb60251.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 480,
+                "start_time": 1697619600,
+                "end_time": 1702958400,
+                "redeem_text": "抽出任意3张致竞巅峰不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "60390",
+                "redeem_item_name": "致竞巅峰表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/482bb939424e7d36a7676d3bdc24276a5000e8d9.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 133,
-                    "start_time": 1689823756,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意5张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "55771",
-                    "redeem_item_name": "山海异志专属个性主题",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/2fce3e3fe0b40a0db38429f440cd1f0b83ccebb2.jpg",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 321,
+                "start_time": 1694422800,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意1张山海秘闻隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "59197",
+                "redeem_item_name": "山海秘闻头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/884195a22b156d920d798c72efcc02532cb60251.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 120,
-                    "start_time": 1689584400,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张山海异志隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "55543",
-                    "redeem_item_name": "山海异志头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/a1d3116917fb505dbeb407d97ef697adbe02c9d2.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 133,
+                "start_time": 1689823756,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意5张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "55771",
+                "redeem_item_name": "山海异志专属个性主题",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/2fce3e3fe0b40a0db38429f440cd1f0b83ccebb2.jpg",
+                "owned_item_amount": 0,
+                "require_item_amount": 5,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 119,
-                    "start_time": 1689584400,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "55545",
-                    "redeem_item_name": "山海异志表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/b8c4dfb0defe60d9a438f471d60c7ba13d2ac9f3.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 120,
+                "start_time": 1689584400,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意1张山海异志隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "55543",
+                "redeem_item_name": "山海异志头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/a1d3116917fb505dbeb407d97ef697adbe02c9d2.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 422,
-                    "start_time": 1695787200,
-                    "end_time": 1696996800,
-                    "redeem_text": "抽到任意6张山海秘闻不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 1,
-                    "redeem_item_id": "1153210",
-                    "redeem_item_name": "山海秘闻·中秋典藏",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/1a9c2660b8dae3b9b4edfb6d0d23f8ea4d84e4b3.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 6,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": {
-                            "id": 1153210,
-                            "name": "山海秘闻·中秋典藏",
-                            "overview_image": "https://i0.hdslb.com/bfs/baselabs/1a9c2660b8dae3b9b4edfb6d0d23f8ea4d84e4b3.png",
-                            "content": {
-                                "image": null,
-                                "animation": {
-                                    "animation_video_urls": [
-                                        "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/tb/fa/_00002r2sy1289mnt61zaowf9x72fatb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655104&gen=playurlv2&os=08cbv&oi=0&trid=31795d0e073140e3b1498b7edb7ef528B&mid=0&platform=html5&upsig=1c71b5738ef1f199987256e2ae1349b1&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
-                                        "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/tb/fa/_00002r2sy1289mnt61zaowf9x72fatb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655104&gen=playurlv2&os=08cbv&oi=0&trid=31795d0e073140e3b1498b7edb7ef528B&mid=0&platform=html5&upsig=1c71b5738ef1f199987256e2ae1349b1&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
-                                        "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/tb/fa/_00002r2sy1289mnt61zaowf9x72fatb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655104&gen=playurlv2&os=hwbbv&oi=0&trid=31795d0e073140e3b1498b7edb7ef528B&mid=0&platform=html5&upsig=622341217f8363be243625686bd44ac7&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
-                                    ],
-                                    "animation_backup_image": "https://i0.hdslb.com/bfs/baselabs/1a9c2660b8dae3b9b4edfb6d0d23f8ea4d84e4b3.png",
-                                    "animation_first_frame": "https://i0.hdslb.com/bfs/baselabs/1a9c2660b8dae3b9b4edfb6d0d23f8ea4d84e4b3.png",
-                                    "is_mute": false,
-                                    "animation_url": "upos://panguxcodeboss/tb/fa/_00002r2sy1289mnt61zaowf9x72fatb-1-152111110023.mp4",
-                                    "subtitles_url": "",
-                                    "duration": 6.0333333,
-                                    "width": 0,
-                                    "height": 0,
-                                    "location": "",
-                                    "compressed_w_h": ""
-                                }
-                            },
-                            "material_type": 2,
-                            "theme": "视频",
-                            "scarcity": 30,
-                            "layout": 0,
-                            "width": 1242,
-                            "height": 1862,
-                            "face_overflow": null,
-                            "material_sub_type": 0,
-                            "overview_image_watermarks": [
-                                {
-                                    "scene": 1,
-                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/0d1ae2f2fb1a1a7ce7fbc6a92a01034e3f01aa67.png"
-                                }
-                            ],
-                            "watermark_animations": [
-                                {
-                                    "scene": 2,
-                                    "watermark_animation": "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermark/5b/vu/_000034riqawbolzgv2w2zttagn8vu5b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655104&gen=playurlv2&os=08cbv&oi=0&trid=31795d0e073140e3b1498b7edb7ef528B&mid=0&platform=html5&upsig=02c218e1a669ca85e2058f58a391b9d1&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0"
-                                },
-                                {
-                                    "scene": 2,
-                                    "watermark_animation": "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermark/5b/vu/_000034riqawbolzgv2w2zttagn8vu5b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655104&gen=playurlv2&os=08cbv&oi=0&trid=31795d0e073140e3b1498b7edb7ef528B&mid=0&platform=html5&upsig=02c218e1a669ca85e2058f58a391b9d1&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0"
-                                },
-                                {
-                                    "scene": 2,
-                                    "watermark_animation": "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/digital_watermark/5b/vu/_000034riqawbolzgv2w2zttagn8vu5b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655104&gen=playurlv2&os=hwbbv&oi=0&trid=31795d0e073140e3b1498b7edb7ef528B&mid=0&platform=html5&upsig=430639ceaf9587520cf1a7a3c6c657e4&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
-                                }
-                            ],
-                            "space_background": {
-                                "image": null,
-                                "animation": {
-                                    "animation_video_urls": [
-                                        "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/tb/fa/_00002r2sy1289mnt61zaowf9x72fatb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655104&gen=playurlv2&os=08cbv&oi=0&trid=31795d0e073140e3b1498b7edb7ef528B&mid=0&platform=html5&upsig=1c71b5738ef1f199987256e2ae1349b1&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
-                                        "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/tb/fa/_00002r2sy1289mnt61zaowf9x72fatb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655104&gen=playurlv2&os=08cbv&oi=0&trid=31795d0e073140e3b1498b7edb7ef528B&mid=0&platform=html5&upsig=1c71b5738ef1f199987256e2ae1349b1&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
-                                        "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/tb/fa/_00002r2sy1289mnt61zaowf9x72fatb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655104&gen=playurlv2&os=hwbbv&oi=0&trid=31795d0e073140e3b1498b7edb7ef528B&mid=0&platform=html5&upsig=622341217f8363be243625686bd44ac7&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
-                                    ],
-                                    "animation_backup_image": "https://i0.hdslb.com/bfs/baselabs/1a9c2660b8dae3b9b4edfb6d0d23f8ea4d84e4b3.png",
-                                    "animation_first_frame": "https://i0.hdslb.com/bfs/baselabs/1a9c2660b8dae3b9b4edfb6d0d23f8ea4d84e4b3.png",
-                                    "is_mute": false,
-                                    "animation_url": "upos://panguxcodeboss/tb/fa/_00002r2sy1289mnt61zaowf9x72fatb-1-152111110023.mp4",
-                                    "subtitles_url": "",
-                                    "duration": 6.0333333,
-                                    "width": 0,
-                                    "height": 0,
-                                    "location": "",
-                                    "compressed_w_h": ""
-                                }
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 119,
+                "start_time": 1689584400,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "55545",
+                "redeem_item_name": "山海异志表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/b8c4dfb0defe60d9a438f471d60c7ba13d2ac9f3.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 422,
+                "start_time": 1695787200,
+                "end_time": 1696996800,
+                "redeem_text": "抽到任意6张山海秘闻不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 1,
+                "redeem_item_id": "1153210",
+                "redeem_item_name": "山海秘闻·中秋典藏",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/1a9c2660b8dae3b9b4edfb6d0d23f8ea4d84e4b3.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 6,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": {
+                        "id": 1153210,
+                        "name": "山海秘闻·中秋典藏",
+                        "overview_image": "https://i0.hdslb.com/bfs/baselabs/1a9c2660b8dae3b9b4edfb6d0d23f8ea4d84e4b3.png",
+                        "content": {
+                            "image": null,
+                            "animation": {
+                                "animation_video_urls": [
+                                    "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/tb/fa/_00002r2sy1289mnt61zaowf9x72fatb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655104&gen=playurlv2&os=08cbv&oi=0&trid=31795d0e073140e3b1498b7edb7ef528B&mid=0&platform=html5&upsig=1c71b5738ef1f199987256e2ae1349b1&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                                    "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/tb/fa/_00002r2sy1289mnt61zaowf9x72fatb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655104&gen=playurlv2&os=08cbv&oi=0&trid=31795d0e073140e3b1498b7edb7ef528B&mid=0&platform=html5&upsig=1c71b5738ef1f199987256e2ae1349b1&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                                    "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/tb/fa/_00002r2sy1289mnt61zaowf9x72fatb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655104&gen=playurlv2&os=hwbbv&oi=0&trid=31795d0e073140e3b1498b7edb7ef528B&mid=0&platform=html5&upsig=622341217f8363be243625686bd44ac7&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                                ],
+                                "animation_backup_image": "https://i0.hdslb.com/bfs/baselabs/1a9c2660b8dae3b9b4edfb6d0d23f8ea4d84e4b3.png",
+                                "animation_first_frame": "https://i0.hdslb.com/bfs/baselabs/1a9c2660b8dae3b9b4edfb6d0d23f8ea4d84e4b3.png",
+                                "is_mute": false,
+                                "animation_url": "upos://panguxcodeboss/tb/fa/_00002r2sy1289mnt61zaowf9x72fatb-1-152111110023.mp4",
+                                "subtitles_url": "",
+                                "duration": 6.0333333,
+                                "width": 0,
+                                "height": 0,
+                                "location": "",
+                                "compressed_w_h": ""
                             }
                         },
-                        "play": null,
-                        "tag": null
+                        "material_type": 2,
+                        "theme": "视频",
+                        "scarcity": 30,
+                        "layout": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "face_overflow": null,
+                        "material_sub_type": 0,
+                        "overview_image_watermarks": [
+                            {
+                                "scene": 1,
+                                "watermark_image": "https://i0.hdslb.com/bfs/garb/0d1ae2f2fb1a1a7ce7fbc6a92a01034e3f01aa67.png"
+                            }
+                        ],
+                        "watermark_animations": [
+                            {
+                                "scene": 2,
+                                "watermark_animation": "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermark/5b/vu/_000034riqawbolzgv2w2zttagn8vu5b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655104&gen=playurlv2&os=08cbv&oi=0&trid=31795d0e073140e3b1498b7edb7ef528B&mid=0&platform=html5&upsig=02c218e1a669ca85e2058f58a391b9d1&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0"
+                            },
+                            {
+                                "scene": 2,
+                                "watermark_animation": "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/digital_watermark/5b/vu/_000034riqawbolzgv2w2zttagn8vu5b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655104&gen=playurlv2&os=08cbv&oi=0&trid=31795d0e073140e3b1498b7edb7ef528B&mid=0&platform=html5&upsig=02c218e1a669ca85e2058f58a391b9d1&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0"
+                            },
+                            {
+                                "scene": 2,
+                                "watermark_animation": "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/digital_watermark/5b/vu/_000034riqawbolzgv2w2zttagn8vu5b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655104&gen=playurlv2&os=hwbbv&oi=0&trid=31795d0e073140e3b1498b7edb7ef528B&mid=0&platform=html5&upsig=430639ceaf9587520cf1a7a3c6c657e4&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                            }
+                        ],
+                        "space_background": {
+                            "image": null,
+                            "animation": {
+                                "animation_video_urls": [
+                                    "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/tb/fa/_00002r2sy1289mnt61zaowf9x72fatb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655104&gen=playurlv2&os=08cbv&oi=0&trid=31795d0e073140e3b1498b7edb7ef528B&mid=0&platform=html5&upsig=1c71b5738ef1f199987256e2ae1349b1&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                                    "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/tb/fa/_00002r2sy1289mnt61zaowf9x72fatb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655104&gen=playurlv2&os=08cbv&oi=0&trid=31795d0e073140e3b1498b7edb7ef528B&mid=0&platform=html5&upsig=1c71b5738ef1f199987256e2ae1349b1&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                                    "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/tb/fa/_00002r2sy1289mnt61zaowf9x72fatb-1-152111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655104&gen=playurlv2&os=hwbbv&oi=0&trid=31795d0e073140e3b1498b7edb7ef528B&mid=0&platform=html5&upsig=622341217f8363be243625686bd44ac7&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                                ],
+                                "animation_backup_image": "https://i0.hdslb.com/bfs/baselabs/1a9c2660b8dae3b9b4edfb6d0d23f8ea4d84e4b3.png",
+                                "animation_first_frame": "https://i0.hdslb.com/bfs/baselabs/1a9c2660b8dae3b9b4edfb6d0d23f8ea4d84e4b3.png",
+                                "is_mute": false,
+                                "animation_url": "upos://panguxcodeboss/tb/fa/_00002r2sy1289mnt61zaowf9x72fatb-1-152111110023.mp4",
+                                "subtitles_url": "",
+                                "duration": 6.0333333,
+                                "width": 0,
+                                "height": 0,
+                                "location": "",
+                                "compressed_w_h": ""
+                            }
+                        }
                     },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 332,
-                    "start_time": 1694422800,
-                    "end_time": 1697083200,
-                    "redeem_text": "抽出任意3张山海秘闻不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "59201",
-                    "redeem_item_name": "山海秘闻表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/2c80d107e33041ce50856e14c21bc7fb2275dda6.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 330,
-                    "start_time": 1694422800,
-                    "end_time": 1697083200,
-                    "redeem_text": "抽出任意5张不同山海秘闻卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "59198",
-                    "redeem_item_name": "山海秘闻专属个性主题",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/7424b909d80aa616ccc7874305ee5c2b318c432b.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之礼",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "S13限定观赛纪念等你来～",
-                "guide_content": "观赛22天解锁王者段位宝箱",
-                "jump_url": "https://www.bilibili.com/blackboard/s13-h5.html?auto_media_playback=1&dynamicUrl=true&scene=1"
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 1,
-            "related_mids": null,
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 0,
-            "product_introduce": "",
-            "app_head_show": "",
-            "app_space_show": "",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/f64f3a590a9fd0e1b91412135d3461eea7f44ce5.png\",\"card_count\":1,\"num_color\":\"#eaae8d\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/92babe65e50c374ce120edb26edaa00a2b983d18.png\",\"card_count\":5,\"num_color\":\"#76abde\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/ed1cdecad671d1a144cf5f3ed5fb919e487ad211.png\",\"card_count\":15,\"num_color\":\"#feac63\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/30b97363d712917b0c3917fb485cbd2c17aa4433.png\",\"card_count\":30,\"num_color\":\"#f89ddc\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/9aea297597400e6dc29a53927ce0854dff9f8450.png\",\"card_count\":60,\"num_color\":\"#ad9fff\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 332,
+                "start_time": 1694422800,
+                "end_time": 1697083200,
+                "redeem_text": "抽出任意3张山海秘闻不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "59201",
+                "redeem_item_name": "山海秘闻表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/2c80d107e33041ce50856e14c21bc7fb2275dda6.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 330,
+                "start_time": 1694422800,
+                "end_time": 1697083200,
+                "redeem_text": "抽出任意5张不同山海秘闻卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "59198",
+                "redeem_item_name": "山海秘闻专属个性主题",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/7424b909d80aa616ccc7874305ee5c2b318c432b.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 5,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之礼",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "S13限定观赛纪念等你来～",
+            "guide_content": "观赛22天解锁王者段位宝箱",
+            "jump_url": "https://www.bilibili.com/blackboard/s13-h5.html?auto_media_playback=1&dynamicUrl=true&scene=1"
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 1,
+        "related_mids": null,
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 0,
+        "product_introduce": "",
+        "app_head_show": "",
+        "app_space_show": "",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/f64f3a590a9fd0e1b91412135d3461eea7f44ce5.png\",\"card_count\":1,\"num_color\":\"#eaae8d\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/92babe65e50c374ce120edb26edaa00a2b983d18.png\",\"card_count\":5,\"num_color\":\"#76abde\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/ed1cdecad671d1a144cf5f3ed5fb919e487ad211.png\",\"card_count\":15,\"num_color\":\"#feac63\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/30b97363d712917b0c3917fb485cbd2c17aa4433.png\",\"card_count\":30,\"num_color\":\"#f89ddc\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/9aea297597400e6dc29a53927ce0854dff9f8450.png\",\"card_count\":60,\"num_color\":\"#ad9fff\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/e757bc547a99919c2611eb82c0612c090ca338b7.jpg",
@@ -1275,5 +1267,5 @@
                 }
             ]
         }
-    }
+    ]
 }

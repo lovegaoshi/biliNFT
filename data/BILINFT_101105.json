@@ -1,240 +1,232 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "大D特D第二弹",
-            "cur_time": 1708302963,
-            "start_time": 1707879600,
-            "end_time": 2114406245,
-            "pre_start_time": 1707793200,
-            "pre_end_time": 1707879599,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 101106,
-                    "lottery_name": "春意荡漾",
-                    "display_time": 1707793200,
-                    "start_time": 1707879600,
-                    "end_time": 2114406245,
-                    "lottery_image": "https://i0.hdslb.com/bfs/garb/c1b35833f65abec1cc44e857a1fafe525e2aad47.png",
-                    "draw_cnt": 0,
-                    "goods_id": 39048150286848,
-                    "price": 9900,
-                    "goods_name": "春意荡漾",
-                    "lottery_desc": "【隐藏款-大隐藏】：花灯邀约·黎歌,绝代佳人·希月,如归春意·莉娅均分概率0.5%,若前399抽均未获得过任意大隐藏，则第400抽必得大隐藏;\n【隐藏款-小隐藏】：桃灼春宵·冥冥,柔春相随·雪狐,微醺倚梦·醉酒趴均分概率4.5%;\n【普通款】：甜蜜相伴·冥冥,甜蜜相伴·雪狐,甜蜜相伴·黎歌,甜蜜相伴·希月,甜蜜相伴·莉娅均分概率9%，其余立绘均分概率86%;",
-                    "item_total_cnt": 26,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 60618,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+        "act_title": "大D特D第二弹",
+        "cur_time": 1708302963,
+        "start_time": 1707879600,
+        "end_time": 2114406245,
+        "pre_start_time": 1707793200,
+        "pre_end_time": 1707879599,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 101106,
+                "lottery_name": "春意荡漾",
+                "display_time": 1707793200,
+                "start_time": 1707879600,
+                "end_time": 2114406245,
+                "lottery_image": "https://i0.hdslb.com/bfs/garb/c1b35833f65abec1cc44e857a1fafe525e2aad47.png",
+                "draw_cnt": 0,
+                "goods_id": 39048150286848,
+                "price": 9900,
+                "goods_name": "春意荡漾",
+                "lottery_desc": "【隐藏款-大隐藏】：花灯邀约·黎歌,绝代佳人·希月,如归春意·莉娅均分概率0.5%,若前399抽均未获得过任意大隐藏，则第400抽必得大隐藏;\n【隐藏款-小隐藏】：桃灼春宵·冥冥,柔春相随·雪狐,微醺倚梦·醉酒趴均分概率4.5%;\n【普通款】：甜蜜相伴·冥冥,甜蜜相伴·雪狐,甜蜜相伴·黎歌,甜蜜相伴·希月,甜蜜相伴·莉娅均分概率9%，其余立绘均分概率86%;",
+                "item_total_cnt": 26,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 60618,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
+                },
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "大D特D第二弹",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/7144150f625abee8cf284ffc63268c76a893fae0.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            },
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 1661,
+        "total_buy_cnt": 60618,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 101115,
+                "start_time": 1707793200,
+                "end_time": 2114406245,
+                "redeem_text": "春意荡漾卡池完成4抽即可领取",
+                "redeem_item_type": 5,
+                "redeem_item_id": "1706692923001&1707027469001&1706691851001&1706691695001",
+                "redeem_item_name": "春意荡漾·个性主题四件套",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/5136e212be30d11cdfcc7f1faddd89758c9369cc.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 4,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 101114,
+                "start_time": 1707793200,
+                "end_time": 2114406245,
+                "redeem_text": "春意荡漾卡池完成10抽即可领取",
+                "redeem_item_type": 1,
+                "redeem_item_id": "1707027908002",
+                "redeem_item_name": "花漾嫁纱·全员",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/ff1c4f110a47d967e2d51ab1774f497f9c7cdc84.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 10,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": {
+                        "id": 1707027908002,
+                        "name": "花漾嫁纱·全员",
+                        "overview_image": "https://i0.hdslb.com/bfs/garb/open/ff1c4f110a47d967e2d51ab1774f497f9c7cdc84.png",
+                        "content": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/garb/open/ff1c4f110a47d967e2d51ab1774f497f9c7cdc84.png",
+                                "gyroscope": null,
+                                "location": ""
+                            },
+                            "animation": null
+                        },
+                        "material_type": 1,
+                        "theme": "open",
+                        "scarcity": 0,
+                        "layout": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "face_overflow": null,
+                        "material_sub_type": 0,
+                        "overview_image_watermarks": [
+                            {
+                                "scene": 1,
+                                "watermark_image": "https://i0.hdslb.com/bfs/garb/watermark/690f44b99f3b4846371222eeadd0b4cbf302a757.png"
+                            }
+                        ],
+                        "watermark_animations": null,
+                        "space_background": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/garb/open/ff1c4f110a47d967e2d51ab1774f497f9c7cdc84.png",
+                                "gyroscope": null,
+                                "location": "0-476-1242-1242"
+                            },
+                            "animation": null
                         }
                     },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "大D特D第二弹",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热售卖中，快来开卡吧！"
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/7144150f625abee8cf284ffc63268c76a893fae0.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            {
+                "collect_id": 101113,
+                "start_time": 1707793200,
+                "end_time": 2114406245,
+                "redeem_text": "春意荡漾卡池抽到任意1张隐藏款立绘即可领取",
+                "redeem_item_type": 3,
+                "redeem_item_id": "1706691348001",
+                "redeem_item_name": "春意荡漾·头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/55215a881c3d055abfba2fe03793012c39d13eaa.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "total_book_cnt": 1661,
-            "total_buy_cnt": 60618,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 101115,
-                    "start_time": 1707793200,
-                    "end_time": 2114406245,
-                    "redeem_text": "春意荡漾卡池完成4抽即可领取",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "1706692923001&1707027469001&1706691851001&1706691695001",
-                    "redeem_item_name": "春意荡漾·个性主题四件套",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/5136e212be30d11cdfcc7f1faddd89758c9369cc.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 4,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            {
+                "collect_id": 101112,
+                "start_time": 1707793200,
+                "end_time": 2114406245,
+                "redeem_text": "春意荡漾卡池完成2抽即可领取",
+                "redeem_item_type": 2,
+                "redeem_item_id": "1706691571001",
+                "redeem_item_name": "春意荡漾·表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/0b1f84229cab94514bbc0fe23b3eb3eb91d705ab.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 101114,
-                    "start_time": 1707793200,
-                    "end_time": 2114406245,
-                    "redeem_text": "春意荡漾卡池完成10抽即可领取",
-                    "redeem_item_type": 1,
-                    "redeem_item_id": "1707027908002",
-                    "redeem_item_name": "花漾嫁纱·全员",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/ff1c4f110a47d967e2d51ab1774f497f9c7cdc84.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 10,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": {
-                            "id": 1707027908002,
-                            "name": "花漾嫁纱·全员",
-                            "overview_image": "https://i0.hdslb.com/bfs/garb/open/ff1c4f110a47d967e2d51ab1774f497f9c7cdc84.png",
-                            "content": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/garb/open/ff1c4f110a47d967e2d51ab1774f497f9c7cdc84.png",
-                                    "gyroscope": null,
-                                    "location": ""
-                                },
-                                "animation": null
-                            },
-                            "material_type": 1,
-                            "theme": "open",
-                            "scarcity": 0,
-                            "layout": 0,
-                            "width": 1242,
-                            "height": 1863,
-                            "face_overflow": null,
-                            "material_sub_type": 0,
-                            "overview_image_watermarks": [
-                                {
-                                    "scene": 1,
-                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/watermark/690f44b99f3b4846371222eeadd0b4cbf302a757.png"
-                                }
-                            ],
-                            "watermark_animations": null,
-                            "space_background": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/garb/open/ff1c4f110a47d967e2d51ab1774f497f9c7cdc84.png",
-                                    "gyroscope": null,
-                                    "location": "0-476-1242-1242"
-                                },
-                                "animation": null
-                            }
-                        },
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 101113,
-                    "start_time": 1707793200,
-                    "end_time": 2114406245,
-                    "redeem_text": "春意荡漾卡池抽到任意1张隐藏款立绘即可领取",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "1706691348001",
-                    "redeem_item_name": "春意荡漾·头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/55215a881c3d055abfba2fe03793012c39d13eaa.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 101112,
-                    "start_time": 1707793200,
-                    "end_time": 2114406245,
-                    "redeem_text": "春意荡漾卡池完成2抽即可领取",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "1706691571001",
-                    "redeem_item_name": "春意荡漾·表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/0b1f84229cab94514bbc0fe23b3eb3eb91d705ab.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "任务奖励",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
-            },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "45502",
-                "477792",
-                "671538942",
-                "591892279",
-                "489146840"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【大D特D收藏集第二弹】是哔哩哔哩携手冥冥meichan、雪狐桑、黎歌Neeko、希月萌奈、奈奈莉娅Channel定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁她们的绝美画面！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/open/6b6925af0c7e8e0c14acf97d46519f43321cbf30.png@0-65-1126-1126a",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/open/6b6925af0c7e8e0c14acf97d46519f43321cbf30.png@0-65-1126-1126a",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/a7c84851e139f21fa88e802957200cda128b31d7.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/4fcdb86ecc75bf5cdddb944067d19292f327b7cd.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/afd994235d62753a349d7b1f918f1d06f5ae1ac4.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/d7ee31b0fec17ef5aff67d76ccf37d16de0d0941.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/fc2ccb341b0845eadbb63aabd398ef0ebbe032be.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
-            "topic": null,
-            "physical_exchange": false,
-            "act_square_img": "https://i0.hdslb.com/bfs/garb/cc169b3ad682ce435711962fa95cfed48704fff6.jpg"
-        }
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "任务奖励",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "45502",
+            "477792",
+            "671538942",
+            "591892279",
+            "489146840"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【大D特D收藏集第二弹】是哔哩哔哩携手冥冥meichan、雪狐桑、黎歌Neeko、希月萌奈、奈奈莉娅Channel定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁她们的绝美画面！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/open/6b6925af0c7e8e0c14acf97d46519f43321cbf30.png@0-65-1126-1126a",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/open/6b6925af0c7e8e0c14acf97d46519f43321cbf30.png@0-65-1126-1126a",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/a7c84851e139f21fa88e802957200cda128b31d7.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/4fcdb86ecc75bf5cdddb944067d19292f327b7cd.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/afd994235d62753a349d7b1f918f1d06f5ae1ac4.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/d7ee31b0fec17ef5aff67d76ccf37d16de0d0941.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/fc2ccb341b0845eadbb63aabd398ef0ebbe032be.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
+        "topic": null,
+        "physical_exchange": false,
+        "act_square_img": "https://i0.hdslb.com/bfs/garb/cc169b3ad682ce435711962fa95cfed48704fff6.jpg"
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/7144150f625abee8cf284ffc63268c76a893fae0.jpg",
@@ -1114,5 +1106,5 @@
                 }
             ]
         }
-    }
+    ]
 }

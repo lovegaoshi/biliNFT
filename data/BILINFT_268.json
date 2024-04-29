@@ -1,197 +1,189 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "《命运拳台》收藏集",
-            "cur_time": 1703464662,
-            "start_time": 1703210400,
-            "end_time": 2114406245,
-            "pre_start_time": 1703124000,
-            "pre_end_time": 1703210399,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 232,
-                    "lottery_name": "命运拳台",
-                    "display_time": 1703124000,
-                    "start_time": 1703210400,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/1b2195d67e9e4eb0fe26a6faaeef032080fead1c.png",
-                    "draw_cnt": 0,
-                    "goods_id": 29605618546176,
-                    "price": 9900,
-                    "goods_name": "命运拳台",
-                    "lottery_desc": "命运拳台收藏集常驻奖池共包含15张动态海报；\n普通款：角色设定12张，阿肝、张三均分概率9%，其余海报均分概率86%；\n隐藏款：悦动阿肝、动感阿肝均分概率4.5%、不如跳舞概率0.5%。",
-                    "item_total_cnt": 15,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 15560,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
+        "act_title": "《命运拳台》收藏集",
+        "cur_time": 1703464662,
+        "start_time": 1703210400,
+        "end_time": 2114406245,
+        "pre_start_time": 1703124000,
+        "pre_end_time": 1703210399,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 232,
+                "lottery_name": "命运拳台",
+                "display_time": 1703124000,
+                "start_time": 1703210400,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/1b2195d67e9e4eb0fe26a6faaeef032080fead1c.png",
+                "draw_cnt": 0,
+                "goods_id": 29605618546176,
+                "price": 9900,
+                "goods_name": "命运拳台",
+                "lottery_desc": "命运拳台收藏集常驻奖池共包含15张动态海报；\n普通款：角色设定12张，阿肝、张三均分概率9%，其余海报均分概率86%；\n隐藏款：悦动阿肝、动感阿肝均分概率4.5%、不如跳舞概率0.5%。",
+                "item_total_cnt": 15,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 15560,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                {
-                    "lottery_id": 233,
-                    "lottery_name": "福利奖池",
-                    "display_time": 1703209800,
-                    "start_time": 1703210400,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/6ab404d03d01c1cfb7f789892ecac3224f71e2bc.png",
-                    "draw_cnt": 0,
-                    "goods_id": 29605618546177,
-                    "price": 0,
-                    "goods_name": "福利奖池",
-                    "lottery_desc": "福利奖池共包含6张动态典藏卡，均分概率100%",
-                    "item_total_cnt": 6,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 0,
-                    "lottery_type": 2,
-                    "effective_forever": 1,
-                    "discount": null,
-                    "free": 1,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "开启命运拳台奇幻冒险",
-                "sub_title": "命运拳台收藏集上线啦，专属勋章、表情包、头像框等你解锁~",
-                "share_content": "命运拳台收藏集火热售卖中，解锁超萌阿肝再现跳舞！"
+                "free": 0,
+                "sale_mode": 1
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/c6b4ac0533187296cf398b7e6842e8cb542b4980.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
-                },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+            {
+                "lottery_id": 233,
+                "lottery_name": "福利奖池",
+                "display_time": 1703209800,
+                "start_time": 1703210400,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/6ab404d03d01c1cfb7f789892ecac3224f71e2bc.png",
+                "draw_cnt": 0,
+                "goods_id": 29605618546177,
+                "price": 0,
+                "goods_name": "福利奖池",
+                "lottery_desc": "福利奖池共包含6张动态典藏卡，均分概率100%",
+                "item_total_cnt": 6,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 0,
+                "lottery_type": 2,
+                "effective_forever": 1,
+                "discount": null,
+                "free": 1,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "开启命运拳台奇幻冒险",
+            "sub_title": "命运拳台收藏集上线啦，专属勋章、表情包、头像框等你解锁~",
+            "share_content": "命运拳台收藏集火热售卖中，解锁超萌阿肝再现跳舞！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/c6b4ac0533187296cf398b7e6842e8cb542b4980.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 181,
-            "total_buy_cnt": 15560,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 676,
-                    "start_time": 1703124000,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽到任意隐藏款卡牌，即可兑换，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "65404",
-                    "redeem_item_name": "命运拳台头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/16bebf4f977d1e11677f139b64e145b765e3dde3.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 181,
+        "total_buy_cnt": 15560,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 676,
+                "start_time": 1703124000,
+                "end_time": 2114406245,
+                "redeem_text": "抽到任意隐藏款卡牌，即可兑换，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "65404",
+                "redeem_item_name": "命运拳台头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/16bebf4f977d1e11677f139b64e145b765e3dde3.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 677,
-                    "start_time": 1703124000,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成5抽，即可兑换，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "65405&65413&65436&65435",
-                    "redeem_item_name": "点赞＆加载＆进度条＆个性主题",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/736fcadfed4aac76c4fb6b8fd4930ad0c5f0bcbe.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 675,
-                    "start_time": 1703124000,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成2抽，即可领取，单UID仅可兑换一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "65409",
-                    "redeem_item_name": "命运拳台表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/a966cd993233d4ac25cc5776bddde92f2608f3ef.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之礼",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "福利奖池",
-                "guide_content": "集碎片拼阿肝得角色动态典藏卡",
-                "jump_url": "https://m.bilibili.com/doria/quantai-2023.html"
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "1420628859"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【命运拳台收藏集】是哔哩哔哩携手《命运拳台》动画，为庆祝动画开播，特打造首款定制数字收藏集，其中的每张数字卡片都将拥有独特编号，期待大家解锁命运拳台丰富精彩的画面！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/7b268428625de7804cd2cd41e3e76bc0c5e77e0a.png",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/7b268428625de7804cd2cd41e3e76bc0c5e77e0a.png",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/f8e5df18549d99f6c3c8d689c594045222688e64.png\",\"card_count\":1,\"num_color\":\"#B9150D\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/36e6c1a767483e03f85d4e5135edf7c412368ff0.png\",\"card_count\":5,\"num_color\":\"#37DBF2\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/15100a5cd6d34cf5e8d250598fa94922741902aa.png\",\"card_count\":15,\"num_color\":\"#F1CF3E\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/72f237668a89a89663b5ab0729ae14032bb0479c.png\",\"card_count\":30,\"num_color\":\"#33F266\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/c8dd6f53c0835526f7567f1a7e85b707a16e429c.png\",\"card_count\":60,\"num_color\":\"#BB35F2\"}]",
-            "topic": null,
-            "physical_exchange": false
-        }
+            {
+                "collect_id": 677,
+                "start_time": 1703124000,
+                "end_time": 2114406245,
+                "redeem_text": "完成5抽，即可兑换，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "65405&65413&65436&65435",
+                "redeem_item_name": "点赞＆加载＆进度条＆个性主题",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/736fcadfed4aac76c4fb6b8fd4930ad0c5f0bcbe.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 5,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 675,
+                "start_time": 1703124000,
+                "end_time": 2114406245,
+                "redeem_text": "完成2抽，即可领取，单UID仅可兑换一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "65409",
+                "redeem_item_name": "命运拳台表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/a966cd993233d4ac25cc5776bddde92f2608f3ef.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之礼",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "福利奖池",
+            "guide_content": "集碎片拼阿肝得角色动态典藏卡",
+            "jump_url": "https://m.bilibili.com/doria/quantai-2023.html"
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "1420628859"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【命运拳台收藏集】是哔哩哔哩携手《命运拳台》动画，为庆祝动画开播，特打造首款定制数字收藏集，其中的每张数字卡片都将拥有独特编号，期待大家解锁命运拳台丰富精彩的画面！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/7b268428625de7804cd2cd41e3e76bc0c5e77e0a.png",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/7b268428625de7804cd2cd41e3e76bc0c5e77e0a.png",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/f8e5df18549d99f6c3c8d689c594045222688e64.png\",\"card_count\":1,\"num_color\":\"#B9150D\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/36e6c1a767483e03f85d4e5135edf7c412368ff0.png\",\"card_count\":5,\"num_color\":\"#37DBF2\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/15100a5cd6d34cf5e8d250598fa94922741902aa.png\",\"card_count\":15,\"num_color\":\"#F1CF3E\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/72f237668a89a89663b5ab0729ae14032bb0479c.png\",\"card_count\":30,\"num_color\":\"#33F266\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/c8dd6f53c0835526f7567f1a7e85b707a16e429c.png\",\"card_count\":60,\"num_color\":\"#BB35F2\"}]",
+        "topic": null,
+        "physical_exchange": false
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/c6b4ac0533187296cf398b7e6842e8cb542b4980.png",
@@ -977,5 +969,5 @@
                 }
             ]
         }
-    }
+    ]
 }

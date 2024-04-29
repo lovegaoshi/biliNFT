@@ -1,203 +1,195 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "功夫熊猫电影系列收藏集",
-            "cur_time": 1711327003,
-            "start_time": 1711184400,
-            "end_time": 1735660799,
-            "pre_start_time": 1711098000,
-            "pre_end_time": 1711184399,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 293,
-                    "lottery_name": "《功夫熊猫》",
-                    "display_time": 1711098000,
-                    "start_time": 1711184400,
-                    "end_time": 1735660799,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/f93fbad734c8662d9b20b8b87d939391178501d4.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 46434386740224,
-                    "price": 9900,
-                    "goods_name": "《功夫熊猫》",
-                    "lottery_desc": "《功夫熊猫》卡池共包含10张精美海报；\n普通款：宗师阿宝概率9%，其余海报均分概率86%；\n隐藏款：神龙大侠概率4.5%，龙年回归概率0.5%",
-                    "item_total_cnt": 10,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 548,
-                    "lottery_type": 1,
-                    "effective_forever": 0,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 2
-                }
-            ],
-            "share_info": {
-                "main_title": "功夫熊猫电影系列收藏集",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "功夫熊猫电影系列收藏集活动火热售卖中，快来开卡吧！"
+        "act_title": "功夫熊猫电影系列收藏集",
+        "cur_time": 1711327003,
+        "start_time": 1711184400,
+        "end_time": 1735660799,
+        "pre_start_time": 1711098000,
+        "pre_end_time": 1711184399,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 293,
+                "lottery_name": "《功夫熊猫》",
+                "display_time": 1711098000,
+                "start_time": 1711184400,
+                "end_time": 1735660799,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/f93fbad734c8662d9b20b8b87d939391178501d4.jpg",
+                "draw_cnt": 0,
+                "goods_id": 46434386740224,
+                "price": 9900,
+                "goods_name": "《功夫熊猫》",
+                "lottery_desc": "《功夫熊猫》卡池共包含10张精美海报；\n普通款：宗师阿宝概率9%，其余海报均分概率86%；\n隐藏款：神龙大侠概率4.5%，龙年回归概率0.5%",
+                "item_total_cnt": 10,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 548,
+                "lottery_type": 1,
+                "effective_forever": 0,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
+                },
+                "free": 0,
+                "sale_mode": 2
+            }
+        ],
+        "share_info": {
+            "main_title": "功夫熊猫电影系列收藏集",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "功夫熊猫电影系列收藏集活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/fe37d3bf309e256f36cf879d2d12b6898158b8ea.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/fe37d3bf309e256f36cf879d2d12b6898158b8ea.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 142,
+        "total_buy_cnt": 548,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 896,
+                "start_time": 1711098000,
+                "end_time": 2114406245,
+                "redeem_text": "抽齐全部普通卡牌，即可领取，单UID仅可兑换一次，限量88张，电影券有效时间：2024年4月21日前。",
+                "redeem_item_type": 8,
+                "redeem_item_id": "2520042",
+                "redeem_item_name": "《功夫熊猫4》电影票兑换券",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/0bae958b8ab8854f152a083e02eb7b0ae4f39356.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 8,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": 79,
+                "total_stock": 88,
+                "redeem_items_optional": null
             },
-            "total_book_cnt": 142,
-            "total_buy_cnt": 548,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 896,
-                    "start_time": 1711098000,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽齐全部普通卡牌，即可领取，单UID仅可兑换一次，限量88张，电影券有效时间：2024年4月21日前。",
-                    "redeem_item_type": 8,
-                    "redeem_item_id": "2520042",
-                    "redeem_item_name": "《功夫熊猫4》电影票兑换券",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/0bae958b8ab8854f152a083e02eb7b0ae4f39356.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 8,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": 79,
-                    "total_stock": 88,
-                    "redeem_items_optional": null
+            {
+                "collect_id": 895,
+                "start_time": 1711098000,
+                "end_time": 1735660799,
+                "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "67733",
+                "redeem_item_name": "功夫熊猫电影系列头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/88bbca26a3fc2fb3ec08894d40faaab2efbdbda8.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 895,
-                    "start_time": 1711098000,
-                    "end_time": 1735660799,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "67733",
-                    "redeem_item_name": "功夫熊猫电影系列头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/88bbca26a3fc2fb3ec08894d40faaab2efbdbda8.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1,
-                    "redeem_items_optional": null
-                },
-                {
-                    "collect_id": 894,
-                    "start_time": 1711098000,
-                    "end_time": 1735660799,
-                    "redeem_text": "完成5抽，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "67736&67735&67737&67734",
-                    "redeem_item_name": "点赞＆加载＆进度条＆动态主题",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/1da91401780e960ea5c15cda3a6c4060a08a1c43.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1,
-                    "redeem_items_optional": null
-                },
-                {
-                    "collect_id": 893,
-                    "start_time": 1711098000,
-                    "end_time": 1735660799,
-                    "redeem_text": "完成2抽，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "67724",
-                    "redeem_item_name": "功夫熊猫电影系列表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/30c200af21f70366e35d733b4642b1b07839304c.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1,
-                    "redeem_items_optional": null
-                }
-            ],
-            "display_title": "羁绊之礼",
-            "effective_forever": 0,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1,
+                "redeem_items_optional": null
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": null,
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【功夫熊猫电影系列收藏集】是哔哩哔哩携手《功夫熊猫》，特打造专属定制数字收藏集，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁《功夫熊猫》的独家绝美画面！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/ad679f8b832cce663859981c601c88b53e2ca638.png",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/ad679f8b832cce663859981c601c88b53e2ca638.png",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/1a8749af6e944f032ff4483e92f53e882470b32e.png\",\"num_color\":\"#947851\",\"card_count\":1,\"scene_image\":{\"1\":\"http://i0.hdslb.com/bfs/archive/1b0298585c05187cf33ae7c3ab8d50f58127d8ea.png\",\"2\":\"http://i0.hdslb.com/bfs/archive/1a8749af6e944f032ff4483e92f53e882470b32e.png\",\"3\":\"http://i0.hdslb.com/bfs/archive/1a8749af6e944f032ff4483e92f53e882470b32e.png\",\"4\":\"http://i0.hdslb.com/bfs/archive/7fab6d7135859df540fb1a73f983c495e6c4b75d.png\",\"6\":\"https://i0.hdslb.com/bfs/archive/37facfbdba532f8cf6f6ec003c295cc49b95f0de.png\"}},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/10ae5ab70f82d449f84b2ce4815bf50965cb5e86.png\",\"num_color\":\"#235f95\",\"card_count\":5,\"scene_image\":{\"1\":\"http://i0.hdslb.com/bfs/archive/e706643fcbdfa298c336766807606fb259e78fdb.png\",\"2\":\"http://i0.hdslb.com/bfs/archive/10ae5ab70f82d449f84b2ce4815bf50965cb5e86.png\",\"3\":\"http://i0.hdslb.com/bfs/archive/10ae5ab70f82d449f84b2ce4815bf50965cb5e86.png\",\"4\":\"http://i0.hdslb.com/bfs/archive/5217220084ea28c841bbd07835655baa62a7ed62.png\",\"6\":\"https://i0.hdslb.com/bfs/archive/23241fd844879ff4603eb7daeb759a95f5ad423b.png\"}},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/055e3122e1180ab045a2f7b8848b715627fd4d47.png\",\"num_color\":\"#966425\",\"card_count\":15,\"scene_image\":{\"1\":\"http://i0.hdslb.com/bfs/archive/714790afc4a8be7a073c688843e760d346ee8ebd.png\",\"2\":\"http://i0.hdslb.com/bfs/archive/055e3122e1180ab045a2f7b8848b715627fd4d47.png\",\"3\":\"http://i0.hdslb.com/bfs/archive/055e3122e1180ab045a2f7b8848b715627fd4d47.png\",\"4\":\"http://i0.hdslb.com/bfs/archive/4a3b8864377df10e49d64bfbedf7fb0570668ce6.png\",\"6\":\"https://i0.hdslb.com/bfs/archive/8a051718091068c208ac6969915df79ccb1cb6e6.png\"}},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/549eb014d738e6a5ea1e297225035eabfa10d9cf.png\",\"num_color\":\"#952845\",\"card_count\":30,\"scene_image\":{\"1\":\"http://i0.hdslb.com/bfs/archive/789cd4a1d2c5362c5727e18696b9d2dcd82398d3.png\",\"2\":\"http://i0.hdslb.com/bfs/archive/549eb014d738e6a5ea1e297225035eabfa10d9cf.png\",\"3\":\"http://i0.hdslb.com/bfs/archive/549eb014d738e6a5ea1e297225035eabfa10d9cf.png\",\"4\":\"http://i0.hdslb.com/bfs/archive/c5bf2912da870a8635c7d7bcfc6b1644354991a0.png\",\"6\":\"https://i0.hdslb.com/bfs/archive/eb29e389ef1a34e6b94e4399418c070c59b81576.png\"}},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/18b0c355ff7f0938b8a26dd4eceec416735ab71f.png\",\"num_color\":\"#5b1d0e\",\"card_count\":60,\"scene_image\":{\"1\":\"http://i0.hdslb.com/bfs/archive/9378969897f21ffddfae1a5f11eef59470ff31af.png\",\"2\":\"http://i0.hdslb.com/bfs/archive/18b0c355ff7f0938b8a26dd4eceec416735ab71f.png\",\"3\":\"http://i0.hdslb.com/bfs/archive/18b0c355ff7f0938b8a26dd4eceec416735ab71f.png\",\"4\":\"http://i0.hdslb.com/bfs/archive/607a1276a5aaa0d1c270b258f37dd08aec3e580d.png\",\"6\":\"https://i0.hdslb.com/bfs/archive/8f017c84004928b8b0aa87ffb3ead61cfd72fc88.png\"}}]",
-            "topic": null,
-            "physical_exchange": false,
-            "act_square_img": "https://i0.hdslb.com/bfs/garb/3be218225eb1d90a72e5d1317c583429b0f5b582.jpg"
-        }
+            {
+                "collect_id": 894,
+                "start_time": 1711098000,
+                "end_time": 1735660799,
+                "redeem_text": "完成5抽，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "67736&67735&67737&67734",
+                "redeem_item_name": "点赞＆加载＆进度条＆动态主题",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/1da91401780e960ea5c15cda3a6c4060a08a1c43.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 5,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1,
+                "redeem_items_optional": null
+            },
+            {
+                "collect_id": 893,
+                "start_time": 1711098000,
+                "end_time": 1735660799,
+                "redeem_text": "完成2抽，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "67724",
+                "redeem_item_name": "功夫熊猫电影系列表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/30c200af21f70366e35d733b4642b1b07839304c.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1,
+                "redeem_items_optional": null
+            }
+        ],
+        "display_title": "羁绊之礼",
+        "effective_forever": 0,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": null,
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【功夫熊猫电影系列收藏集】是哔哩哔哩携手《功夫熊猫》，特打造专属定制数字收藏集，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁《功夫熊猫》的独家绝美画面！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/ad679f8b832cce663859981c601c88b53e2ca638.png",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/ad679f8b832cce663859981c601c88b53e2ca638.png",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/1a8749af6e944f032ff4483e92f53e882470b32e.png\",\"num_color\":\"#947851\",\"card_count\":1,\"scene_image\":{\"1\":\"http://i0.hdslb.com/bfs/archive/1b0298585c05187cf33ae7c3ab8d50f58127d8ea.png\",\"2\":\"http://i0.hdslb.com/bfs/archive/1a8749af6e944f032ff4483e92f53e882470b32e.png\",\"3\":\"http://i0.hdslb.com/bfs/archive/1a8749af6e944f032ff4483e92f53e882470b32e.png\",\"4\":\"http://i0.hdslb.com/bfs/archive/7fab6d7135859df540fb1a73f983c495e6c4b75d.png\",\"6\":\"https://i0.hdslb.com/bfs/archive/37facfbdba532f8cf6f6ec003c295cc49b95f0de.png\"}},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/10ae5ab70f82d449f84b2ce4815bf50965cb5e86.png\",\"num_color\":\"#235f95\",\"card_count\":5,\"scene_image\":{\"1\":\"http://i0.hdslb.com/bfs/archive/e706643fcbdfa298c336766807606fb259e78fdb.png\",\"2\":\"http://i0.hdslb.com/bfs/archive/10ae5ab70f82d449f84b2ce4815bf50965cb5e86.png\",\"3\":\"http://i0.hdslb.com/bfs/archive/10ae5ab70f82d449f84b2ce4815bf50965cb5e86.png\",\"4\":\"http://i0.hdslb.com/bfs/archive/5217220084ea28c841bbd07835655baa62a7ed62.png\",\"6\":\"https://i0.hdslb.com/bfs/archive/23241fd844879ff4603eb7daeb759a95f5ad423b.png\"}},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/055e3122e1180ab045a2f7b8848b715627fd4d47.png\",\"num_color\":\"#966425\",\"card_count\":15,\"scene_image\":{\"1\":\"http://i0.hdslb.com/bfs/archive/714790afc4a8be7a073c688843e760d346ee8ebd.png\",\"2\":\"http://i0.hdslb.com/bfs/archive/055e3122e1180ab045a2f7b8848b715627fd4d47.png\",\"3\":\"http://i0.hdslb.com/bfs/archive/055e3122e1180ab045a2f7b8848b715627fd4d47.png\",\"4\":\"http://i0.hdslb.com/bfs/archive/4a3b8864377df10e49d64bfbedf7fb0570668ce6.png\",\"6\":\"https://i0.hdslb.com/bfs/archive/8a051718091068c208ac6969915df79ccb1cb6e6.png\"}},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/549eb014d738e6a5ea1e297225035eabfa10d9cf.png\",\"num_color\":\"#952845\",\"card_count\":30,\"scene_image\":{\"1\":\"http://i0.hdslb.com/bfs/archive/789cd4a1d2c5362c5727e18696b9d2dcd82398d3.png\",\"2\":\"http://i0.hdslb.com/bfs/archive/549eb014d738e6a5ea1e297225035eabfa10d9cf.png\",\"3\":\"http://i0.hdslb.com/bfs/archive/549eb014d738e6a5ea1e297225035eabfa10d9cf.png\",\"4\":\"http://i0.hdslb.com/bfs/archive/c5bf2912da870a8635c7d7bcfc6b1644354991a0.png\",\"6\":\"https://i0.hdslb.com/bfs/archive/eb29e389ef1a34e6b94e4399418c070c59b81576.png\"}},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/18b0c355ff7f0938b8a26dd4eceec416735ab71f.png\",\"num_color\":\"#5b1d0e\",\"card_count\":60,\"scene_image\":{\"1\":\"http://i0.hdslb.com/bfs/archive/9378969897f21ffddfae1a5f11eef59470ff31af.png\",\"2\":\"http://i0.hdslb.com/bfs/archive/18b0c355ff7f0938b8a26dd4eceec416735ab71f.png\",\"3\":\"http://i0.hdslb.com/bfs/archive/18b0c355ff7f0938b8a26dd4eceec416735ab71f.png\",\"4\":\"http://i0.hdslb.com/bfs/archive/607a1276a5aaa0d1c270b258f37dd08aec3e580d.png\",\"6\":\"https://i0.hdslb.com/bfs/archive/8f017c84004928b8b0aa87ffb3ead61cfd72fc88.png\"}}]",
+        "topic": null,
+        "physical_exchange": false,
+        "act_square_img": "https://i0.hdslb.com/bfs/garb/3be218225eb1d90a72e5d1317c583429b0f5b582.jpg"
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/fe37d3bf309e256f36cf879d2d12b6898158b8ea.png",
@@ -520,5 +512,5 @@
                 }
             ]
         }
-    }
+    ]
 }

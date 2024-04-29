@@ -1,378 +1,370 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "压刹收藏集",
-            "cur_time": 1707698138,
-            "start_time": 1707480000,
-            "end_time": 2114406245,
-            "pre_start_time": 1707393600,
-            "pre_end_time": 1707479999,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 101020,
-                    "lottery_name": "新年萌驴",
-                    "display_time": 1707393600,
-                    "start_time": 1707480000,
-                    "end_time": 2114406245,
-                    "lottery_image": "https://i0.hdslb.com/bfs/garb/148649033b5f94cd1c1f03c18ce5691e58b0d1d2.png",
-                    "draw_cnt": 0,
-                    "goods_id": 38666166635008,
-                    "price": 9900,
-                    "goods_name": "新年萌驴",
-                    "lottery_desc": "【隐藏款-大隐藏】：新春刹刹概率0.5%,若前399抽均未获得过任意大隐藏，则第400抽必得大隐藏;\n【隐藏款-小隐藏】：御刹概率4.5%;\n【普通款】：樱花如你概率9%，其余立绘均分概率86%;",
-                    "item_total_cnt": 11,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 5881,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+        "act_title": "压刹收藏集",
+        "cur_time": 1707698138,
+        "start_time": 1707480000,
+        "end_time": 2114406245,
+        "pre_start_time": 1707393600,
+        "pre_end_time": 1707479999,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 101020,
+                "lottery_name": "新年萌驴",
+                "display_time": 1707393600,
+                "start_time": 1707480000,
+                "end_time": 2114406245,
+                "lottery_image": "https://i0.hdslb.com/bfs/garb/148649033b5f94cd1c1f03c18ce5691e58b0d1d2.png",
+                "draw_cnt": 0,
+                "goods_id": 38666166635008,
+                "price": 9900,
+                "goods_name": "新年萌驴",
+                "lottery_desc": "【隐藏款-大隐藏】：新春刹刹概率0.5%,若前399抽均未获得过任意大隐藏，则第400抽必得大隐藏;\n【隐藏款-小隐藏】：御刹概率4.5%;\n【普通款】：樱花如你概率9%，其余立绘均分概率86%;",
+                "item_total_cnt": 11,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 5881,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
+                },
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "压刹收藏集",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/82fbb1f969efa5567df2e6e22a9fdb1411a442f3.png",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            },
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 259,
+        "total_buy_cnt": 5881,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 101031,
+                "start_time": 1707393600,
+                "end_time": 2114406245,
+                "redeem_text": "新年萌驴卡池抽到任意1张隐藏款立绘即可领取",
+                "redeem_item_type": 3,
+                "redeem_item_id": "1706775781001",
+                "redeem_item_name": "萌驴头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/a68e2903ca512b5db4035af7ffa2d8b3eefa0cbd.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 101030,
+                "start_time": 1707393600,
+                "end_time": 2114406245,
+                "redeem_text": "新年萌驴卡池完成4抽即可领取",
+                "redeem_item_type": 5,
+                "redeem_item_id": "1706857977001",
+                "redeem_item_name": "萌驴主题",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/e63472a6fc424c8118451147d5285d1a9bf1a6d8.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 4,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 101029,
+                "start_time": 1707480000,
+                "end_time": 2114406245,
+                "redeem_text": "新年萌驴卡池抽到任意6张不同卡牌即可领取",
+                "redeem_item_type": 1,
+                "redeem_item_id": "1706846994002",
+                "redeem_item_name": "心动午夜",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/04cd48d6e7d3ff24bb31c1c0f235281955e6eac7.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 6,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": {
+                        "id": 1706846994002,
+                        "name": "电竞之夜",
+                        "overview_image": "https://i0.hdslb.com/bfs/garb/open/04cd48d6e7d3ff24bb31c1c0f235281955e6eac7.png",
+                        "content": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/garb/open/04cd48d6e7d3ff24bb31c1c0f235281955e6eac7.png",
+                                "gyroscope": null,
+                                "location": ""
+                            },
+                            "animation": null
+                        },
+                        "material_type": 1,
+                        "theme": "open",
+                        "scarcity": 0,
+                        "layout": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "face_overflow": null,
+                        "material_sub_type": 0,
+                        "overview_image_watermarks": [
+                            {
+                                "scene": 1,
+                                "watermark_image": "https://i0.hdslb.com/bfs/garb/watermark/d80210622401f913aa2e4c36fe107707f31502df.png"
+                            }
+                        ],
+                        "watermark_animations": null,
+                        "space_background": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/garb/open/04cd48d6e7d3ff24bb31c1c0f235281955e6eac7.png",
+                                "gyroscope": null,
+                                "location": "0-0-1242-1242"
+                            },
+                            "animation": null
                         }
                     },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "压刹收藏集",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热售卖中，快来开卡吧！"
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/82fbb1f969efa5567df2e6e22a9fdb1411a442f3.png",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            {
+                "collect_id": 101028,
+                "start_time": 1707393600,
+                "end_time": 2114406245,
+                "redeem_text": "新年萌驴卡池完成2抽即可领取",
+                "redeem_item_type": 5,
+                "redeem_item_id": "1706782604001",
+                "redeem_item_name": "萌驴捏脸20",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/6e286fcddd0bf2ac8c47c0f7866a529d0e3a54e8.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "total_book_cnt": 259,
-            "total_buy_cnt": 5881,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 101031,
-                    "start_time": 1707393600,
-                    "end_time": 2114406245,
-                    "redeem_text": "新年萌驴卡池抽到任意1张隐藏款立绘即可领取",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "1706775781001",
-                    "redeem_item_name": "萌驴头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/a68e2903ca512b5db4035af7ffa2d8b3eefa0cbd.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 101030,
-                    "start_time": 1707393600,
-                    "end_time": 2114406245,
-                    "redeem_text": "新年萌驴卡池完成4抽即可领取",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "1706857977001",
-                    "redeem_item_name": "萌驴主题",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/e63472a6fc424c8118451147d5285d1a9bf1a6d8.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 4,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 101029,
-                    "start_time": 1707480000,
-                    "end_time": 2114406245,
-                    "redeem_text": "新年萌驴卡池抽到任意6张不同卡牌即可领取",
-                    "redeem_item_type": 1,
-                    "redeem_item_id": "1706846994002",
-                    "redeem_item_name": "心动午夜",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/04cd48d6e7d3ff24bb31c1c0f235281955e6eac7.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 6,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": {
-                            "id": 1706846994002,
-                            "name": "电竞之夜",
-                            "overview_image": "https://i0.hdslb.com/bfs/garb/open/04cd48d6e7d3ff24bb31c1c0f235281955e6eac7.png",
-                            "content": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/garb/open/04cd48d6e7d3ff24bb31c1c0f235281955e6eac7.png",
-                                    "gyroscope": null,
-                                    "location": ""
-                                },
-                                "animation": null
+            {
+                "collect_id": 101027,
+                "start_time": 1707393600,
+                "end_time": 2114406245,
+                "redeem_text": "新年萌驴卡池抽到任意5张不同卡牌即可领取",
+                "redeem_item_type": 1,
+                "redeem_item_id": "1706847321002",
+                "redeem_item_name": "压刹-梦启之地",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/78136d07a0b751e4548e7cabd715bef96cab4624.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 5,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": {
+                        "id": 1706847321002,
+                        "name": "梦启之时",
+                        "overview_image": "https://i0.hdslb.com/bfs/garb/open/78136d07a0b751e4548e7cabd715bef96cab4624.png",
+                        "content": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/garb/open/78136d07a0b751e4548e7cabd715bef96cab4624.png",
+                                "gyroscope": null,
+                                "location": ""
                             },
-                            "material_type": 1,
-                            "theme": "open",
-                            "scarcity": 0,
-                            "layout": 0,
-                            "width": 1242,
-                            "height": 1863,
-                            "face_overflow": null,
-                            "material_sub_type": 0,
-                            "overview_image_watermarks": [
-                                {
-                                    "scene": 1,
-                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/watermark/d80210622401f913aa2e4c36fe107707f31502df.png"
-                                }
-                            ],
-                            "watermark_animations": null,
-                            "space_background": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/garb/open/04cd48d6e7d3ff24bb31c1c0f235281955e6eac7.png",
-                                    "gyroscope": null,
-                                    "location": "0-0-1242-1242"
-                                },
-                                "animation": null
-                            }
+                            "animation": null
                         },
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 101028,
-                    "start_time": 1707393600,
-                    "end_time": 2114406245,
-                    "redeem_text": "新年萌驴卡池完成2抽即可领取",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "1706782604001",
-                    "redeem_item_name": "萌驴捏脸20",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/6e286fcddd0bf2ac8c47c0f7866a529d0e3a54e8.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 101027,
-                    "start_time": 1707393600,
-                    "end_time": 2114406245,
-                    "redeem_text": "新年萌驴卡池抽到任意5张不同卡牌即可领取",
-                    "redeem_item_type": 1,
-                    "redeem_item_id": "1706847321002",
-                    "redeem_item_name": "压刹-梦启之地",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/78136d07a0b751e4548e7cabd715bef96cab4624.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": {
-                            "id": 1706847321002,
-                            "name": "梦启之时",
-                            "overview_image": "https://i0.hdslb.com/bfs/garb/open/78136d07a0b751e4548e7cabd715bef96cab4624.png",
-                            "content": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/garb/open/78136d07a0b751e4548e7cabd715bef96cab4624.png",
-                                    "gyroscope": null,
-                                    "location": ""
-                                },
-                                "animation": null
+                        "material_type": 1,
+                        "theme": "open",
+                        "scarcity": 0,
+                        "layout": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "face_overflow": null,
+                        "material_sub_type": 0,
+                        "overview_image_watermarks": [
+                            {
+                                "scene": 1,
+                                "watermark_image": "https://i0.hdslb.com/bfs/garb/watermark/ede8c2e9d36f0318e2b09019e212215c50d4738f.png"
+                            }
+                        ],
+                        "watermark_animations": null,
+                        "space_background": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/garb/open/78136d07a0b751e4548e7cabd715bef96cab4624.png",
+                                "gyroscope": null,
+                                "location": "0-0-1242-1242"
                             },
-                            "material_type": 1,
-                            "theme": "open",
-                            "scarcity": 0,
-                            "layout": 0,
-                            "width": 1242,
-                            "height": 1863,
-                            "face_overflow": null,
-                            "material_sub_type": 0,
-                            "overview_image_watermarks": [
-                                {
-                                    "scene": 1,
-                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/watermark/ede8c2e9d36f0318e2b09019e212215c50d4738f.png"
-                                }
-                            ],
-                            "watermark_animations": null,
-                            "space_background": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/garb/open/78136d07a0b751e4548e7cabd715bef96cab4624.png",
-                                    "gyroscope": null,
-                                    "location": "0-0-1242-1242"
-                                },
-                                "animation": null
-                            }
-                        },
-                        "play": null,
-                        "tag": null
+                            "animation": null
+                        }
                     },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 101024,
-                    "start_time": 1707393600,
-                    "end_time": 2114406245,
-                    "redeem_text": "新年萌驴卡池完成5抽即可领取",
-                    "redeem_item_type": 1,
-                    "redeem_item_id": "1706780674002",
-                    "redeem_item_name": "压刹-纯白雪糕",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/be93db100762db346d4efa66877d081f849ff7f4.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": {
-                            "id": 1706780674002,
-                            "name": "纯白雪糕",
-                            "overview_image": "https://i0.hdslb.com/bfs/garb/open/be93db100762db346d4efa66877d081f849ff7f4.png",
-                            "content": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/garb/open/be93db100762db346d4efa66877d081f849ff7f4.png",
-                                    "gyroscope": null,
-                                    "location": ""
-                                },
-                                "animation": null
-                            },
-                            "material_type": 1,
-                            "theme": "open",
-                            "scarcity": 0,
-                            "layout": 0,
-                            "width": 1242,
-                            "height": 1863,
-                            "face_overflow": null,
-                            "material_sub_type": 0,
-                            "overview_image_watermarks": [
-                                {
-                                    "scene": 1,
-                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/watermark/5f45394d8f31011f64be49a19b83b5855334e565.png"
-                                }
-                            ],
-                            "watermark_animations": null,
-                            "space_background": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/garb/open/be93db100762db346d4efa66877d081f849ff7f4.png",
-                                    "gyroscope": null,
-                                    "location": "0-0-1242-1242"
-                                },
-                                "animation": null
-                            }
-                        },
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 101023,
-                    "start_time": 1707393600,
-                    "end_time": 2114406245,
-                    "redeem_text": "新年萌驴卡池完成2抽即可领取",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "1706775052001",
-                    "redeem_item_name": "压刹-表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/2e675005576cb05d00fc4bb38c9fe5410a926411.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "任务奖励",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "597701"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【压刹收藏集】是哔哩哔哩携手压刹channel定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁压刹channel的绝美画面！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/open/4d40bbdc2b5f9ca6eb8c9ef233d08badef051b81.png@0-159-1126-1126a",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/open/4d40bbdc2b5f9ca6eb8c9ef233d08badef051b81.png@0-159-1126-1126a",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/94db69f4155b1576c9996ca8c1ecfa8a0b99a14f.png\",\"card_count\":1,\"num_color\":\"#EACDB9\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/086ac5945e3e35e4b5578eaedc47ce3d4154a49e.png\",\"card_count\":5,\"num_color\":\"#B4DFDF\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/5dd3fd8559e3afa88bdf9b4a966a54d035a79f4a.png\",\"card_count\":15,\"num_color\":\"#F8D878\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/0cfbb03f3d5f3125d59ea2d754367f21b613d11f.png\",\"card_count\":30,\"num_color\":\"#F6BCDB\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/a8071c036c9272de1f775b0d538fed0720836666.png\",\"card_count\":60,\"num_color\":\"#D2BEF5\"}]",
-            "topic": null,
-            "physical_exchange": false,
-            "act_square_img": "https://i0.hdslb.com/bfs/garb/2ff46643998a3e7761e3c4690c1f759448cb94e1.png"
-        }
+            {
+                "collect_id": 101024,
+                "start_time": 1707393600,
+                "end_time": 2114406245,
+                "redeem_text": "新年萌驴卡池完成5抽即可领取",
+                "redeem_item_type": 1,
+                "redeem_item_id": "1706780674002",
+                "redeem_item_name": "压刹-纯白雪糕",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/be93db100762db346d4efa66877d081f849ff7f4.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 5,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": {
+                        "id": 1706780674002,
+                        "name": "纯白雪糕",
+                        "overview_image": "https://i0.hdslb.com/bfs/garb/open/be93db100762db346d4efa66877d081f849ff7f4.png",
+                        "content": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/garb/open/be93db100762db346d4efa66877d081f849ff7f4.png",
+                                "gyroscope": null,
+                                "location": ""
+                            },
+                            "animation": null
+                        },
+                        "material_type": 1,
+                        "theme": "open",
+                        "scarcity": 0,
+                        "layout": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "face_overflow": null,
+                        "material_sub_type": 0,
+                        "overview_image_watermarks": [
+                            {
+                                "scene": 1,
+                                "watermark_image": "https://i0.hdslb.com/bfs/garb/watermark/5f45394d8f31011f64be49a19b83b5855334e565.png"
+                            }
+                        ],
+                        "watermark_animations": null,
+                        "space_background": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/garb/open/be93db100762db346d4efa66877d081f849ff7f4.png",
+                                "gyroscope": null,
+                                "location": "0-0-1242-1242"
+                            },
+                            "animation": null
+                        }
+                    },
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 101023,
+                "start_time": 1707393600,
+                "end_time": 2114406245,
+                "redeem_text": "新年萌驴卡池完成2抽即可领取",
+                "redeem_item_type": 2,
+                "redeem_item_id": "1706775052001",
+                "redeem_item_name": "压刹-表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/2e675005576cb05d00fc4bb38c9fe5410a926411.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "任务奖励",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "597701"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【压刹收藏集】是哔哩哔哩携手压刹channel定制打造的个人数字集卡，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁压刹channel的绝美画面！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/open/4d40bbdc2b5f9ca6eb8c9ef233d08badef051b81.png@0-159-1126-1126a",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/open/4d40bbdc2b5f9ca6eb8c9ef233d08badef051b81.png@0-159-1126-1126a",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/94db69f4155b1576c9996ca8c1ecfa8a0b99a14f.png\",\"card_count\":1,\"num_color\":\"#EACDB9\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/086ac5945e3e35e4b5578eaedc47ce3d4154a49e.png\",\"card_count\":5,\"num_color\":\"#B4DFDF\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/5dd3fd8559e3afa88bdf9b4a966a54d035a79f4a.png\",\"card_count\":15,\"num_color\":\"#F8D878\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/0cfbb03f3d5f3125d59ea2d754367f21b613d11f.png\",\"card_count\":30,\"num_color\":\"#F6BCDB\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/a8071c036c9272de1f775b0d538fed0720836666.png\",\"card_count\":60,\"num_color\":\"#D2BEF5\"}]",
+        "topic": null,
+        "physical_exchange": false,
+        "act_square_img": "https://i0.hdslb.com/bfs/garb/2ff46643998a3e7761e3c4690c1f759448cb94e1.png"
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/82fbb1f969efa5567df2e6e22a9fdb1411a442f3.png",
@@ -811,5 +803,5 @@
                 }
             ]
         }
-    }
+    ]
 }

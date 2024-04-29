@@ -32,8 +32,8 @@ def write_list():
                 with open(jsondata, encoding='utf-8') as g:
                     loaded_data = json.load(g)
                 logging.debug("now processing %s", jsondata)
-                biliNFT_name = loaded_data["basic"]["data"]["act_title"]
-                biliNFT_img = loaded_data["basic"]["data"]["lottery_list"][0]["lottery_image"]
+                biliNFT_name = loaded_data["basic"]["act_title"]
+                biliNFT_img = loaded_data["basic"]["lottery_list"][0]["lottery_image"]
                 f.write(
                     f'[# {nft_id}.{biliNFT_name}](https://github.com/lovegaoshi/'
                     f'biliNFT/blob/main/data/{basename(jsondata)})\n')

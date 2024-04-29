@@ -1,299 +1,291 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "穆小泠收藏集",
-            "cur_time": 1702647968,
-            "start_time": 1695096000,
-            "end_time": 2114406245,
-            "pre_start_time": 1695009600,
-            "pre_end_time": 1695095999,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 100005,
-                    "lottery_name": "觉醒穆小泠",
-                    "display_time": 1695009600,
-                    "start_time": 1695096000,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/1a72b8c390085570231bcc4f82d4efcad0bdd9e8.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 12607838776832,
-                    "price": 9900,
-                    "goods_name": "觉醒穆小泠",
-                    "lottery_desc": "【穆小泠收藏集——觉醒穆小泠】共包含10张精美立绘，感受魅惑女王的独家魅力！\n* 隐藏款：魅惑女王泠，概率0.5%；夏季泳装泠，概率4.5%\n* 普通款：觉醒之泠，概率9%；狩猎之泠、夜店之泠、恶魔之泠、冬日之泠、赤夜之泠、夏日小泠、夏日泠姐共7张，均分概率86%",
-                    "item_total_cnt": 10,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 24764,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
+        "act_title": "穆小泠收藏集",
+        "cur_time": 1702647968,
+        "start_time": 1695096000,
+        "end_time": 2114406245,
+        "pre_start_time": 1695009600,
+        "pre_end_time": 1695095999,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 100005,
+                "lottery_name": "觉醒穆小泠",
+                "display_time": 1695009600,
+                "start_time": 1695096000,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/1a72b8c390085570231bcc4f82d4efcad0bdd9e8.jpg",
+                "draw_cnt": 0,
+                "goods_id": 12607838776832,
+                "price": 9900,
+                "goods_name": "觉醒穆小泠",
+                "lottery_desc": "【穆小泠收藏集——觉醒穆小泠】共包含10张精美立绘，感受魅惑女王的独家魅力！\n* 隐藏款：魅惑女王泠，概率0.5%；夏季泳装泠，概率4.5%\n* 普通款：觉醒之泠，概率9%；狩猎之泠、夜店之泠、恶魔之泠、冬日之泠、赤夜之泠、夏日小泠、夏日泠姐共7张，均分概率86%",
+                "item_total_cnt": 10,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 24764,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                {
-                    "lottery_id": 167,
-                    "lottery_name": "血族穆小泠",
-                    "display_time": 1698472800,
-                    "start_time": 1698559200,
-                    "end_time": 1709186400,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/51a5a468d38a366cd0d85e1bf1a25c6046e62027.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 19826531660800,
-                    "price": 9900,
-                    "goods_name": "血族穆小泠",
-                    "lottery_desc": "【穆小泠收藏集——血族穆小泠】共包含10张精美立绘，感受魅惑女王的独家魅力！\n* 隐藏款：暗黑女王泠，概率0.5%；神圣婚纱泠，概率4.5%\n* 普通款：机车泠姐，概率9%；柔情小泠、寿星小泠、女王之泠、舞姬泠姐、万圣Q泠、梦境之泠、偶像小泠共7张，均分概率86%",
-                    "item_total_cnt": 10,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 12053,
-                    "lottery_type": 2,
-                    "effective_forever": 0,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 2
-                }
-            ],
-            "share_info": {
-                "main_title": "穆小泠收藏集——觉醒穆小泠开售",
-                "sub_title": "超精美立绘，趣味表情包、头像框等你抱回家！",
-                "share_content": "穆小泠收藏集——觉醒穆小泠火热开售中，性感音声抢先听！"
+                "free": 0,
+                "sale_mode": 1
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/a92e54e54fb9894564c9106dc70a2fc135370126.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            {
+                "lottery_id": 167,
+                "lottery_name": "血族穆小泠",
+                "display_time": 1698472800,
+                "start_time": 1698559200,
+                "end_time": 1709186400,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/51a5a468d38a366cd0d85e1bf1a25c6046e62027.jpg",
+                "draw_cnt": 0,
+                "goods_id": 19826531660800,
+                "price": 9900,
+                "goods_name": "血族穆小泠",
+                "lottery_desc": "【穆小泠收藏集——血族穆小泠】共包含10张精美立绘，感受魅惑女王的独家魅力！\n* 隐藏款：暗黑女王泠，概率0.5%；神圣婚纱泠，概率4.5%\n* 普通款：机车泠姐，概率9%；柔情小泠、寿星小泠、女王之泠、舞姬泠姐、万圣Q泠、梦境之泠、偶像小泠共7张，均分概率86%",
+                "item_total_cnt": 10,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 12053,
+                "lottery_type": 2,
+                "effective_forever": 0,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 2
+            }
+        ],
+        "share_info": {
+            "main_title": "穆小泠收藏集——觉醒穆小泠开售",
+            "sub_title": "超精美立绘，趣味表情包、头像框等你抱回家！",
+            "share_content": "穆小泠收藏集——觉醒穆小泠火热开售中，性感音声抢先听！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/a92e54e54fb9894564c9106dc70a2fc135370126.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 1156,
-            "total_buy_cnt": 36817,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 508,
-                    "start_time": 1698472800,
-                    "end_time": 1709186400,
-                    "redeem_text": "抽到【血族穆小泠】卡池中任意六张不同卡牌，即可兑换",
-                    "redeem_item_type": 1,
-                    "redeem_item_id": "1155921",
-                    "redeem_item_name": "血族穆小泠典藏卡",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/2921c476642577cb8ddb54a15b527460c2fd67c9.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 6,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": {
-                            "id": 1155921,
-                            "name": "晚安泠姐",
-                            "overview_image": "https://i0.hdslb.com/bfs/baselabs/2921c476642577cb8ddb54a15b527460c2fd67c9.png",
-                            "content": {
-                                "image": null,
-                                "animation": {
-                                    "animation_video_urls": [
-                                        "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/1b/iw/_00001nsdibcualfj32ry5o8mxjaiw1b-1-152111110022.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655113&gen=playurlv2&os=08cbv&oi=0&trid=f9c8e19d0fc4423d965739bc5b10080bB&mid=0&platform=html5&upsig=d0f8389db12b28272e462ee126e82e78&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
-                                        "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/1b/iw/_00001nsdibcualfj32ry5o8mxjaiw1b-1-152111110022.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655113&gen=playurlv2&os=08cbv&oi=0&trid=f9c8e19d0fc4423d965739bc5b10080bB&mid=0&platform=html5&upsig=d0f8389db12b28272e462ee126e82e78&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
-                                        "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/1b/iw/_00001nsdibcualfj32ry5o8mxjaiw1b-1-152111110022.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655113&gen=playurlv2&os=hwbbv&oi=0&trid=f9c8e19d0fc4423d965739bc5b10080bB&mid=0&platform=html5&upsig=5d6a7723f4f9ebeb9e5911b7988c2711&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
-                                    ],
-                                    "animation_backup_image": "https://i0.hdslb.com/bfs/baselabs/2921c476642577cb8ddb54a15b527460c2fd67c9.png",
-                                    "animation_first_frame": "https://i0.hdslb.com/bfs/baselabs/2921c476642577cb8ddb54a15b527460c2fd67c9.png",
-                                    "is_mute": false,
-                                    "animation_url": "upos://panguxcodeboss/1b/iw/_00001nsdibcualfj32ry5o8mxjaiw1b-1-152111110022.mp4",
-                                    "subtitles_url": "",
-                                    "duration": 13.183333,
-                                    "width": 0,
-                                    "height": 0,
-                                    "location": "",
-                                    "compressed_w_h": ""
-                                }
-                            },
-                            "material_type": 2,
-                            "theme": "穆小泠dlc典藏卡视频卡",
-                            "scarcity": 50,
-                            "layout": 0,
-                            "width": 1242,
-                            "height": 1862,
-                            "face_overflow": null,
-                            "material_sub_type": 0,
-                            "overview_image_watermarks": [
-                                {
-                                    "scene": 1,
-                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/aac5af50064db008b14d827bca088086a98c7526.png"
-                                }
-                            ],
-                            "watermark_animations": [
-                                {
-                                    "scene": 2,
-                                    "watermark_animation": "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark/bb/so/_00002jueoju8ziyzz2703crxzjjsobb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655113&gen=playurlv2&os=alibv&oi=0&trid=f9c8e19d0fc4423d965739bc5b10080bB&mid=0&platform=html5&upsig=6019085388f88c03af8c970c9b45e536&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0"
-                                },
-                                {
-                                    "scene": 2,
-                                    "watermark_animation": "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark/bb/so/_00002jueoju8ziyzz2703crxzjjsobb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655113&gen=playurlv2&os=alibv&oi=0&trid=f9c8e19d0fc4423d965739bc5b10080bB&mid=0&platform=html5&upsig=6019085388f88c03af8c970c9b45e536&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0"
-                                },
-                                {
-                                    "scene": 2,
-                                    "watermark_animation": "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/digital_watermark/bb/so/_00002jueoju8ziyzz2703crxzjjsobb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655113&gen=playurlv2&os=alibbv&oi=0&trid=f9c8e19d0fc4423d965739bc5b10080bB&mid=0&platform=html5&upsig=53e279e4b9826bdce22767dfb99f1727&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
-                                }
-                            ],
-                            "space_background": {
-                                "image": null,
-                                "animation": {
-                                    "animation_video_urls": [
-                                        "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/1b/iw/_00001nsdibcualfj32ry5o8mxjaiw1b-1-152111110022.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655113&gen=playurlv2&os=08cbv&oi=0&trid=f9c8e19d0fc4423d965739bc5b10080bB&mid=0&platform=html5&upsig=d0f8389db12b28272e462ee126e82e78&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
-                                        "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/1b/iw/_00001nsdibcualfj32ry5o8mxjaiw1b-1-152111110022.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655113&gen=playurlv2&os=08cbv&oi=0&trid=f9c8e19d0fc4423d965739bc5b10080bB&mid=0&platform=html5&upsig=d0f8389db12b28272e462ee126e82e78&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
-                                        "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/1b/iw/_00001nsdibcualfj32ry5o8mxjaiw1b-1-152111110022.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655113&gen=playurlv2&os=hwbbv&oi=0&trid=f9c8e19d0fc4423d965739bc5b10080bB&mid=0&platform=html5&upsig=5d6a7723f4f9ebeb9e5911b7988c2711&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
-                                    ],
-                                    "animation_backup_image": "https://i0.hdslb.com/bfs/baselabs/2921c476642577cb8ddb54a15b527460c2fd67c9.png",
-                                    "animation_first_frame": "https://i0.hdslb.com/bfs/baselabs/2921c476642577cb8ddb54a15b527460c2fd67c9.png",
-                                    "is_mute": false,
-                                    "animation_url": "upos://panguxcodeboss/1b/iw/_00001nsdibcualfj32ry5o8mxjaiw1b-1-152111110022.mp4",
-                                    "subtitles_url": "",
-                                    "duration": 13.183333,
-                                    "width": 0,
-                                    "height": 0,
-                                    "location": "",
-                                    "compressed_w_h": ""
-                                }
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 1156,
+        "total_buy_cnt": 36817,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 508,
+                "start_time": 1698472800,
+                "end_time": 1709186400,
+                "redeem_text": "抽到【血族穆小泠】卡池中任意六张不同卡牌，即可兑换",
+                "redeem_item_type": 1,
+                "redeem_item_id": "1155921",
+                "redeem_item_name": "血族穆小泠典藏卡",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/baselabs/2921c476642577cb8ddb54a15b527460c2fd67c9.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 6,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": {
+                        "id": 1155921,
+                        "name": "晚安泠姐",
+                        "overview_image": "https://i0.hdslb.com/bfs/baselabs/2921c476642577cb8ddb54a15b527460c2fd67c9.png",
+                        "content": {
+                            "image": null,
+                            "animation": {
+                                "animation_video_urls": [
+                                    "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/1b/iw/_00001nsdibcualfj32ry5o8mxjaiw1b-1-152111110022.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655113&gen=playurlv2&os=08cbv&oi=0&trid=f9c8e19d0fc4423d965739bc5b10080bB&mid=0&platform=html5&upsig=d0f8389db12b28272e462ee126e82e78&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                                    "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/1b/iw/_00001nsdibcualfj32ry5o8mxjaiw1b-1-152111110022.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655113&gen=playurlv2&os=08cbv&oi=0&trid=f9c8e19d0fc4423d965739bc5b10080bB&mid=0&platform=html5&upsig=d0f8389db12b28272e462ee126e82e78&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                                    "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/1b/iw/_00001nsdibcualfj32ry5o8mxjaiw1b-1-152111110022.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655113&gen=playurlv2&os=hwbbv&oi=0&trid=f9c8e19d0fc4423d965739bc5b10080bB&mid=0&platform=html5&upsig=5d6a7723f4f9ebeb9e5911b7988c2711&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                                ],
+                                "animation_backup_image": "https://i0.hdslb.com/bfs/baselabs/2921c476642577cb8ddb54a15b527460c2fd67c9.png",
+                                "animation_first_frame": "https://i0.hdslb.com/bfs/baselabs/2921c476642577cb8ddb54a15b527460c2fd67c9.png",
+                                "is_mute": false,
+                                "animation_url": "upos://panguxcodeboss/1b/iw/_00001nsdibcualfj32ry5o8mxjaiw1b-1-152111110022.mp4",
+                                "subtitles_url": "",
+                                "duration": 13.183333,
+                                "width": 0,
+                                "height": 0,
+                                "location": "",
+                                "compressed_w_h": ""
                             }
                         },
-                        "play": null,
-                        "tag": null
+                        "material_type": 2,
+                        "theme": "穆小泠dlc典藏卡视频卡",
+                        "scarcity": 50,
+                        "layout": 0,
+                        "width": 1242,
+                        "height": 1862,
+                        "face_overflow": null,
+                        "material_sub_type": 0,
+                        "overview_image_watermarks": [
+                            {
+                                "scene": 1,
+                                "watermark_image": "https://i0.hdslb.com/bfs/garb/aac5af50064db008b14d827bca088086a98c7526.png"
+                            }
+                        ],
+                        "watermark_animations": [
+                            {
+                                "scene": 2,
+                                "watermark_animation": "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark/bb/so/_00002jueoju8ziyzz2703crxzjjsobb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655113&gen=playurlv2&os=alibv&oi=0&trid=f9c8e19d0fc4423d965739bc5b10080bB&mid=0&platform=html5&upsig=6019085388f88c03af8c970c9b45e536&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0"
+                            },
+                            {
+                                "scene": 2,
+                                "watermark_animation": "https://upos-sz-mirrorali.bilivideo.com/panguxcodeboss/digital_watermark/bb/so/_00002jueoju8ziyzz2703crxzjjsobb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655113&gen=playurlv2&os=alibv&oi=0&trid=f9c8e19d0fc4423d965739bc5b10080bB&mid=0&platform=html5&upsig=6019085388f88c03af8c970c9b45e536&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0"
+                            },
+                            {
+                                "scene": 2,
+                                "watermark_animation": "https://upos-sz-mirroralib.bilivideo.com/panguxcodeboss/digital_watermark/bb/so/_00002jueoju8ziyzz2703crxzjjsobb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655113&gen=playurlv2&os=alibbv&oi=0&trid=f9c8e19d0fc4423d965739bc5b10080bB&mid=0&platform=html5&upsig=53e279e4b9826bdce22767dfb99f1727&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                            }
+                        ],
+                        "space_background": {
+                            "image": null,
+                            "animation": {
+                                "animation_video_urls": [
+                                    "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/1b/iw/_00001nsdibcualfj32ry5o8mxjaiw1b-1-152111110022.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655113&gen=playurlv2&os=08cbv&oi=0&trid=f9c8e19d0fc4423d965739bc5b10080bB&mid=0&platform=html5&upsig=d0f8389db12b28272e462ee126e82e78&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=0,3&logo=00000000&f=B_0_0",
+                                    "https://upos-sz-mirror08c.bilivideo.com/panguxcodeboss/1b/iw/_00001nsdibcualfj32ry5o8mxjaiw1b-1-152111110022.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655113&gen=playurlv2&os=08cbv&oi=0&trid=f9c8e19d0fc4423d965739bc5b10080bB&mid=0&platform=html5&upsig=d0f8389db12b28272e462ee126e82e78&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=1,3&logo=00000000&f=B_0_0",
+                                    "https://upos-sz-mirrorhwb.bilivideo.com/panguxcodeboss/1b/iw/_00001nsdibcualfj32ry5o8mxjaiw1b-1-152111110022.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1702655113&gen=playurlv2&os=hwbbv&oi=0&trid=f9c8e19d0fc4423d965739bc5b10080bB&mid=0&platform=html5&upsig=5d6a7723f4f9ebeb9e5911b7988c2711&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&orderid=2,3&logo=00000000&f=B_0_0"
+                                ],
+                                "animation_backup_image": "https://i0.hdslb.com/bfs/baselabs/2921c476642577cb8ddb54a15b527460c2fd67c9.png",
+                                "animation_first_frame": "https://i0.hdslb.com/bfs/baselabs/2921c476642577cb8ddb54a15b527460c2fd67c9.png",
+                                "is_mute": false,
+                                "animation_url": "upos://panguxcodeboss/1b/iw/_00001nsdibcualfj32ry5o8mxjaiw1b-1-152111110022.mp4",
+                                "subtitles_url": "",
+                                "duration": 13.183333,
+                                "width": 0,
+                                "height": 0,
+                                "location": "",
+                                "compressed_w_h": ""
+                            }
+                        }
                     },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 100010,
-                    "start_time": 1695009600,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意5张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "59537&59536&59535&59534",
-                    "redeem_item_name": "个性主题&点赞动画&加载动画&进度条",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/654931ad1c3b1851fdbc214951eae2c8716689ba.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 100008,
-                    "start_time": 1695009600,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "59533",
-                    "redeem_item_name": "觉醒穆小泠表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/b20da0c9ef9bbf148388f23cbf306e1fbdcebce2.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 100007,
-                    "start_time": 1695009600,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "59512",
-                    "redeem_item_name": "觉醒穆小泠头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/5d0bf45ef7a950a29addf90fccb0379105a9223c.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之旅",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "43272050"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【穆小泠收藏集】是哔哩哔哩携手虚拟主播穆小泠定制打造的个人数字收藏集，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁小泠本体及觉醒泠姐的绝美画面！\n穆小泠，2020年开始活跃于bilibili平台的个人势虚拟主播，是一只可萌可御的多声线吸血鬼。日常通过直播，视频等方式活跃在各个平台，为用户提供丰富的文化娱乐内容。",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/97b66ee3a654fdbdf81a99f4fdac8acfee67abfd.png",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/97b66ee3a654fdbdf81a99f4fdac8acfee67abfd.png",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/771f2b0883f9c3101b338b68d5c5d65fbd1bd76f.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/63094547f6d82d6f86b2835c5517991e9cd52a18.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/aabdf71785b5123af8b00431a0af6ccebd1f3aae.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/0d33d306603064cb24811d9d9857f9065a81963b.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/0d506f97d5fa3bcd5f080f663036da1496e69238.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 100010,
+                "start_time": 1695009600,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意5张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "59537&59536&59535&59534",
+                "redeem_item_name": "个性主题&点赞动画&加载动画&进度条",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/654931ad1c3b1851fdbc214951eae2c8716689ba.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 5,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 100008,
+                "start_time": 1695009600,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "59533",
+                "redeem_item_name": "觉醒穆小泠表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/b20da0c9ef9bbf148388f23cbf306e1fbdcebce2.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 100007,
+                "start_time": 1695009600,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "59512",
+                "redeem_item_name": "觉醒穆小泠头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/5d0bf45ef7a950a29addf90fccb0379105a9223c.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之旅",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "43272050"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【穆小泠收藏集】是哔哩哔哩携手虚拟主播穆小泠定制打造的个人数字收藏集，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁小泠本体及觉醒泠姐的绝美画面！\n穆小泠，2020年开始活跃于bilibili平台的个人势虚拟主播，是一只可萌可御的多声线吸血鬼。日常通过直播，视频等方式活跃在各个平台，为用户提供丰富的文化娱乐内容。",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/97b66ee3a654fdbdf81a99f4fdac8acfee67abfd.png",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/97b66ee3a654fdbdf81a99f4fdac8acfee67abfd.png",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/771f2b0883f9c3101b338b68d5c5d65fbd1bd76f.png\",\"card_count\":1,\"num_color\":\"#C79085\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/63094547f6d82d6f86b2835c5517991e9cd52a18.png\",\"card_count\":5,\"num_color\":\"#78A6F6\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/aabdf71785b5123af8b00431a0af6ccebd1f3aae.png\",\"card_count\":15,\"num_color\":\"#FB9906\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/0d33d306603064cb24811d9d9857f9065a81963b.png\",\"card_count\":30,\"num_color\":\"#D170BE\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/0d506f97d5fa3bcd5f080f663036da1496e69238.png\",\"card_count\":60,\"num_color\":\"#765CFE\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/a92e54e54fb9894564c9106dc70a2fc135370126.jpg",
@@ -967,5 +959,5 @@
                 }
             ]
         }
-    }
+    ]
 }

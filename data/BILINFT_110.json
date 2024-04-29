@@ -1,223 +1,215 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "有兽焉动画收藏集",
-            "cur_time": 1702648045,
-            "start_time": 1685073600,
-            "end_time": 2114406245,
-            "pre_start_time": 1684987200,
-            "pre_end_time": 1685073599,
-            "is_booked": 0,
-            "act_desc": "https://i0.hdslb.com/bfs/garb/2cfec390a38c68eba4e0fe013730f227d28dcb47.png",
-            "lottery_list": [
-                {
-                    "lottery_id": 13,
-                    "lottery_name": "神兽档案",
-                    "display_time": 1684987200,
-                    "start_time": 1685073600,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/bc62d7ba8e4baeed75d6664b15f3cbbed6c25e0f.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 3141997178369,
-                    "price": 9900,
-                    "goods_name": "神兽档案",
-                    "lottery_desc": "【有兽焉动画收藏集·神兽档案】共包含18张精美海报，快来解锁你的专属神兽档案吧！\n* 普通款：神兽档案卡14张，均分概率95%；\n* 隐藏款：神兽叠叠乐、福瑞来袭概率4.5%、貔貅来袭、福瑞扭蛋概率0.5%",
-                    "item_total_cnt": 28,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 77304,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 1900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "有兽焉动画收藏集开售中~",
-                "sub_title": "凡间有神兽，福瑞常相伴！快来开启你的神兽档案吧！解锁专属羁绊之礼！",
-                "share_content": "有兽焉动画收藏集火热售卖中，神兽档案已备好，等待各位小主开启！专属勋章，头像框、表情包等你解锁~"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/fd248bab42cbd712143935268b23070cb01b023c.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
-                },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
-            },
-            "total_book_cnt": 4478,
-            "total_buy_cnt": 82726,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 319,
-                    "start_time": 1694152800,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意5张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 5,
-                    "redeem_item_id": "59150&59151&59152&59154",
-                    "redeem_item_name": "点赞＆加载＆进度条＆个性主题",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/1cf18692ec79b6db321fea4d02a0c6a150bc59a5.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 48,
-                    "start_time": 1684987200,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "53027",
-                    "redeem_item_name": "有兽焉动画头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/905abc1aa44780922cc2cf963f1b8f0b23c828bd.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 47,
-                    "start_time": 1684987200,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "53044",
-                    "redeem_item_name": "有兽焉动画表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/1b9989fb687a0c313d3e45980c61d2a209a449f9.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 3,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之礼",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
-            },
-            "is_can_donate": 1,
-            "is_up_chain": 1,
-            "related_mids": [
-                "32741563"
-            ],
-            "is_vip": false,
-            "task_list": {
-                "item": [
-                    {
-                        "id": 3120211,
-                        "title": "每购买1次年度大会员",
-                        "desc": "神兽档案卡池抽卡机会",
-                        "process": {
-                            "totalDetailCount": 1,
-                            "completeDetailCount": 0,
-                            "totalCompleteCount": 1,
-                            "completeCount": 0,
-                            "awardCount": 0,
-                            "awardRemindCount": 0,
-                            "state": 1,
-                            "remainingTask": {
-                                "id": null
-                            }
-                        },
-                        "task_code": "vip",
-                        "finish_url": "bilibili://user_center/vip/buy/167?pay_tips_id=39291&valid_channel=direct",
-                        "task_status": 0,
-                        "start_time": {},
-                        "end_time": {},
-                        "need_pre_task_list": null,
-                        "incomplete_pre_task_list": null,
-                        "jump_url": "bilibili://user_center/vip/buy/167?pay_tips_id=39291&valid_channel=direct",
-                        "prop_info": [
-                            {
-                                "prop_id": 1290140,
-                                "prop_num": 2,
-                                "prop_type": "GARB_DLC_CARD"
-                            }
-                        ],
-                        "Config": {
-                            "customize_config": {}
-                        }
+        "act_title": "有兽焉动画收藏集",
+        "cur_time": 1702648045,
+        "start_time": 1685073600,
+        "end_time": 2114406245,
+        "pre_start_time": 1684987200,
+        "pre_end_time": 1685073599,
+        "is_booked": 0,
+        "act_desc": "https://i0.hdslb.com/bfs/garb/2cfec390a38c68eba4e0fe013730f227d28dcb47.png",
+        "lottery_list": [
+            {
+                "lottery_id": 13,
+                "lottery_name": "神兽档案",
+                "display_time": 1684987200,
+                "start_time": 1685073600,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/bc62d7ba8e4baeed75d6664b15f3cbbed6c25e0f.jpg",
+                "draw_cnt": 0,
+                "goods_id": 3141997178369,
+                "price": 9900,
+                "goods_name": "神兽档案",
+                "lottery_desc": "【有兽焉动画收藏集·神兽档案】共包含18张精美海报，快来解锁你的专属神兽档案吧！\n* 普通款：神兽档案卡14张，均分概率95%；\n* 隐藏款：神兽叠叠乐、福瑞来袭概率4.5%、貔貅来袭、福瑞扭蛋概率0.5%",
+                "item_total_cnt": 28,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 77304,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 1900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
                     }
-                ],
-                "task_name": "大会员专属福利",
-                "task_jump_url": "bilibili://user_center/vip/buy/167?pay_tips_id=39291&valid_channel=direct",
-                "task_jump_text": "去开通 >",
-                "task_activity_id": 911,
-                "task_type": "vip"
+                },
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "有兽焉动画收藏集开售中~",
+            "sub_title": "凡间有神兽，福瑞常相伴！快来开启你的神兽档案吧！解锁专属羁绊之礼！",
+            "share_content": "有兽焉动画收藏集火热售卖中，神兽档案已备好，等待各位小主开启！专属勋章，头像框、表情包等你解锁~"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/fd248bab42cbd712143935268b23070cb01b023c.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "popup_info": {
-                "popup_type": 1,
-                "popup_content": "https://i0.hdslb.com/bfs/activity-plat/static/20230724/4cefecc6742f8995a6bd22402a6d0b8b/E658Kdv4jy.png",
-                "button_text": "我知道了",
-                "button_jump_url": ""
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 4478,
+        "total_buy_cnt": 82726,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 319,
+                "start_time": 1694152800,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意5张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 5,
+                "redeem_item_id": "59150&59151&59152&59154",
+                "redeem_item_name": "点赞＆加载＆进度条＆个性主题",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/1cf18692ec79b6db321fea4d02a0c6a150bc59a5.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 5,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "act_desc_light": "",
-            "not_need_realname": 0,
-            "product_introduce": "",
-            "app_head_show": "",
-            "app_space_show": "",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/31b36fef297ea948b19bafabd152a8ca7712c6e8.png\",\"card_count\":1,\"num_color\":\"#ad7e67\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/d09869512912906e9578f9fb2ea1bf2cd77ba406.png\",\"card_count\":5,\"num_color\":\"#99c0e9\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/5fc3c2e803cd5ac2de6c9972da01d5702ef87d93.png\",\"card_count\":15,\"num_color\":\"#ddba61\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/7f2862c7d2957b98919387bcf35fa0feab1a28c6.png\",\"card_count\":30,\"num_color\":\"#dcb0e9\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/14074f68ff8b2d1228c61c196a3a433bdfe18cc4.png\",\"card_count\":60,\"num_color\":\"#b1a6ed\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 48,
+                "start_time": 1684987200,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意1张隐藏卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 3,
+                "redeem_item_id": "53027",
+                "redeem_item_name": "有兽焉动画头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/905abc1aa44780922cc2cf963f1b8f0b23c828bd.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 47,
+                "start_time": 1684987200,
+                "end_time": 2114406245,
+                "redeem_text": "抽出任意3张不同卡牌，即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "53044",
+                "redeem_item_name": "有兽焉动画表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/1b9989fb687a0c313d3e45980c61d2a209a449f9.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 3,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之礼",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 1,
+        "related_mids": [
+            "32741563"
+        ],
+        "is_vip": false,
+        "task_list": {
+            "item": [
+                {
+                    "id": 3120211,
+                    "title": "每购买1次年度大会员",
+                    "desc": "神兽档案卡池抽卡机会",
+                    "process": {
+                        "totalDetailCount": 1,
+                        "completeDetailCount": 0,
+                        "totalCompleteCount": 1,
+                        "completeCount": 0,
+                        "awardCount": 0,
+                        "awardRemindCount": 0,
+                        "state": 1,
+                        "remainingTask": {
+                            "id": null
+                        }
+                    },
+                    "task_code": "vip",
+                    "finish_url": "bilibili://user_center/vip/buy/167?pay_tips_id=39291&valid_channel=direct",
+                    "task_status": 0,
+                    "start_time": {},
+                    "end_time": {},
+                    "need_pre_task_list": null,
+                    "incomplete_pre_task_list": null,
+                    "jump_url": "bilibili://user_center/vip/buy/167?pay_tips_id=39291&valid_channel=direct",
+                    "prop_info": [
+                        {
+                            "prop_id": 1290140,
+                            "prop_num": 2,
+                            "prop_type": "GARB_DLC_CARD"
+                        }
+                    ],
+                    "Config": {
+                        "customize_config": {}
+                    }
+                }
+            ],
+            "task_name": "大会员专属福利",
+            "task_jump_url": "bilibili://user_center/vip/buy/167?pay_tips_id=39291&valid_channel=direct",
+            "task_jump_text": "去开通 >",
+            "task_activity_id": 911,
+            "task_type": "vip"
+        },
+        "popup_info": {
+            "popup_type": 1,
+            "popup_content": "https://i0.hdslb.com/bfs/activity-plat/static/20230724/4cefecc6742f8995a6bd22402a6d0b8b/E658Kdv4jy.png",
+            "button_text": "我知道了",
+            "button_jump_url": ""
+        },
+        "act_desc_light": "",
+        "not_need_realname": 0,
+        "product_introduce": "",
+        "app_head_show": "",
+        "app_space_show": "",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/31b36fef297ea948b19bafabd152a8ca7712c6e8.png\",\"card_count\":1,\"num_color\":\"#ad7e67\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/d09869512912906e9578f9fb2ea1bf2cd77ba406.png\",\"card_count\":5,\"num_color\":\"#99c0e9\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/5fc3c2e803cd5ac2de6c9972da01d5702ef87d93.png\",\"card_count\":15,\"num_color\":\"#ddba61\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/7f2862c7d2957b98919387bcf35fa0feab1a28c6.png\",\"card_count\":30,\"num_color\":\"#dcb0e9\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/14074f68ff8b2d1228c61c196a3a433bdfe18cc4.png\",\"card_count\":60,\"num_color\":\"#b1a6ed\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/fd248bab42cbd712143935268b23070cb01b023c.jpg",
@@ -1094,5 +1086,5 @@
                 }
             ]
         }
-    }
+    ]
 }

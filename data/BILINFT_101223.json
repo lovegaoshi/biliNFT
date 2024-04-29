@@ -1,266 +1,258 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "萌娘百科收藏集",
-            "cur_time": 1709512543,
-            "start_time": 1709114400,
-            "end_time": 2114406245,
-            "pre_start_time": 1709028000,
-            "pre_end_time": 1709114399,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 101224,
-                    "lottery_name": "万物皆可萌",
-                    "display_time": 1709028000,
-                    "start_time": 1709114400,
-                    "end_time": 2114406245,
-                    "lottery_image": "https://i0.hdslb.com/bfs/garb/bb6dc446c8e4586fd6a9734b9452a6e14a52ecae.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 42093751864832,
-                    "price": 9900,
-                    "goods_name": "万物皆可萌",
-                    "lottery_desc": "【隐藏款-大隐藏】：一起来吧！概率0.5%,若前399抽均未获得过任意大隐藏，则第400抽必得大隐藏;\n【隐藏款-小隐藏】：铭记之时概率4.5%;\n【普通款】：夜曲,森の妖精均分概率9%，其余立绘均分概率86%;",
-                    "item_total_cnt": 9,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 6938,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+        "act_title": "萌娘百科收藏集",
+        "cur_time": 1709512543,
+        "start_time": 1709114400,
+        "end_time": 2114406245,
+        "pre_start_time": 1709028000,
+        "pre_end_time": 1709114399,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 101224,
+                "lottery_name": "万物皆可萌",
+                "display_time": 1709028000,
+                "start_time": 1709114400,
+                "end_time": 2114406245,
+                "lottery_image": "https://i0.hdslb.com/bfs/garb/bb6dc446c8e4586fd6a9734b9452a6e14a52ecae.jpg",
+                "draw_cnt": 0,
+                "goods_id": 42093751864832,
+                "price": 9900,
+                "goods_name": "万物皆可萌",
+                "lottery_desc": "【隐藏款-大隐藏】：一起来吧！概率0.5%,若前399抽均未获得过任意大隐藏，则第400抽必得大隐藏;\n【隐藏款-小隐藏】：铭记之时概率4.5%;\n【普通款】：夜曲,森の妖精均分概率9%，其余立绘均分概率86%;",
+                "item_total_cnt": 9,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 6938,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
+                },
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "萌娘百科收藏集",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热售卖中，快来开卡吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/fe6dd26e47b01e4a98a402953347005854badcb8.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            },
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 1317,
+        "total_buy_cnt": 6938,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 101244,
+                "start_time": 1709028000,
+                "end_time": 2114406245,
+                "redeem_text": "万物皆可萌卡池内抽出【一起来吧！】立绘即可领取。",
+                "redeem_item_type": 3,
+                "redeem_item_id": "1708620248001",
+                "redeem_item_name": "萌百娘天使恶魔头像挂件",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/1b993ebe8d942a00da335f862da542b8223d2db6.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 101243,
+                "start_time": 1709028000,
+                "end_time": 2114406245,
+                "redeem_text": "万物皆可萌卡池内抽出【一起来吧！】或【铭记之时】中的任意1张立绘即可领取。",
+                "redeem_item_type": 3,
+                "redeem_item_id": "1708620259001",
+                "redeem_item_name": "文库姬天使恶魔头像挂件",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/bab6d03a67501754c9aeca017344709ac2e2baa9.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "card_type_id",
+                "remain_stock": -1,
+                "total_stock": -1
+            },
+            {
+                "collect_id": 101241,
+                "start_time": 1709038070,
+                "end_time": 1728576000,
+                "redeem_text": "万物皆可萌卡池完成5抽即可领取",
+                "redeem_item_type": 1,
+                "redeem_item_id": "1708715571001",
+                "redeem_item_name": "萌娘百科13周年纪念立绘",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/9a9cfbd2a5d8f77343c7fb6b6b622f85c4e82b52.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 5,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 0,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": {
+                        "id": 1708715571001,
+                        "name": "萌娘百科13周年",
+                        "overview_image": "https://i0.hdslb.com/bfs/garb/open/9a9cfbd2a5d8f77343c7fb6b6b622f85c4e82b52.png",
+                        "content": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/garb/open/9a9cfbd2a5d8f77343c7fb6b6b622f85c4e82b52.png",
+                                "gyroscope": null,
+                                "location": ""
+                            },
+                            "animation": null
+                        },
+                        "material_type": 1,
+                        "theme": "open",
+                        "scarcity": 0,
+                        "layout": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "face_overflow": null,
+                        "material_sub_type": 0,
+                        "overview_image_watermarks": [
+                            {
+                                "scene": 1,
+                                "watermark_image": "https://i0.hdslb.com/bfs/garb/watermark/d2f181689df4cdb36764ca2cef6f418d878142c2.png"
+                            }
+                        ],
+                        "watermark_animations": null,
+                        "space_background": {
+                            "image": {
+                                "default_image": "https://i0.hdslb.com/bfs/garb/open/9a9cfbd2a5d8f77343c7fb6b6b622f85c4e82b52.png",
+                                "gyroscope": null,
+                                "location": "0-0-1242-1242"
+                            },
+                            "animation": null
                         }
                     },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "萌娘百科收藏集",
-                "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
-                "share_content": "活动火热售卖中，快来开卡吧！"
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/fe6dd26e47b01e4a98a402953347005854badcb8.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            {
+                "collect_id": 101240,
+                "start_time": 1709028000,
+                "end_time": 2114406245,
+                "redeem_text": "万物皆可萌卡池完成2抽即可领取",
+                "redeem_item_type": 2,
+                "redeem_item_id": "1708718938001",
+                "redeem_item_name": "万物皆可萌表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/945faec6274f0885aebd31d7c026b466fc9226ed.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "total_book_cnt": 1317,
-            "total_buy_cnt": 6938,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 101244,
-                    "start_time": 1709028000,
-                    "end_time": 2114406245,
-                    "redeem_text": "万物皆可萌卡池内抽出【一起来吧！】立绘即可领取。",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "1708620248001",
-                    "redeem_item_name": "萌百娘天使恶魔头像挂件",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/1b993ebe8d942a00da335f862da542b8223d2db6.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            {
+                "collect_id": 101242,
+                "start_time": 1709028000,
+                "end_time": 2114406245,
+                "redeem_text": "万物皆可萌卡池完成20抽即可领取，限量50份",
+                "redeem_item_type": 9,
+                "redeem_item_id": "",
+                "redeem_item_name": "萌娘百科感谢礼盒",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/9603078236e9ef4483decfea0d3248427c1253a1.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 20,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 101243,
-                    "start_time": 1709028000,
-                    "end_time": 2114406245,
-                    "redeem_text": "万物皆可萌卡池内抽出【一起来吧！】或【铭记之时】中的任意1张立绘即可领取。",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "1708620259001",
-                    "redeem_item_name": "文库姬天使恶魔头像挂件",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/bab6d03a67501754c9aeca017344709ac2e2baa9.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "card_type_id",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 101241,
-                    "start_time": 1709038070,
-                    "end_time": 1728576000,
-                    "redeem_text": "万物皆可萌卡池完成5抽即可领取",
-                    "redeem_item_type": 1,
-                    "redeem_item_id": "1708715571001",
-                    "redeem_item_name": "萌娘百科13周年纪念立绘",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/9a9cfbd2a5d8f77343c7fb6b6b622f85c4e82b52.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 5,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 0,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": {
-                            "id": 1708715571001,
-                            "name": "萌娘百科13周年",
-                            "overview_image": "https://i0.hdslb.com/bfs/garb/open/9a9cfbd2a5d8f77343c7fb6b6b622f85c4e82b52.png",
-                            "content": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/garb/open/9a9cfbd2a5d8f77343c7fb6b6b622f85c4e82b52.png",
-                                    "gyroscope": null,
-                                    "location": ""
-                                },
-                                "animation": null
-                            },
-                            "material_type": 1,
-                            "theme": "open",
-                            "scarcity": 0,
-                            "layout": 0,
-                            "width": 1242,
-                            "height": 1863,
-                            "face_overflow": null,
-                            "material_sub_type": 0,
-                            "overview_image_watermarks": [
-                                {
-                                    "scene": 1,
-                                    "watermark_image": "https://i0.hdslb.com/bfs/garb/watermark/d2f181689df4cdb36764ca2cef6f418d878142c2.png"
-                                }
-                            ],
-                            "watermark_animations": null,
-                            "space_background": {
-                                "image": {
-                                    "default_image": "https://i0.hdslb.com/bfs/garb/open/9a9cfbd2a5d8f77343c7fb6b6b622f85c4e82b52.png",
-                                    "gyroscope": null,
-                                    "location": "0-0-1242-1242"
-                                },
-                                "animation": null
-                            }
-                        },
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 101240,
-                    "start_time": 1709028000,
-                    "end_time": 2114406245,
-                    "redeem_text": "万物皆可萌卡池完成2抽即可领取",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "1708718938001",
-                    "redeem_item_name": "万物皆可萌表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/945faec6274f0885aebd31d7c026b466fc9226ed.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                },
-                {
-                    "collect_id": 101242,
-                    "start_time": 1709028000,
-                    "end_time": 2114406245,
-                    "redeem_text": "万物皆可萌卡池完成20抽即可领取，限量50份",
-                    "redeem_item_type": 9,
-                    "redeem_item_id": "",
-                    "redeem_item_name": "萌娘百科感谢礼盒",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/9603078236e9ef4483decfea0d3248427c1253a1.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 20,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": 0,
-                    "total_stock": 50
-                }
-            ],
-            "display_title": "任务奖励",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
-            },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "1300259363",
-                "226363323",
-                "33784090",
-                "21693244",
-                "70938566",
-                "333727681",
-                "34030149"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "【萌娘百科收藏集】是由萌娘百科推出的IP收藏集，其中展现了萌娘百科大家族成员（以及乱入成员）生活中的点点滴滴。每张数字卡片都将拥有独特编号，期待与大家一起解锁见证萌娘百科每一位成员的点滴回忆，感受属于萌的魅力吧！(*°▽°*)八(*°▽°*)♪\n萌娘百科创建于2010年10月11日，是拥有数十年历史的ACGN主题在线百科全书，亦是中文圈最大的ACGN用户聚集地之一，主打“万物皆可萌”为口号。网站以ACGN（动画、漫画、游戏、轻小说）为主题收录了包括二次元动漫人物、萌属性、作品、软件、音乐、活动、文化等在内的多方位内容，期待你的关注~",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/open/083027fc6b364a4a9834f8664b4f8bf93cbccd20.png@0-280-1126-1126a",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/open/083027fc6b364a4a9834f8664b4f8bf93cbccd20.png@0-280-1126-1126a",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/c2676f75e562fa30cf9f0a4345686bcee01537d8.png\",\"card_count\":1,\"num_color\":\"#AFB3B1\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/6a2fc190a3f7b7e14169a7cb8f2418a7635709ab.png\",\"card_count\":5,\"num_color\":\"#C5D977\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/1c30292236216dcb339aeae611823bfe26daead1.png\",\"card_count\":15,\"num_color\":\"#7ED3E5\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/af54c9e73f9391377a4752f5428d48516e3dfa39.png\",\"card_count\":30,\"num_color\":\"#B77EE5\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/c2e12be25f01ac2ad843fa3e5477b46d71415381.png\",\"card_count\":60,\"num_color\":\"#FAE27E\"}]",
-            "topic": null,
-            "physical_exchange": false,
-            "act_square_img": "https://i0.hdslb.com/bfs/garb/524624ecc3fe3ad4d4214699935ab220df23b867.jpg"
-        }
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": 0,
+                "total_stock": 50
+            }
+        ],
+        "display_title": "任务奖励",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "1300259363",
+            "226363323",
+            "33784090",
+            "21693244",
+            "70938566",
+            "333727681",
+            "34030149"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【萌娘百科收藏集】是由萌娘百科推出的IP收藏集，其中展现了萌娘百科大家族成员（以及乱入成员）生活中的点点滴滴。每张数字卡片都将拥有独特编号，期待与大家一起解锁见证萌娘百科每一位成员的点滴回忆，感受属于萌的魅力吧！(*°▽°*)八(*°▽°*)♪\n萌娘百科创建于2010年10月11日，是拥有数十年历史的ACGN主题在线百科全书，亦是中文圈最大的ACGN用户聚集地之一，主打“万物皆可萌”为口号。网站以ACGN（动画、漫画、游戏、轻小说）为主题收录了包括二次元动漫人物、萌属性、作品、软件、音乐、活动、文化等在内的多方位内容，期待你的关注~",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/open/083027fc6b364a4a9834f8664b4f8bf93cbccd20.png@0-280-1126-1126a",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/open/083027fc6b364a4a9834f8664b4f8bf93cbccd20.png@0-280-1126-1126a",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/c2676f75e562fa30cf9f0a4345686bcee01537d8.png\",\"card_count\":1,\"num_color\":\"#AFB3B1\"},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/6a2fc190a3f7b7e14169a7cb8f2418a7635709ab.png\",\"card_count\":5,\"num_color\":\"#C5D977\"},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/1c30292236216dcb339aeae611823bfe26daead1.png\",\"card_count\":15,\"num_color\":\"#7ED3E5\"},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/af54c9e73f9391377a4752f5428d48516e3dfa39.png\",\"card_count\":30,\"num_color\":\"#B77EE5\"},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/c2e12be25f01ac2ad843fa3e5477b46d71415381.png\",\"card_count\":60,\"num_color\":\"#FAE27E\"}]",
+        "topic": null,
+        "physical_exchange": false,
+        "act_square_img": "https://i0.hdslb.com/bfs/garb/524624ecc3fe3ad4d4214699935ab220df23b867.jpg"
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/fe6dd26e47b01e4a98a402953347005854badcb8.jpg",
@@ -631,5 +623,5 @@
                 }
             ]
         }
-    }
+    ]
 }

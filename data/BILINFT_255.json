@@ -1,151 +1,143 @@
 {
     "basic": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
-            "act_title": "凡人修仙传动画收藏集",
-            "cur_time": 1702647802,
-            "start_time": 1700881200,
-            "end_time": 2114406245,
-            "pre_start_time": 1700794800,
-            "pre_end_time": 1700881199,
-            "is_booked": 0,
-            "act_desc": "",
-            "lottery_list": [
-                {
-                    "lottery_id": 208,
-                    "lottery_name": "宿命仙缘",
-                    "display_time": 1700794800,
-                    "start_time": 1700881200,
-                    "end_time": 2114406245,
-                    "lottery_image": "http://i0.hdslb.com/bfs/archive/6e0026e3d17bf6ec3ff7b07ed890da5b8151fec7.jpg",
-                    "draw_cnt": 0,
-                    "goods_id": 24823512197632,
-                    "price": 9900,
-                    "goods_name": "宿命仙缘",
-                    "lottery_desc": "【凡人修仙传动画收藏集宿命仙缘】共包含10张海报\n普通款：暮色孤城、衣曳紫烟、刻雾裁风、落英丹枫、乾坤叱咤、寻觅逍遥、莹窗雪案均分概率86%，飘渺山下概率9%；\n隐藏款：担风袖月概率4.5%、羁绊奇遇概率0.5%。",
-                    "item_total_cnt": 10,
-                    "item_owned_cnt": 0,
-                    "total_sale_amount": 67455,
-                    "lottery_type": 1,
-                    "effective_forever": 1,
-                    "discount": {
-                        "origin_price": 9900,
-                        "price": 4900,
-                        "discount_guidance": {
-                            "guidance_text": "开通大会员首抽",
-                            "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
-                        }
-                    },
-                    "free": 0,
-                    "sale_mode": 1
-                }
-            ],
-            "share_info": {
-                "main_title": "领取仙界专属羁绊之礼~",
-                "sub_title": "一起驰骋星海，快意恩仇！",
-                "share_content": "凡人修仙传动画收藏集活动火热开售中，收集全新动态音声海报"
-            },
-            "act_y_img": "https://i0.hdslb.com/bfs/garb/00779957c9309c9811848d55353842f71b0b3f86.jpg",
-            "animation_info": {
-                "animation_draw_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
-                    "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+        "act_title": "凡人修仙传动画收藏集",
+        "cur_time": 1702647802,
+        "start_time": 1700881200,
+        "end_time": 2114406245,
+        "pre_start_time": 1700794800,
+        "pre_end_time": 1700881199,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 208,
+                "lottery_name": "宿命仙缘",
+                "display_time": 1700794800,
+                "start_time": 1700881200,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/6e0026e3d17bf6ec3ff7b07ed890da5b8151fec7.jpg",
+                "draw_cnt": 0,
+                "goods_id": 24823512197632,
+                "price": 9900,
+                "goods_name": "宿命仙缘",
+                "lottery_desc": "【凡人修仙传动画收藏集宿命仙缘】共包含10张海报\n普通款：暮色孤城、衣曳紫烟、刻雾裁风、落英丹枫、乾坤叱咤、寻觅逍遥、莹窗雪案均分概率86%，飘渺山下概率9%；\n隐藏款：担风袖月概率4.5%、羁绊奇遇概率0.5%。",
+                "item_total_cnt": 10,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 67455,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
                 },
-                "animation_entry_url": {
-                    "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
-                    "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
-                }
+                "free": 0,
+                "sale_mode": 1
+            }
+        ],
+        "share_info": {
+            "main_title": "领取仙界专属羁绊之礼~",
+            "sub_title": "一起驰骋星海，快意恩仇！",
+            "share_content": "凡人修仙传动画收藏集活动火热开售中，收集全新动态音声海报"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/00779957c9309c9811848d55353842f71b0b3f86.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
             },
-            "total_book_cnt": 1335,
-            "total_buy_cnt": 67455,
-            "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
-            "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
-            "is_pre": 1,
-            "is_pre_risk": 0,
-            "is_collector_rank": 1,
-            "collect_list": [
-                {
-                    "collect_id": 585,
-                    "start_time": 1700794800,
-                    "end_time": 2114406245,
-                    "redeem_text": "完成2抽即可领取，单UID仅可领取一次",
-                    "redeem_item_type": 2,
-                    "redeem_item_id": "63758",
-                    "redeem_item_name": "凡人修仙传动画表情包",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/54b6ec33936c4c4ffc032741a5f83a4a638258ac.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 2,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "lottery_num",
-                    "remain_stock": -1,
-                    "total_stock": -1
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 1335,
+        "total_buy_cnt": 67455,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": [
+            {
+                "collect_id": 585,
+                "start_time": 1700794800,
+                "end_time": 2114406245,
+                "redeem_text": "完成2抽即可领取，单UID仅可领取一次",
+                "redeem_item_type": 2,
+                "redeem_item_id": "63758",
+                "redeem_item_name": "凡人修仙传动画表情包",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/54b6ec33936c4c4ffc032741a5f83a4a638258ac.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 2,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
                 },
-                {
-                    "collect_id": 584,
-                    "start_time": 1700794800,
-                    "end_time": 2114406245,
-                    "redeem_text": "抽到任意1张隐藏卡即可领取，单UID仅可领取一次。",
-                    "redeem_item_type": 3,
-                    "redeem_item_id": "63756",
-                    "redeem_item_name": "凡人修仙传动画头像框",
-                    "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/9d11190d535f663e0286557ab099ddd8133b518d.png",
-                    "owned_item_amount": 0,
-                    "require_item_amount": 1,
-                    "has_redeemed_cnt": 0,
-                    "effective_forever": 1,
-                    "redeem_item_image_download": "",
-                    "card_item": {
-                        "card_type_info": null,
-                        "play": null,
-                        "tag": null
-                    },
-                    "jump_url": "",
-                    "redeem_cond_type": "scarcity",
-                    "remain_stock": -1,
-                    "total_stock": -1
-                }
-            ],
-            "display_title": "羁绊之礼",
-            "effective_forever": 1,
-            "guide_info": {
-                "title": "",
-                "guide_content": "",
-                "jump_url": ""
+                "jump_url": "",
+                "redeem_cond_type": "lottery_num",
+                "remain_stock": -1,
+                "total_stock": -1
             },
-            "is_can_donate": 1,
-            "is_up_chain": 0,
-            "related_mids": [
-                "557818222"
-            ],
-            "is_vip": false,
-            "task_list": null,
-            "popup_info": null,
-            "act_desc_light": "",
-            "not_need_realname": 1,
-            "product_introduce": "凡人修仙传动画数字收藏集是哔哩哔哩数字周边携手《凡人修仙传》动画一起打造的专属数字收藏集，每张卡片都有独一无二的编号，一起解锁凡人的专属画面，驰骋星海，快意恩仇！",
-            "app_head_show": "https://i0.hdslb.com/bfs/garb/71219421d9293756db8d3601d5d35fac181b9eb5.png",
-            "app_space_show": "https://i0.hdslb.com/bfs/garb/71219421d9293756db8d3601d5d35fac181b9eb5.png",
-            "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/f2656a53f3a3ac1735ed46d0d549c7660609bc82.png\",\"card_count\":1,\"num_color\":\"#a88573\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/7001959da54d30a29fa314d42287a3e4973df1d8.png\",\"card_count\":5,\"num_color\":\"#7eb0ef\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/dfd779379e49ac97d8113b3c26606bfdec4a05ba.png\",\"card_count\":15,\"num_color\":\"#e8bc5c\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/511cac0a393d3e0db01360573bbe3d645c712288.png\",\"card_count\":30,\"num_color\":\"#ff888e\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/9769ea77b10d7956f5a00d6b1d3c3b4e9f7e7975.png\",\"card_count\":60,\"num_color\":\"#9188ff\"}]",
-            "topic": null
-        }
+            {
+                "collect_id": 584,
+                "start_time": 1700794800,
+                "end_time": 2114406245,
+                "redeem_text": "抽到任意1张隐藏卡即可领取，单UID仅可领取一次。",
+                "redeem_item_type": 3,
+                "redeem_item_id": "63756",
+                "redeem_item_name": "凡人修仙传动画头像框",
+                "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/9d11190d535f663e0286557ab099ddd8133b518d.png",
+                "owned_item_amount": 0,
+                "require_item_amount": 1,
+                "has_redeemed_cnt": 0,
+                "effective_forever": 1,
+                "redeem_item_image_download": "",
+                "card_item": {
+                    "card_type_info": null,
+                    "play": null,
+                    "tag": null
+                },
+                "jump_url": "",
+                "redeem_cond_type": "scarcity",
+                "remain_stock": -1,
+                "total_stock": -1
+            }
+        ],
+        "display_title": "羁绊之礼",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "557818222"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "凡人修仙传动画数字收藏集是哔哩哔哩数字周边携手《凡人修仙传》动画一起打造的专属数字收藏集，每张卡片都有独一无二的编号，一起解锁凡人的专属画面，驰骋星海，快意恩仇！",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/71219421d9293756db8d3601d5d35fac181b9eb5.png",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/71219421d9293756db8d3601d5d35fac181b9eb5.png",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"http://i0.hdslb.com/bfs/archive/f2656a53f3a3ac1735ed46d0d549c7660609bc82.png\",\"card_count\":1,\"num_color\":\"#a88573\"},{\"level\":2,\"score\":30,\"image\":\"http://i0.hdslb.com/bfs/archive/7001959da54d30a29fa314d42287a3e4973df1d8.png\",\"card_count\":5,\"num_color\":\"#7eb0ef\"},{\"level\":3,\"score\":100,\"image\":\"http://i0.hdslb.com/bfs/archive/dfd779379e49ac97d8113b3c26606bfdec4a05ba.png\",\"card_count\":15,\"num_color\":\"#e8bc5c\"},{\"level\":4,\"score\":250,\"image\":\"http://i0.hdslb.com/bfs/archive/511cac0a393d3e0db01360573bbe3d645c712288.png\",\"card_count\":30,\"num_color\":\"#ff888e\"},{\"level\":5,\"score\":0,\"image\":\"http://i0.hdslb.com/bfs/archive/9769ea77b10d7956f5a00d6b1d3c3b4e9f7e7975.png\",\"card_count\":60,\"num_color\":\"#9188ff\"}]",
+        "topic": null
     },
-    "list": {
-        "code": 0,
-        "message": "0",
-        "ttl": 1,
-        "data": {
+    "list": [
+        {
             "uname": "",
             "uface": "",
             "act_y_img": "https://i0.hdslb.com/bfs/garb/00779957c9309c9811848d55353842f71b0b3f86.jpg",
@@ -484,5 +476,5 @@
                 }
             ]
         }
-    }
+    ]
 }
