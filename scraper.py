@@ -67,11 +67,12 @@ def scrape_id(last_scraped: str):
     logging.info(
         'scaped %s to be %s', last_scraped, jsoned["data"]["act_title"])
     data['basic'] = jsoned
-    time.sleep(1)
+    time.sleep(10)
     data['list'] = requests.get(LIST_API.format(
         id=last_scraped), timeout=10, headers=headers).json()
     with open(join('data', f'BILINFT_{last_scraped}.json'), 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
+    time.sleep(10)
     return 0
 
 
