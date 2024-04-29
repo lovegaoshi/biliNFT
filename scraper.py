@@ -7,6 +7,7 @@ from os.path import join, basename
 import requests
 
 from scrapers.NFTlist import scrape as masterlist_scrape
+from scrapers.NFTdetail import scrape as detail_scrape
 from scrapers.constants import headers
 
 '''
@@ -14,7 +15,6 @@ https://api.bilibili.com/x/vas/dlc_act/act/basic?act_id={藏品id}
 https://api.bilibili.com/x/vas/dlc_act/act/item/list?act_id={藏品id}
 '''
 BASIC_API = 'https://api.bilibili.com/x/vas/dlc_act/act/basic?act_id={id}'
-LIST_API = 'https://api.bilibili.com/x/vas/dlc_act/act/item/list?act_id={id}'
 
 
 def save_last_scraped(scraped: str):
@@ -66,13 +66,12 @@ def scrape_id(last_scraped: str):
             return 1
     logging.info(
         'scaped %s to be %s', last_scraped, jsoned["data"]["act_title"])
-    data['basic'] = jsoned
-    time.sleep(10)
-    data['list'] = requests.get(LIST_API.format(
-        id=last_scraped), timeout=10, headers=headers).json()
+    data['basic'] = jsoned['data']
+    time.sleep(1)
+    data['list'] = [detail_scrape(last_scraped, x['lottery_id'])
+                    for x in data['basic']['lottery_list']]
     with open(join('data', f'BILINFT_{last_scraped}.json'), 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
-    time.sleep(10)
     return 0
 
 
