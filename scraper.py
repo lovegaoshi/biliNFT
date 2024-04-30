@@ -7,7 +7,7 @@ from os.path import join, basename
 import requests
 
 from scrapers.NFTlist import scrape as masterlist_scrape
-from scrapers.NFTdetail_old import scrape as detail_scrape
+from scrapers.NFTdetail import scrape as detail_scrape
 from scrapers.constants import headers
 
 '''
@@ -67,8 +67,8 @@ def scrape_id(last_scraped: str):
     logging.info(
         'scaped %s to be %s', last_scraped, jsoned["data"]["act_title"])
     data['basic'] = jsoned['data']
-    time.sleep(1)  # , x['lottery_id']
-    data['list'] = [detail_scrape(last_scraped)
+    time.sleep(1)  # 
+    data['list'] = [detail_scrape(last_scraped, x['lottery_id'])
                     for x in data['basic']['lottery_list']]
     with open(join('data', f'BILINFT_{last_scraped}.json'), 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
