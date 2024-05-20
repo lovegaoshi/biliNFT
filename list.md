@@ -853,6 +853,9 @@
 [# 101918.池年收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_101918.json)
 ![池年收藏集](https://i0.hdslb.com/bfs/garb/90a1a27d6ce23c39958acf3a8f47eba9b76973bc.png)
 
+[# 101926.折原露露收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_101926.json)
+![折原露露收藏集](https://i0.hdslb.com/bfs/garb/42efc54066c6fb809431b670dab2afa2e461ab46.png)
+
 [# 101931.G2·2024成都MSI收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_101931.json)
 ![G2·2024成都MSI收藏集](https://i0.hdslb.com/bfs/garb/28fb38baf4c6523c698f0f9e388ede2591ee6dce.jpg)
 
