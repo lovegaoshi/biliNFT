@@ -1021,6 +1021,9 @@
 [# 102366.Aimer digital collection](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_102366.json)
 ![Aimer digital collection](https://i0.hdslb.com/bfs/garb/d8d1fa4d99417b39f31079d6f33656fb74ff0af7.png)
 
+[# 102381.椋笙栗Kuri·星河夏夜](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_102381.json)
+![椋笙栗Kuri·星河夏夜](https://i0.hdslb.com/bfs/garb/0d60217bc357b17d64e35e5a911b81005be409a0.jpg)
+
 [# 104.赘婿动画收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104.json)
 ![赘婿动画收藏集](http://i0.hdslb.com/bfs/archive/92ce603ece0e568cdc29cf75d71a8e8861c6759a.jpg)
 
