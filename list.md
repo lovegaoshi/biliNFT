@@ -1057,6 +1057,9 @@
 [# 102488.王筱沫沫收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_102488.json)
 ![王筱沫沫收藏集](https://i0.hdslb.com/bfs/garb/e576cb303bca90d4a77cd383069ce2fcbca03dd6.png)
 
+[# 102499.雪绘Yukie收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_102499.json)
+![雪绘Yukie收藏集](https://i0.hdslb.com/bfs/garb/ca58645da2e49a804020355f5019de59e6f5cae3.jpg)
+
 [# 104.赘婿动画收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104.json)
 ![赘婿动画收藏集](http://i0.hdslb.com/bfs/archive/92ce603ece0e568cdc29cf75d71a8e8861c6759a.jpg)
 
