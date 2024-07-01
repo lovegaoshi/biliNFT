@@ -13,6 +13,8 @@ def scrape(init=0, end=None):
     req = requests.get(API.format(counts=init), timeout=10, headers=headers)
     time.sleep(4)
     json = req.json()['data']
+    if json['list'] is None:
+        return []
     result = [x['act_id'] for x in json['list']]
     if json['is_more']:
         if end is None or end > json['site']:
