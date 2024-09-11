@@ -5,6 +5,7 @@ import logging
 import glob
 from os.path import join, basename
 import requests
+from natsort import natsorted
 
 from scrapers.NFTlist import scrape as masterlist_scrape
 from scrapers.NFTdetail import scrape as detail_scrape
@@ -18,7 +19,7 @@ BASIC_API = 'https://api.bilibili.com/x/vas/dlc_act/act/basic?act_id={id}'
 
 def write_list():
     with open('list.md', 'w', encoding='utf-8') as f:
-        for jsondata in sorted(glob.glob('data/*.json')):
+        for jsondata in natsorted(glob.glob('data/*.json')):
             try:
                 nft_id = basename(jsondata)[8:-5]
                 with open(jsondata, encoding='utf-8') as g:

@@ -13,8 +13,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: python version_bump.py
+      - name: scrape biliNFT
         run: |
+          pip install natsorted
           python scraper.py
           python emotescraper.py ${{secrets.EMOTEURL}}
 
