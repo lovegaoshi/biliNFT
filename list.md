@@ -1951,6 +1951,9 @@
 [# 103720.科幻世界收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_103720.json)
 ![科幻世界收藏集](https://i0.hdslb.com/bfs/garb/40c0ccf0cd35494a42c8fc4970c55b1cc727db3d.png)
 
+[# 103721.烛宝天使恶魔双生子收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_103721.json)
+![烛宝天使恶魔双生子收藏集](https://i0.hdslb.com/bfs/garb/360ce459f8358520590c0bb9f4cb63a75391aa28.png)
+
 [# 103723.团小哈收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_103723.json)
 ![团小哈收藏集](https://i0.hdslb.com/bfs/garb/f2c18ff4a8802f0da64a25893e4663ed66d59a7f.png)
 
@@ -2002,6 +2005,9 @@
 [# 103857.繁花·幻娜Hana收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_103857.json)
 ![繁花·幻娜Hana收藏集](https://i0.hdslb.com/bfs/garb/96c7ec2c7d4a9de22888263f556bef3c2d7be50f.png)
 
+[# 103866.鹿野灸少年异闻录](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_103866.json)
+![鹿野灸少年异闻录](https://i0.hdslb.com/bfs/garb/7397ef86d3867805c9a76e4fc2f29f5f305d4c2f.jpg)
+
 [# 103870.鲸鱼娘收藏集·水嬉之旅](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_103870.json)
 ![鲸鱼娘收藏集·水嬉之旅](https://i0.hdslb.com/bfs/garb/aaae29016106e81ccb7851c2e5f55bff3f04aa8f.png)
 
@@ -2023,6 +2029,9 @@
 [# 103942.星萌之约收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_103942.json)
 ![星萌之约收藏集](https://i0.hdslb.com/bfs/garb/233b3c727201d30d5b8734ff971f7fc461d2c586.jpg)
 
+[# 103948.物华弥新收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_103948.json)
+![物华弥新收藏集](https://i0.hdslb.com/bfs/garb/00e25abf5b1b397196425a89497822aa01aa1526.png)
+
 [# 103972.小鱼干收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_103972.json)
 ![小鱼干收藏集](https://i0.hdslb.com/bfs/garb/cda8c4e52905a8a875592897de79e4883c73014c.png)
 
@@ -2032,6 +2041,33 @@
 [# 104006.炎辰收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104006.json)
 ![炎辰收藏集](https://i0.hdslb.com/bfs/garb/6e13909bffd205c8f069a8ae7b22eaf2e0a10460.png)
 
+[# 104015.盒中之海收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104015.json)
+![盒中之海收藏集](https://i0.hdslb.com/bfs/garb/495c6b1a101fefca0ae6c9a8715fa36f86d9e05a.jpg)
+
 [# 104036.从21世纪安全撤离](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104036.json)
 ![从21世纪安全撤离](https://i0.hdslb.com/bfs/garb/8e1d22ca51c468c64a4291671828d1d41f1c8005.jpg)
+
+[# 104041.铠甲勇士收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104041.json)
+![铠甲勇士收藏集](https://i0.hdslb.com/bfs/garb/e68af709a7fea7e5194c5e747a9b85aa6bec27f4.png)
+
+[# 104051.夜色恋歌·雾氧Uo收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104051.json)
+![夜色恋歌·雾氧Uo收藏集](https://i0.hdslb.com/bfs/garb/51abb980123b92f3e1501ad754732c6e1e3c3d5b.jpg)
+
+[# 104060.魔道祖师动画收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104060.json)
+![魔道祖师动画收藏集](https://i0.hdslb.com/bfs/garb/45367bdeba8820585654c2d080852b075f499d79.jpg)
+
+[# 104078.霏霏收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104078.json)
+![霏霏收藏集](https://i0.hdslb.com/bfs/garb/654b5471e06646d332acfe904b344253eb1a43c8.jpg)
+
+[# 104102.BLG·2024LPL出征收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104102.json)
+![BLG·2024LPL出征收藏集](https://i0.hdslb.com/bfs/garb/f2f1e55bcce1bccacb30e39b87eca2231f587554.jpg)
+
+[# 104104.LNG·2024LPL出征收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104104.json)
+![LNG·2024LPL出征收藏集](https://i0.hdslb.com/bfs/garb/84fa230e6dfddbe6bd81feafb86b9813be1cba97.jpg)
+
+[# 104106.TES·2024LPL出征收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104106.json)
+![TES·2024LPL出征收藏集](https://i0.hdslb.com/bfs/garb/66450d4f709345837826d9f709fe6919f9f58a14.jpg)
+
+[# 104108.WBG·2024LPL出征收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104108.json)
+![WBG·2024LPL出征收藏集](https://i0.hdslb.com/bfs/garb/a91a9009ea76f81fe0803c67ee8ecba2d3263560.jpg)
 
