@@ -2032,6 +2032,15 @@
 [# 103948.物华弥新收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_103948.json)
 ![物华弥新收藏集](https://i0.hdslb.com/bfs/garb/00e25abf5b1b397196425a89497822aa01aa1526.png)
 
+[# 103950.菲莉丝Phyllis收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_103950.json)
+![菲莉丝Phyllis收藏集](https://i0.hdslb.com/bfs/garb/2de47edbee1c0aa75b087bfcbc9ebb909ae81e40.png)
+
+[# 103952.可洛收藏集·可甜可洛](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_103952.json)
+![可洛收藏集·可甜可洛](https://i0.hdslb.com/bfs/garb/456a7b85b8dc8d83571970d03042b672806f2705.jpg)
+
+[# 103966.礼拜六Liu收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_103966.json)
+![礼拜六Liu收藏集](https://i0.hdslb.com/bfs/garb/9c5b03a79074b1354ee4277d77c108441ac8ff35.jpg)
+
 [# 103972.小鱼干收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_103972.json)
 ![小鱼干收藏集](https://i0.hdslb.com/bfs/garb/cda8c4e52905a8a875592897de79e4883c73014c.png)
 
@@ -2055,6 +2064,9 @@
 
 [# 104060.魔道祖师动画收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104060.json)
 ![魔道祖师动画收藏集](https://i0.hdslb.com/bfs/garb/45367bdeba8820585654c2d080852b075f499d79.jpg)
+
+[# 104067.诛仙动画收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104067.json)
+![诛仙动画收藏集](https://i0.hdslb.com/bfs/garb/e486d0ac984fef398b371de892121dd181dfbe7c.png)
 
 [# 104078.霏霏收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104078.json)
 ![霏霏收藏集](https://i0.hdslb.com/bfs/garb/654b5471e06646d332acfe904b344253eb1a43c8.jpg)
