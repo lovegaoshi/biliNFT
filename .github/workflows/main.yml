@@ -15,7 +15,7 @@ jobs:
 
       - name: scrape biliNFT
         run: |
-          pip install natsort
+          pip install natsort --break-system-packages
           python scraper.py
           python emotescraper.py ${{secrets.EMOTEURL}}
 
