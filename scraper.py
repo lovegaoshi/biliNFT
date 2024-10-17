@@ -1,6 +1,5 @@
 import json
 import time
-import sys
 import logging
 import glob
 from os.path import join, basename
@@ -16,6 +15,7 @@ https://api.bilibili.com/x/vas/dlc_act/act/basic?act_id={藏品id}
 https://api.bilibili.com/x/vas/dlc_act/act/item/list?act_id={藏品id}
 '''
 BASIC_API = 'https://api.bilibili.com/x/vas/dlc_act/act/basic?act_id={id}'
+
 
 def write_list():
     with open('list.md', 'w', encoding='utf-8') as f:
@@ -49,12 +49,13 @@ def scrape_id(last_scraped: str):
     logging.info(
         'scaped %s to be %s', last_scraped, jsoned["data"]["act_title"])
     data['basic'] = jsoned['data']
-    time.sleep(1)  # 
+    time.sleep(1)  #
     data['list'] = [detail_scrape(last_scraped, x['lottery_id'])
                     for x in data['basic']['lottery_list']]
     with open(join('data', f'BILINFT_{last_scraped}.json'), 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
     return 0
+
 
 if __name__ == '__main__':
     import argparse
@@ -62,15 +63,17 @@ if __name__ == '__main__':
     parser.add_argument("--id", type=str,
                         help="file path or weblink", nargs='+', default=[])
     args = parser.parse_args()
+    overwrite = False
 
     logging.basicConfig(level=logging.DEBUG)
     if (len(args.id) > 0):
         nft_list = args.id
+        overwrite = True
     else:
         nft_list = masterlist_scrape()
     scraped_nft = [int(basename(x)[8:-5]) for x in glob.glob('data/*.json')]
     for nft_id in nft_list:
-        if nft_id not in scraped_nft:
+        if nft_id not in scraped_nft or overwrite:
             logging.info('scraping %s', nft_id)
             scrape_id(nft_id)
 
