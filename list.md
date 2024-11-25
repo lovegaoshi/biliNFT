@@ -2311,3 +2311,6 @@
 [# 104739.卜梦寻往·塔克收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104739.json)
 ![卜梦寻往·塔克收藏集](https://i0.hdslb.com/bfs/garb/184070cde73fe80ae6b7bd10d9476a0927aed48e.jpg)
 
+[# 104741.万有引力·伊万收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104741.json)
+![万有引力·伊万收藏集](https://i0.hdslb.com/bfs/garb/12a969bf859fef4efdcbd95fba5e08394ee788fe.jpg)
+
