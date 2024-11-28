@@ -2305,6 +2305,9 @@
 [# 104695.邦邦的日常](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104695.json)
 ![邦邦的日常](https://i0.hdslb.com/bfs/garb/ea46a99f0bde8a60b742486c89fec97485e79f70.jpg)
 
+[# 104732.黑泽诺亚NOIR个人收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104732.json)
+![黑泽诺亚NOIR个人收藏集](https://i0.hdslb.com/bfs/garb/7ef1f86ed15bc9b9842ff1cfae7c82061d84bb73.png)
+
 [# 104737.猫之城](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104737.json)
 ![猫之城](https://i0.hdslb.com/bfs/garb/4366e27e89a495f3b99a7c96e7a2725e3e0cdd18.png)
 
@@ -2313,4 +2316,19 @@
 
 [# 104741.万有引力·伊万收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104741.json)
 ![万有引力·伊万收藏集](https://i0.hdslb.com/bfs/garb/12a969bf859fef4efdcbd95fba5e08394ee788fe.jpg)
+
+[# 104783.奈姬niki收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104783.json)
+![奈姬niki收藏集](https://i0.hdslb.com/bfs/garb/6a2395d9be428ac09766deafbd8ead49503216ea.jpg)
+
+[# 104785.萝尔露Real收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104785.json)
+![萝尔露Real收藏集](https://i0.hdslb.com/bfs/garb/bb3080818b3020649ad468f9f9490b1d84f8d09c.png)
+
+[# 104812.Spirit 2024上海Major](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104812.json)
+![Spirit 2024上海Major](http://i0.hdslb.com/bfs/archive/245e15df18a68a3ef7b8de1a17eb89beb8d4748f.jpg)
+
+[# 104825.巴萨125周年纪念收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104825.json)
+![巴萨125周年纪念收藏集](https://i0.hdslb.com/bfs/garb/026977a8ed91da230eb3516a1790741b15ff38d6.jpg)
+
+[# 104826.一条小糖糖](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104826.json)
+![一条小糖糖](https://i0.hdslb.com/bfs/garb/792449efea36eab7f1e92b6b956773b751d4c0db.jpg)
 
