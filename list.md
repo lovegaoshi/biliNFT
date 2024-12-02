@@ -2245,6 +2245,9 @@
 [# 104492.天官赐福动画·四周年纪念](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104492.json)
 ![天官赐福动画·四周年纪念](https://i0.hdslb.com/bfs/garb/a1a760406c2ebf816f3362ed2ce65bb64f0fdaf4.png)
 
+[# 104494.陶可爱收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104494.json)
+![陶可爱收藏集](https://i0.hdslb.com/bfs/garb/2583cf29ee03caf6cf6fdb15ac656fdf62d6aa4f.png)
+
 [# 104508.小花仙-纯白礼赞系列](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104508.json)
 ![小花仙-纯白礼赞系列](https://i0.hdslb.com/bfs/garb/8596c220312abcbbbeccaec7d5b9d15fa9032a01.jpg)
 
@@ -2323,6 +2326,9 @@
 [# 104785.萝尔露Real收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104785.json)
 ![萝尔露Real收藏集](https://i0.hdslb.com/bfs/garb/bb3080818b3020649ad468f9f9490b1d84f8d09c.png)
 
+[# 104795.MaggieYoo收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104795.json)
+![MaggieYoo收藏集](https://i0.hdslb.com/bfs/garb/f3f6a5000b54a1d52820bcf657c0b76c5bc61571.png)
+
 [# 104812.Spirit 2024上海Major](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104812.json)
 ![Spirit 2024上海Major](http://i0.hdslb.com/bfs/archive/245e15df18a68a3ef7b8de1a17eb89beb8d4748f.jpg)
 
@@ -2331,4 +2337,16 @@
 
 [# 104826.一条小糖糖](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104826.json)
 ![一条小糖糖](https://i0.hdslb.com/bfs/garb/792449efea36eab7f1e92b6b956773b751d4c0db.jpg)
+
+[# 104848.莉可丽丝收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104848.json)
+![莉可丽丝收藏集](https://i0.hdslb.com/bfs/garb/b98ca651bec0d79c3cf6c81aa535fbab041d31d4.jpg)
+
+[# 104859.徐珺大哥收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104859.json)
+![徐珺大哥收藏集](https://i0.hdslb.com/bfs/garb/65349c1a0b90eebd7ae02ef1bf793c29ebe77ca5.jpg)
+
+[# 104876.晶核](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104876.json)
+![晶核](https://i0.hdslb.com/bfs/garb/a1a7142ce8668b1aebd9cea346df262288d53161.jpg)
+
+[# 104878.小清晨儿_收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_104878.json)
+![小清晨儿_收藏集](https://i0.hdslb.com/bfs/garb/9f4f155cf6dfcd73fca0fb8b49baea99ab1a68dd.png)
 
