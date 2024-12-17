@@ -1,14 +1,12 @@
 import json
-import time
 import logging
 import glob
 from os.path import join, basename
-import requests
 from natsort import natsorted
+import time
 
 from scrapers.NFTlist import scrape as masterlist_scrape
-from scrapers.NFTdetail import scrape as detail_scrape
-from scrapers.constants import headers
+from scrapers.NFTdetail import scrape
 
 '''
 https://api.bilibili.com/x/vas/dlc_act/act/basic?act_id={藏品id}
@@ -37,26 +35,6 @@ def write_list():
                 logging.error('failed to write %s. is it valid?', jsondata)
 
 
-def scrape_id(last_scraped: str):
-    data = {}
-    res = requests.get(BASIC_API.format(id=last_scraped),
-                       timeout=10, headers=headers)
-    jsoned = res.json()
-    if jsoned['code'] != 0:
-        logging.warning(
-            '%s errored out: %s.', last_scraped, json.dumps(jsoned))
-        return 1
-    logging.info(
-        'scaped %s to be %s', last_scraped, jsoned["data"]["act_title"])
-    data['basic'] = jsoned['data']
-    time.sleep(1)  #
-    data['list'] = [detail_scrape(last_scraped, x['lottery_id'])
-                    for x in data['basic']['lottery_list']]
-    with open(join('data', f'BILINFT_{last_scraped}.json'), 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
-    return 0
-
-
 if __name__ == '__main__':
     import argparse
     parser = argparse.ArgumentParser(description="ina music segment")
@@ -75,6 +53,10 @@ if __name__ == '__main__':
     for nft_id in nft_list:
         if nft_id not in scraped_nft or overwrite:
             logging.info('scraping %s', nft_id)
-            scrape_id(nft_id)
+            data = scrape(nft_id)
+            with open(join(
+                'data', f'BILINFT_{nft_id}.json'), 'w', encoding='utf-8') as f:
+                json.dump(data, f, indent=4, ensure_ascii=False)
+            time.sleep(1)
 
     write_list()

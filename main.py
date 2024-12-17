@@ -1,5 +1,4 @@
-from fastapi import FastAPI, Response, HTTPException, Request
-import logging
+from fastapi import FastAPI, HTTPException
 import json
 
 app = FastAPI()

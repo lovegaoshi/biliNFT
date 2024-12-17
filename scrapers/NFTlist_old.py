@@ -1,6 +1,4 @@
 import requests
-import time
-import logging
 
 from .constants import headers
 
