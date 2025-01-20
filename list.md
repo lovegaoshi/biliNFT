@@ -2497,6 +2497,9 @@
 [# 105283.不稳定发电机收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105283.json)
 ![不稳定发电机收藏集](https://i0.hdslb.com/bfs/garb/44d7da2f2dded0694d1907615acd917d93f8dbf9.jpg)
 
+[# 105299.悠扬夏忆](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105299.json)
+![悠扬夏忆](https://i0.hdslb.com/bfs/garb/73480791d001eddca853ab4ecdb0f98d3982a513.png)
+
 [# 105300.小王子·收藏集-星际巡游](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105300.json)
 ![小王子·收藏集-星际巡游](https://i0.hdslb.com/bfs/garb/457d9974c1db5d8c81969fb4308ed5352d2d3d38.png)
 
@@ -2572,15 +2575,66 @@
 [# 105510.玉京子Kyouko收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105510.json)
 ![玉京子Kyouko收藏集](https://i0.hdslb.com/bfs/garb/f410ba3a6b4aa1dabbdb4b8b6b331a86764c4307.png)
 
+[# 105512.2025拜年纪](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105512.json)
+![2025拜年纪](https://i0.hdslb.com/bfs/garb/a6ba5666d72fa03aa4e3e4dc187cb283273fa558.jpg)
+
+[# 105518.与你独处·楽烯Roky收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105518.json)
+![与你独处·楽烯Roky收藏集](https://i0.hdslb.com/bfs/garb/f00f8d1ca0600496d550ac8f4213dc85521357e7.png)
+
 [# 105526.碎夜瑠璃LapisLazuli](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105526.json)
 ![碎夜瑠璃LapisLazuli](https://i0.hdslb.com/bfs/garb/a4a960ca2e331b004b95096b1719d23cf4d2df30.png)
 
 [# 105547.活色生香](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105547.json)
 ![活色生香](https://i0.hdslb.com/bfs/garb/1261c463c66ee6c56903ae2039a97d32b4a68364.png)
 
+[# 105549.艾姬薇宝收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105549.json)
+![艾姬薇宝收藏集](https://i0.hdslb.com/bfs/garb/0d59bcee12b27eef6c5101b601ac98ee1c5439a2.jpg)
+
 [# 105556.BLG信念不熄收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105556.json)
 ![BLG信念不熄收藏集](https://i0.hdslb.com/bfs/garb/a4feeb2ce4e8c8ded68909b3ec3732d88238683f.png)
 
+[# 105571.轮回的誓约](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105571.json)
+![轮回的誓约](https://i0.hdslb.com/bfs/garb/9f94670d42b4df42c54de88e0e7b723a711a1684.jpg)
+
 [# 105575.局长的教育手册](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105575.json)
 ![局长的教育手册](https://i0.hdslb.com/bfs/garb/38d8a925801ddddadf68642a509b78d7e6b05a24.png)
+
+[# 105577.笙歌OvO收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105577.json)
+![笙歌OvO收藏集](https://i0.hdslb.com/bfs/garb/6545b4cf43b41d298a1bf0ab50556599e7684d2a.jpg)
+
+[# 105590.童话小黑猫](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105590.json)
+![童话小黑猫](https://i0.hdslb.com/bfs/garb/f2dfa2df4361b61c54fb38992ecdc0a5d30227c8.jpg)
+
+[# 105601.弈仙牌·收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105601.json)
+![弈仙牌·收藏集](https://i0.hdslb.com/bfs/garb/f9907fe67abc88d7b45426fb0c50d5dfa1885467.jpg)
+
+[# 105603.尾哥模玩收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105603.json)
+![尾哥模玩收藏集](https://i0.hdslb.com/bfs/garb/0c353129667fb4d6ed431f3a534665eedeaecda6.jpg)
+
+[# 105606.蔚蓝档案2025收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105606.json)
+![蔚蓝档案2025收藏集](https://i0.hdslb.com/bfs/garb/f733f473eff4b8f7d754549b2ab5ed506d6c9820.jpg)
+
+[# 105611.妄伪校园设定集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105611.json)
+![妄伪校园设定集](https://i0.hdslb.com/bfs/garb/d65ab933cf3e86b1bd9efc183cd797891ff43b1f.jpg)
+
+[# 105648.爱执欲意·冥冥收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105648.json)
+![爱执欲意·冥冥收藏集](https://i0.hdslb.com/bfs/garb/3e9ad0384389d28405a8d6eba0b4c7d47a8944ef.png)
+
+[# 105661.小花仙时空彼岸纪念系列](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105661.json)
+![小花仙时空彼岸纪念系列](https://i0.hdslb.com/bfs/garb/6c0018c6939f1e7de89ea98a75c752bff0c66e76.jpg)
+
+[# 105669.维徊徊徊天使园收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105669.json)
+![维徊徊徊天使园收藏集](https://i0.hdslb.com/bfs/garb/97205a64904645b71f4507666b0f09e3b7137d29.png)
+
+[# 105722.LoveLive！收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105722.json)
+![LoveLive！收藏集](https://i0.hdslb.com/bfs/garb/b5082a78dedbf9e06c782888a4ee0e07a80c8a66.jpg)
+
+[# 105723.tmt个人收藏集【伽蓝人形】](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105723.json)
+![tmt个人收藏集【伽蓝人形】](https://i0.hdslb.com/bfs/garb/75f92820e95a480c76195684107103c18a1cb027.png)
+
+[# 105765.纵享丝滑大嘘官方收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105765.json)
+![纵享丝滑大嘘官方收藏集](https://i0.hdslb.com/bfs/garb/d364a76dc36e735ca93293d7bac1e539dd4bd0ca.png)
+
+[# 105767.由乃爱莉收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105767.json)
+![由乃爱莉收藏集](https://i0.hdslb.com/bfs/garb/a88f682d50a4c4b61d447a52054c1e9728cd7494.png)
 
