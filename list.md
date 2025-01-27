@@ -2665,6 +2665,9 @@
 [# 105813.凡人动画画师联名收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105813.json)
 ![凡人动画画师联名收藏集](https://i0.hdslb.com/bfs/garb/0e7de3c218eac2d8ef9bfdd53d00261aad3300cd.jpg)
 
+[# 105826.萝眠相约迎新春](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105826.json)
+![萝眠相约迎新春](https://i0.hdslb.com/bfs/garb/40b861513034b1270c6c642f2c7ea96907261edd.png)
+
 [# 105833.千恋万花官方收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105833.json)
 ![千恋万花官方收藏集](https://i0.hdslb.com/bfs/garb/5046dbeb5f930fc00ab3ae3bca860f4ab428605c.png)
 
@@ -2692,6 +2695,15 @@
 [# 105939.新月同行](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105939.json)
 ![新月同行](https://i0.hdslb.com/bfs/garb/05647c9c3b5430de91d9ecb41c676f29969657a9.jpg)
 
+[# 105953.物华弥新辞旧迎新收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105953.json)
+![物华弥新辞旧迎新收藏集](https://i0.hdslb.com/bfs/garb/ef3d7089fe674872ad8d0faa4e5198fa6d31d9c0.jpg)
+
+[# 106000.菊花花收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_106000.json)
+![菊花花收藏集](https://i0.hdslb.com/bfs/garb/261c186de402225c1cf7df2c446a9cb95797a1cc.png)
+
 [# 106002.小糖发财收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_106002.json)
 ![小糖发财收藏集](https://i0.hdslb.com/bfs/garb/1fb909da1e88fadac0e3d76a8d9d11641b35c528.png)
+
+[# 106020.柃江收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_106020.json)
+![柃江收藏集](https://i0.hdslb.com/bfs/garb/196312ce423fdb52270eca4f017efa1ff374034d.png)
 
