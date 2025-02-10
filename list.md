@@ -2512,6 +2512,9 @@
 [# 105300.小王子·收藏集-星际巡游](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105300.json)
 ![小王子·收藏集-星际巡游](https://i0.hdslb.com/bfs/garb/457d9974c1db5d8c81969fb4308ed5352d2d3d38.png)
 
+[# 105305.软萌兔·收藏集-梦幻奇缘](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105305.json)
+![软萌兔·收藏集-梦幻奇缘](https://i0.hdslb.com/bfs/garb/ee063099781d7b5cbdfb35c1d28f16dc0f9781c4.png)
+
 [# 105307.猫雷收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_105307.json)
 ![猫雷收藏集](https://i0.hdslb.com/bfs/garb/63a79b034e906330b4151210e87d9621790264f4.jpg)
 
@@ -2746,6 +2749,15 @@
 [# 106043.2025拜年纪原创动画收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_106043.json)
 ![2025拜年纪原创动画收藏集](https://i0.hdslb.com/bfs/garb/a00f78b09fe334b1a1da05c84919d9d149a7e14b.png)
 
+[# 106098.芒芒_Mou收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_106098.json)
+![芒芒_Mou收藏集](https://i0.hdslb.com/bfs/garb/28edd839e337336c4f7e5294bd0670989673a880.png)
+
 [# 106124.阿梓从小就很可爱收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_106124.json)
 ![阿梓从小就很可爱收藏集](https://i0.hdslb.com/bfs/garb/bf2efb9c2aa5517e5fd913b675397be3ed595e26.png)
+
+[# 106131.果汁erR收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_106131.json)
+![果汁erR收藏集](https://i0.hdslb.com/bfs/garb/73741dc1e0cade3e9f154a66dc4947460e224de1.jpg)
+
+[# 106192.黑丝合缝收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_106192.json)
+![黑丝合缝收藏集](https://i0.hdslb.com/bfs/garb/d4d7186813ea2501852494634bbcc154f65b52a7.png)
 
