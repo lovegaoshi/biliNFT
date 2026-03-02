@@ -4366,6 +4366,9 @@
 [# 111529.花火Fafo·花澜聚册](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_111529.json)
 ![花火Fafo·花澜聚册](https://i0.hdslb.com/bfs/garb/8fc0362c71979aaa76bcc9ca87052779ab1b3e6c.png)
 
+[# 111530.「刃牙」35周年官方收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_111530.json)
+![「刃牙」35周年官方收藏集](https://i0.hdslb.com/bfs/garb/d0b5556625e7f07c5e5e55af6ec26e6585c78286.png)
+
 [# 111531.胜利女神冬日宴会](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_111531.json)
 ![胜利女神冬日宴会](https://i0.hdslb.com/bfs/garb/9682b088f3b5b966cc2071f18b02633494610a41.jpg)
 
@@ -4477,6 +4480,9 @@
 [# 111939.菜菜子Nanako·八方来菜](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_111939.json)
 ![菜菜子Nanako·八方来菜](https://i0.hdslb.com/bfs/garb/6ad60e1c43bfe6e723103251b8e2f2f03b0d42f1.png)
 
+[# 111946.夏目友人帐](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_111946.json)
+![夏目友人帐](https://i0.hdslb.com/bfs/garb/1fdea7ca0d0e2eea265e9c99b044c9a1cb3d1ce3.jpg)
+
 [# 111953.呼唤少女首映纪念集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_111953.json)
 ![呼唤少女首映纪念集](https://i0.hdslb.com/bfs/garb/dd89b9f9d1c00fbf934a5c6f91f9f8f8206b4c8c.jpg)
 
@@ -4485,4 +4491,19 @@
 
 [# 111980.《空之轨迹 the 1st》收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_111980.json)
 ![《空之轨迹 the 1st》收藏集](https://i0.hdslb.com/bfs/garb/bc1fa16f8018ca4415d6ed64b18ff9cfc8c5fff8.jpg)
+
+[# 112008.爱美收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_112008.json)
+![爱美收藏集](https://i0.hdslb.com/bfs/garb/53d87da7698389f2f318e2b8505b309b05e2c4f3.jpg)
+
+[# 112012.炬ﾖﾂｷﾞ艺术集·幻境少女](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_112012.json)
+![炬ﾖﾂｷﾞ艺术集·幻境少女](https://i0.hdslb.com/bfs/garb/f4d12c95141e6d7ea60e7e000c519a23c537de12.jpg)
+
+[# 112015.魔都少女-歌希拉](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_112015.json)
+![魔都少女-歌希拉](https://i0.hdslb.com/bfs/garb/f34a18d4ecbb52450663ccace0a47226387be750.jpg)
+
+[# 112062.紗耶_sayako·纱海寻心](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_112062.json)
+![紗耶_sayako·纱海寻心](https://i0.hdslb.com/bfs/garb/50c83ffeb37b58a2386f3e33132be4930ede5de5.jpg)
+
+[# 112073.鸭乃桥论的禁忌推理](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_112073.json)
+![鸭乃桥论的禁忌推理](https://i0.hdslb.com/bfs/garb/946e9e6c87cf17b5f2cb4306a341e84dedec97d3.jpg)
 
