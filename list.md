@@ -4627,6 +4627,9 @@
 [# 112494.小绿熊占领世界](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_112494.json)
 ![小绿熊占领世界](https://i0.hdslb.com/bfs/garb/bdf067366b9286e5f1e68723375a6d1e32fa51ef.png)
 
+[# 112503.面包蓬蓬狗](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_112503.json)
+![面包蓬蓬狗](https://i0.hdslb.com/bfs/garb/40f2994ac204bb4e994358932473bf64b3a14f9c.png)
+
 [# 112504.妮莉安Lily收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_112504.json)
 ![妮莉安Lily收藏集](https://i0.hdslb.com/bfs/garb/96a0e3df12ed7db2151cfc8427a69a06f91787e5.jpg)
 
@@ -4647,4 +4650,13 @@
 
 [# 112586.进击的巨人](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_112586.json)
 ![进击的巨人](https://i0.hdslb.com/bfs/garb/41741dbfc3184b88432f8c2537b88f7497a73aa3.jpg)
+
+[# 112610.坎公骑冠剑五载纪念收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_112610.json)
+![坎公骑冠剑五载纪念收藏集](https://i0.hdslb.com/bfs/garb/070914d1216e55a36fd0a30285a0cc6dde6a686f.png)
+
+[# 112622.歌之公主殿下](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_112622.json)
+![歌之公主殿下](https://i0.hdslb.com/bfs/garb/475dde1ef3d4988057c73fd4d5f89b34118a27d7.jpg)
+
+[# 112624.恋爱与选举与巧克力](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_112624.json)
+![恋爱与选举与巧克力](https://i0.hdslb.com/bfs/garb/37f3bddc3e16ae5c93faaef9a6ebf41e790667f9.png)
 
