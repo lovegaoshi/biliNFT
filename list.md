@@ -4783,9 +4783,36 @@
 [# 112966.心动预警](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_112966.json)
 ![心动预警](https://i0.hdslb.com/bfs/garb/a7e9ac2e6f9548ced1eb2badfa2cb05cf96d1408.jpg)
 
+[# 112990.VITALITY2026科隆之旅](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_112990.json)
+![VITALITY2026科隆之旅](https://i0.hdslb.com/bfs/garb/436f70bfa10ee50a2ea9f36dc8ab4933b94dc309.png)
+
+[# 112997.初音未来：缤纷舞台第二弹](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_112997.json)
+![初音未来：缤纷舞台第二弹](https://i0.hdslb.com/bfs/garb/766075a17f5784edc0516e3d0e1876d1c88a68a5.jpg)
+
 [# 113002.神祈祈——祈愿回响](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_113002.json)
 ![神祈祈——祈愿回响](https://i0.hdslb.com/bfs/garb/1cc774f74c396c8a9997a6ee07b81254fa207a66.jpg)
 
 [# 113004.弥雾meow](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_113004.json)
 ![弥雾meow](https://i0.hdslb.com/bfs/garb/926e3c98e690482f390cb0967d6ba7037ef7f941.png)
+
+[# 113032.光死去的夏天](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_113032.json)
+![光死去的夏天](https://i0.hdslb.com/bfs/garb/93eaec35c48de96f38ca360c7aa38bfea22a7f39.png)
+
+[# 113037.呆猫八条](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_113037.json)
+![呆猫八条](https://i0.hdslb.com/bfs/garb/081abf78113c324829f507ab95cfd6e84b7b5791.jpg)
+
+[# 113040.Re:从零开始的异世界生活](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_113040.json)
+![Re:从零开始的异世界生活](https://i0.hdslb.com/bfs/garb/9ed21c67a4d2ef6b4cd60e8bae752d0097af295a.jpg)
+
+[# 113054.月薪喵收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_113054.json)
+![月薪喵收藏集](https://i0.hdslb.com/bfs/garb/22757fbdadcc09b52d523a500dabdd555acdaba9.jpg)
+
+[# 113082.LASER](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_113082.json)
+![LASER](https://i0.hdslb.com/bfs/garb/eed01e52b0510320091756f2c7c7fb73675b5824.jpg)
+
+[# 113084.MANTA](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_113084.json)
+![MANTA](https://i0.hdslb.com/bfs/garb/030e75ae3a1d38c3c174a6b7cb2f6cfb5efd9c20.png)
+
+[# 113100.封茗囧菌·不同的你](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_113100.json)
+![封茗囧菌·不同的你](https://i0.hdslb.com/bfs/garb/a9d94d482f4d27de39327f4d70af4d13365749c5.jpg)
 
