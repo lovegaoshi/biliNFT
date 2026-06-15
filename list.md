@@ -4717,6 +4717,9 @@
 [# 112729.小猪菊苣](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_112729.json)
 ![小猪菊苣](https://i0.hdslb.com/bfs/garb/36a7b244513054976f0aed05b987dc931253c96a.jpg)
 
+[# 112751.神奇陆夫人](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_112751.json)
+![神奇陆夫人](https://i0.hdslb.com/bfs/garb/e35464506b5adb987b8b17c926f9e9205be615ff.png)
+
 [# 112757.我的爸爸是条龙童年时光机](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_112757.json)
 ![我的爸爸是条龙童年时光机](https://i0.hdslb.com/bfs/garb/1b9e8704c93c0c940eab2d714ebbba33899b380b.png)
 
@@ -4807,12 +4810,30 @@
 [# 113054.月薪喵收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_113054.json)
 ![月薪喵收藏集](https://i0.hdslb.com/bfs/garb/22757fbdadcc09b52d523a500dabdd555acdaba9.jpg)
 
+[# 113068.Fate/strange Fake](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_113068.json)
+![Fate/strange Fake](https://i0.hdslb.com/bfs/garb/fef2a16a4e668a9d79b116ab30bd85bcb58b3ea1.jpg)
+
 [# 113082.LASER](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_113082.json)
 ![LASER](https://i0.hdslb.com/bfs/garb/eed01e52b0510320091756f2c7c7fb73675b5824.jpg)
 
 [# 113084.MANTA](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_113084.json)
 ![MANTA](https://i0.hdslb.com/bfs/garb/030e75ae3a1d38c3c174a6b7cb2f6cfb5efd9c20.png)
 
+[# 113096.名侦探光之美少女！收藏集](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_113096.json)
+![名侦探光之美少女！收藏集](https://i0.hdslb.com/bfs/garb/a50207a21ca041363721c2c91a46c91ecb15c9be.jpg)
+
 [# 113100.封茗囧菌·不同的你](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_113100.json)
 ![封茗囧菌·不同的你](https://i0.hdslb.com/bfs/garb/a9d94d482f4d27de39327f4d70af4d13365749c5.jpg)
+
+[# 113120.破碎的祈愿](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_113120.json)
+![破碎的祈愿](https://i0.hdslb.com/bfs/garb/9d60cdec7fb39daf0fefeec4ba929b88ecc899f2.png)
+
+[# 113130.机动战士高达SEED FREEDOM](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_113130.json)
+![机动战士高达SEED FREEDOM](https://i0.hdslb.com/bfs/garb/68ab49978b7ae6c0456004f2141bccef9820e071.jpg)
+
+[# 113135.公主连结六周年纪念](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_113135.json)
+![公主连结六周年纪念](http://i0.hdslb.com/bfs/archive/8cd41c01adf5d1d523c1f6671a5a801eb3f1fac3.jpg)
+
+[# 113155.BML-PLAY! 2026](https://github.com/lovegaoshi/biliNFT/blob/main/data/BILINFT_113155.json)
+![BML-PLAY! 2026](https://i0.hdslb.com/bfs/garb/508d349d4980f80bc77d3db8e0c063d33446470c.png)
 
