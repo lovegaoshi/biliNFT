@@ -1,0 +1,822 @@
+{
+    "basic": {
+        "act_title": "初音未来生日集",
+        "cur_time": 1788143360,
+        "start_time": 1788148800,
+        "end_time": 2114406245,
+        "pre_start_time": 1788062400,
+        "pre_end_time": 1788148799,
+        "is_booked": 0,
+        "act_desc": "",
+        "lottery_list": [
+            {
+                "lottery_id": 114178,
+                "lottery_name": "庆诞予梦",
+                "display_time": 1788062400,
+                "start_time": 1788148800,
+                "end_time": 2114406245,
+                "lottery_image": "http://i0.hdslb.com/bfs/archive/22ca017df7b6da319cb199ea705682e1ed0b9270.jpg",
+                "draw_cnt": 0,
+                "goods_id": 4236568011,
+                "price": 9900,
+                "goods_name": "庆诞予梦",
+                "lottery_desc": "",
+                "item_total_cnt": 12,
+                "item_owned_cnt": 0,
+                "total_sale_amount": 0,
+                "lottery_type": 1,
+                "effective_forever": 1,
+                "discount": {
+                    "origin_price": 9900,
+                    "price": 4900,
+                    "discount_guidance": {
+                        "guidance_text": "开通大会员首抽",
+                        "guidance_url": "bilibili://user_center/vip/buy/187?appSubId=zbdlc"
+                    }
+                },
+                "free": 0,
+                "sale_mode": 1,
+                "lottery_square_img": "https://i0.hdslb.com/bfs/garb/a26ef275c0904c53034152aef68a62a47348326b.jpg"
+            }
+        ],
+        "share_info": {
+            "main_title": "初音未来生日集",
+            "sub_title": "恭喜！你被欧气砸中！快来抽卡吧 ଘ(੭ˊᵕˋ)੭* ੈ",
+            "share_content": "活动火热预约中，快点击锁定吧！"
+        },
+        "act_y_img": "https://i0.hdslb.com/bfs/garb/908649c0da2c3e1367c4dce652bc9a8a93920ca1.jpg",
+        "animation_info": {
+            "animation_draw_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/b6b9ed048a206aff8f17b4cb8c99b776d99f261f.mp4",
+                "30": "https://i0.hdslb.com/bfs/garb/d3388b8fe9720c5a4d94057b0a87bcda53ad1d21.mp4"
+            },
+            "animation_entry_url": {
+                "10": "https://i0.hdslb.com/bfs/garb/a95bfff793fe72fd2b3b0ed929f86283356b3b05.mp4?delay=900",
+                "30": "https://i0.hdslb.com/bfs/garb/28a9489b17b11dbd6b7aa39b35b16e9c779213a8.mp4?delay=1200"
+            }
+        },
+        "total_book_cnt": 2666,
+        "total_buy_cnt": 0,
+        "horizontal_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "horizontal_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "vertical_card_light_url": "https://i0.hdslb.com/bfs/b/60e291bb0a1cbe46f0116c3f782579f8f708e404.png",
+        "vertical_card_shadow_url": "https://i0.hdslb.com/bfs/garb/item/88518857ab51c71119d972bdec7066ffb7b0b55c.png",
+        "is_pre": 1,
+        "is_pre_risk": 0,
+        "is_collector_rank": 1,
+        "collect_list": null,
+        "display_title": "任务奖励",
+        "effective_forever": 1,
+        "guide_info": {
+            "title": "",
+            "guide_content": "",
+            "jump_url": ""
+        },
+        "is_can_donate": 1,
+        "is_up_chain": 0,
+        "related_mids": [
+            "399918500"
+        ],
+        "is_vip": false,
+        "task_list": null,
+        "popup_info": null,
+        "act_desc_light": "",
+        "not_need_realname": 1,
+        "product_introduce": "【初音未来生日集】是哔哩哔哩携手初音未来定制打造的数字集卡，其中的每张数字卡片都将拥有独特编号，期待大家一起来解锁MIKU的绝美画面！\n“初音未来”是一款由Crypton Future Media公司研发出的“软件”，通过这款软件输入歌词和旋律后任何人都可以让她唱歌。由于为数众多的创作者们都使用“初音未来”制作音乐并发布到网上而一跃成为一种潮流。她也作为一位“角色”举世瞩目，如今身为一位虚拟歌手推出周边产品、举办演唱会等，活跃于多个方面，她的名气在全世界广为流传。 ",
+        "app_head_show": "https://i0.hdslb.com/bfs/garb/open/a9b7b05eebcf80fbf5925037add80bd52a614a43.png@0-0-1126-1126a",
+        "app_space_show": "https://i0.hdslb.com/bfs/garb/open/a9b7b05eebcf80fbf5925037add80bd52a614a43.png@0-0-1126-1126a",
+        "collector_medal_info": "[{\"level\":1,\"score\":10,\"image\":\"https://i0.hdslb.com/bfs/garb/open/5089c4269116d5819451e1eb8f75d73ae921b51a.png\",\"num_color\":\"#BE7667\",\"card_count\":1,\"scene_image\":{\"4\":\"https://i0.hdslb.com/bfs/garb/open/72990c02c134425f72de99c313ec4e8ec73162db.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/22ebe0bd9c715ef94ac8cfbc15287499661b821f.png\",\"1\":\"https://i0.hdslb.com/bfs/garb/open/74c9ab95e21dfdddd233b1afa6d31d03e4625b72.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/5089c4269116d5819451e1eb8f75d73ae921b51a.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/5089c4269116d5819451e1eb8f75d73ae921b51a.png\"}},{\"level\":2,\"score\":30,\"image\":\"https://i0.hdslb.com/bfs/garb/open/06bb5d47ebeedf1570863bc4e8de6325610df386.png\",\"num_color\":\"#58B1F5\",\"card_count\":5,\"scene_image\":{\"1\":\"https://i0.hdslb.com/bfs/garb/open/4ff60eab559f52852a6c111f497a666ddd2c0937.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/06bb5d47ebeedf1570863bc4e8de6325610df386.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/06bb5d47ebeedf1570863bc4e8de6325610df386.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/671692a145b09749bccf2d496cfedd1b3a37beff.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/2bb5421930289613b6cb50e9a8a576b50ad20b8b.png\"}},{\"level\":3,\"score\":100,\"image\":\"https://i0.hdslb.com/bfs/garb/open/053661095070e61cccd8e667548b32be16acc9f2.png\",\"num_color\":\"#E0A74C\",\"card_count\":15,\"scene_image\":{\"3\":\"https://i0.hdslb.com/bfs/garb/open/053661095070e61cccd8e667548b32be16acc9f2.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/4f7da83fdcecb97438ac8afb84817e0a6c2e5f61.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/463dee9d5cad9197152ebd02201637cb015dcadc.png\",\"1\":\"https://i0.hdslb.com/bfs/garb/open/1d8dfecde253501c711f4627c65b6cc23c4b6a1c.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/053661095070e61cccd8e667548b32be16acc9f2.png\"}},{\"level\":4,\"score\":250,\"image\":\"https://i0.hdslb.com/bfs/garb/open/6badb145d1ea8101f4430fbcfab34ba3ca660ed9.png\",\"num_color\":\"#EB6C9D\",\"card_count\":30,\"scene_image\":{\"2\":\"https://i0.hdslb.com/bfs/garb/open/6badb145d1ea8101f4430fbcfab34ba3ca660ed9.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/6badb145d1ea8101f4430fbcfab34ba3ca660ed9.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/393d739c1875a633f788fee7bcba07276433d7c1.png\",\"6\":\"https://i0.hdslb.com/bfs/garb/open/6426a02d20048903d8301234e13aeaef4b31ff79.png\",\"1\":\"https://i0.hdslb.com/bfs/garb/open/74561242aaf3a2d4616a2512a2a64d19d96be9a6.png\"}},{\"level\":5,\"score\":0,\"image\":\"https://i0.hdslb.com/bfs/garb/open/afa5869346bd27edeafe9c1d4d6b6e5dd3f14e22.png\",\"num_color\":\"#7963FF\",\"card_count\":60,\"scene_image\":{\"6\":\"https://i0.hdslb.com/bfs/garb/open/3951c5ec44fa2ed3f54ca123b3a464145a802e4f.png\",\"1\":\"https://i0.hdslb.com/bfs/garb/open/0e76e9a0dbf8eb52458ee066f9238f83db21d938.png\",\"2\":\"https://i0.hdslb.com/bfs/garb/open/afa5869346bd27edeafe9c1d4d6b6e5dd3f14e22.png\",\"3\":\"https://i0.hdslb.com/bfs/garb/open/afa5869346bd27edeafe9c1d4d6b6e5dd3f14e22.png\",\"4\":\"https://i0.hdslb.com/bfs/garb/open/0f00aae37a23f9ab9c2524eae36309bbc2739590.png\"}}]",
+        "topic": null,
+        "physical_exchange": false,
+        "act_square_img": "http://i0.hdslb.com/bfs/archive/22ca017df7b6da319cb199ea705682e1ed0b9270.jpg",
+        "tab_lottery_id": 114178,
+        "related_user_infos": {
+            "399918500": {
+                "uid": 399918500,
+                "nickname": "初音未来_Crypton",
+                "avatar": "https://i2.hdslb.com/bfs/face/1a0cfb0f60279af6ae792673d73e7f32ef62b133.jpg"
+            }
+        },
+        "save_image_right": 1,
+        "show_decompose_rule": 0,
+        "show_smelt_rule": 0,
+        "gray_transaction": 0,
+        "icon_infos": null,
+        "is_game_rank": 0,
+        "promotion_id": 0,
+        "revision_ab_group": 0
+    },
+    "list": [
+        {
+            "lottery_id": 114178,
+            "name": "庆诞予梦",
+            "item_list": [
+                {
+                    "item_type": 1,
+                    "card_info": {
+                        "card_type_id": 1787565715002,
+                        "card_name": "予梦同伴",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/a9b7b05eebcf80fbf5925037add80bd52a614a43.png",
+                        "card_type": 2,
+                        "video_list": [
+                            "https://upos-hz-mirrorakam.akamaized.net/panguxcodeboss/yb/qm/_000003z23mgknn6ka2i15iyj1epqmyb-1-162111110022.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1788150561&gen=playurlv2&os=akam&oi=2899717731&trid=8c1085dd75394e8bac4b8f252c567986B&mid=0&platform=html5&og=hw&upsig=bbdc6d59802c09026bb5e711fbcba697&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&hdnts=exp=1788150561~hmac=df63c2ab7971ed713c11776173b148087def2e87c6ae3d276c671cbfae9cc64d&bvc=vod&nettype=0&orderid=0,2&logo=00000000",
+                            "https://upos-sz-mirroraliov.bilivideo.com/panguxcodeboss/yb/qm/_000003z23mgknn6ka2i15iyj1epqmyb-1-162111110022.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1788150561&gen=playurlv2&os=aliovbv&oi=2899717731&trid=8c1085dd75394e8bac4b8f252c567986B&mid=0&platform=html5&og=hw&upsig=5f18f38913af8933c01dcc80ed9a8ab4&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=0&orderid=1,2&logo=00000000"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 40,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/c13f61aaf10660bae43521230d5e137c2956fcdf.png",
+                        "video_list_download": [
+                            "https://upos-hz-mirrorakam.akamaized.net/panguxcodeboss/digital_watermarkeb/zv/_00001upaww0akd0q329wysge7hdzveb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1788150561&gen=playurlv2&os=akam&oi=2899717731&trid=8c1085dd75394e8bac4b8f252c567986B&mid=0&platform=html5&og=cos&upsig=f0f95ad37b888b8e16a6eccc5825f204&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&hdnts=exp=1788150561~hmac=b8d8f54a5c8c61911dcb14bdf33aa0e3eb82d7c657ad1af946e869ccd8b7913c&bvc=vod&nettype=0&orderid=0,2&logo=00000000",
+                            "https://upos-sz-mirroraliov.bilivideo.com/panguxcodeboss/digital_watermarkeb/zv/_00001upaww0akd0q329wysge7hdzveb-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1788150561&gen=playurlv2&os=aliovbv&oi=2899717731&trid=8c1085dd75394e8bac4b8f252c567986B&mid=0&platform=html5&og=cos&upsig=a444f31b64099b798e69ea7cb9f601b2&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=0&orderid=1,2&logo=00000000"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_new_tag": 0,
+                        "is_up_tag": 0,
+                        "is_limited_card": 0,
+                        "stock_info": {
+                            "stock": 0,
+                            "total_stock": 0
+                        },
+                        "meta_info": null,
+                        "own_count": 0
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "card_info": {
+                        "card_type_id": 1787565715013,
+                        "card_name": "陪伴日常",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/e22f95705f52d55094046db62fe91a79489f996c.png",
+                        "card_type": 2,
+                        "video_list": [
+                            "https://upos-hz-mirrorakam.akamaized.net/panguxcodeboss/ob/zo/_000016wa8uc6f6nnf2kmt2xfi09zoob-1-162111110022.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1788150561&gen=playurlv2&os=akam&oi=2899717731&trid=8c1085dd75394e8bac4b8f252c567986B&mid=0&platform=html5&og=hw&upsig=248d055d6969b617fb16ba1e4b5271b0&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&hdnts=exp=1788150561~hmac=2c0ef37f57a94dd3de7192a511d30c194de36374750b7532a05353cccbdbe082&bvc=vod&nettype=0&orderid=0,2&logo=00000000",
+                            "https://upos-sz-mirroraliov.bilivideo.com/panguxcodeboss/ob/zo/_000016wa8uc6f6nnf2kmt2xfi09zoob-1-162111110022.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1788150561&gen=playurlv2&os=aliovbv&oi=2899717731&trid=8c1085dd75394e8bac4b8f252c567986B&mid=0&platform=html5&og=hw&upsig=7ba9aa5994616551137c65bfb74f2f51&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=0&orderid=1,2&logo=00000000"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 30,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/fe1050bc466ea1a89ddfcc3b1480e401628950a7.png",
+                        "video_list_download": [
+                            "https://upos-hz-mirrorakam.akamaized.net/panguxcodeboss/digital_watermark5b/ef/_00001pp6l6t9uipir2srxn2sz6mef5b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1788150561&gen=playurlv2&os=akam&oi=2899717731&trid=8c1085dd75394e8bac4b8f252c567986B&mid=0&platform=html5&og=hw&upsig=b3da67543dabc72a920ebab9e5b33fc2&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&hdnts=exp=1788150561~hmac=782cede6c2301eaaba0a98343926acbad56872a094edb0a61ada69e1a7c68817&bvc=vod&nettype=0&orderid=0,2&logo=00000000",
+                            "https://upos-sz-mirroraliov.bilivideo.com/panguxcodeboss/digital_watermark5b/ef/_00001pp6l6t9uipir2srxn2sz6mef5b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1788150561&gen=playurlv2&os=aliovbv&oi=2899717731&trid=8c1085dd75394e8bac4b8f252c567986B&mid=0&platform=html5&og=hw&upsig=f6bc7d71f588f3ee104fb095cf32d952&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=0&orderid=1,2&logo=00000000"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_new_tag": 0,
+                        "is_up_tag": 0,
+                        "is_limited_card": 0,
+                        "stock_info": {
+                            "stock": 0,
+                            "total_stock": 0
+                        },
+                        "meta_info": null,
+                        "own_count": 0
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "card_info": {
+                        "card_type_id": 1787565715003,
+                        "card_name": "公主降临",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/19cb61136bbce973e8879b5649e29600b41b5db1.png",
+                        "card_type": 2,
+                        "video_list": [
+                            "https://upos-hz-mirrorakam.akamaized.net/panguxcodeboss/kb/z2/_00000natnxqv4s4z12t7xq3zhpiz2kb-1-162111110022.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1788150561&gen=playurlv2&os=akam&oi=2899717731&trid=8c1085dd75394e8bac4b8f252c567986B&mid=0&platform=html5&og=ali&upsig=b2df5561f4c0db9d0ba001d9faf1acc5&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&hdnts=exp=1788150561~hmac=ad2ef2217fe80d0fc5d5b16e78c73f1d65db0d6943d28456cdb0169d62299895&bvc=vod&nettype=0&orderid=0,2&logo=00000000",
+                            "https://upos-sz-mirroraliov.bilivideo.com/panguxcodeboss/kb/z2/_00000natnxqv4s4z12t7xq3zhpiz2kb-1-162111110022.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1788150561&gen=playurlv2&os=aliovbv&oi=2899717731&trid=8c1085dd75394e8bac4b8f252c567986B&mid=0&platform=html5&og=ali&upsig=5a4bce3fdd0a4fd4b4c3b95d921b60a4&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=0&orderid=1,2&logo=00000000"
+                        ],
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 20,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/97e0445c3bf00be051698dcccb47c61c98652d12.png",
+                        "video_list_download": [
+                            "https://upos-hz-mirrorakam.akamaized.net/panguxcodeboss/digital_watermark0b/4z/_00001ivwgm26zp0bk21rbmprisl4z0b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1788150561&gen=playurlv2&os=akam&oi=2899717731&trid=8c1085dd75394e8bac4b8f252c567986B&mid=0&platform=html5&og=cos&upsig=13ee2ac76df68e25be7f32ba880c08fc&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&hdnts=exp=1788150561~hmac=c923c152923063097180091a1743d6a9c950bfcfb7f1c45512b4c74296be2a67&bvc=vod&nettype=0&orderid=0,2&logo=00000000",
+                            "https://upos-sz-mirroraliov.bilivideo.com/panguxcodeboss/digital_watermark0b/4z/_00001ivwgm26zp0bk21rbmprisl4z0b-teaser.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1788150561&gen=playurlv2&os=aliovbv&oi=2899717731&trid=8c1085dd75394e8bac4b8f252c567986B&mid=0&platform=html5&og=cos&upsig=b1f51cc01febe5ae9c9750431184e1e3&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=0&orderid=1,2&logo=00000000"
+                        ],
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_new_tag": 0,
+                        "is_up_tag": 0,
+                        "is_limited_card": 1,
+                        "stock_info": {
+                            "stock": 831,
+                            "total_stock": 831
+                        },
+                        "meta_info": null,
+                        "own_count": 0
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "card_info": {
+                        "card_type_id": 1787565715004,
+                        "card_name": "蝶语乐章",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/6a0fd4716881a832b16c59c1854f9434257bdb15.jpg",
+                        "card_type": 1,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/b23a267e3ff28f83cd39717f42858c7917242d53.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_new_tag": 0,
+                        "is_up_tag": 0,
+                        "is_limited_card": 0,
+                        "stock_info": {
+                            "stock": 0,
+                            "total_stock": 0
+                        },
+                        "meta_info": null,
+                        "own_count": 0
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "card_info": {
+                        "card_type_id": 1787565715005,
+                        "card_name": "红境悬蝶",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/df64d5b43f1f520a1d3d0f41ca04fb598ad2a941.jpg",
+                        "card_type": 1,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/30b14668b07933a7bf9fb57b65f5c628010f3f09.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_new_tag": 0,
+                        "is_up_tag": 0,
+                        "is_limited_card": 0,
+                        "stock_info": {
+                            "stock": 0,
+                            "total_stock": 0
+                        },
+                        "meta_info": null,
+                        "own_count": 0
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "card_info": {
+                        "card_type_id": 1787565715006,
+                        "card_name": "虹光跃影",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/c1241aea1558cd70adfd34438580ea95c81aeda1.jpg",
+                        "card_type": 1,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/9d0c67911c317607945f2e083a024cb9a17a8c3c.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_new_tag": 0,
+                        "is_up_tag": 0,
+                        "is_limited_card": 0,
+                        "stock_info": {
+                            "stock": 0,
+                            "total_stock": 0
+                        },
+                        "meta_info": null,
+                        "own_count": 0
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "card_info": {
+                        "card_type_id": 1787565715007,
+                        "card_name": "花漾弦音",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/fa05a8ff405b7b15b28fc190b88f3bd9490a3aaa.jpg",
+                        "card_type": 1,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/43c7a31ac6367c0ead70ce2c708bfc5bbd784535.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_new_tag": 0,
+                        "is_up_tag": 0,
+                        "is_limited_card": 0,
+                        "stock_info": {
+                            "stock": 0,
+                            "total_stock": 0
+                        },
+                        "meta_info": null,
+                        "own_count": 0
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "card_info": {
+                        "card_type_id": 1787565715008,
+                        "card_name": "金叶弦歌",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/3e9a1274a297056e4ca6ce8ac784612f7332da5e.jpg",
+                        "card_type": 1,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/be307cca07f04f095411ae92261dce1495736a61.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_new_tag": 0,
+                        "is_up_tag": 0,
+                        "is_limited_card": 0,
+                        "stock_info": {
+                            "stock": 0,
+                            "total_stock": 0
+                        },
+                        "meta_info": null,
+                        "own_count": 0
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "card_info": {
+                        "card_type_id": 1787565715009,
+                        "card_name": "鎏金旋舞",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/270a1c4945e4941fac0d0eb3cf9046a262242f92.jpg",
+                        "card_type": 1,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/b15cdb95711e6b4750e4a9a4df9f02f028e71a2b.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_new_tag": 0,
+                        "is_up_tag": 0,
+                        "is_limited_card": 0,
+                        "stock_info": {
+                            "stock": 0,
+                            "total_stock": 0
+                        },
+                        "meta_info": null,
+                        "own_count": 0
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "card_info": {
+                        "card_type_id": 1787565715010,
+                        "card_name": "书香漫窗",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/421c4757419a62d2bc6050532138393ed47d1bf8.jpg",
+                        "card_type": 1,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/d773f14a4dcf0e68e05f60f7f1e37949aa23c8b5.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_new_tag": 0,
+                        "is_up_tag": 0,
+                        "is_limited_card": 0,
+                        "stock_info": {
+                            "stock": 0,
+                            "total_stock": 0
+                        },
+                        "meta_info": null,
+                        "own_count": 0
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "card_info": {
+                        "card_type_id": 1787565715011,
+                        "card_name": "夏日海风",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/ccb2371a9821dc383b68d3a8a1615aa2826343be.jpg",
+                        "card_type": 1,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/92170899f4cdff5f8b9118ac18c40c5286a4f58e.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_new_tag": 0,
+                        "is_up_tag": 0,
+                        "is_limited_card": 0,
+                        "stock_info": {
+                            "stock": 0,
+                            "total_stock": 0
+                        },
+                        "meta_info": null,
+                        "own_count": 0
+                    }
+                },
+                {
+                    "item_type": 1,
+                    "card_info": {
+                        "card_type_id": 1787565715012,
+                        "card_name": "雨街启程",
+                        "card_img": "https://i0.hdslb.com/bfs/garb/open/410150b75a391c42e98d1e5105eb44eb716a5685.jpg",
+                        "card_type": 1,
+                        "video_list": null,
+                        "is_physical_orientation": 0,
+                        "card_scarcity": 10,
+                        "is_mute": 0,
+                        "width": 1242,
+                        "height": 1863,
+                        "card_ext_text": "",
+                        "card_img_download": "https://i0.hdslb.com/bfs/garb/watermark/b6c7f6b671a29d51e4df06033c25c1b180024e02.png",
+                        "video_list_download": null,
+                        "subtitles_url": "",
+                        "play": null,
+                        "tag": null,
+                        "card_sub_type": 0,
+                        "is_new_tag": 0,
+                        "is_up_tag": 0,
+                        "is_limited_card": 0,
+                        "stock_info": {
+                            "stock": 0,
+                            "total_stock": 0
+                        },
+                        "meta_info": null,
+                        "own_count": 0
+                    }
+                }
+            ],
+            "collect_list": {
+                "collect_infos": [
+                    {
+                        "collect_id": 0,
+                        "start_time": 1788062400,
+                        "end_time": 2114406245,
+                        "redeem_text": "1抽必得勋章，可应用为评论背景&动态卡片",
+                        "redeem_item_type": 1001,
+                        "redeem_item_id": "",
+                        "redeem_item_name": "初音未来生日集勋章",
+                        "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/5089c4269116d5819451e1eb8f75d73ae921b51a.png",
+                        "owned_item_amount": 0,
+                        "require_item_amount": 1,
+                        "has_redeemed_cnt": 0,
+                        "effective_forever": 1,
+                        "redeem_item_image_download": "",
+                        "card_item": null,
+                        "jump_url": "",
+                        "redeem_cond_type": "",
+                        "remain_stock": 0,
+                        "total_stock": -1,
+                        "lottery_id": 0,
+                        "reward_tag": "",
+                        "redeem_detail_image": "https://i0.hdslb.com/bfs/garb/cd65971b4ff2b4ef9c855e1fc74f02f565c11790.png",
+                        "redeem_detail_videos": null,
+                        "sort": 99,
+                        "redeem_items_optional": null,
+                        "unlock_condition": {
+                            "unlocked": true,
+                            "lock_type": 0,
+                            "expire_at": 0,
+                            "unlocked_at": 0,
+                            "unlock_threshold": 0,
+                            "current_threshold": 0
+                        },
+                        "redeem_item_optional_list": null,
+                        "redeem_count": null,
+                        "rank_info": null,
+                        "redeem_btn_text": "差1抽点亮",
+                        "anchor_id": 1001114177,
+                        "preview_type": 2,
+                        "redeem_item_type_name": "评论背景",
+                        "redeem_item_status": 0,
+                        "window_info": null,
+                        "data_ext": {
+                            "color": "#BE7667"
+                        },
+                        "is_new": false
+                    },
+                    {
+                        "collect_id": 114180,
+                        "start_time": 1788062400,
+                        "end_time": 2114406245,
+                        "redeem_text": "庆诞予梦卡池抽到任意1张隐藏款立绘即可领取",
+                        "redeem_item_type": 3,
+                        "redeem_item_id": "1787553593001",
+                        "redeem_item_name": "庆诞予梦头像框",
+                        "redeem_item_image": "https://i0.hdslb.com/bfs/garb/item/d660dc384efb7e3d1faf9aacd074b8c0dfca41b7.png",
+                        "owned_item_amount": 0,
+                        "require_item_amount": 1,
+                        "has_redeemed_cnt": 0,
+                        "effective_forever": 1,
+                        "redeem_item_image_download": "",
+                        "card_item": {
+                            "card_type_info": null,
+                            "play": null,
+                            "tag": null,
+                            "card_asset_info": null
+                        },
+                        "jump_url": "",
+                        "redeem_cond_type": "scarcity",
+                        "remain_stock": -1,
+                        "total_stock": -1,
+                        "lottery_id": 114178,
+                        "reward_tag": "",
+                        "redeem_detail_image": "https://i0.hdslb.com/bfs/garb/item/d660dc384efb7e3d1faf9aacd074b8c0dfca41b7.png",
+                        "redeem_detail_videos": null,
+                        "sort": 99,
+                        "redeem_items_optional": null,
+                        "unlock_condition": {
+                            "unlocked": true,
+                            "lock_type": 0,
+                            "expire_at": 0,
+                            "unlocked_at": 0,
+                            "unlock_threshold": 0,
+                            "current_threshold": 0
+                        },
+                        "redeem_item_optional_list": null,
+                        "redeem_count": {
+                            "has_redeem_count": 0,
+                            "redeem_count": 2,
+                            "redeem_count_type": 0
+                        },
+                        "rank_info": null,
+                        "redeem_btn_text": "1张隐藏款领取",
+                        "anchor_id": 114180,
+                        "preview_type": 2,
+                        "redeem_item_type_name": "头像挂件",
+                        "redeem_item_status": 0,
+                        "window_info": null,
+                        "data_ext": null,
+                        "is_new": false
+                    }
+                ],
+                "collect_chain": [
+                    {
+                        "collect_id": 0,
+                        "start_time": 1788062400,
+                        "end_time": 2114406245,
+                        "redeem_text": "1抽",
+                        "redeem_item_type": 1000,
+                        "redeem_item_id": "",
+                        "redeem_item_name": "钻石头像背景",
+                        "redeem_item_image": "https://i0.hdslb.com/bfs/garb/open/6a0fd4716881a832b16c59c1854f9434257bdb15.jpg",
+                        "owned_item_amount": 0,
+                        "require_item_amount": 1,
+                        "has_redeemed_cnt": 0,
+                        "effective_forever": 0,
+                        "redeem_item_image_download": "",
+                        "card_item": null,
+                        "jump_url": "",
+                        "redeem_cond_type": "",
+                        "remain_stock": 0,
+                        "total_stock": -1,
+                        "lottery_id": 114178,
+                        "reward_tag": "",
+                        "redeem_detail_image": "https://i0.hdslb.com/bfs/garb/aef943f98029f8088e0ac1048e31ce494989a6d7.png",
+                        "redeem_detail_videos": null,
+                        "sort": 0,
+                        "redeem_items_optional": null,
+                        "unlock_condition": null,
+                        "redeem_item_optional_list": null,
+                        "redeem_count": null,
+                        "rank_info": null,
+                        "redeem_btn_text": "",
+                        "anchor_id": 0,
+                        "preview_type": 0,
+                        "redeem_item_type_name": "",
+                        "redeem_item_status": 0,
+                        "window_info": null,
+                        "data_ext": null,
+                        "is_new": false
+                    },
+                    {
+                        "collect_id": 114179,
+                        "start_time": 1788062400,
+                        "end_time": 2114406245,
+                        "redeem_text": "庆诞予梦卡池完成2抽即可领取",
+                        "redeem_item_type": 2,
+                        "redeem_item_id": "1787561002001",
+                        "redeem_item_name": "表情包",
+                        "redeem_item_image": "https://i0.hdslb.com/bfs/garb/431ad72a998e365e61ee4d17cf618f6820df4efd.png",
+                        "owned_item_amount": 0,
+                        "require_item_amount": 2,
+                        "has_redeemed_cnt": 0,
+                        "effective_forever": 1,
+                        "redeem_item_image_download": "",
+                        "card_item": {
+                            "card_type_info": null,
+                            "play": null,
+                            "tag": null,
+                            "card_asset_info": null
+                        },
+                        "jump_url": "",
+                        "redeem_cond_type": "lottery_num",
+                        "remain_stock": -1,
+                        "total_stock": -1,
+                        "lottery_id": 114178,
+                        "reward_tag": "",
+                        "redeem_detail_image": "https://i0.hdslb.com/bfs/garb/431ad72a998e365e61ee4d17cf618f6820df4efd.png",
+                        "redeem_detail_videos": null,
+                        "sort": 99,
+                        "redeem_items_optional": null,
+                        "unlock_condition": {
+                            "unlocked": true,
+                            "lock_type": 0,
+                            "expire_at": 0,
+                            "unlocked_at": 0,
+                            "unlock_threshold": 0,
+                            "current_threshold": 0
+                        },
+                        "redeem_item_optional_list": null,
+                        "redeem_count": {
+                            "has_redeem_count": 0,
+                            "redeem_count": 2,
+                            "redeem_count_type": 0
+                        },
+                        "rank_info": null,
+                        "redeem_btn_text": "差2抽领取",
+                        "anchor_id": 114179,
+                        "preview_type": 2,
+                        "redeem_item_type_name": "表情包",
+                        "redeem_item_status": 0,
+                        "window_info": null,
+                        "data_ext": null,
+                        "is_new": false
+                    },
+                    {
+                        "collect_id": 114194,
+                        "start_time": 1788062400,
+                        "end_time": 2114406245,
+                        "redeem_text": "庆诞予梦卡池完成5抽即可领取",
+                        "redeem_item_type": 5,
+                        "redeem_item_id": "1787728087001&1787561098001&1787561075001&1787561029001",
+                        "redeem_item_name": "动态主题套装",
+                        "redeem_item_image": "https://i0.hdslb.com/bfs/garb/dc931a420ad0c32a72b1f8fd37355c2caf70fa00.png",
+                        "owned_item_amount": 0,
+                        "require_item_amount": 5,
+                        "has_redeemed_cnt": 0,
+                        "effective_forever": 1,
+                        "redeem_item_image_download": "",
+                        "card_item": {
+                            "card_type_info": null,
+                            "play": null,
+                            "tag": null,
+                            "card_asset_info": null
+                        },
+                        "jump_url": "",
+                        "redeem_cond_type": "lottery_num",
+                        "remain_stock": -1,
+                        "total_stock": -1,
+                        "lottery_id": 114178,
+                        "reward_tag": "",
+                        "redeem_detail_image": "https://i0.hdslb.com/bfs/baselabs/first_frame/b3ed95d0-8123-4208-907a-0f10addce62d.png",
+                        "redeem_detail_videos": [
+                            "http://jssz-boss.hdslb.com/garb-live2d-resource/award_video/dd871dd2-c673-4679-84f1-e23b0fa5e169.mp4"
+                        ],
+                        "sort": 99,
+                        "redeem_items_optional": null,
+                        "unlock_condition": {
+                            "unlocked": true,
+                            "lock_type": 0,
+                            "expire_at": 0,
+                            "unlocked_at": 0,
+                            "unlock_threshold": 0,
+                            "current_threshold": 0
+                        },
+                        "redeem_item_optional_list": null,
+                        "redeem_count": {
+                            "has_redeem_count": 0,
+                            "redeem_count": 2,
+                            "redeem_count_type": 0
+                        },
+                        "rank_info": null,
+                        "redeem_btn_text": "差5抽领取",
+                        "anchor_id": 114194,
+                        "preview_type": 2,
+                        "redeem_item_type_name": "动态主题套装",
+                        "redeem_item_status": 0,
+                        "window_info": null,
+                        "data_ext": null,
+                        "is_new": false
+                    }
+                ]
+            },
+            "button_bubble": [
+                {
+                    "lottery_num": 5,
+                    "bubble_text": "获得主题套装"
+                }
+            ],
+            "guide_info": {
+                "title": "",
+                "guide_content": "",
+                "jump_url": ""
+            },
+            "is_booked": 0,
+            "total_book_cnt": 2666,
+            "is_fission": 1,
+            "physical_exchange": 0,
+            "act_rights_infos": [
+                {
+                    "range_type": 2,
+                    "rights_type": 1,
+                    "resource": "https://i0.hdslb.com/bfs/garb/open/a9b7b05eebcf80fbf5925037add80bd52a614a43.png@0-0-1079-1079a",
+                    "extra": "{}"
+                },
+                {
+                    "range_type": 2,
+                    "rights_type": 2,
+                    "resource": "https://i0.hdslb.com/bfs/garb/open/a9b7b05eebcf80fbf5925037add80bd52a614a43.png@0-0-1079-1079a",
+                    "extra": "{}"
+                },
+                {
+                    "range_type": 2,
+                    "rights_type": 5,
+                    "resource": "https://i0.hdslb.com/bfs/vas_new/6744bf091e9627036ea260f50e4f9cd5a26173f7.webp",
+                    "extra": "{\"logo_mode\":1}"
+                },
+                {
+                    "range_type": 1,
+                    "rights_type": 3,
+                    "resource": "https://i0.hdslb.com/bfs/garb/open/a9b7b05eebcf80fbf5925037add80bd52a614a43.png@0-0-1079-1079a",
+                    "extra": "{}"
+                },
+                {
+                    "range_type": 2,
+                    "rights_type": 6,
+                    "resource": "https://i0.hdslb.com/bfs/garb/open/a9b7b05eebcf80fbf5925037add80bd52a614a43.png",
+                    "extra": "{}"
+                },
+                {
+                    "range_type": 1,
+                    "rights_type": 4,
+                    "resource": "https://i0.hdslb.com/bfs/garb/open/a9b7b05eebcf80fbf5925037add80bd52a614a43.png",
+                    "extra": "{}"
+                },
+                {
+                    "range_type": 1,
+                    "rights_type": 7,
+                    "resource": "https://i0.hdslb.com/bfs/garb/open/a9b7b05eebcf80fbf5925037add80bd52a614a43.png",
+                    "extra": "{}"
+                }
+            ],
+            "upgrade_pool_desc": ""
+        }
+    ]
+}
